@@ -1,0 +1,223 @@
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  background: #f7f9fb;
+  color: #222;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ---------- Navbar ---------- */
+table.navbar {
+  background: #ffffff;
+  border-collapse: collapse;
+  width: 100%;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  position: relative;
+  z-index: 10;
+}
+
+table.navbar td {
+  padding: 10px 12px;
+  vertical-align: middle;
+}
+
+.nav-item a {
+  text-decoration: none;
+  color: #333;
+  padding: 6px 8px;
+  display: inline-block;
+}
+
+.active {
+  font-weight: bold;
+  color: #0b6efd;
+}
+
+.nav-right {
+  text-align: right;
+  font-weight: bold;
+  color: #333;
+}
+
+/* ---------- Page container ---------- */
+.page {
+  width: 95%;
+  max-width: 1100px;
+  margin: 18px auto;
+}
+
+/* Heading */
+h2 {
+  margin: 6px 0 2px 0;
+  font-size: 22px;
+}
+.subtitle {
+  margin: 0 0 16px 0;
+  color: #666;
+}
+
+/* ---------- Summary Boxes (full-width) ---------- */
+table.summary {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 15px;
+}
+
+/* each cell as a simple card */
+table.summary td {
+  text-align: center;
+  padding: 22px 16px;
+  border: 0;
+  vertical-align: middle;
+  cursor: default;
+  border-radius: 6px;
+  margin: 8px;
+  box-shadow: 0 1px 4px rgba(12,30,60,0.03); /* static subtle shadow */
+}
+
+/* colors */
+.box-blue { background: #e6e9ff; }
+.box-green { background: #e6ffee; }
+.box-yellow { background: #fff9e6; }
+.box-lightblue { background: #e6f7ff; }
+
+/* typography inside */
+.box-emoji { font-size: 22px; margin-bottom: 6px; display:block; }
+.box-title { font-weight: bold; margin-bottom: 6px; }
+.box-value { font-size: 20px; }
+
+/* ---------- Add Button ---------- */
+.btn {
+  background: linear-gradient(#0b6efd, #0958d6);
+  border: 0;
+  color: #fff;
+  padding: 9px 14px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 6px;
+  box-shadow: 0 4px 8px rgba(11,110,253,0.12); /* static shadow */
+}
+
+/* ---------- Data Table ---------- */
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.04);
+}
+
+.data-table th,
+.data-table td {
+  padding: 12px 10px;
+  text-align: left;
+  border-bottom: 1px solid #e9e9e9;
+  vertical-align: middle;
+}
+
+/* header style */
+.data-table thead th {
+  background: #f2f2f2;
+  font-weight: 600;
+}
+
+/* zebra rows (soft) */
+.data-table tbody tr:nth-child(even) td {
+  background: #fcfcfc;
+}
+
+/* Actions icons: static display */
+.actions img {
+  margin: 0 6px;
+  vertical-align: middle;
+  cursor: pointer;
+  opacity: 0.95;
+}
+
+/* small rounded badge for numbers */
+.badge {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 12px;
+  background: #f1f1f1;
+  font-size: 12px;
+}
+
+/* ---------- Footer ---------- */
+.footer {
+  background: #101820;
+  color: #fff;
+  margin-top: 32px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.footer td {
+  padding: 20px;
+  vertical-align: top;
+}
+
+.footer img { display: block; margin-bottom: 8px; }
+
+.footer-list {
+  list-style: none;
+  margin: 8px 0 0 0;
+  padding: 0;
+}
+.footer-list li {
+  margin-bottom: 6px;
+  color: #cfcfcf;
+}
+
+/* ---------- Accessibility & small improvements ---------- */
+a, button { outline-color: rgba(11,110,253,0.25); }
+
+/* ---------- Responsive: Media Queries (kept) ---------- */
+@media screen and (max-width: 900px) {
+  .page { width: 96%; }
+  table.navbar td { padding: 8px; font-size: 13px; }
+
+  /* Make summary boxes become stacked blocks visually */
+  table.summary, table.summary tr, table.summary td {
+    display: block;
+    width: 100%;
+  }
+  table.summary td {
+    margin-bottom: 10px;
+    border-radius: 6px;
+  }
+
+  /* make data table horizontally scrollable instead of squishing */
+  .data-table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .data-table th, .data-table td {
+    white-space: nowrap;
+  }
+
+  .nav-right { display: none; }
+}
+
+/* Small phones */
+@media screen and (max-width: 480px) {
+  h2 { font-size: 18px; }
+  .subtitle { font-size: 13px; }
+  .btn { padding: 8px 10px; font-size: 13px; }
+  .box-emoji { font-size: 20px; }
+  .data-table th, .data-table td { padding: 10px 8px; font-size: 13px; }
+}
+
+/* ---------- Misc helpers ---------- */
+.center { text-align: center; }
+img { max-width: 100%; height: auto; display: inline-block; }
+.nav-logo img, .footer img { border-radius: 6px; }
+ul { margin: 0; padding: 0; }
