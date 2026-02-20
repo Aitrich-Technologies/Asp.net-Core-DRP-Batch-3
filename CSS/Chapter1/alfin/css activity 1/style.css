@@ -1,0 +1,38 @@
+div{ 
+    width: 400px;
+    text-align: center;
+    background-color: aliceblue;
+    border: 20px solid cornsilk      
+}
+ #first{ background-color: darkgreen; }
+ #second{background-color: crimson;}
+ #third{background-color: gold;}
+
+section{ background-image: url("/download.jpg");
+ background-size: 500px;
+ height: 300px;
+}
+#backgroundimage{
+    background-image: url("/download.jpg");
+    height: 300px;
+    width: 75%;
+}
+#seconddiv{
+    border: 2px solid black;
+    position: absolute;
+    top:780px;
+    width: 300px;
+    left:1012px;
+    z-index: 2;
+}
+#one{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+}
+#two{
+     text-decoration: line-through;
+    font-style: oblique;
+}
+#three{
+    font-style: italic;
+}
