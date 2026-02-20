@@ -1,0 +1,157 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fc;
+}
+
+/* Navbar */
+.navbar {
+    background-color: white;
+    border-bottom: 1px solid #ddd;
+    height: 32px;
+    padding: 10px 40px;
+    display: flex;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+}  
+
+
+
+
+
+.nav-item li,a{
+    text-decoration: none;
+    
+}
+
+
+.destinations {
+    color: #1a1a1a;
+}
+
+
+.logo img {
+    width: 30px;
+    height: 30px;
+   
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.menu li a.active{
+    color: blue;
+}
+
+
+.menu li a {
+    text-decoration: none;
+    float: left;
+    margin-right: 20px;
+    
+    
+}
+
+
+
+.nav-buttons{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-left: 1040px;
+}
+.nav-buttons a {
+    text-decoration: none;
+    padding: 6px 12px;
+    border-radius: 20px;
+}
+
+.signin{
+    color: black;
+}
+.signup {
+    color: white;
+    background-color: blue;
+    
+    
+}
+
+
+    
+
+/* TODO: add active link style */
+/* TODO: navbar button styles */
+
+.heading {
+    text-align: center;
+    /* TODO: styling for heading */
+}
+
+/* Destination Cards */
+.destinations {
+    width: 90%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.card {
+    width: 23%;
+    background-color: white;
+    border: 1px solid #ddd;
+    float: left;
+    margin: 1%;
+    box-sizing: border-box;
+}
+
+.card img {
+    width: 100%;
+    height: 180px;
+}
+
+.card-body {
+    padding: 10px;
+    
+}
+
+.card-body h3 {
+    margin: 0;
+    color: #1a1a1a;
+}
+.price{
+    
+    background-color: rgb(85, 198, 85);
+}
+
+#price {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.btn{
+    background-color: blue;
+    color: white;
+    border: none;
+    width: 100%;
+    height: 35px;
+    font-size: 15px;
+    margin-top: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+/* TODO: price style */
+/* TODO: button style */
+
+.footer-section {
+    text-align: center;
+    /* TODO: footer styles */
+}

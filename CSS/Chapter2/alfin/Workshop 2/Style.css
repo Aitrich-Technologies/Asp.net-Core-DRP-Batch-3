@@ -1,0 +1,203 @@
+/* simplified: removed animations, transitions, and hover effects */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fc;
+}
+
+/* Navbar */
+.navbar {
+    background-color: white;
+    border-bottom: 1px solid #ddd;
+    height: 32px;
+    padding: 10px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+.logo img {
+    width: 30px;
+    height: 30px;
+    display: block;
+}
+
+.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+.menu li a.active {
+    color: #152fc2; /* blue */
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #1a1a1a;
+    font-size: 16px;
+}
+
+.nav-buttons {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.nav-buttons a {
+    text-decoration: none;
+    padding: 6px 12px;
+    border-radius: 20px;
+}
+
+.signin {
+    color: #1a1a1a;
+}
+
+.signup {
+    background-color: #2563eb;
+    color: white;
+}
+
+/* Heading */
+.heading {
+    text-align: center;
+    margin: 30px 0 20px 0;
+    color: #1a1a1a;
+}
+
+/* Destination Cards */
+.destinations {
+    width: 90%;
+    margin: 0 auto;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1%;
+}
+
+.card {
+    width: 23%;
+    background-color: white;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    border-radius: 6px;
+    overflow: hidden;
+    
+}   
+  
+
+
+.card-img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    transition: 1s ease;
+}
+.card-img:hover{
+    transform: scale(110%);
+    
+}
+
+
+.card-body {
+    padding: 100px;
+    gap: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+.card-body h3 {
+    margin: 0;
+    color: #1a1a1a;
+}
+
+.price {
+    float: right;
+    background-color: #4caf50;
+    color: white;
+    padding: 2px 6px;
+    font-size: 14px;
+    border-radius: 4px;
+    
+
+}
+
+.card-body p {
+    color: #444;
+    font-size: 14px;
+}
+
+button {
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    width: 100%;
+    height: 35px;
+    font-size: 15px;
+    margin-top: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+   
+}
+button:hover{
+    transform: translateY(-10px);
+}
+
+/* Footer */
+.footer-section {
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* Responsive layout (kept) */
+@media (max-width: 992px) {
+    .card {
+        width: 48%; /* two cards per row on medium screens */
+    }
+}
+
+@media (max-width: 600px) {
+    .navbar {
+        padding: 10px 16px;
+        height: auto;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+
+    .menu {
+        gap: 12px;
+        flex-wrap: wrap;
+    }
+
+    .destinations {
+        width: 95%;
+        gap: 12px;
+    }
+
+    .card {
+        width: 100%; /* single column on small screens */
+    }
+
+    .price {
+        float: none;
+        display: inline-block;
+        margin-left: 8px;
+    }
+
+    button {
+        height: 40px;
+    }
+}
