@@ -1,0 +1,187 @@
+/* Reset */
+body, h2, p, ul, li, table, input, a {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Header */
+header {
+  background-color: white;
+  border-bottom: 1px solid #ccc;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+/* TODO: Students must style logo & nav-links */
+/* .logo img { ... } */
+/* .nav-links ul { ... } */
+
+
+
+
+.nav-left a {
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 15px;
+  font-size: 16px;
+  padding: 10px 25px;
+  color: black;
+
+}
+
+.nav-right a {
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 15px;
+  font-size: 16px;
+  
+}
+
+
+/* Main Purple Section */
+main {
+  display: flex;
+  background-color: #a18cd1;
+  height: 510px;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+  gap: 20px;
+}
+
+/* TODO: Students must complete left-side image styles */
+
+.left-side {
+  background-image: url('/images/travel.jpg');
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 50%;
+  height: 510px;
+}
+
+
+
+.right-side {
+  width: 35%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-text {
+  text-align: center;
+  width: 100%;
+  color: white;
+  margin-bottom: 15px;
+}
+
+.username, .password1  {
+  color: black;
+}
+
+
+.remember {
+  color: black;
+}
+
+.login-card {
+  width: 100%;
+  max-width: 330px;
+  max-height: fit-content;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.login-table {
+  width: 100%;
+}
+
+.login-table input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid rgb(211, 205, 205);
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+
+
+/* TODO: Students must style password input box */
+input[type="password"] { 
+  width: 100%;
+  padding: 8px;
+  border: 1px solid rgb(211, 205, 205);
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 3px;
+ } 
+
+.login-table input[type="submit"] {
+  width: 100%;
+  padding: 8px;
+  background-color: #00BFFF;
+  color: white;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.password{
+  color: #00BFFF;
+  text-decoration: none;
+  
+}
+
+/* TODO: Students must complete full footer styling */
+/* footer { ... } */
+/* .footer-container { ... } */
+.footer-container{
+  background-color: black;
+  width: 100%;
+  height: 200px;
+  padding-top: 40px;
+}
+
+.footer-table th,td {
+  color: white;
+  
+}
+
+.footer-table th {
+  text-align: left;
+}
+
+.footer-table .table-image {
+ text-align: right;
+}
+
+.social-media img {
+  height: 20px;
+}
+
+.footer-table {
+  width: 100%;
+  
+}
+
+.credits {
+  width: 300px;
+  padding-top: 60px;
+}
+
+.last {
+  padding: 20px 0px;
+}

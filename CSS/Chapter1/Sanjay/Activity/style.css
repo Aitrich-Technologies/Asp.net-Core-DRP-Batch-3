@@ -1,0 +1,50 @@
+
+
+#firstdiv{
+    width: 400px;
+    text-align: center;
+    background-color: rgb(236, 244, 241);
+    border: 20px solid  rgb(236, 244, 241);
+}
+
+#first{
+    background-color: green;
+}
+#second{
+    background-color: red;
+}
+#third{
+    background-color: yellow;
+}
+
+section{
+    background-image:url('/image/strawberry.jpg');
+    background-size:500px ;
+    height: 300px;
+}
+#backgroundimage{
+    background-image: url('/image/strawberry.jpg');
+    height: 300px;
+    width: 75%;
+   
+}
+#seconddiv{
+    border: 2px solid black;
+     position:absolute;
+     top: 750px;
+     width: 400px;
+    left: 900px;
+    z-index: 1;
+}
+#new{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+}
+#neww{
+    font-style: italic;
+}
+#newww{
+    text-decoration: line-through;
+    font-style: oblique;
+
+}
