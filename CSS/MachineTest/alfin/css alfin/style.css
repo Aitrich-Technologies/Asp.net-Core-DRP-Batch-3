@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    background-color: lightseagreen;
+    opacity: 0;
+    animation: fadein 1s ease-in forwards;
+}
+@keyframes fadein {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+header{
+    text-align: center;
+}
+h1{
+    color:grey;
+    transition: 1s ease;
+}
+h1:hover{
+    transform:scale(1.2);
+}
+.nav-bar a{
+    
+   padding:  10px;
+   text-decoration: none;
+   transition: 1s ease;
+}
+.nav-bar a:hover {
+   padding: 10px;
+   background-color: rgb(0, 170, 255);
+   border-radius: 10px;
+   color: white;
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 80px;
+    gap: 10px;
+}
+.card-img{
+    width: 13%;
+    padding: 15px;
+    margin: 0px 10px;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 8px;
+}
+.card img{
+     border-radius: 8px;
+     width: 100p;
+     height: 250px;
+}
+section{
+    text-align: center;
+    margin: 30px;
+}
+.table{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+table{
+    width: 80%;
+    /* border: 1px solid rgb(0, 0, 0); */
+    border-collapse: collapse;
+    border-radius: 20px;
+    overflow: hidden;
+}
+tr{
+    border: 1px solid gray;
+}
+th {
+    background-color: rgb(10, 62, 10);
+    color: whitesmoke;
+}
+td {
+    background-color: aliceblue;
+}
+footer{
+    display: flex;
+  justify-content: center;
+  
+}
+.footer-img{
+    width: 150px;
+    height: 100px;
+    border: 1px solid aqua;
+    background-color: aqua;
+    padding: 12px 0px;
+    border-radius: 10px;
+    
+}
+.footer{
+    animation: pulse 1s ease infinite;
+}
+@keyframes pulse{
+    0% {
+        transform: scale(100%);
+    }
+      50% {
+        transform: scale(110%);
+    }
+      100%{
+        transform: scale(100%);
+    }
+}
+
+
