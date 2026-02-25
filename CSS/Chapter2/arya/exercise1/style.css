@@ -1,0 +1,175 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+@media (max-width: 768px) {
+
+    .navbar {
+        flex-direction: column;
+        height: auto;
+        text-align: center;
+    }
+
+    .cards {
+        flex-direction: column;
+    }
+
+    .footer-section {
+        width: 100%;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .add-btn {
+        float: none;
+        display: block;
+        margin: 10px auto;
+    }
+}
+
+/* Navbar */
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color:black;
+    text-decoration:black;
+    margin: 30px;
+    padding: 0px 25px;
+    font-size: 15px;
+    height: 80px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+}
+
+.nav-item a {
+    padding: 0px 40px;
+}
+
+
+/* Heading */
+.heading {
+    padding: 20px;
+}
+
+.destination {
+    background-color: aqua;
+    border: none;
+    padding:5px ;
+    border-radius: 10px;
+}
+
+.add-btn {
+
+    float: right;
+    padding: 5px 10px;
+    background-color: blue;
+    border-radius: 20px;
+}
+
+/* Cards */
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    border: 1px solid #ccc;
+    margin: 10px ;
+    padding: 15px;
+    height: 400px;
+    width: 100%;
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    animation: fadeIn 1s ease forwards;
+    }
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(40px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+.card img {
+    width: 100%;
+    height: 180px;
+}
+
+.edit {
+    border: 1px solid blue;
+    background: white;
+    color: blue;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+
+
+.delete {
+    border: 1px solid red;
+    background: white;
+    color: red;
+    padding: 5px;
+    border-radius: 10px;
+}
+.edit, .delete, .add-btn {
+    transition: all 0.3s ease;
+}
+
+.edit:hover {
+    background-color: blue;
+    color: white;
+    transform: translateY(-3px);
+}
+
+.delete:hover {
+    background-color: red;
+    color: white;
+    transform: translateY(-3px);
+}
+
+.add-btn:hover {
+    transform: scale(1.1);
+}
+
+/* Footer */
+.footer {
+    background: #002b5b;
+    color: white;
+    padding: 20px;
+}
+
+.footer-section {
+    display: inline-block;
+    width: 23%;
+    vertical-align: top;
+}
+
+.footer input {
+    padding: 5px;
+}
+
+.footer button {
+    padding: 5px;
+}
+
+.bottom {
+    background: #001a33;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}

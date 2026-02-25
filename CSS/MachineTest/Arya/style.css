@@ -1,0 +1,87 @@
+body{
+    background :linear-gradient(to right,  rgb(0, 125, 112) ) rgb(0, 128, 128);
+    text-align: center;
+    opacity: 0;
+    animation: fadein 1s ease-in forwards;
+    
+}
+@keyframes fadein{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+.nav-items{
+    text-decoration: none;
+    padding: 15px;
+}
+.nav-items a{
+    padding: 15px;
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top:85px;
+    
+}
+.card-items{
+text-align: center;
+background-color: aliceblue;
+padding: 15px; 
+width: 20%;
+margin: 0px 10px;
+
+}
+.card-images{
+    border-radius: 15px;
+     width: 13%;
+    height: 350px;
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+}
+.card-images img{
+   width: 100%;
+   height: 250px;
+   border-radius: 15px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+table,th{
+    background: #264653;
+    color: white;
+    text-align: left;
+}
+table,tr{
+    width: 100%;
+    
+border-collapse: collapse;
+}
+table,td{
+    padding: 15px;
+    border-bottom: 1px solid black;
+}
+.img{
+    animation: fade 1s ease infinite;
+}
+@keyframes fade{
+    0%{
+        transform: scale(100%);
+
+    }
+    50%{
+        transform: scale(110%);
+
+        
+    }
+    100%{
+        transform: scale(100%);
+    }
+}
