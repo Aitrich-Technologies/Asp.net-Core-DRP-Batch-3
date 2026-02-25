@@ -67,14 +67,6 @@ table.summary {
   border-collapse: collapse;
   margin-bottom: 15px;
 }
-table.summary td {
-  transition: transform 2s ease, box-shadow 2s ease;
-}
-
-table.summary td:hover {
-  transform: translateY(-8px) rotateX(5deg);
-  box-shadow: 0 15px 25px rgba(0,0,0,0.15);
-}
 
 /* each cell as a simple card */
 table.summary td {
@@ -87,18 +79,33 @@ table.summary td {
   margin: 8px;
   box-shadow: 0 1px 4px rgba(12,30,60,0.03); /* static subtle shadow */
 }
+table.summary td {
+  transition: transform 3s ease, box-shadow 3s ease;
+}
+table.summary td:hover {
+  transform: translateY(-8px) rotateX(5deg);
+  box-shadow: 0 15px 25px rgba(0,0,0,0.15);
+}
 
 /* colors */
 .box-blue { background: #e6e9ff; }
 .box-green { background: #e6ffee; }
-.box-yellow { background: #fff9e6; }
-.box-lightblue { background: #e6f7ff; }
+.box-purple { background: #fff9e6; }
+.box-yellow { background: #e6f7ff; }
 
 /* typography inside */
 .box-emoji { font-size: 22px; margin-bottom: 6px; display:block; }
 .box-title { font-weight: bold; margin-bottom: 6px; }
 .box-value { font-size: 20px; }
+.content{
+  transition: transform 3s ease, box-shadow 3s ease;
 
+}
+
+.content:hover{ 
+  transform: translateY(-5px);
+  box-shadow: 0 15px 25px rgba(0,0,0,0.15);
+}
 /* ---------- Add Button ---------- */
 .btn {
   background: linear-gradient(#0b6efd, #0958d6);
@@ -108,7 +115,7 @@ table.summary td {
   font-size: 14px;
   cursor: pointer;
   border-radius: 6px;
-  box-shadow: 0 4px 8px rgba(11,110,253,0.12); /* static shadow */
+  box-shadow: 0 4px 8px rgba(11,110,253,0.12); 
 }
 
 /* ---------- Data Table ---------- */
@@ -181,22 +188,6 @@ table.summary td {
 .footer-list li {
   margin-bottom: 6px;
   color: #cfcfcf;
-}
-.btn {
-  background: linear-gradient(#0b6efd, #0958d6);
-  border: 0;
-  color: #fff;
-  padding: 9px 14px;
-  font-size: 14px;
-  cursor: pointer;
-  border-radius: 6px;
-  box-shadow: 0 6px 0 #063eaa;
-  transition: all 3s ease;
-}
-
-.btn:active {
-  transform: translateY(4px);
-  box-shadow: 0 2px 0 #063eaa;
 }
 
 /* ---------- Accessibility & small improvements ---------- */

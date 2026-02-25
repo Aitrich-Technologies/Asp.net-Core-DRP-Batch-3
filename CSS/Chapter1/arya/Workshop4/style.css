@@ -1,0 +1,171 @@
+/* Body */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  background: #f7f9fb;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar */
+table.navbar {
+  background: #ffffff;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table.navbar td {
+  padding: 10px 12px;
+  vertical-align: middle;
+}
+
+.nav-item a {
+  text-decoration: none;
+  color: #333;
+}
+
+.nav-item a:hover {
+  text-decoration: underline;
+}
+
+.active {
+  font-weight: bold;
+}
+
+.nav-right {
+  text-align: right;
+  font-weight: bold;
+  color: #333;
+}
+
+/* TODO: Students must style the nav-logo image (size, display) */
+/* .nav-logo img { ... } */
+
+/* Page Wrapper */
+.page {
+  width: 95%;
+  margin: 20px auto;
+}
+
+/* Headings */
+h2 {
+  margin-bottom: 5px;
+}
+
+.subtitle {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+/* Summary Boxes (FULL WIDTH STRETCHED) */
+table.summary {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 15px;
+}
+
+table.summary td {
+  text-align: center;
+  padding: 25px;
+  border: 1px solid #ddd;
+  font-size: 14px;
+}
+
+/* Box colors */
+.box-blue { background: #e6e9ff; }
+.box-green { background: #e6ffee; }
+.box-rose { background: #ffe6f3; }
+.box-purple { background: #fbe6ff; }
+
+/* TODO: Students must add styles for box-yellow and box-lightblue if they add the missing boxes */
+/* .box-yellow { ... } */
+/* .box-lightblue { ... } */
+
+.box-emoji {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.box-title {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.box-value {
+  font-size: 20px;
+}
+
+/* Add Button */
+.add-button-wrapper {
+  text-align: right;
+  margin-bottom: 15px;
+}
+
+.btn {
+  background: #0b6efd;
+  color: #fff;
+  padding: 8px 12px;
+  border: 0;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #045bd8;
+}
+
+/* Data Table */
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #ffffff;
+}
+
+.data-table th,
+.data-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.data-table thead {
+  background: #f2f2f2;
+}
+
+.data-table tbody tr:nth-child(even) {
+  background: #fafafa;
+}
+
+/* TODO: Students should add focus/hover styles for table rows for better UX */
+/* .data-table tr:hover { ... } */
+
+.actions img {
+  margin: 0 4px;
+  vertical-align: middle;
+}
+
+/* Footer */
+.footer {
+  background: #101820;
+  color: white;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 40px;
+}
+
+.footer td {
+  padding: 20px;
+  vertical-align: top;
+}
+
+.footer-list {
+  list-style: none;
+  margin: 8px 0 0 0;
+  padding: 0;
+}
+
+.footer-list li {
+  margin-bottom: 6px;
+  color: #d0d0d0;
+}
+
+/* TODO: Students must convert footer list items into link styles (.footer-list a { ... }) */

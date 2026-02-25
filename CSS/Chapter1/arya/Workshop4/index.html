@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -10,12 +10,18 @@
   <!-- Top Navbar (table based, simple links) -->
   <table class="navbar" width="100%" cellpadding="10" cellspacing="0">
     <tr>
-      <td class="nav-logo"><img src="Images/logo.PNG" alt="Logo" width="50"></td>
+      <td class="nav-logo"><!-- TODO: Students must add logo <img> with meaningful alt text --></td>
+
       <td class="nav-item"><a href="#">Home</a></td>
-      <td class="nav-item"><a href="#">Destinations</a></td>
+
+      <!-- TODO: Students must add the missing nav items below (Destinations, Manage Tours) as proper links -->
+      <!-- <td class="nav-item"><a href="#">Destinations</a></td>
+      <td class="nav-item"><a href="#">Manage Tours</a></td> -->
+      <td class="nav-item"><a href="#">Destination</a></td>
       <td class="nav-item"><a href="#">Manage Tours</a></td>
       <td class="nav-item"><a href="#">Booking Requests</a></td>
-      <td class="nav-item"><a href="#" class="active">Manage Consultants</a></td>
+      <td class="nav-item"><a href="#" class="active">Manage Consulatant</a></td>
+      
       <td class="nav-right">Lions Sports Club ⚙️</td>
     </tr>
   </table>
@@ -24,6 +30,7 @@
     <!-- Page header -->
     <h2>Consultant Management</h2>
     <p class="subtitle">Add and manage your consultants</p>
+
     <!-- Summary boxes (table for simplicity) -->
     <table class="summary" width="100%" cellpadding="20" cellspacing="8">
       <tr align="center">
@@ -46,7 +53,7 @@
         </td>
 
         <td class="box box-purple"
-        <div class="box-emoji"><img src="Images/book"width="20px"heigh="20px"></div>
+        <div class="box-emoji"><img src="Images/book.png"width="20px"heigh="20px"></div>
         <div class="box-title">Total Bookings</div>
         <div class="box-value">0</div>
       </td>
@@ -57,6 +64,12 @@
 
       </tr>
     </table>
+
+    <p class="add-button-wrapper">
+      <!-- TODO: Students must ensure Add button has accessible label and proper class if needed -->
+      <button class="btn">Add Consultant ➕</button>
+    </p>
+
     <!-- Consultant table -->
     <table class="data-table" width="100%" cellpadding="8" cellspacing="0" border="1">
       <thead>
@@ -87,6 +100,7 @@
           <td align="center">-</td>
           <td align="center">—</td>
           <td align="center" class="actions">
+            <!-- TODO: Students must add accessible buttons or links for view/edit/profile/delete (use <button> or <a> with alt text) -->
             <img src="Images/eye.PNG" alt="view" width="20" height="20"> 
             <img src="Images/edit.PNG" alt="edit" width="20" height="20"> 
             <img src="Images/personn.PNG" alt="profile" width="20" height="20"> 
@@ -107,6 +121,7 @@
           <td align="center">-</td>
           <td align="center">—</td>
           <td align="center" class="actions">
+            <!-- TODO: Students must replace img-only actions with accessible controls (links/buttons) -->
             <img src="Images/eye.PNG" alt="view" width="20" height="20"> 
             <img src="Images/edit.PNG" alt="edit" width="20" height="20"> 
             <img src="Images/personn.PNG" alt="profile" width="20" height="20"> 
@@ -116,7 +131,8 @@
       </tbody>
     </table>
   </div>
-   <!-- Footer (table-based simple layout) -->
+
+  <!-- Footer (table-based simple layout) -->
   <table class="footer" width="100%" cellpadding="20" cellspacing="0">
     <tr valign="top">
       <td width="25%">
@@ -148,6 +164,3 @@
         <strong>Subscribe</strong><br><br>
         <img src="Images/fb.PNG"width="20px"height="20px"><img src="Images/insta.PNG"width="20px"height="20px"><img src="Images/twitter.PNG"width="20px"height="20px">
       </td>
-
-
-  
