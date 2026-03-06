@@ -1,0 +1,77 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+.left {
+    width: 45%;
+    color: white;
+    padding: 60px;
+}
+
+.featured {
+    padding: 6px 14px;
+    border-radius: 4px;
+}
+
+.left h1 {
+    font-size: 32px;
+}
+
+.left ul {
+    list-style: none;
+    padding: 0;
+}
+
+.price {
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.right {
+    width: 55%;
+    padding: 50px;
+}
+
+.right h2 {
+    color: #715cf1;
+    margin-bottom: 10px;
+}
+
+form {
+    width: 100%;
+}
+
+.row {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.col {
+    width: 48%;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+}
+
+.register-btn {
+    background-color: #715cf1;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-weight: bold;
+}

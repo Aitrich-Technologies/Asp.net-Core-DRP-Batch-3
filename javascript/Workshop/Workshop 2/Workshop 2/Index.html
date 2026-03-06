@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Add Tour</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <h2>Add Tour</h2>
+  </header>
+
+  <main class="container">
+    <article class="card">
+
+      <form name="addTourForm" onsubmit="return validateForm(this)">
+
+        <table class="form-table">
+
+          <tr>
+            <td><label for="title">Tour Title *</label></td>
+            <td><input id="title" name="title" type="text" required></td>
+          </tr>
+
+          <tr>
+            <td><label for="description">Description *</label></td>
+            <td><textarea id="description" name="description" rows="3" required></textarea></td>
+          </tr>
+
+          <tr>
+            <td><label for="destination">Destination *</label></td>
+            <td>
+              <select id="destination" name="destination" required>
+                <option value="">Select</option>
+                <option value="Kerala">Kerala</option>
+                <option value="Goa">Goa</option>
+              </select>
+            </td>
+          </tr>
+
+          <tr>
+            <td><label for="nights">Nights *</label></td>
+            <td><input id="nights" name="nights" type="number" min="1" max="30" required></td>
+          </tr>
+
+          <tr>
+            <td><label for="price">Price *</label></td>
+            <td><input id="price" name="price" type="number" required></td>
+          </tr>
+
+          <tr>
+            <td><label for="departure">Departure *</label></td>
+            <td><input id="departure" name="departure" type="date" required></td>
+          </tr>
+
+          <tr>
+            <td colspan="2" align="center">
+              <input class="btn" type="submit" value="Create Tour">
+            </td>
+          </tr>
+
+        </table>
+
+      </form>
+
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="copyright">
+      &copy; 2025 DreamTour Travels
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
