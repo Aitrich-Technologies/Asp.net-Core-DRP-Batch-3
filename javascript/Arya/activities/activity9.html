@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+    <!-- <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+    <button type="submit">Submit</button><br>
+
+    <br><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" pattern="/^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]" required>
+    <button type="submit">Submit</button><br>
+
+    <br><br>
+    <label for="password">password:</label>
+    <input type="password" id="password" name="password" minlength="8">
+    <button type="submit">Submit</button><br>
+
+   <label for="phone">Phone Number:</label>
+   <input type="text" id="phone" name="phone" pattern="[0-9]{10}" required>
+   <button type="submit">Submit</button>
+
+   <br><br>
+
+<label for="age">Age</label>
+<input type="number" id="age" name="age" min="18" max="60">
+<button type="submit">Submit</button> -->
+<script>
+   function validateForm(){
+
+// 1. Name Empty Check
+let name = document.getElementById("name").value;
+if(name == ""){
+alert("Name is required");
+return false;
+}
+
+// 2. Email Validation
+let email = document.getElementById("email").value;
+let emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+if(!emailPattern.test(email)){
+alert("Enter valid email");
+return false;
+}
+
+// 3. Password Length Check
+let password = document.getElementById("password").value;
+
+if(password.length < 8){
+alert("Password must be at least 8 characters");
+return false;
+}
+
+// 4. Confirm Password
+let confirmPassword = document.getElementById("confirm").value;
+
+if(password != confirmPassword){
+alert("Passwords do not match");
+return false;
+}
+
+// 5. Phone Number Validation
+let phone = document.getElementById("phone").value;
+let phonePattern = /^[0-9]{10}$/;
+
+if(!phonePattern.test(phone)){
+alert("Phone number must contain exactly 10 digits");
+return false;
+}
+
+// 6. Age Validation
+let age = document.getElementById("age").value;
+
+if(age < 18 || age > 60){
+alert("Age must be between 18 and 60");
+return false;
+}
+
+// 7. Username Validation
+let username = document.getElementById("username").value;
+var userPattern = /^[A-Za-z][A-Za-z0-9]{4,}$/;
+
+if(!userPattern.test(username)){
+alert("Username must start with a letter and contain at least 5 characters");
+return false;
+}
+
+return true;
+}
+</script>
+
+</head>
+
+<body>
+
+<h2>Registration Form</h2>
+
+<form onsubmit="return validateForm()">
+
+Name:<br>
+<input type="text" id="name"><br><br>
+
+Email:<br>
+<input type="text" id="email"><br><br>
+
+Username:<br>
+<input type="text" id="username"><br><br>
+
+Password:<br>
+<input type="password" id="password"><br><br>
+
+Confirm Password:<br>
+<input type="password" id="confirm"><br><br>
+
+Phone Number:<br>
+<input type="text" id="phone"><br><br>
+
+Age:<br>
+<input type="number" id="age"><br><br>
+
+<input type="submit" value="Submit">
+
+
+    
+</script>
+
+
+</form>
+    
+</body>
+</html>
