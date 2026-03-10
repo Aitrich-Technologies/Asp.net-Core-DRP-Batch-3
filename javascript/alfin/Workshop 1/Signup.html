@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Signup Form</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="validation.js" defer></script>
+</head>
+<body>
+<div class="container">
+
+    <div class="left">
+        <button class="featured">Featured Package</button>
+        <h1>Tropical Beach Paradise</h1>
+        <p>7 Day of sun,sand,and unforgettable memories</p>
+        <ul>
+            <li> <img src="/check (3).png" alt="">5-Star Beachfront Resort</li>
+            <li> <img src="/check (3).png" alt="">All-Inclusive Meals</li>
+            <li> <img src="/check (3).png" alt="">Water sports & Activities</li>
+            <li><img src="/check (3).png" alt="">Airport Transfers</li>
+        </ul>
+        <span class="new">$1,299 </span>
+        <span class="old">$1,899 </span>
+    </div>
+
+    <div class="right">
+        <h1>Create Your Account</h1>
+        <p>Fill in your details to get started</p>
+        <form name="signupForm" id="signupForm" onsubmit="return validateForm()">
+            
+            <div class="row">
+                <div class="col">
+                    <label>First Name</label>
+                    <input type="text" name="fname">
+                </div>
+
+                <div class="col">
+                    <label>Last Name</label>
+                    <input type="text" name="lname">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <label>Gender</label>
+                    <select name="gender">
+                        <option value="">Select Gender</option>
+                        <option value="Male">Male</option>
+                        <option value="FeMale">Female</option>
+                    </select>
+                </div>
+
+                <div class="col">
+                    <label>Date of Birth</label>
+                    <input type="date" name="dob">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <label>Username</label>
+                    <input type="text" name="username">
+                </div>
+
+                <div class="col">
+                    <label>Email Address</label>
+                    <input type="email" name="email">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <label>phone number</label>
+                    <input type="number" name="phoneno">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <label>Password</label>
+                    <input type="password" name="password">
+                </div>
+            </div>
+            <p>must be atleast 8 characters long</p>
+            
+            <div class="row center-btn">
+                <button type="submit" class="register-btn">Register</button>
+            </div>
+
+        </form>
+
+    </div>
+</div>
+
+</body>
+</html>
