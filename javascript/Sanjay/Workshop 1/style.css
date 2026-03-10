@@ -1,0 +1,137 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    /* background-color: black; */
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    
+}
+
+.left {
+    width: 45%;
+    color: white;
+    padding: 60px;
+    background-image: url("./pic1.jpg");
+    background-size:cover;
+    background-position: center;
+    height: 705px;
+}
+
+.featured {
+    margin-top: 50px;
+    padding: 6px 14px;
+    border-radius: 4px;
+    border: none;
+    color: rgb(18, 18, 119);
+    font-weight: 700;
+    
+}
+.featured:hover {
+    transform: scale(1.2);
+    transition: 2s ease;
+}
+
+
+
+.left h1 {
+    font-size: 42px;
+}
+
+.left p {
+    font-size: 17px;
+    margin: 30px 0px;
+}
+
+.left ul {
+    list-style: none;
+    padding: 10px 0px;
+}
+
+.left li{
+    padding: 5px;
+    font-size: 17px;
+    color: aliceblue;
+}
+
+.left li:hover {
+    transform: translateX(10px);
+    transition: 2s ease;
+}
+
+
+.price {
+    margin-top: 20px;
+    font-size: 20px;
+}
+.price1 {
+    margin-top: 20px;
+    font-size: 20px;
+    text-decoration: line-through;
+    margin-left: 10px;
+}
+
+.right {
+    width: 55%;
+    padding: 22px;
+    background-color: white;
+}
+
+.right h2 {
+    color: #715cf1;
+    margin-bottom: 10px;
+}
+
+form {
+    width: 100%;
+}
+
+.row {
+    display: flex;
+    margin: 35px 0px;
+    
+}
+
+.col {
+    width: 48%;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input, select {
+    width:90%;
+    padding: 10px;
+}
+
+input {
+    border: 2px solid rgb(207, 205, 205);
+    border-radius: 5px;
+}
+.password {
+    color: grey;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.register-btn {
+    background-color: #715cf1;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+.register-btn:hover {
+    transform: scale(1.1);
+    transition: 2s ease;
+}
