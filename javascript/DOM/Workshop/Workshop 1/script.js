@@ -11,3 +11,5 @@ function addData() {
     document.getElementById("dname").value = "";
     document.getElementById("country").value = "";
 }
+
+
