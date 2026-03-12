@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Add Tour</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <h2>Add Tour</h2>
+    <p>Create a Meomarable Travel Experince</p>
+  </header>
+
+  <main class="container">
+    <article class="card">
+
+      <form name="addTourForm" onsubmit="return validateForm(this)">
+
+        <table class="form-table">
+
+          <tr>
+            <td><label for="title">Tour Title *</label></td>
+            <td><input id="title" name="title" type="text"placeholder="goa trip"></td>
+          </tr>
+
+          <tr>
+            <td><label for="description">Description *</label></td>
+            <td><textarea id="description" name="description" rows="3" placeholder="wonderfull experience" ></textarea></td>
+          </tr>
+
+          <tr>
+            <td><label for="destination">Destination *</label></td>
+            <td>
+              <select id="destination" name="destination" >
+                <option value="">Select destination</option>
+                <option value="Kerala">Kerala</option>
+                <option value="Goa">Goa</option>
+              </select>
+            </td>
+          </tr>
+
+          <tr>
+            <td><label for="nights">Nights *</label></td>
+            <td><input id="nights" name="nights" type="number" min="1" max="30" ></td>
+          </tr>
+
+          <tr>
+            <td><label for="price">Price *</label></td>
+            <td><input id="price" name="price" type="number" ></td>
+          </tr>
+
+          <tr>
+            <td><label for="departure">Departure  date*</label></td>
+            <td><input id="departure" name="departure" type="date" ></td>
+          </tr>
+          <tr>
+            <td><label for="arrival"> Arrival date*</label></td>
+            <td><input id="arrival" name="arrival" type="date" ></td>
+          </tr>
+
+          <tr>
+            <td colspan="2" align="center">
+              <button class="btn">create tour</button>
+              <button class="btn cancel">cancel</button>
+              
+            </td>
+          </tr>
+          
+
+        </table>
+
+      </form>
+
+    </article>
+  </main>
+
+  <footer class="site-footer">
+
+<div class="footer-top">
+
+
+<p> <img src="Images/flight.PNG" width="20px" height="20px">Plan Your Next Adventure with Dream Tour Travels - Explore.Experience.Enjoy<img src="Images/world.PNG" width="20px" height="20px">
+</div></p>
+
+`
+
+<div>
+<img src="Images/fb.PNG" width="20px" height="20px"> 
+<img src="Images/insta.PNG" width="20px"height="20px">
+<img src="Images/twitter.PNG " width="20px" height="20px">
+</div>
+
+    
+<div class="copyright">
+      &copy; 2025 DreamTour Travels
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

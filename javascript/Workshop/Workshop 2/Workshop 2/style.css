@@ -45,6 +45,10 @@ input, textarea, select {
   border: none;
   border-radius: 6px;
   cursor: pointer;
+  margin: 5px;
+}
+.cancel{
+  background: #6c757d;
 }
 
 .site-footer {
@@ -53,4 +57,9 @@ input, textarea, select {
   padding: 10px;
   background: #002147;
   color: white;
+}
+.footer-top {
+  
+  margin-left: 30px;
+
 }
