@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2 class="title">Add New Destination</h2>
+
+<div class="container">
+    <form id="signupform" onsubmit="return validateForm()">
+
+    
+    <div class="box">
+        <h3>Destination Details</h3>
+
+        <label>Destination Name *</label>
+        <input type="text" name="dname" id="dname" placeholder="Enter destination name">
+
+        <label>Country / Location *</label>
+        <input type="text" id="location" placeholder="Enter location">
+
+        <label>Category *</label>
+        <select id="category">
+            <option>Select category</option>
+            <option>Beach</option>
+            <option>Mountain</option>
+            <option>City</option>
+        </select>
+
+        <label>Description *</label>
+        <textarea id="description" placeholder="Enter short description"></textarea>
+
+    </div>
+
+    
+    <div class="box">
+        <h3>Package Details</h3>
+
+        <label>Standard Price *</label>
+        <input type="number" id="price" placeholder="Enter price">
+
+        <label>Discount Price</label>
+        <input type="number" id="discount" placeholder="Enter discount price">
+
+        <label>Duration (Nights) *</label>
+        <input type="number" id="nights" placeholder="Enter nights">
+
+        <label>Best Travel Season *</label>
+        <select id="season">
+            <option>Select season</option>
+            <option>Summer</option>
+            <option>Winter</option>
+            <option>Monsoon</option>
+        </select>
+
+    </div>
+
+</div>
+
+ <div class="buttons">
+
+<button type="submit" value="add">Save</button>
+<button type="button" value="reset" onclick="resetForm()">Reset</button>
+</div>
+
+
+</form>  
+
+<script src="index2.js"></script>
+
+    
+</body>
+</html> 
+ 
+
+
