@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Signup Form</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="validation.js" defer></script>
+</head>
+<body>
+
+
+
+<div class="container">
+
+    <div class="left">
+        <button class="featured">Featured Package</button>
+        <h1>Tropical Beach Paradise</h1>
+        <p class="">7 Days of sun, sand, and unforgettable memories</p>
+        <ul>
+            <li>5-Star Beachfront Resort</li>
+            <li>All-Inclusive Meals</li>
+            <li>Water Sport & Activities</li>
+            <li>Airport Transfers</li>
+        </ul>
+        <span class="price">$1,299 </span><span class="price1">$1,899</span>
+    </div>
+
+    <div class="right">
+        <h2>Create Your Account</h2>
+
+        <form name="signupForm" id="signupForm" onsubmit="return validateForm()">
+            
+            <div class="row">
+                <div class="col">
+                    <label>First Name</label>
+                    <input type="text" name="fname" placeholder="John">
+                </div>
+
+                <div class="col">
+                    <label>Last Name</label>
+                    <input type="text" name="lname" placeholder="Doe">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <label>Gender</label>
+                    <select name="gender">
+                        <option value="">Select Gender</option>
+                        <option value="Male">Male</option>
+                        <option value="Male">FeMale</option>
+                    </select>
+                </div>
+
+                <div class="col">
+                    <label>Date of Birth</label>
+                    <input type="date" name="dob">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <label>Username</label>
+                    <input type="text" name="username" placeholder="johndoe">
+                </div>
+
+                <div class="col">
+                    <label>Email Address</label>
+                    <input type="email" name="email" placeholder="john@example.com">
+                </div>
+            </div>
+
+             <div class="row">
+                <div class="col">
+                    <label>Phone no</label>
+                    <input type="number" name="phoneno" placeholder="+1 (555) 123-4567">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <label>Password</label>
+                    <input type="password" name="password" placeholder="Create a strong password">
+                </div>
+                
+            </div>
+            <p class="password">Password must contain 8 character</p>
+
+            <div class="row center-btn">
+                <button type="submit" class="register-btn">Register</button>
+            </div>
+
+        </form>
+
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id ="button">welcome student</button>
+<script>
+    const button = document.getElementById("button");
+        button.addEventListener("click",function() {
+            // alert("button clicked");
+            mybutton.style.backgroundColor="red";
+
+        });
+
+ function showmessage(){
+    alert("mouse is over the test");
+
+ }
+function sayhello(){
+    alert("hello",+ document.getElementById("name").value);
+    
+}
+
+function changeColor() {
+    document.getElementById("box").style.backgroundColor = "red";
+}
+// <img src=""alt="image"onclick="document.body.innertext='image clicked'">
+
+        </Script>
+
+        <p id="para">my name is arya</p>
+       <button onclick="document.getElementById('para').innerHTML='you click the button!'">click
+       </button>
+
+       <button onclick="document.body.style.backgroundColor='lightblue'">
+        change color
+        </button>
+     
+
+      <!-- <p onmouseover="showmessage()">move your mouse over this paragraph to see a message</p> 
+ -->
+
+      <input  type="text" id="name" placeholder="enter your name">
+     <button onclick="sayhello()">click me</button>
+
+<!-- <div id="box" ondblclick="changeColor()"  -->
+
+
+</div> 
+<script>
+function imageClick(){
+ alert("Image clicked!");
+}
+</script> 
+
+
+<p id="para">This is a paragraph</p>
+<button onclick="toggleText()">Hide / Show</button>
+
+<script>
+function toggleText(){
+ let p=document.getElementById("para");
+
+ if(p.style.display=="none"){
+   p.style.display="block";
+ }else{
+   p.style.display="none";
+ }
+}
+</script>
+
+
+
+ <button onclick="countClicks()">Click Me</button>
+<p id="count">Clicked 0 times</p>
+
+<script>
+let count=0;
+
+function countClicks(){
+ count++;
+ document.getElementById("count").innerHTML="Clicked " + count + " times";
+}
+</script> 
+
+
+     
+    
+</body>
+</html>
