@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Destination Manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Destination Manager</h1>
+
+    <div class="form-box">
+        <input type="text" id="dname" placeholder="Destination Name">
+        <input type="text" id="country" placeholder="Country">
+        <input type="number" id="price" placeholder="price">
+        <button onclick="addData()">Add</button>
+    </div>
+     <div class="form-box">
+    <input type="text" id="search" class="search" placeholder="search destination"  onkeyup="searchCard()">
+    </div>
+
+    <div id="cardHolder" class="cards"></div>
+   </div>
+
+
+<script src="index.js"></script>
+
+</body>
+</html>

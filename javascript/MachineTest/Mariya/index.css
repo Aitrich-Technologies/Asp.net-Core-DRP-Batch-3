@@ -1,0 +1,64 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background: #bba9a9;
+}
+
+h2 {
+    text-align: center;
+}
+
+.container {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+input, select {
+    padding: 8px;
+    margin: 5px;
+}
+
+button {
+    padding: 8px 12px;
+    cursor: pointer;
+    background: rgb(86, 14, 202);
+    color: rgb(255, 255, 255);
+    border: none;
+}
+
+button:hover {
+    background: rgb(7, 25, 218);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background: #333;
+    color: white;
+}
+
+.btn{
+    background:green;
+color:white;
+padding:8px 12px;
+border:none;
+cursor:pointer;
+}
+
+.btn1{
+background:red;
+color:white;
+padding:8px 12px;
+border:none;
+cursor:pointer;
+}

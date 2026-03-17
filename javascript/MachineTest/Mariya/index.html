@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+
+</head>
+<body>
+    <h2>Tour Booking Manager</h2>
+    <div class="container">
+        <input type="text" id="name" placeholder="Tourist name">
+        <select id="Destination">
+            <option value="">Select destination</option>
+                <option value="Kashmir">Kashmir</option>
+                <option value="Goa">Goa</option>
+                <option value="Manali">Manali</option>
+              </select>
+    <input type="number" id="price" placeholder="price">
+    
+    <button type="button" onclick="addBooking()">Add</button>   
+    </div> 
+    <input type="text" id="search" placeholder="Search destination..." onkeyup="searchDestination()">
+
+   <table id="Booking table">
+    <thead>
+        <tr> 
+            <th>Name</th>
+            <th>Destination</th>
+            <th>Price</th>
+            <th>status</th>
+            <th>Action</th>    
+        </tr>
+    </thead>
+<tbody></tbody>
+    </table>
+    <script src="index.js"></script>        
+      
+
+    
+</body>
+</html>
