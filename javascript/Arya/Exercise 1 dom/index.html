@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="indexx.css">
+</head>
+<body>
+ 
+
+<div class="container">
+
+<h1>Tour Package Management</h1>
+<p class="subtitle">Add, Edit, Delete & Search Tour Packages</p>
+
+<div class="form-box">
+
+<input type="text" id="name" placeholder="Package Name">
+<input type="number" id="days" placeholder="Days">
+<input type="number" id="price" placeholder="Price">
+
+<button onclick="addPackage()">Add Package</button>
+
+</div>
+
+<input type="text" id="search" placeholder="Search Package..." onkeyup="searchPackage()">
+
+<table id="packageTable">
+<thead>
+<tr>
+<th>Package</th>
+<th>Days</th>
+<th>Price</th>
+<th>Action</th>
+</tr>
+</thead>
+
+<tbody></tbody>
+</table>
+
+</div>
+
+<div id="toast">Saved info</div>
+
+
+    <script src="exercise.js"></script>
+</body>
+</html>

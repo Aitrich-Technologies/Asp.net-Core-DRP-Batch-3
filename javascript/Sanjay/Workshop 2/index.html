@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Tour Booking</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="box">
+
+    <h1>Tour Booking System</h1>
+
+    <label>Choose Destination</label>
+    <select id="dest" onchange="price()">
+        <option value="">Select</option>
+        <option value="Goa_2500">Goa</option>
+        <option value="Paris_8000">Paris</option>
+        <option value="Tokyo_6000">Tokyo</option>
+    </select>
+
+    <label>Price Per Night</label>
+    <input type="text" id="price" readonly>
+
+    <label>Total Nights</label>
+    <input type="number" id="nights" oninput=" calculateTotal()">
+
+    <h3>Total Amount: ₹ <span id="total">0</span></h3>
+
+    <button onclick="addBooking()">Book</button>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Destination</th>
+                <th>Nights</th>
+                <th>Total</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody id="body"></tbody>
+    </table>
+
+</div>
+
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
