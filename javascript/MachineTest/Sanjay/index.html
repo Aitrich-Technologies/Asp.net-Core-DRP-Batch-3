@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div>
+            <h2>Tour Package</h2>
+        </div>
+
+    <form action="">
+<div class="table">
+        <table >
+            <tr>
+                <td><label for="name">Name</label></td>
+            
+            
+                <td><input type="text" name="name" id="name" placeholder="Enter your name"></td>
+            </tr>
+              <tr>
+                <td><label for="">Destination</label></td>
+            
+
+                <td> <select name="" id="destination">
+                    <option value="">Select</option>
+                    <option value="Chennai">Chennai</option>
+                    <option value="Delhi">Delhi</option>
+                    <option value="Mumbai">Mumbai</option>
+                </select></td>
+          </tr>
+            <tr>
+                <td><label for="price">Price</label></td>
+                <td><input type="number" name="price" id="price" placeholder="Enter price"></td>
+            </tr>
+            <tr>
+                <td colspan="2"><button type="button" onclick="addBooking()">Confirm</button></td>
+            </tr>
+        </table>
+
+  </div>  
+        
+
+
+<input type="text" id="search" placeholder="Search..." onkeyup="searchTable()">
+</form>
+    <table id="datatable">
+        <tr>
+            <thead>
+            <th>Name</th>
+            <th>Destination</th>
+            <th>Price</th>
+            <th>Status</th>
+        </tr>
+        </thead>
+            <tbody id="body"></tbody>
+    </table>
+    </div>
+</body>
+</html>

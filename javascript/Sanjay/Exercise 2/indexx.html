@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Tour Booking Management</h1>
+        <p>Customer Booking & Approval Panel</p>
+
+
+        <div class="box">
+            <div class="booking">
+                <h3>Customer Booking</h3>
+                <label for="name">Customer Name</label><br>
+                <input type="text" id="name" placeholder="Enter name"><br><br>
+                <label for="package">Tour Package</label><br>
+                <input type="text" id="package" placeholder="Enter package"><br><br>
+                <button type="submit" onclick="addFunction()">Book Tour</button>
+            </div>
+            <div class="approval">
+                <h3>Admin Approval</h3>
+                <table>
+                    <thead>
+                    <tr>
+                        <th>Customer</th>
+                        <th>Package</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                    </thead>
+                    <tbody id="body"></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
