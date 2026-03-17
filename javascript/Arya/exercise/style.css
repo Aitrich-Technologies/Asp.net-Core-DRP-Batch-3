@@ -1,0 +1,36 @@
+body{
+    
+    background-color: #f2f2f29f;
+
+}
+h2{
+    text-align: center;
+}
+form{
+
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border: 1px solid gray;
+}
+
+label
+{
+    font-weight: bold;
+}
+
+input
+{
+    width: 50%;
+    padding: 6px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+input[type=submit],
+input[type=button]
+{
+    width: 50%;
+    margin-top: 10px;
+}
