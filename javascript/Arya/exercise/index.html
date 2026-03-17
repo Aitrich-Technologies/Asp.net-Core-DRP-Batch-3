@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consultant registration form</title>
+<link rel="stylesheet" href="style.css">
+<script src="exercise.js"></script>
+</head>
+<body>
+<h2>Add New Consultant</h2>
+
+<form id="consultantform" name="consultantform" onsubmit="return ValidationForm()">
+    <p><b>Personal Information</b></p>
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="fname"><br><br>
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lname"><br><br>
+
+    <label for="gender">Gender</label>
+    <select id="gender" name="gender">
+    <option value="">Select Gender</option>
+    <option value="male">Male</option>
+    <option value="male">Female</option>
+    </select><br><br>
+
+    <label for="DOB">Date of Birth</label>
+    <input type="date" id="DOB" name="DOB"><br><br>
+
+    <label for="email">email</label>
+    <input type="email" id="email" name="email"><br><br>
+
+    <label for="phone">Phone Number</label>
+    <input type="number" id="phn" name="phone"><br><br>
+
+    <p>Account Information</p>
+    <label for="username">User name</label>
+    <input type="text" id="username" name="username"><br><br>
+
+    <label for="password">Password</label>
+    <input type="password" id="password" name="password"><br><br>
+
+    <button type="submit">save</button>
+    <button type="button" onclick="clearform()">cancel</button>
+    
+</form>
+</body>
+</html
