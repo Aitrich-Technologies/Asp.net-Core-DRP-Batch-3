@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <!-- <button onclick="alert('Welcome Student!')">Click Me!</button> -->
+
+
+<!-- <p id="get">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+     Recusandae delectus porro aliquid, quia sunt temporibus
+      sequi iste corporis accusantium soluta natus harum, ad 
+      dolorem minima atque ducimus obcaecati alias officia. <br><br>
+<button onclick="document.getElementById('get').innerText = 'Button Clicked!'">Click Me!</button>
+</p> -->
+
+
+<!-- <button onclick="document.body.style.backgroundColor = 'lightblue'">click</button> -->
+
+
+
+<!-- <button id="button">Click</button> -->
+
+
+
+<!-- <p id="msg">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati,
+     quos cum. Laborum, possimus quos. Quis porro doloribus cupiditate 
+     temporibus sequi dolorem, culpa
+     nostrum repellat eum ipsa repudiandae nam incidunt dignissimos?</p> -->
+
+
+
+
+
+<!-- <h3>Enter your name:</h3>
+
+<input type="text" id="nameInput" placeholder="Enter name">
+<button onclick="showMessage()">Click Me</button>
+
+<p id="result"></p> -->
+
+
+
+<!-- <button ondblclick="document.body.style.background = 'blue'">Click Me</button> -->
+
+
+<!-- <input type="text" onkeypress="document.body.innerText = 'Key Pressed!'"> -->
+
+
+<!-- <img src="" alt="image" onclick="document.body.innerText = 'Image clicked'"> -->
+
+
+<!-- <button id="button">Click</button> -->
+
+
+
+ 
+<!-- <input type="text"  id="nameInput">
+<p id="message" ></p> -->
+ <!-- <button  onclick="document.getElementById('message').innerHTML = 'hello ' + document.getElementById('nameInput').value">click</button> -->
+<!-- 
+<button id="button">change color</button> -->
+
+<script>
+
+// const button = document.getElementById("button");
+// button.addEventListener("click",function(){
+//     button.innerHTML = "Welcome student";
+// });
+
+
+
+
+
+// const button = document.getElementById("msg");
+// button.addEventListener("mouseover",function() {
+//     button.innerText = "Mouse is over the text";
+// });
+
+
+
+
+// const button = document.getElementById("button");
+// button.addEventListener("click",function(){
+//     alert("button Clicked");
+// });
+
+
+// const button = document.getElementById("button");
+// button.addEventListener("mouseover",function(){
+//     button.innerText = "click";
+//     button.style.backgroundColor = "red";
+// });
+
+
+
+//  document.getElementById("button").addEventListener("click",function(){
+//     // button.innerText = "click";
+//     document.body.style.backgroundcolor="lightblue";
+// });
+
+// </script>
+
+<!-- <p id="text">Original Text</p>
+<button onclick="changeText()">Click Me</button>
+
+<script>
+const value =   document.getElementById("text");
+    function changeText(){
+    value.innerHTML="You clicked the button!";
+}
+</script> -->
+
+
+<!-- <p id="hey">Move mouse over this text</p>
+
+<script>
+  const message = document.getElementById("hey");
+    message.addEventListener("mouseover", function(){
+    alert("Mouse is over the text!");
+});
+</script> -->
+
+
+
+<!-- <input type="text" id="name">
+<button onclick="showName()">Click</button>
+
+<script>
+function showName(){
+ let name=document.getElementById("name").value;
+ alert("Hello " + name);
+}
+</script> -->
+
+
+<!-- <div ondblclick="changeBoxColor()" style="width:200px;height:100px;background:gray;">
+Double Click Me
+</div>
+
+<script>
+function changeBoxColor(){
+ event.target.style.background="yellow";
+}
+</script> -->
+
+
+<!-- <input type="text" onkeypress="keyPress()">
+
+<script>
+function keyPress(){
+ alert("Key pressed!");
+}
+</script> -->
+
+
+
+<!-- <img src="" alt="image" onclick="imageClick()">
+
+<script>
+function imageClick(){
+ alert("Image clicked!");
+}
+</script> -->
+
+
+<!-- <p id="para">This is a paragraph</p>
+<button onclick="toggleText()">Hide / Show</button>
+
+<script>
+function toggleText(){
+ let p=document.getElementById("para");
+
+ if(p.style.display=="none"){
+   p.style.display="block";
+ }else{
+   p.style.display="none";
+ }
+}
+</script> -->
+
+
+
+<button onclick="countClicks()">Click Me</button>
+<p id="count">Clicked 0 times</p>
+
+<script>
+let count=0;
+
+function countClicks(){
+ count++;
+ document.getElementById("count").innerHTML="Clicked " + count + " times";
+}
+</script>
+    
+</body>
+</html>

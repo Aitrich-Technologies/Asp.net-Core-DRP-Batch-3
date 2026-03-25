@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <button onclick="alert('welcome student')">click me</button> -->
+
+    <!-- <p id="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore asperiores dolore praesentium, 
+        accusantium consequuntur eligendi, commodi magni nesciunt cumque ullam ex debitis quasi exercitationem corrupti voluptas, 
+        atque quo! Iure, in.</p>
+        <button onclick="document.getElementById('text').innerHTML='clicked button'">
+         click button -->
+        <!-- </button> -->
+
+        <!-- <button onclick="document.body.style.backgroundColor='lightblue'">
+            change color
+        </button> -->
+     
+         <p id="msg">Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+             Ipsum doloribus eaque unde ducimus corporis dolore ullam recusandae fuga molestias voluptatibus veniam at quos iure quo, 
+            ut animi autem, aliquid reprehenderit!</p>
+          
+         <h3>enter your name</h3>
+        <input type="text" id="username"placeholder="enter name">
+        <button onclick="showName()">submit</button>
+         
+        
+
+        <!-- <p id="result"></p>  -->
+       <!-- <button ondblclick="document.body.style.background = 'blue'">Click Me</button> -->
+
+       
+        <div id="box" ondblclick="changeColor()" 
+        style="width:200px; height:200px; background-color:blue;">
+        </div>
+        <script>
+        function changeColor() {
+        document.getElementById("box").style.backgroundColor = "red";
+        } 
+        </script>
+ 
+
+     <!-- <input type="text" onkeypress="document.body.innerText = 'Key Pressed!'"> -->
+
+  
+    <!-- <img src="/2e81167365c0338cf3a779d20440d8d6.jpg" alt="image" onclick="document.body.innerText = 'Image clicked'"> -->
+
+
+    <button id="button">Click Me</button>
+    <script>
+    const button=document.getElementById("button");
+    button.addEventListener("click", function() {
+    button.innerHTML="Welcome Student!";
+    });</script>
+
+ 
+
+ <!-- <p id="text">Original Text</p>
+<button onclick="changeText()">Click Me</button>
+<script>
+function changeText(){
+ document.getElementById("text").innerHTML="You clicked the button!";
+}
+</script> -->
+
+
+
+<!-- <p onmouseover="showMessage()">Move mouse over this text</p>
+<script>
+function showMessage(){
+ alert("Mouse is over the text!");
+}
+</script> -->
+
+
+<!-- <input type="text" id="name">
+<button onclick="showName()">Click</button>
+<script>
+function showName(){
+ let name=document.getElementById("name").value;
+ alert("Hello " + name);
+}
+</script> -->
+
+
+<!-- <div ondblclick="changeBoxColor()" style="width:200px;height:100px;background:black;">
+Double Click Me</div>
+<script>
+function changeBoxColor(){
+ event.target.style.background="blue";
+}
+</script> -->
+
+    
+ <!-- <input type="next" onkeypress="keyPress()">
+<script>
+function keyPress(){
+ alert("Key pressed!");
+}
+</script>    -->
+
+
+
+<!-- <img src="/2e81167365c0338cf3a779d20440d8d6.jpg" alt="image" onclick="imageClick()">
+<script>
+function imageClick(){
+ alert("Image clicked!");
+}
+</script> -->
+
+
+<!-- <p id="text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa quo  </p>
+<button onclick="toggleText()">Show</button>
+
+<script>
+function toggleText(){
+ let p=document.getElementById("text");
+
+ if(p.style.display=="none"){
+   p.style.display="block";
+ }else{
+   p.style.display="none";
+ }
+}
+</script> -->
+
+
+
+ <!-- <button onclick="countClicks()">Click Me</button>
+<p id="count">Clicked 1 times</p>
+
+<script>
+let count=0;
+
+function countClicks(){
+ count++;
+ document.getElementById("count").innerHTML="Clicked " + count + " times";
+}
+</script> -->
+
+
+   
+
+        
+</body>
+</html>

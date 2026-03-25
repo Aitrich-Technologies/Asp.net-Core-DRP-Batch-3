@@ -1,0 +1,64 @@
+body{
+font-family: Arial;
+background:#f2f2f2;
+
+}
+
+.container{
+    
+width:400px;
+margin:10px auto;
+background:white;
+padding:20px;
+border-radius:6px;
+box-shadow:0px 0px 10px gray;
+}
+
+h2{
+    
+text-align:center;
+}
+
+.section{
+background:#2d8be6;
+color:white;
+padding:8px;
+/* margin-top:15px; */
+border-radius:4px;
+font-weight:bold;
+}
+
+input, select, textarea{
+width:100%;
+padding:8px;
+margin-top:5px;
+margin-bottom:10px;
+border:1px solid #ccc;
+border-radius:4px;
+}
+
+textarea{
+height:70px;
+}
+
+.buttons{
+text-align:center;
+}
+
+.save{
+background:green;
+color:white;
+border:none;
+padding:8px 15px;
+border-radius:4px;
+cursor:pointer;
+}
+
+.cancelbtn{
+background:red;
+color:white;
+border:none;
+padding:8px 15px;
+border-radius:4px;
+cursor:pointer;
+}
