@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+     <!-- <input type="text" id="city">
+    <button onclick="addcity()">Click</button>
+
+    <div id="add"></div>
+
+    <script>
+        function addcity(){
+        const value = document.getElementById("city").value;
+
+        const card = document.createElement("div");
+
+        card.innerText = value;
+
+        document.getElementById("add").appendChild(card);
+
+        document.getElementById("city").value = "";
+
+        }
+    </script> -->
+
+    <input type="text" id="name">
+    <input type="text" id="age">
+    <button onclick="addrow()">add</button>
+
+    <table id="mytable">
+        <tr>
+            <th>name</th>
+            <th>age</th>
+            </tr>
+        </table>
+        <script>
+            function addrow(){
+                const name=document.getElementById("name").value;
+                const age=document.getElementById("age").value;
+
+                const row=document.createElement("tr");
+
+                const col1=document.createElement("th");
+                col1.innerText = name;
+                
+                const col2=document.createElement("th");
+                col2.innerText =age;
+                
+
+                row.appendChild(col1);
+                row.appendChild(col2);
+                
+                document.getElementById("mytable").appendChild(row);
+
+            }
+        </script>     
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+     <p id="save">success</p>
+    <button type="button"
+    onclick="document.getElementById('save').style.fontSize='25px'"> alfin</button>
+      
+      <script src="style.js">
+      </Script>
+      <p id="msg" style="display: none;">happy birthday</p>
+   <button type="button" onclick="document.getElementById('msg').style.display=' block'"> click me</button>
+     <h2>show date and time</h2> 
+     <button type="button" onclick="document.getElementById('msg').style = date()"> display date and time</button>
+      <p id="msg"> sat dec 09 2023 10:20:45 gmt+5:30</p>
+      
+       <p id="msg">click this button to save.</p>
+      <button type="button" onclick="showmsg()">save</button>
+      <script src="style.js"></script>
+      <script>
+      //For debugging purposes, you can call the console.log()
+     //method in the browser to display
+console.log(5 +6);
+
+</script>
+    <p id="msg">show sum</p>
+    <button type="button"onclick="document.write(5 + 6)">Show</button>
+    <script> 
+      alert(5+6)
+    </script>
+    <hr>
+      <p id="msg"></p>
+     <script>
+      const customer={
+        FirstName:"alfin",
+        LastName:"jijo",
+        Destination:"Chittoor"
+      };
+      document.getElementById("msg").innerHTML=customer.FirstName + "is" + "opted"+ customer.Destination;
+
+
+     </script>
+     
+</body>
+
+
+</html>

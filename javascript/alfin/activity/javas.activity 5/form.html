@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+     <label for="firstname">first name:</label>
+    <input type="text" id="firstname" name="firstname"required>
+   <button type="submit">click</button><br><br>
+
+<label for="email">email:</label>
+    <input type="email"  name="email" pattern="/^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/;">
+   <button type="submit">click</button><br><br>
+ 
+   <label for="password">password:</label>
+    <input type="password" name="password" minlength="8">
+   <button type="submit">click</button> <br> <br>
+
+
+  <label for="number">phone number:</label>
+    <input type="number" name="number" pattern="[0-9]{10}">
+   <button type="submit">click</button> <br> <br>
+
+
+   <label for="number">age:</label>
+    <input type="number" name="age" min="18" max="60">
+   <button type="submit">click</button> <br> <br>
+
+   
+   <label for="firstname">First Name :
+  <input type="text"  name="firstname" id="firstname" >
+  <button type="submit" value="submit">Click</button>
+  </label><br><br>
+
+   <script>
+   function validation() {
+ let name = document.getElementById("firstname").value;
+ if (name == "") {
+ alert("Name is required");
+ return false;
+            }
+        }
+</script>
+
+ <label for="email">Email :
+<input type="text"  name="email" id="email" >
+<button type="submit" value="submit">Click</button>
+ </label><br><br> 
+
+<script>
+ function validation() {
+let email = document.getElementById("email").value;
+ let pattern = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/;
+ if (email.match(pattern)) {
+ alert("Enter valid email");
+ return false;
+    }
+ }
+ </script>
+
+
+ <label for="email">Password :
+ <input type="password"  name="Password" id="Password" >
+<button type="submit" value="submit">Click</button>
+ </label><br><br>
+
+ <script>
+function validation() {
+ let password = document.getElementById("Password").value;        
+ if (password.length < 8) {
+ alert("password is greater than 8 character");
+ return false;
+    }
+  }
+ </script>
+
+
+ <label for="Cpswd">Conform Password :
+ <input type="password"  name="CPswd" id="CPswd" >
+ <button type="submit" value="submit">Click</button>
+ </label><br><br>
+
+ <script>
+ function validation() {
+ let password = document.getElementById("Password").value;
+ let password1 = document.getElementById("CPassword").value;           
+ if (password != password1) {
+ alert("password dosent match");
+ return false;
+   }
+ }
+ </script>
+
+ 
+ <label for="phnumber">Phoneno:
+ <input type="number"  name="phnumber" id="Phoneno" >
+<button type="submit" value="submit">Click</button>
+</label><br><br>
+
+<script>
+function validation() {
+ let number = document.getElementById("Phoneno").value;
+ let pattern = /^[0-9]{10}$/;
+ if (pattern.test(number)) {
+  alert("Enter valid number");
+ return false;
+     }
+ }
+ </script>
+
+
+<label for="age">Age :
+<input type="number"  name="age" id="age" >
+ <button type="submit" value="submit">Click</button>
+</label><br><br>
+
+ <script>
+ function validation() {
+let age = document.getElementById("age").value;
+ let pattern = /^[0-9]{10}$/;
+ if (age < 18 || age > 60) {
+ alert("Age is between 18 and 60");
+ return false;
+     }
+ }
+</script>
+
+
+
+ <label for="username">username :
+ <input type="text"  name="username" id="username" >
+<button type="submit" value="submit">Click</button>
+ </label><br><br>
+
+ <script>
+function validateUsername() {
+let username = document.getElementById("username").value;
+ let pattern = /^[A-Za-z][A-Za-z0-9]{4,}$/;
+if (pattern.test(username)) {
+ alert("Invalid username");
+ return false;
+     }
+ }
+ </script>
+    </form>
+</body>
+</html>

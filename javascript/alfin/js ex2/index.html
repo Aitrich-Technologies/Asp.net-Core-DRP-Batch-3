@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js"></script>
+</head>
+<body>
+    <h2>Add New Destination</h2>
+    <div class="container">
+
+
+
+<form name="signupForm" id="signupForm" onsubmit="return validationForm()">
+
+<div class="section">Destination Details</div>
+
+<label>Destination Name *</label>
+<input type="text" name="dname"  id="name" placeholder="Enter destination name">
+
+<label>Country / Location *</label>
+<input type="text" id="location" name="location" placeholder="Enter location">
+
+<label>Category *</label>
+<select name="category" id="category">
+<option value="">Select category</option>
+<option value="beach">Beach</option>
+<option value="beach">Hill Station</option>
+<option value="beach">Adventure</option>
+<option value="beach">City</option>
+</select>
+
+<label>Description *</label>
+<textarea placeholder="Enter short description" name="description" id="description"></textarea>
+
+
+<div class="section">Package Details</div>
+
+<label>Standard Price *</label>
+<input type="number" id="price" name="standardprice" placeholder="Enter price">
+
+<label>Discount Price</label>
+<input type="number" name="discountprice" id="discountprice" placeholder="Enter discount price">
+
+<label>Duration (Nights) *</label>
+<input type="number" name="Duration" id="nights" placeholder="Enter nights">
+
+<label>Best Travel Season *</label>
+<select name="travelseason" id="season">
+<option value="">Select season</option>
+<option value="summer">Summer</option>
+<option value="summer">Winter</option>
+<option value="summer">Monsoon</option>
+</select>
+
+<div class="buttons">
+<button id="save" class="save">Save</button>
+<button onclick="formreset()" id="cancel" class="cancelbtn" type="reset" class="reset">Reset</button>
+ 
+</div>
+
+</form>
+
+</div>
+
+    
+</body>
+</html>
