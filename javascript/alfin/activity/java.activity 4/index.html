@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="msg"></p>
+    <p id="msg1"></p>
+
+<script>
+
+const destination = ["Malesia","Agra","Baali"];
+
+document.getElementById("msg").innerHTML =
+destination[0]+"<br>"+destination[1]+"<br>"+destination[2];
+
+</script>
+
+
+<p id="msg"></p>
+
+<script>
+
+const CustomerDetails = {
+
+    firstName : "John",
+
+    lastName : "Joseph",
+
+    destination :"Malesia"
+
+};
+
+document.getElementById("msg").innerHTML = CustomerDetails.firstName + " is " + " opted " + CustomerDetails.destination;
+
+</script>
+
+<script>
+
+const D = new Date();
+
+document.getElementById("msg").innerHTML = D;
+
+</script>
+<p id="msg"></p>
+<p id="msg1"></p>
+ <script>
+    let name = "Alfin", age = 23;
+    student = Boolean(true);
+    document.getElementById("msg").innerHTML = name + " " + age ;
+    document.getElementById("msg1").innerHTML = student ;
+</script>
+
+ <p id="msg"></p>
+<p id="msg1"></p>
+<p id="msg2"></p>
+<p id="msg3"></p>
+<p id="msg4"></p>
+
+
+<script>
+    var x = 10;
+    var a="Arya"
+    var b = true;
+    var c;
+    var d = null;
+
+    document.getElementById("msg").innerHTML = typeof x;
+    document.getElementById("msg1").innerHTML = typeof a;
+    document.getElementById("msg2").innerHTML = typeof b;
+    document.getElementById("msg3").innerHTML = typeof c;
+    document.getElementById("msg4").innerHTML = typeof d;
+
+</script>
+ 
+<p id="fruit"></p>
+<p id="fruit1"></p>
+<p id="fruit2"></p>
+<p id="fruit3"></p>
+
+<script>
+    const Array = ["plum","orange","mango","jackfruit","grapes"];
+
+    document.getElementById("fruit").innerHTML = Array[0];
+    document.getElementById("fruit1").innerHTML = Array[4];
+    Array.push("apple");
+    document.getElementById("fruit2").innerHTML =  Array;
+    Array.pop("apple");
+    document.getElementById("fruit3").innerHTML = Array;
+
+ </script>
+
+<p id="class"></p>
+<script>
+
+let Student = {
+
+    name : "Alfin",
+    grade: "A"
+
+};
+
+document.getElementById("class").innerHTML = Student.name + " " + Student.grade;
+
+        Student.grade = "c";
+        document.getElementById("class").innerHTML = Student.grade;
+     Student.city = "Ekm";
+ document.getElementById("class").innerHTML = Student.city;
+
+</script>
+</body>
+</html>
