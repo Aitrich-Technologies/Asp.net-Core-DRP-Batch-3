@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Destination</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</head>
+<style>
+    /* body {
+        background: linear-gradient(0deg, lightblue,rgb(89, 89, 251));
+    } */
+    
+    .heading {
+        padding: 0px 70px;
+        margin: 40px 30px;
+        color: whitesmoke;
+    }
+    .heading h4 {
+        text-decoration: underline;
+    }
+    .addbutton {
+        border-radius: 20px;
+        padding: 0px 20px;
+        border: 2px solid lightgreen;
+        background-color: white;
+        color: black;
+    }
+    .addbutton:hover {
+        background-color: rgb(89, 89, 251);
+        transition: 0.5s ease;
+    }
+    .content {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        padding: 20px;
+        padding-top: 50px;
+    }
+    .card {
+        
+        padding: 8px;
+        border: 2px solid rgb(200, 246, 244);
+        background: linear-gradient(0deg, rgb(105, 211, 247),rgb(61, 61, 247));
+
+    }
+    .card img {
+        height: 200px;
+    }
+    .card:hover {
+        box-shadow: 0px 0px 30px 3px black;
+        transform: translateY(-10px);
+        transition: 2s ease;
+    }
+
+    .card-body a {
+        width: 40%;
+    }
+    .button {
+        width: 130%;
+    }
+    .editbtn {
+        border: 2px solid rgb(0, 132, 255);
+        border-radius: 20px 0px 0px 20px;
+    }
+    .editbtn:hover {
+        color: white;
+        background-color: rgb(0, 132, 255);
+    }
+    .dltbtn {
+        border: 2px solid red;
+        border-radius: 0px 20px 20px 0px;
+    }
+    .dltbtn:hover {
+        color: white;
+        background-color: red;
+    }
+    .editbtn,.dltbtn {
+        padding: 7px;
+        text-align: center;
+        text-decoration: none;
+        color: black;
+        
+    }
+
+     
+</style>
+<body>
+
+   <nav class="navbar navbar-expand-lg navbar ">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><img src="images/logo.jpeg" class="logo" alt=""></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link " aria-current="page" href="home.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="destination.html">Destination</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="managetour.html">Manage Tour</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="booking.html" >Booking Requests</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="editrequest.html" >Edit Requests</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<div class="heading d-flex ">
+    <h4>Destinations and Packages</h4>
+    <button class="ms-auto addbutton ">Add destination</button>
+</div>
+
+<div class="content">
+    <div class="card" style="width: 17rem;">
+        <img src="images/Dubai.png" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">Dubai</h5>
+            <p class="card-text">The history of human settlement in the area now defined as the United Arab Emirates is complex.</p>
+            <div class="d-flex button">
+                <a href="#" class="  editbtn m-0">Edit</a>
+                <a href="#" class="  dltbtn m-0">Delete</a>
+            </div> 
+        </div>
+    </div>
+    <div class="card" style="width: 17rem;">
+        <img src="images/Ladakh.png" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">Ladakh</h5>
+            <p class="card-text">a high-altitude region of north-western India, Pakistan, and China, containing the Ladakh and Karakoram.</p>
+            <div class="d-flex button">
+                <a href="#" class="  editbtn m-0">Edit</a>
+                <a href="#" class="  dltbtn m-0">Delete</a>
+            </div> 
+        </div>
+    </div>
+    <div class="card" style="width: 17rem;">
+        <img src="images/INDONESIA.png" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">Indonesia</h5>
+            <p class="card-text">a SE Asian country consisting of many islands in the Malay Archipelago; population 257,600,000 (estimated 2015); </p>
+            <div class="d-flex button">
+                <a href="#" class="  editbtn m-0">Edit</a>
+                <a href="#" class="  dltbtn m-0">Delete</a>
+            </div> 
+        </div>
+    </div>
+    <div class="card" style="width: 17rem;">
+        <img src="images/Kerala.png" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">Kerala</h5>
+            <p class="card-text">a state on the coast of south-western India; capital, Thiruvananthapuram. It was created in 1956.</p>
+            <div class="d-flex button">
+                <a href="#" class="  editbtn m-0">Edit</a>
+                <a href="#" class="  dltbtn m-0">Delete</a>
+            </div> 
+        </div>
+    </div>
+    </div>
+
+    <iframe src="footer.html"  scrolling="no" frameborder="0"></iframe>
+</body>
+</html>
