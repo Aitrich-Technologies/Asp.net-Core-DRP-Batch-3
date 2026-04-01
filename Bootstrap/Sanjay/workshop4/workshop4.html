@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tour Booking Overview</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Bootstrap CSS & Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .card-header {
+      background-color: #e9ecef;
+      font-weight: bold;
+    }
+    .initials-circle {
+      width: 60px;
+      height: 60px;
+      background-color: #0d6efd;
+      color: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-right: 15px;
+    }
+    .tour-description {
+      background-color: #f0f8ff;
+      padding: 1rem;
+      border-radius: 0.25rem;
+    }
+    .price {
+      border-bottom: 2px solid rgb(226, 223, 223);
+    }
+
+    .price h6 {
+      color: grey;
+      margin: 5px;
+      
+    }
+    .price p {
+      margin-bottom: 0px;
+      margin: 5px;
+    }
+    .totalamount {
+      border: none;
+      background-color: #f7f7f7;
+    }
+    .baseprice p {
+      color: gray;
+    }
+    .footer {
+      background-color: #343a40;
+      color: #fff;
+      padding: 2rem 0 1rem;
+    }
+    .footer a {
+      color: #ccc;
+      text-decoration: none;
+    }
+    .footer a:hover {
+      color: #fff;
+    }
+    .footer-contents {
+      display: flex;
+      flex-direction: column;
+    }
+    .footer-contents input {
+      border-radius: 10px 0px 0px 10px;
+    }
+    .footer-contents button {
+      margin: 0px;
+      border: none;
+      border-radius: 0px 10px 10px 0px;
+      padding: 0px 15px;
+    }
+    .footer-bottom {
+      border-top: 1px solid #555;
+      padding-top: 1rem;
+      margin-top: 1rem;
+    }
+    .footer-bottom img {
+      margin: 2px;
+    }
+    .footer-flex {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 2rem;
+    }
+    .footer-logo {
+      width: 60px;
+      height: 60px;
+      background-color: #f8f3f3;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      color: #fff;
+      font-size: 1.2rem;
+    }
+    @media (max-width: 768px) {
+      .footer-flex {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
+  <div class="footer-logo">
+  <img src="Images/logo.png" alt="Logo" class="img-fluid" style="max-height: 100%; max-width: 100%;">
+</div>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Destinations</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Manage Tour</a></li>
+        <li class="nav-item"><a class="nav-link text-white" href="#">Booking Requests</a></li>
+        <li class="nav-item"><a class="nav-link text-white" href="#">Manage Consultant</a></li>
+
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- Back Button -->
+<div class="container my-3">
+  <a href="#" class="btn btn-outline-secondary"><i class="bi bi-arrow-left"></i> Back to Booking</a>
+</div>
+
+<!-- Two Column Layout -->
+<div class="container my-4">
+  <div class="row g-4">
+    <!-- Left Column -->
+    <div class="col-md-6">
+      <!-- Passenger Information -->
+      <div class="card mb-3">
+        <div class="card-header">Passenger Information</div>
+        <div class="card-body">
+          <div class="d-flex justify-content-between align-items-center mb-3">
+            <div class="d-flex align-items-center">
+              <div class="initials-circle">JK</div>
+              <h5 class="mb-0">Jaseel KC</h5>
+            </div>
+            <div>
+              <button class="btn btn-sm btn-outline-primary me-2"><i class="bi bi-pencil"></i> Edit</button>
+              <button class="btn btn-sm btn-outline-secondary"><i class="bi bi-printer"></i> Print</button>
+            </div>
+          </div>
+          <p><strong>Gender:</strong> Male</p>
+          <p><strong>Date of Birth:</strong> June 9, 1998 (27 years old)</p>
+          <p><strong>Citizenship:</strong> Germany</p>
+          <p><strong>Place of Birth:</strong> Germany</p>
+          <p><strong>Participant Type:</strong> <span class="badge bg-primary">STAFF</span></p>
+          <p><strong>Booking ID:</strong> 6e214475-d378-49c2-9311-9565f534dd5b</p>
+        </div>
+      </div>
+
+      <!-- Passport Information -->
+      <div class="card mb-3">
+        <div class="card-header">Passport Information</div>
+        <div class="card-body">
+          <div class="alert alert-warning">
+            ⚠️ <strong>Warning:</strong> Passport expires within 6 months!
+          </div>
+          <p><strong>Passport Number:</strong> SDFSDEGDFGFCHDFGGDF</p>
+          <p><strong>Issue Date:</strong> 📅 July 14, 1994</p>
+          <p><strong>Expiry Date:</strong> 📅 <span class="text-danger">November 25, 2004</span></p>
+        </div>
+      </div>
+
+      <!-- Additional Participants -->
+      <div class="card mb-3">
+        <div class="card-header">Additional Participants (3)</div>
+        <div class="card-body">
+          <div class="accordion" id="participantsAccordion">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingOne">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
+                  Mohammed Faheem
+                </button>
+              </h2>
+              <div id="collapseOne" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                  Gender: Male<br>Date of Birth: January 1, 1970
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingTwo">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
+                  Rahul MK
+                </button>
+              </h2>
+              <div id="collapseTwo" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                  Gender: Male<br>Date of Birth: January 1, 1970
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingThree">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree">
+                  Zameel KB
+                </button>
+              </h2>
+              <div id="collapseThree" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                  Gender: Male<br>Date of Birth: January 1, 1970
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right Column -->
+    <div class="col-md-6">
+      <!-- Tour Details -->
+      <div class="card mb-3">
+        <div class="card-header">Tour Details</div>
+        <div class="card-body">
+           <div class="tour-description">
+          <p><strong>Tour Name:</strong> Ancient Rome & Colosseum Tour</p>
+         
+            <strong>Description:</strong> Step back in time as you explore the Colosseum, Roman Forum, and Palatine Hill with an expert guide.
+          </div>
+          <p class="mt-3"><strong>Departure Date:</strong> October 15, 2025</p>
+          <p><strong>Arrival Date:</strong> October 23, 2025</p>
+          <p><strong>Duration:</strong> 8 Nights</p>
+          <p><strong>Tour Status:</strong> <span class="badge bg-warning text-dark">Save</span></p>
+                    <p><strong>Tour ID:</strong> 85f980bc-6f3e-423d-9a8d-086de3ae784</p>
+        </div>
+      </div>
+
+
+      <!-- price-summary -->
+      <div class="card mb-3">
+        <div class="card-header">Price Summary</div>
+        <div class="card-body">
+          <div class="d-flex price" id="">
+            <h6>Tour Price</h6>
+            <p class="ms-auto text-success "><b>$2500</b></p>
+          </div>
+          <div class="d-flex price baseprice" id="">
+            <h6>Base Price</h6>
+            <p class="ms-auto  "><b>$2500</b></p>
+          </div>
+          <div class="d-flex price" id="">
+            <h6>Taxes & Fees</h6>
+            <p class="ms-auto  "><b>$0</b></p>
+          </div>
+          <div class="d-flex price totalamount" id="">
+            <h6 class="text-dark"><b> Total Amount</b></h6>
+            <p class="ms-auto text-primary "><b>$2500</b></p>
+          </div>
+        </div>
+      </div>
+  
+
+
+
+      <!-- Quick Actions -->
+      <div class="card mb-3">
+        <div class="card-header">Quick Actions</div>
+        <div class="card-body">
+          <div class="d-grid gap-2">
+            <button class="btn btn-outline-primary"><i class="bi bi-envelope"></i> Send Confirmation Email</button>
+            <button class="btn btn-outline-primary"><i class="bi bi-download"></i> Download Itinerary</button>
+            <button class="btn btn-outline-primary"><i class="bi bi-credit-card"></i> Payment History</button>
+            <button class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#modal"><i class="bi bi-x-circle"></i> Cancel Booking</button>
+          </div>
+        </div>
+      </div>
+    </div>
+     <div class="alert alert-info">
+    <h5>Need Help?</h5>
+    <p>Contact us at <a href="mailto:support@travelmanager.com">support@travelmanager.com</a> or call +49 123 456 789</p>
+  </div>
+</div>
+  </div>
+</div>
+
+<div class="modal fade" id="modal" >
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-danger" >Danger</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <p>Are you sure want to cancel booking?</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Cancel</button>
+        <button type="button" class="btn btn-success" data-bs-dismiss="modal">Back</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+<!-- Footer -->
+ <footer class="footer p-4">
+  <div class="footer-flex">
+    <div>
+      <img class="footer-logo" src="./Images/logo.png" alt="">
+    </div>
+    <div class="footer-contents">
+      <div><h5>Quick Links</h5></div>
+      <a href="">Home</a>
+      <a href="">Destinations</a>
+      <a href="">Tours</a>
+      <a href="">Booking</a>
+    </div>
+    <div class="footer-contents">
+      <div><h5>Support</h5></div>
+      <a href="">FAQs</a>
+      <a href="">Contact</a>
+      <a href="">Privacy Policy</a>
+      <a href="">Terms</a>
+    </div>
+    <div class="footer-contents ">
+      <div><h5>Subscribe</h5></div>
+      <div class="d-flex"><input type="email" class="form-control" placeholder="Enter your email"><button class="bg-primary text-white">Join</button></div>
+    </div>
+  </div>
+
+  <div class="footer-bottom  d-flex">
+    <div class="">
+      <h6>&copy 2025. All rights reserved.</h6>
+    </div>
+    <div class="ms-auto">
+      <img src="Images/facebook (2).png" alt=""><img src="Images/twitter (1).png" alt=""><img src="Images/instagram (2).png" alt="">
+    </div>
+  </div>
+ </footer>
+
+
+
+<!-- Bootstrap JS Bundle -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
