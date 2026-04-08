@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+ 
+</head>
+<body>
+   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+<div class="container">
+
+<a class="navbar-brand" href="#">Travel Admin</a>
+
+<button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#menu">
+<span class="navbar-toggler-icon"></span>
+</button>
+
+<div class="collapse navbar-collapse" id="menu">
+<ul class="navbar-nav ms-auto">
+
+<li class="nav-item">
+<a class="nav-link" href="#">Dashboard</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="#">Destinations</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link active" href="#">Bookings</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link" href="#">Logout</a>
+</li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+
+
+<!-- Page Content -->
+<div class="container mt-4">
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+
+<h3 class="page-title">Booking List</h3>
+
+<input type="text" class="form-control w-25" placeholder="Search booking">
+
+</div>
+
+
+<div class="table-container">
+
+<div class="table-responsive">
+
+<table class="table table-bordered table-hover align-middle">
+
+<thead class="table-dark">
+
+<tr>
+<th>#</th>
+<th>Customer Name</th>
+<th>Destination</th>
+<th>Travel Date</th>
+<th>Persons</th>
+<th>Price</th>
+<th>Status</th>
+<th>Actions</th>
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+<td>1</td>
+<td>Rahul Sharma</td>
+<td>Goa</td>
+<td>12 Apr 2026</td>
+<td>2</td>
+<td>₹15,000</td>
+<td><span class="badge bg-success">Confirmed</span></td>
+<td>
+<button class="btn btn-sm btn-info">View</button>
+<button class="btn btn-sm btn-warning">Edit</button>
+<button class="btn btn-sm btn-danger">Delete</button>
+</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Anjali Nair</td>
+<td>Manali</td>
+<td>18 Apr 2026</td>
+<td>4</td>
+<td>₹32,000</td>
+<td><span class="badge bg-warning text-dark">Pending</span></td>
+<td>
+<button class="btn btn-sm btn-info">View</button>
+<button class="btn btn-sm btn-warning">Edit</button>
+<button class="btn btn-sm btn-danger">Delete</button>
+</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Vikram Singh</td>
+<td>Dubai</td>
+<td>25 Apr 2026</td>
+<td>3</td>
+<td>₹85,000</td>
+<td><span class="badge bg-success">Confirmed</span></td>
+<td>
+<button class="btn btn-sm btn-info">View</button>
+<button class="btn btn-sm btn-warning">Edit</button>
+<button class="btn btn-sm btn-danger">Delete</button>
+</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>Meera Joseph</td>
+<td>Kashmir</td>
+<td>30 Apr 2026</td>
+<td>2</td>
+<td>₹40,000</td>
+<td><span class="badge bg-danger">Cancelled</span></td>
+<td>
+<button class="btn btn-sm btn-info">View</button>
+<button class="btn btn-sm btn-warning">Edit</button>
+<button class="btn btn-sm btn-danger">Delete</button>
+</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td>Arjun Kumar</td>
+<td>Bali</td>
+<td>05 May 2026</td>
+<td>2</td>
+<td>₹70,000</td>
+<td><span class="badge bg-warning text-dark">Pending</span></td>
+<td>
+<button class="btn btn-sm btn-info">View</button>
+<button class="btn btn-sm btn-warning">Edit</button>
+<button class="btn btn-sm btn-danger">Delete</button>
+</td>
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+
+<!-- Pagination -->
+
+<nav>
+
+<ul class="pagination justify-content-end">
+
+<li class="page-item disabled">
+<a class="page-link">Previous</a>
+</li>
+
+<li class="page-item active">
+<a class="page-link">1</a>
+</li>
+
+<li class="page-item">
+<a class="page-link">2</a>
+</li>
+
+<li class="page-item">
+<a class="page-link">3</a>
+</li>
+
+<li class="page-item">
+<a class="page-link">Next</a>
+</li>
+
+</ul>
+
+</nav>
+
+</div>
+
+</div>
+<style>
+    footer {
+        padding: 20px;
+        color: white;
+        background-color: rgb(32, 32, 32);
+    }
+
+    .footer-top {
+        padding: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .footer-links input {
+        border-radius: 10px 0px 0px 10px ;
+    }
+    .footer-links button {
+        border-radius: 0px 10px 10px 0px;
+    }
+    .footer-links {
+        display: flex;
+        flex-direction: column;
+    }
+    .footer-links a {
+        color: white;
+        text-decoration: none;
+    }
+    .footer-links a:hover {
+        transform: scale(1.1);
+        transition: 1s ease;
+    }
+    .footer-bottom {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 10px;
+        border-top: 1px solid rgb(238, 237, 237);
+    }
+</style>
+<!-- <body> -->
+    <footer class=" ">
+        <div class="footer-top">
+        <div><img src="" alt="image"></div>
+        <div class="footer-links">
+            <h4 class="">Quick links</h4>
+            <a href="">Home</a>
+            <a href="">Destination</a>
+            <a href="">Tours</a>
+            <a href="">Booking</a>
+        </div>
+        <div class="footer-links">
+            <h4>Support</h4>
+            <a href="">FAQs</a>
+            <a href="">Contact</a>
+            <a href="">Privacy Policy</a>
+            <a href="">Terms</a>
+        </div>
+        <div class="footer-links">
+            <h4>Search</h4>
+           <div class="d-flex"> <input type="email" placeholder="Ente your email" class="form-control"><button class="btn btn-primary">Join</button></div>
+        </div>
+        </div>
+        <div class="footer-bottom">
+            <div>
+                <h6>&copy 2026 All rights reserved.</h6>
+            </div>
+            <div>
+                <img src="images/facebook.png" alt="image">
+                <img src="images/instagram (1).png" alt="image">
+                <img src="images/twitter.png" alt="image">
+            </div>
+        </div>
+    </footer>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>  
+</body>
+</html>
