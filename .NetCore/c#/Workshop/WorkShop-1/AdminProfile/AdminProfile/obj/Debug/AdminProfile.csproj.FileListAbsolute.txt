@@ -1,0 +1,7 @@
+C:\Users\razal\Desktop\Git Material\Asp.NetCore_Material\chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe.config
+C:\Users\razal\Desktop\Git Material\Asp.NetCore_Material\chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe
+C:\Users\razal\Desktop\Git Material\Asp.NetCore_Material\chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.pdb
+C:\Users\razal\Desktop\Git Material\Asp.NetCore_Material\chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.AssemblyReference.cache
+C:\Users\razal\Desktop\Git Material\Asp.NetCore_Material\chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.CoreCompileInputs.cache
+C:\Users\razal\Desktop\Git Material\Asp.NetCore_Material\chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.exe
+C:\Users\razal\Desktop\Git Material\Asp.NetCore_Material\chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.pdb
