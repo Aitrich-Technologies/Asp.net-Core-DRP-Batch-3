@@ -1,0 +1,14 @@
+C:\Users\PRIME\Desktop\C#\enum_struct\enum_struct\bin\Debug\net10.0\enum_struct.exe
+C:\Users\PRIME\Desktop\C#\enum_struct\enum_struct\bin\Debug\net10.0\enum_struct.deps.json
+C:\Users\PRIME\Desktop\C#\enum_struct\enum_struct\bin\Debug\net10.0\enum_struct.runtimeconfig.json
+C:\Users\PRIME\Desktop\C#\enum_struct\enum_struct\bin\Debug\net10.0\enum_struct.dll
+C:\Users\PRIME\Desktop\C#\enum_struct\enum_struct\bin\Debug\net10.0\enum_struct.pdb
+C:\Users\PRIME\Desktop\C#\enum_struct\enum_struct\obj\Debug\net10.0\enum_struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRIME\Desktop\C#\enum_struct\enum_struct\obj\Debug\net10.0\enum_struct.AssemblyInfoInputs.cache
+C:\Users\PRIME\Desktop\C#\enum_struct\enum_struct\obj\Debug\net10.0\enum_struct.AssemblyInfo.cs
+C:\Users\PRIME\Desktop\C#\enum_struct\enum_struct\obj\Debug\net10.0\enum_struct.csproj.CoreCompileInputs.cache
+C:\Users\PRIME\Desktop\C#\enum_struct\enum_struct\obj\Debug\net10.0\enum_struct.dll
+C:\Users\PRIME\Desktop\C#\enum_struct\enum_struct\obj\Debug\net10.0\refint\enum_struct.dll
+C:\Users\PRIME\Desktop\C#\enum_struct\enum_struct\obj\Debug\net10.0\enum_struct.pdb
+C:\Users\PRIME\Desktop\C#\enum_struct\enum_struct\obj\Debug\net10.0\enum_struct.genruntimeconfig.cache
+C:\Users\PRIME\Desktop\C#\enum_struct\enum_struct\obj\Debug\net10.0\ref\enum_struct.dll
