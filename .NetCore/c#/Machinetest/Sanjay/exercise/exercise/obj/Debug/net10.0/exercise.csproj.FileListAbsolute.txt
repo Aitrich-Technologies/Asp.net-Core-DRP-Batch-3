@@ -1,0 +1,14 @@
+C:\Users\PRIME\Desktop\Exercise2\exercise\exercise\bin\Debug\net10.0\exercise.exe
+C:\Users\PRIME\Desktop\Exercise2\exercise\exercise\bin\Debug\net10.0\exercise.deps.json
+C:\Users\PRIME\Desktop\Exercise2\exercise\exercise\bin\Debug\net10.0\exercise.runtimeconfig.json
+C:\Users\PRIME\Desktop\Exercise2\exercise\exercise\bin\Debug\net10.0\exercise.dll
+C:\Users\PRIME\Desktop\Exercise2\exercise\exercise\bin\Debug\net10.0\exercise.pdb
+C:\Users\PRIME\Desktop\Exercise2\exercise\exercise\obj\Debug\net10.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRIME\Desktop\Exercise2\exercise\exercise\obj\Debug\net10.0\exercise.AssemblyInfoInputs.cache
+C:\Users\PRIME\Desktop\Exercise2\exercise\exercise\obj\Debug\net10.0\exercise.AssemblyInfo.cs
+C:\Users\PRIME\Desktop\Exercise2\exercise\exercise\obj\Debug\net10.0\exercise.csproj.CoreCompileInputs.cache
+C:\Users\PRIME\Desktop\Exercise2\exercise\exercise\obj\Debug\net10.0\exercise.dll
+C:\Users\PRIME\Desktop\Exercise2\exercise\exercise\obj\Debug\net10.0\refint\exercise.dll
+C:\Users\PRIME\Desktop\Exercise2\exercise\exercise\obj\Debug\net10.0\exercise.pdb
+C:\Users\PRIME\Desktop\Exercise2\exercise\exercise\obj\Debug\net10.0\exercise.genruntimeconfig.cache
+C:\Users\PRIME\Desktop\Exercise2\exercise\exercise\obj\Debug\net10.0\ref\exercise.dll
