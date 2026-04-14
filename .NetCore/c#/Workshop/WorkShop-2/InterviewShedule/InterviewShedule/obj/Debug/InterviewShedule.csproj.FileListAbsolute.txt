@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\c#\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe.config
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\c#\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\c#\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.pdb
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\c#\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\c#\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\c#\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.exe
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\c#\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.pdb
