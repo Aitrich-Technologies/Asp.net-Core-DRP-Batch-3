@@ -1,0 +1,14 @@
+C:\Users\PRIME\Desktop\C#\Array_2\Array_2\bin\Debug\net10.0\Array_2.exe
+C:\Users\PRIME\Desktop\C#\Array_2\Array_2\bin\Debug\net10.0\Array_2.deps.json
+C:\Users\PRIME\Desktop\C#\Array_2\Array_2\bin\Debug\net10.0\Array_2.runtimeconfig.json
+C:\Users\PRIME\Desktop\C#\Array_2\Array_2\bin\Debug\net10.0\Array_2.dll
+C:\Users\PRIME\Desktop\C#\Array_2\Array_2\bin\Debug\net10.0\Array_2.pdb
+C:\Users\PRIME\Desktop\C#\Array_2\Array_2\obj\Debug\net10.0\Array_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRIME\Desktop\C#\Array_2\Array_2\obj\Debug\net10.0\Array_2.AssemblyInfoInputs.cache
+C:\Users\PRIME\Desktop\C#\Array_2\Array_2\obj\Debug\net10.0\Array_2.AssemblyInfo.cs
+C:\Users\PRIME\Desktop\C#\Array_2\Array_2\obj\Debug\net10.0\Array_2.csproj.CoreCompileInputs.cache
+C:\Users\PRIME\Desktop\C#\Array_2\Array_2\obj\Debug\net10.0\Array_2.dll
+C:\Users\PRIME\Desktop\C#\Array_2\Array_2\obj\Debug\net10.0\refint\Array_2.dll
+C:\Users\PRIME\Desktop\C#\Array_2\Array_2\obj\Debug\net10.0\Array_2.pdb
+C:\Users\PRIME\Desktop\C#\Array_2\Array_2\obj\Debug\net10.0\Array_2.genruntimeconfig.cache
+C:\Users\PRIME\Desktop\C#\Array_2\Array_2\obj\Debug\net10.0\ref\Array_2.dll
