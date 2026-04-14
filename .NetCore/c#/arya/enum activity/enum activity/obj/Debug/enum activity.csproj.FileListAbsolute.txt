@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\enum activity\enum activity\bin\Debug\enum activity.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\enum activity\enum activity\bin\Debug\enum activity.exe
+C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\enum activity\enum activity\bin\Debug\enum activity.pdb
+C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\enum activity\enum activity\obj\Debug\enum activity.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\enum activity\enum activity\obj\Debug\enum activity.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\enum activity\enum activity\obj\Debug\enum activity.exe
+C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\enum activity\enum activity\obj\Debug\enum activity.pdb
