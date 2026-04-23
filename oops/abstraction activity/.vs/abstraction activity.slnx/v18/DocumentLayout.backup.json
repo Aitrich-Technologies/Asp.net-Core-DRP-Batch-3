@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\abstraction activity\\abstraction activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\abstraction activity\\abstraction activity\\adventureguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\adventureguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\abstraction activity\\abstraction activity\\cityguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\cityguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\abstraction activity\\abstraction activity\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\abstraction activity\\abstraction activity\\standardroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\standardroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\luxurypackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\luxurypackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\abstraction activity\\abstraction activity\\deluxeroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\deluxeroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\abstraction activity\\abstraction activity\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\abstraction activity\\abstraction activity\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\abstraction activity\\abstraction activity\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\abstraction activity\\abstraction activity\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\abstraction activity\\abstraction activity\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\tourpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\tourpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\cardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\cardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\budgetpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\budgetpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\upipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\upipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\internationaltour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\internationaltour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\domestictour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F056D920-7709-4966-86BC-7ED3EC84208C}|abstraction activity\\abstraction activity.csproj|solutionrelative:abstraction activity\\domestictour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adventureguide.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Adventureguide.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Adventureguide.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Adventureguide.cs",
+              "RelativeToolTip": "abstraction activity\\Adventureguide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:31:29.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cityguide.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Cityguide.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Cityguide.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Cityguide.cs",
+              "RelativeToolTip": "abstraction activity\\Cityguide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:30:27.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guide.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Guide.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Guide.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Guide.cs",
+              "RelativeToolTip": "abstraction activity\\Guide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:28:52.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Deluxeroom.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Deluxeroom.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Deluxeroom.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Deluxeroom.cs",
+              "RelativeToolTip": "abstraction activity\\Deluxeroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:11:33.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Standardroom.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Standardroom.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Standardroom.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Standardroom.cs",
+              "RelativeToolTip": "abstraction activity\\Standardroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:09:09.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Hotel.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Hotel.cs",
+              "RelativeToolTip": "abstraction activity\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:06:59.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Train.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Train.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Train.cs",
+              "RelativeToolTip": "abstraction activity\\Train.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:04:09.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Flight.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Flight.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Flight.cs",
+              "RelativeToolTip": "abstraction activity\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:02:27.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Program.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Program.cs",
+              "RelativeToolTip": "abstraction activity\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:27:08.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Bus.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Bus.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Bus.cs",
+              "RelativeToolTip": "abstraction activity\\Bus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:00:40.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Luxurypackage.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Luxurypackage.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Luxurypackage.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Luxurypackage.cs",
+              "RelativeToolTip": "abstraction activity\\Luxurypackage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:28:37.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Payment.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Payment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Payment.cs",
+              "RelativeToolTip": "abstraction activity\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:17:25.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Transport.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Transport.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Transport.cs",
+              "RelativeToolTip": "abstraction activity\\Transport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:57:43.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tourpackage.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Tourpackage.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Tourpackage.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Tourpackage.cs",
+              "RelativeToolTip": "abstraction activity\\Tourpackage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:24:35.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Tour.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Tour.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Tour.cs",
+              "RelativeToolTip": "abstraction activity\\Tour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:28:05.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Budgetpackage.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Budgetpackage.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Budgetpackage.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Budgetpackage.cs",
+              "RelativeToolTip": "abstraction activity\\Budgetpackage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:30:30.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cardpayment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Cardpayment.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Cardpayment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Cardpayment.cs",
+              "RelativeToolTip": "abstraction activity\\Cardpayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:19:40.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Upipayment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Upipayment.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Upipayment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Upipayment.cs",
+              "RelativeToolTip": "abstraction activity\\Upipayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:21:12.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Domestictour.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Domestictour.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Domestictour.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Domestictour.cs",
+              "RelativeToolTip": "abstraction activity\\Domestictour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:31:19.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Internationaltour.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Internationaltour.cs",
+              "RelativeDocumentMoniker": "abstraction activity\\Internationaltour.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\abstraction activity\\abstraction activity\\Internationaltour.cs",
+              "RelativeToolTip": "abstraction activity\\Internationaltour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:33:51.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
