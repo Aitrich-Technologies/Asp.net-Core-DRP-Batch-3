@@ -10,17 +10,7 @@ function validationForm(){
     var travelseason=form.travelseason.value;
     
     
-    var name1 = /^[A-Za-z]{3,}$/;
-    if(dname === ""){
-        alert("Enter Destination name");
-        document.getElementById("name").focus();
-         return false;
-    }
-     
-    else if(!name1.test(dname)){
-        alert("minimum 3 characters");
-        return false;
-    }
+   
 
     if(location===""){
         alert(" enter Location ");
