@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\chapter 2\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\Provider_App.csproj",
+      "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\c#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\Provider_App.csproj",
       "projectName": "Provider_App",
-      "projectPath": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\chapter 2\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\Provider_App.csproj",
+      "projectPath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\c#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\Provider_App.csproj",
       "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\chapter 2\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\obj\\",
+      "outputPath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\c#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
