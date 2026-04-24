@@ -1,8 +1,20 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "JmGAOW9I6Ww=",
   "success": true,
   "projectFilePath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\c#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\Provider_App.csproj",
   "expectedPackageFiles": [],
+=======
+  "dgSpecHash": "va/aAjL1xwk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\.NetCore\\c#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\Provider_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
+>>>>>>> 9ca083803d3f757a45b7f374d23aeea8a2aa104c
   "logs": []
 }

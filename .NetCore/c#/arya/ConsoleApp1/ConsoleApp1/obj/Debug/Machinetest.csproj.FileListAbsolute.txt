@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\ConsoleApp1\ConsoleApp1\obj\Debug\Machinetest.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\ConsoleApp1\ConsoleApp1\obj\Debug\Machinetest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
