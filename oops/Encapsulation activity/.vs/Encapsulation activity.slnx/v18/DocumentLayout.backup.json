@@ -7,7 +7,19 @@
       "RelativeMoniker": "D:0:0:{BEA24846-53D0-4EE3-901E-C52F76BB28C3}|Encapsulation activity\\Encapsulation activity.csproj|solutionrelative:encapsulation activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEA24846-53D0-4EE3-901E-C52F76BB28C3}|Encapsulation activity\\Encapsulation activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\encapsulation activity\\encapsulation activity\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\Encapsulation activity\\Encapsulation activity\\obj\\Debug\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Encapsulation activity\\obj\\Debug\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA24846-53D0-4EE3-901E-C52F76BB28C3}|Encapsulation activity\\Encapsulation activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\Encapsulation activity\\encapsulation activity\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA24846-53D0-4EE3-901E-C52F76BB28C3}|Encapsulation activity\\Encapsulation activity.csproj|solutionrelative:encapsulation activity\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA24846-53D0-4EE3-901E-C52F76BB28C3}|Encapsulation activity\\Encapsulation activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\Encapsulation activity\\encapsulation activity\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA24846-53D0-4EE3-901E-C52F76BB28C3}|Encapsulation activity\\Encapsulation activity.csproj|solutionrelative:encapsulation activity\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA24846-53D0-4EE3-901E-C52F76BB28C3}|Encapsulation activity\\Encapsulation activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\Encapsulation activity\\encapsulation activity\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEA24846-53D0-4EE3-901E-C52F76BB28C3}|Encapsulation activity\\Encapsulation activity.csproj|solutionrelative:encapsulation activity\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,20 +30,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\Encapsulation activity\\Encapsulation activity\\ILogin.cs",
+              "RelativeDocumentMoniker": "Encapsulation activity\\ILogin.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\Encapsulation activity\\Encapsulation activity\\ILogin.cs",
+              "RelativeToolTip": "Encapsulation activity\\ILogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T10:15:55.763Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": ".NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\Encapsulation activity\\Encapsulation activity\\obj\\Debug\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "Encapsulation activity\\obj\\Debug\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\Encapsulation activity\\Encapsulation activity\\obj\\Debug\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
+              "RelativeToolTip": "Encapsulation activity\\obj\\Debug\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T09:56:40.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\Encapsulation activity\\Encapsulation activity\\Booking.cs",
+              "RelativeDocumentMoniker": "Encapsulation activity\\Booking.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\Encapsulation activity\\Encapsulation activity\\Booking.cs",
+              "RelativeToolTip": "Encapsulation activity\\Booking.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:53:29.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Tour.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\Encapsulation activity\\Encapsulation activity\\Tour.cs",
               "RelativeDocumentMoniker": "Encapsulation activity\\Tour.cs",
               "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\Encapsulation activity\\Encapsulation activity\\Tour.cs",
               "RelativeToolTip": "Encapsulation activity\\Tour.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCUAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T03:30:26.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T03:30:26.721Z"
             },
             {
               "$type": "Document",
@@ -41,7 +88,7 @@
               "RelativeDocumentMoniker": "Encapsulation activity\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\Encapsulation activity\\Encapsulation activity\\Program.cs",
               "RelativeToolTip": "Encapsulation activity\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T03:30:00.897Z",
               "EditorCaption": ""

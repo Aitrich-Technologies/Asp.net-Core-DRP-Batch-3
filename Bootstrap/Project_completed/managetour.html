@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ManageTour</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        }
+        .container {
+            flex: 1;
+        }
+        .container button {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            background-color: whitesmoke;
+            border-radius: 20px;
+            padding: 10px 20px;
+        }
+        button img {
+            padding-right: 10px;
+        }
+        .container a {
+            text-decoration: none;
+            color: black;
+        }
+        button:hover {
+            background-color: rgb(89, 89, 251);
+            border:2px solid white;
+            color: white;
+        }
+        .destination, .status, .title {
+            font-weight: bold;
+        }
+        .price {
+            color: greenyellow;
+            font-size: large;
+            font-weight: bold;
+        }
+        .action {
+            background-color: aqua;
+            padding: 3px;
+            border-radius: 20px;
+        }
+        .actiontd {
+            text-align: center;
+        }
+        table {
+            background-color: rgb(95, 174, 253);
+        }
+        
+
+        iframe {
+            margin-top: auto;
+        }
+    </style>
+</head>
+<body>
+   <nav class="navbar navbar-expand-lg navbar ">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><img src="images/logo.jpeg" class="logo" alt=""></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link " aria-current="page" href="home.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="destination_1.html">Destination</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="managetour.html">Manage Tour</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="booking list.html" >Booking Requests</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="editrequest.html" >Edit Requests</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    
+    <div class="container pt-5">
+        <div class="d-flex p-3 m-4">
+            <h3>Tour & Packages</h3>
+            <a href="Add tour.html" class="ms-auto"><button class="ms-auto"><img  src="images/plus.png" alt="">Add New Tour</button></a>
+        </div>
+        <div>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col">No.</th>
+                        <th scope="col">Title</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">Destination</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Status</th>
+                        <th scope="col">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td scope="row">1</td>
+                        <td class="title">PRIES</td>
+                        <td class="Description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae ab
+                             itaque quidem harum facere? Esse officiis impedit natus, libero
+                              consectetur temporibus repudiandae, dignissimos
+                             officia rem minima sit? Dolores, dignissimos incidunt.</td>
+                        <td class="destination">Paris</td>
+                        <td class="price">$120,00</td>
+                        <td class="status">SAVE</td>
+                        <td class="actiontd"><img class="action" src="images/visible.png" alt=""></td>
+                    </tr>
+                       
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div>
+        <iframe src="footer.html" scrolling="no" frameborder="0"></iframe>
+    </div>
+</body>
+</html>

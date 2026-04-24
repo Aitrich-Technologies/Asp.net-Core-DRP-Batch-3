@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\inhertance activity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0A882EF-8C16-4CDA-AD72-23555C407548}|inhertance activity\\inhertance activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\inhertance activity\\inhertance activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0A882EF-8C16-4CDA-AD72-23555C407548}|inhertance activity\\inhertance activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\inhertance activity\\inhertance activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0A882EF-8C16-4CDA-AD72-23555C407548}|inhertance activity\\inhertance activity.csproj|solutionrelative:inhertance activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{E0A882EF-8C16-4CDA-AD72-23555C407548}|inhertance activity\\inhertance activity.csproj|solutionrelative:inhertance activity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0A882EF-8C16-4CDA-AD72-23555C407548}|inhertance activity\\inhertance activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\inhertance activity\\inhertance activity\\travelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0A882EF-8C16-4CDA-AD72-23555C407548}|inhertance activity\\inhertance activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\inhertance activity\\inhertance activity\\travelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0A882EF-8C16-4CDA-AD72-23555C407548}|inhertance activity\\inhertance activity.csproj|solutionrelative:inhertance activity\\travelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -87,8 +87,7 @@
               "RelativeToolTip": "inhertance activity\\Solotravellerprofile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T06:26:19.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T06:26:19.681Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "inhertance activity\\tourist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T10:29:55.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T10:29:55.101Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "inhertance activity\\Touroperator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T05:01:43.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T05:01:43.116Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "inhertance activity\\tourpackage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T05:15:01.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T05:15:01.839Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "inhertance activity\\Travelagent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T06:09:12.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T06:09:12.774Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "inhertance activity\\Travelprofile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T06:23:24.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T06:23:24.433Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "inhertance activity\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T10:22:06.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T10:22:06.063Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "inhertance activity\\internationaltour.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T05:18:32.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T05:18:32.873Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "inhertance activity\\guide.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T05:56:01.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T05:56:01.777Z"
             },
             {
               "$type": "Document",
@@ -204,8 +195,7 @@
               "RelativeToolTip": "inhertance activity\\Familytravellerprofile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T06:32:58.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T06:32:58.139Z"
             },
             {
               "$type": "Document",
@@ -217,8 +207,7 @@
               "RelativeToolTip": "inhertance activity\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T05:49:33.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T05:49:33.075Z"
             },
             {
               "$type": "Document",
@@ -230,8 +219,7 @@
               "RelativeToolTip": "inhertance activity\\domestictour.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T05:18:04.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T05:18:04.906Z"
             }
           ]
         }

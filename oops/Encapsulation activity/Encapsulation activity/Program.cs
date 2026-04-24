@@ -11,13 +11,12 @@ namespace Encapsulation_activity
         static void Main(string[] args)
         {
             Tour t = new Tour();
-            t.Tourname= "Kerala Trip";
-            t.Destination = "Munnar";
-            t.Price = 10000;
-            t.ApplyDiscount(10);
-            t.Display();
+            t.Settourname("ALFIN", "kerala", 2000);
+            Console.WriteLine(t.Gettourname());
 
-            Console.WriteLine();
+            //Booking b = new Booking();
+            //b.setBooking("Arya","paris", 2);
+            //Console.WriteLine(b.getBooking());
         }
     }
 }
