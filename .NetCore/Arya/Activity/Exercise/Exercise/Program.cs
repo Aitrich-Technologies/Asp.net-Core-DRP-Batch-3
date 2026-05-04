@@ -1,0 +1,157 @@
+﻿using Exercise.Enum;
+using Exercise.Interface;
+using Exercise.Manager;
+using Exercise.Repositary;
+using System;
+
+namespace Exercise
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // Repository Objects
+            IUserRepositary userRepo = new UserRepositary();
+            ITourRepositary tourRepo = new TourRepositary();
+            IBookingRepositary bookingRepo = new BookingRepository();
+            IConsultantRepositary consultantRepo = new ConsultantRepositary();
+
+            // Manager Objects
+            UserManager userManager = new UserManager(userRepo);
+            TourManager tourManager = new TourManager(tourRepo);
+            BookingManager bookingManager = new BookingManager(bookingRepo, tourManager);
+            ConsultantManager consultantManager = new ConsultantManager(consultantRepo);
+
+            while (true)
+            {
+                Console.WriteLine("\n==== TOUR BOOKING SYSTEM ====");
+                Console.WriteLine("1. Register");
+                Console.WriteLine("2. Login");
+                Console.WriteLine("3. Exit");
+                Console.Write("Select Option: ");
+
+                int mainChoice = Convert.ToInt32(Console.ReadLine());
+
+                switch (mainChoice)
+                {
+                    case 1:
+                        userManager.Register();
+                        break;
+
+                    case 2:
+                        var loggedUser = userManager.Login();
+
+                        if (loggedUser == null)
+                            break;
+
+                        if (loggedUser.Role == UserRoles.Admin)
+                        {
+                            AdminMenu(tourManager, bookingManager, consultantManager);
+                        }
+                        else
+                        {
+                            CustomerMenu(tourManager, bookingManager, loggedUser.UserId);
+                        }
+                        break;
+
+                    case 3:
+                        return;
+
+                    default:
+                        Console.WriteLine("Invalid Option!");
+                        break;
+                }
+            }
+        }
+
+        // ADMIN MENU
+        static void AdminMenu(
+            TourManager tourManager,
+            BookingManager bookingManager,
+            ConsultantManager consultantManager)
+        {
+            while (true)
+            {
+                Console.WriteLine("\n==== ADMIN MENU ====");
+                Console.WriteLine("1. Add Tour");
+                Console.WriteLine("2. View Tours");
+                Console.WriteLine("3. View All Bookings");
+                Console.WriteLine("4. Add Consultant");
+                Console.WriteLine("5. View Consultants");
+                Console.WriteLine("6. Logout");
+                Console.Write("Select Option: ");
+                                                    
+                int choice = Convert.ToInt32(Console.ReadLine());
+
+                switch (choice)
+                {
+                    case 1:
+                        tourManager.AddTour();
+                        break;
+
+                    case 2:
+                        tourManager.ViewTours();
+                        break;
+
+                    case 3:
+                        bookingManager.ViewBookings();
+                        break;
+
+                    case 4:
+                        Console.Write("Enter Consultant Name: ");
+                        string name = Console.ReadLine();
+                        consultantManager.AddConsultant(name);
+                        Console.WriteLine("Consultant Added Successfully");
+                        break;
+
+                    case 5:
+                        consultantManager.ViewConsultants();
+                        break;
+
+                    case 6:
+                        return;
+
+                    default:
+                        Console.WriteLine("Invalid Option!");
+                        break;
+                }
+            }
+        }
+
+        // CUSTOMER MENU
+        static void CustomerMenu(
+            TourManager tourManager,
+            BookingManager bookingManager,
+            int userId)
+        {
+            while (true)
+            {
+                Console.WriteLine("\n==== CUSTOMER MENU ====");
+                Console.WriteLine("1. View Tours");
+                Console.WriteLine("2. Book Tour");
+                Console.WriteLine("3. Logout");
+                Console.Write("Select Option: ");
+
+                int choice = Convert.ToInt32(Console.ReadLine());
+
+                switch (choice)
+                {
+                    case 1:
+                        tourManager.ViewTours();
+                        break;
+
+                    case 2:
+                        bookingManager.BookTour(userId);
+                        break;
+
+                    case 3:
+                        return;
+
+                    default:
+                        Console.WriteLine("Invalid Option!");
+                        break;
+                }
+            }
+        }
+    }
+}
