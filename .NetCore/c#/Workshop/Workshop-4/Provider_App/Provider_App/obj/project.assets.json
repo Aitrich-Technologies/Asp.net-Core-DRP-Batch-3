@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\c#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\Provider_App.csproj",
+      "projectName": "Provider_App",
+      "projectPath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\c#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\Provider_App.csproj",
+      "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\c#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\obj\\",
+=======
       "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\.NetCore\\c#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\Provider_App.csproj",
       "projectName": "Provider_App",
       "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\.NetCore\\c#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\Provider_App.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\.NetCore\\c#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\obj\\",
+>>>>>>> 9ca083803d3f757a45b7f374d23aeea8a2aa104c
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

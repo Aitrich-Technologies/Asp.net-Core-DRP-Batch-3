@@ -1,11 +1,165 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+<meta charset="UTF-8">
+<title>My Bookings</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<style>
+body {
+    background-color: #f5f6f8;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    flex: 1;
+}
+
+.booking-header {
+    background: #1e6be3;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.footer {
+    background: #1c1f26;
+    color: white;
+    padding: 40px 0;
+}
+</style>
 </head>
-</p>this is a <strong>bold text</strong>
-    
+
+<body>
+
+<div class="main-content">
+
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg bg-white shadow-sm p-3">
+    <div class="container">
+        <img src="images/logo.jpeg" width="50" height="50">
+
+        <div class="collapse navbar-collapse">
+            <ul class="navbar-nav ms-4">
+                <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="tours.html">Tours</a></li>
+                <li class="nav-item"><a class="nav-link" href="Destination.html">Destinations</a></li>
+                <li class="nav-item"><a class="nav-link" href="booking.html">My Bookings</a></li>
+            </ul>
+        </div>
+        <h6>Arya</h6>
+    </div>
+</nav>
+
+<!-- FORM -->
+<div class="container mt-4">
+    <h5>Add New Booking</h5>
+
+    <input type="text" id="name" class="form-control mb-2" placeholder="Enter Name">
+    <input type="text" id="destination" class="form-control mb-2" placeholder="Enter Destination">
+    <input type="date" id="date" class="form-control mb-2">
+
+    <button class="btn btn-success" onclick="addBooking()">Add Booking</button>
+</div>
+
+<!-- TABLE -->
+<div class="container mt-4">
+    <div class="booking-header">Booking List</div>
+
+    <table class="table bg-white">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Destination</th>
+                <th>Date</th>
+                <th>Status</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+
+        <tbody id="bookingTable">
+        </tbody>
+    </table>
+</div>
+
+</div>
+
+<!-- FOOTER -->
+<div class="footer mt-auto text-center">
+    <p>© 2025. All rights reserved.</p>
+</div>
+
+<!-- JAVASCRIPT -->
+<script>
+
+// Store bookings in array
+let bookings = [];
+
+// Add booking
+function addBooking() {
+
+    let name = document.getElementById("name").value;
+    let destination = document.getElementById("destination").value;
+    let date = document.getElementById("date").value;
+
+    if(name === "" || destination === "" || date === "") {
+        alert("Please fill all fields");
+        return;
+    }
+
+    let booking = {
+        name: name,
+        destination: destination,
+        date: date,
+        status: "SUBMIT"
+    };
+
+    bookings.push(booking);
+
+    displayBookings();
+
+    // clear inputs
+    document.getElementById("name").value = "";
+    document.getElementById("destination").value = "";
+    document.getElementById("date").value = "";
+}
+
+// Display bookings
+function displayBookings() {
+
+    let table = document.getElementById("bookingTable");
+    table.innerHTML = "";
+
+    bookings.forEach((b, index) => {
+
+        let row = `
+            <tr>
+                <td>${b.name}</td>
+                <td>${b.destination}</td>
+                <td>${b.date}</td>
+                <td>${b.status}</td>
+                <td>
+                    <button class="btn btn-danger btn-sm" onclick="deleteBooking(${index})">
+                        Delete
+                    </button>
+                </td>
+            </tr>
+        `;
+
+        table.innerHTML += row;
+    });
+}
+
+// Delete booking
+function deleteBooking(index) {
+    bookings.splice(index, 1);
+    displayBookings();
+}
+
+</script>
+
 </body>
 </html>

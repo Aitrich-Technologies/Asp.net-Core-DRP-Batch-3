@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\interface\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\interface\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\manager\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\manager\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\manager\\tourmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\manager\\tourmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Interface\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "workshop1\\Interface\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Interface\\IBookingRepository.cs",
+              "RelativeToolTip": "workshop1\\Interface\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:41:57.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Repository\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "workshop1\\Repository\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Repository\\BookingRepository.cs",
+              "RelativeToolTip": "workshop1\\Repository\\BookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:41:57.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Manager\\UserManager.cs",
+              "RelativeDocumentMoniker": "workshop1\\Manager\\UserManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Manager\\UserManager.cs",
+              "RelativeToolTip": "workshop1\\Manager\\UserManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:41:57.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "workshop1\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "workshop1\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:41:57.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "workshop1\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "workshop1\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:41:57.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Enum\\UserRoles.cs",
+              "RelativeDocumentMoniker": "workshop1\\Enum\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Enum\\UserRoles.cs",
+              "RelativeToolTip": "workshop1\\Enum\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:41:57.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "workshop1\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Models\\Booking.cs",
+              "RelativeToolTip": "workshop1\\Models\\Booking.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:41:57.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TourRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Repository\\TourRepository.cs",
+              "RelativeDocumentMoniker": "workshop1\\Repository\\TourRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Repository\\TourRepository.cs",
+              "RelativeToolTip": "workshop1\\Repository\\TourRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:41:57.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Manager\\BookingManager.cs",
+              "RelativeDocumentMoniker": "workshop1\\Manager\\BookingManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Manager\\BookingManager.cs",
+              "RelativeToolTip": "workshop1\\Manager\\BookingManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:41:56.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "workshop1\\Models\\AuthUser.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Models\\AuthUser.cs",
+              "RelativeToolTip": "workshop1\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:41:57.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TourManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Manager\\TourManager.cs",
+              "RelativeDocumentMoniker": "workshop1\\Manager\\TourManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Manager\\TourManager.cs",
+              "RelativeToolTip": "workshop1\\Manager\\TourManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:41:57.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Program.cs",
+              "RelativeDocumentMoniker": "workshop1\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Program.cs",
+              "RelativeToolTip": "workshop1\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:41:57.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITourRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Interface\\ITourRepository.cs",
+              "RelativeDocumentMoniker": "workshop1\\Interface\\ITourRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Interface\\ITourRepository.cs",
+              "RelativeToolTip": "workshop1\\Interface\\ITourRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:41:57.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "workshop1\\Models\\Tour.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Models\\Tour.cs",
+              "RelativeToolTip": "workshop1\\Models\\Tour.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:41:57.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
