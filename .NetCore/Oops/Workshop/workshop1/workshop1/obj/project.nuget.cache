@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hMU1FiituGQ=",
+  "dgSpecHash": "l8PoMQ54yOA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NETCore\\OOPSProgram\\workshop1\\workshop1\\workshop1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\workshop1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRIME\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\PRIME\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\PRIME\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\PRIME\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

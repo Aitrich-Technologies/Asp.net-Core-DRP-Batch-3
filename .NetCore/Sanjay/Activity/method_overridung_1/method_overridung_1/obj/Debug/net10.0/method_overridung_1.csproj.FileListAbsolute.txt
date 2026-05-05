@@ -1,0 +1,14 @@
+C:\Users\PRIME\Desktop\ActivityOOPs\method_overridung_1\method_overridung_1\bin\Debug\net10.0\method_overridung_1.exe
+C:\Users\PRIME\Desktop\ActivityOOPs\method_overridung_1\method_overridung_1\bin\Debug\net10.0\method_overridung_1.deps.json
+C:\Users\PRIME\Desktop\ActivityOOPs\method_overridung_1\method_overridung_1\bin\Debug\net10.0\method_overridung_1.runtimeconfig.json
+C:\Users\PRIME\Desktop\ActivityOOPs\method_overridung_1\method_overridung_1\bin\Debug\net10.0\method_overridung_1.dll
+C:\Users\PRIME\Desktop\ActivityOOPs\method_overridung_1\method_overridung_1\bin\Debug\net10.0\method_overridung_1.pdb
+C:\Users\PRIME\Desktop\ActivityOOPs\method_overridung_1\method_overridung_1\obj\Debug\net10.0\method_overridung_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRIME\Desktop\ActivityOOPs\method_overridung_1\method_overridung_1\obj\Debug\net10.0\method_overridung_1.AssemblyInfoInputs.cache
+C:\Users\PRIME\Desktop\ActivityOOPs\method_overridung_1\method_overridung_1\obj\Debug\net10.0\method_overridung_1.AssemblyInfo.cs
+C:\Users\PRIME\Desktop\ActivityOOPs\method_overridung_1\method_overridung_1\obj\Debug\net10.0\method_overridung_1.csproj.CoreCompileInputs.cache
+C:\Users\PRIME\Desktop\ActivityOOPs\method_overridung_1\method_overridung_1\obj\Debug\net10.0\method_overridung_1.dll
+C:\Users\PRIME\Desktop\ActivityOOPs\method_overridung_1\method_overridung_1\obj\Debug\net10.0\refint\method_overridung_1.dll
+C:\Users\PRIME\Desktop\ActivityOOPs\method_overridung_1\method_overridung_1\obj\Debug\net10.0\method_overridung_1.pdb
+C:\Users\PRIME\Desktop\ActivityOOPs\method_overridung_1\method_overridung_1\obj\Debug\net10.0\method_overridung_1.genruntimeconfig.cache
+C:\Users\PRIME\Desktop\ActivityOOPs\method_overridung_1\method_overridung_1\obj\Debug\net10.0\ref\method_overridung_1.dll
