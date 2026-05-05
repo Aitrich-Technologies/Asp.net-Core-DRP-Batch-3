@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\offline booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\offline booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\onlinebooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\onlinebooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\domestictour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\domestictour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\international tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\international tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\upi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\upi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\aitrich depositary\\asp.net-core-drp-batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\employeesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\employeesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96BD853-1AC7-474D-9B38-DE3052D26A88}|methodoverriding activity\\methodoverriding activity.csproj|solutionrelative:methodoverriding activity\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Offline booking.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Offline booking.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\Offline booking.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Offline booking.cs",
+              "RelativeToolTip": "methodoverriding activity\\Offline booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:43:24.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "onlinebooking.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\onlinebooking.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\onlinebooking.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\onlinebooking.cs",
+              "RelativeToolTip": "methodoverriding activity\\onlinebooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:41:36.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Booking.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\Booking.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Booking.cs",
+              "RelativeToolTip": "methodoverriding activity\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:39:45.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "International Tour.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\International Tour.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\International Tour.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\International Tour.cs",
+              "RelativeToolTip": "methodoverriding activity\\International Tour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:35:27.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DomesticTour.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\DomesticTour.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\DomesticTour.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\DomesticTour.cs",
+              "RelativeToolTip": "methodoverriding activity\\DomesticTour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:26:30.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Tour.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\Tour.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Tour.cs",
+              "RelativeToolTip": "methodoverriding activity\\Tour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:25:06.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Notification.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\Notification.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Notification.cs",
+              "RelativeToolTip": "methodoverriding activity\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:09:33.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Program.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Program.cs",
+              "RelativeToolTip": "methodoverriding activity\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:39:30.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sms.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Sms.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\Sms.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Sms.cs",
+              "RelativeToolTip": "methodoverriding activity\\Sms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:19:22.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Email.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\Email.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Email.cs",
+              "RelativeToolTip": "methodoverriding activity\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:12:53.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cash.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Cash.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\Cash.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Cash.cs",
+              "RelativeToolTip": "methodoverriding activity\\Cash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:04:07.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Upi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Upi.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\Upi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Upi.cs",
+              "RelativeToolTip": "methodoverriding activity\\Upi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:01:29.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Payment.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\Payment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Payment.cs",
+              "RelativeToolTip": "methodoverriding activity\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:59:43.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Card.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\Card.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Card.cs",
+              "RelativeToolTip": "methodoverriding activity\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:02:52.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParttimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\ParttimeEmployee.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\ParttimeEmployee.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\ParttimeEmployee.cs",
+              "RelativeToolTip": "methodoverriding activity\\ParttimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:51:53.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FulltimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\FulltimeEmployee.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\FulltimeEmployee.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\FulltimeEmployee.cs",
+              "RelativeToolTip": "methodoverriding activity\\FulltimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:49:56.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeSalary.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\EmployeeSalary.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\EmployeeSalary.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\EmployeeSalary.cs",
+              "RelativeToolTip": "methodoverriding activity\\EmployeeSalary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:48:02.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Circle.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\Circle.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Circle.cs",
+              "RelativeToolTip": "methodoverriding activity\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:40:31.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Rectangle.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Rectangle.cs",
+              "RelativeToolTip": "methodoverriding activity\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:41:18.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Shape.cs",
+              "RelativeDocumentMoniker": "methodoverriding activity\\Shape.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\oops\\methodoverriding activity\\methodoverriding activity\\Shape.cs",
+              "RelativeToolTip": "methodoverriding activity\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:40:02.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

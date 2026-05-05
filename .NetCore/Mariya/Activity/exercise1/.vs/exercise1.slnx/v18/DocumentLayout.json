@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mariya\\exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\manager\\itourrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\manager\\itourrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\manager\\tourmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\manager\\tourmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\interface\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\interface\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\manager\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\manager\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|d:\\mariya\\exercise1\\exercise1\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9884BEF7-0A7C-457E-A20F-9130F603B0AD}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITourRepositary.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Manager\\ITourRepositary.cs",
+              "RelativeDocumentMoniker": "exercise1\\Manager\\ITourRepositary.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Manager\\ITourRepositary.cs",
+              "RelativeToolTip": "exercise1\\Manager\\ITourRepositary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:16:28.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TourRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Repository\\TourRepository.cs",
+              "RelativeDocumentMoniker": "exercise1\\Repository\\TourRepository.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Repository\\TourRepository.cs",
+              "RelativeToolTip": "exercise1\\Repository\\TourRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:52:12.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "exercise1\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "exercise1\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:52:30.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Enum\\UserRoles.cs",
+              "RelativeDocumentMoniker": "exercise1\\Enum\\UserRoles.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Enum\\UserRoles.cs",
+              "RelativeToolTip": "exercise1\\Enum\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:46:52.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TourManager.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Manager\\TourManager.cs",
+              "RelativeDocumentMoniker": "exercise1\\Manager\\TourManager.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Manager\\TourManager.cs",
+              "RelativeToolTip": "exercise1\\Manager\\TourManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAWwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:56:26.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITourRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Interface\\ITourRepository.cs",
+              "RelativeDocumentMoniker": "exercise1\\Interface\\ITourRepository.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Interface\\ITourRepository.cs",
+              "RelativeToolTip": "exercise1\\Interface\\ITourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:47:24.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "exercise1\\Models\\Tour.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Models\\Tour.cs",
+              "RelativeToolTip": "exercise1\\Models\\Tour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:50:43.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Repository\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "exercise1\\Repository\\BookingRepository.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Repository\\BookingRepository.cs",
+              "RelativeToolTip": "exercise1\\Repository\\BookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:50:57.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Interface\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "exercise1\\Interface\\IBookingRepository.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Interface\\IBookingRepository.cs",
+              "RelativeToolTip": "exercise1\\Interface\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:47:10.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Program.cs",
+              "RelativeDocumentMoniker": "exercise1\\Program.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Program.cs",
+              "RelativeToolTip": "exercise1\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAywBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:40:38.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingManager.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Manager\\BookingManager.cs",
+              "RelativeDocumentMoniker": "exercise1\\Manager\\BookingManager.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Manager\\BookingManager.cs",
+              "RelativeToolTip": "exercise1\\Manager\\BookingManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:47:45.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "exercise1\\Models\\Booking.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Models\\Booking.cs",
+              "RelativeToolTip": "exercise1\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:49:24.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Manager\\UserManager.cs",
+              "RelativeDocumentMoniker": "exercise1\\Manager\\UserManager.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Manager\\UserManager.cs",
+              "RelativeToolTip": "exercise1\\Manager\\UserManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:49:38.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "exercise1\\Models\\AuthUser.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Models\\AuthUser.cs",
+              "RelativeToolTip": "exercise1\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:49:07.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\exercise1\\exercise1\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "exercise1\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\Mariya\\exercise1\\exercise1\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "exercise1\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:47:33.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
