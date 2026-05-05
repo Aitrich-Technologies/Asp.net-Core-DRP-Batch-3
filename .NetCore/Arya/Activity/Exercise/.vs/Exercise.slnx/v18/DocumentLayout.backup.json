@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\oops\\Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\oops\\Exercise\\exercise\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|c:\\users\\lenovo\\onedrive\\desktop\\oops\\exercise\\exercise\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|c:\\users\\lenovo\\onedrive\\desktop\\oops\\exercise\\exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\oops\\Exercise\\exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -122,8 +122,7 @@
               "RelativeToolTip": "Exercise\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T06:41:54.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T06:41:54.225Z"
             },
             {
               "$type": "Document",
@@ -181,7 +180,7 @@
               "RelativeDocumentMoniker": "Exercise\\Enum\\UserRoles.cs",
               "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\oops\\Exercise\\Exercise\\Enum\\UserRoles.cs",
               "RelativeToolTip": "Exercise\\Enum\\UserRoles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T06:46:55.563Z",
               "EditorCaption": ""
