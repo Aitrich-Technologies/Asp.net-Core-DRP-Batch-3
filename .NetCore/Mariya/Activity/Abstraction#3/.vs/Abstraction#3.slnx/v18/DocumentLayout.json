@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\C#\\Abstraction#3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{141CCF11-94F2-D400-4C6D-D1CC4B16306A}|Abstraction#3\\Abstraction#3.csproj|c:\\users\\hp\\onedrive\\desktop\\c#\\abstraction#3\\abstraction#3\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141CCF11-94F2-D400-4C6D-D1CC4B16306A}|Abstraction#3\\Abstraction#3.csproj|solutionrelative:abstraction#3\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141CCF11-94F2-D400-4C6D-D1CC4B16306A}|Abstraction#3\\Abstraction#3.csproj|c:\\users\\hp\\onedrive\\desktop\\c#\\abstraction#3\\abstraction#3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141CCF11-94F2-D400-4C6D-D1CC4B16306A}|Abstraction#3\\Abstraction#3.csproj|solutionrelative:abstraction#3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141CCF11-94F2-D400-4C6D-D1CC4B16306A}|Abstraction#3\\Abstraction#3.csproj|c:\\users\\hp\\onedrive\\desktop\\c#\\abstraction#3\\abstraction#3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141CCF11-94F2-D400-4C6D-D1CC4B16306A}|Abstraction#3\\Abstraction#3.csproj|solutionrelative:abstraction#3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141CCF11-94F2-D400-4C6D-D1CC4B16306A}|Abstraction#3\\Abstraction#3.csproj|c:\\users\\hp\\onedrive\\desktop\\c#\\abstraction#3\\abstraction#3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141CCF11-94F2-D400-4C6D-D1CC4B16306A}|Abstraction#3\\Abstraction#3.csproj|solutionrelative:abstraction#3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141CCF11-94F2-D400-4C6D-D1CC4B16306A}|Abstraction#3\\Abstraction#3.csproj|c:\\users\\hp\\onedrive\\desktop\\c#\\abstraction#3\\abstraction#3\\tourbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141CCF11-94F2-D400-4C6D-D1CC4B16306A}|Abstraction#3\\Abstraction#3.csproj|solutionrelative:abstraction#3\\tourbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141CCF11-94F2-D400-4C6D-D1CC4B16306A}|Abstraction#3\\Abstraction#3.csproj|c:\\users\\hp\\onedrive\\desktop\\c#\\abstraction#3\\abstraction#3\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141CCF11-94F2-D400-4C6D-D1CC4B16306A}|Abstraction#3\\Abstraction#3.csproj|solutionrelative:abstraction#3\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\C#\\Abstraction#3\\Abstraction#3\\employee.cs",
+              "RelativeDocumentMoniker": "Abstraction#3\\employee.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\C#\\Abstraction#3\\Abstraction#3\\employee.cs",
+              "RelativeToolTip": "Abstraction#3\\employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:21:01.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "customer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\C#\\Abstraction#3\\Abstraction#3\\customer.cs",
+              "RelativeDocumentMoniker": "Abstraction#3\\customer.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\C#\\Abstraction#3\\Abstraction#3\\customer.cs",
+              "RelativeToolTip": "Abstraction#3\\customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:20:46.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "person.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\C#\\Abstraction#3\\Abstraction#3\\person.cs",
+              "RelativeDocumentMoniker": "Abstraction#3\\person.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\C#\\Abstraction#3\\Abstraction#3\\person.cs",
+              "RelativeToolTip": "Abstraction#3\\person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:13:57.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\C#\\Abstraction#3\\Abstraction#3\\Program.cs",
+              "RelativeDocumentMoniker": "Abstraction#3\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\C#\\Abstraction#3\\Abstraction#3\\Program.cs",
+              "RelativeToolTip": "Abstraction#3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:44:12.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tourbooking.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\C#\\Abstraction#3\\Abstraction#3\\Tourbooking.cs",
+              "RelativeDocumentMoniker": "Abstraction#3\\Tourbooking.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\C#\\Abstraction#3\\Abstraction#3\\Tourbooking.cs",
+              "RelativeToolTip": "Abstraction#3\\Tourbooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:48:26.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\C#\\Abstraction#3\\Abstraction#3\\Tour.cs",
+              "RelativeDocumentMoniker": "Abstraction#3\\Tour.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\C#\\Abstraction#3\\Abstraction#3\\Tour.cs",
+              "RelativeToolTip": "Abstraction#3\\Tour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:44:36.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

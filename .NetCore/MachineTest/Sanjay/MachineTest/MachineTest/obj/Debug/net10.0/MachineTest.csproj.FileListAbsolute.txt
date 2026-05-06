@@ -1,0 +1,14 @@
+C:\Users\PRIME\Desktop\New folder (3)\MachineTest\MachineTest\bin\Debug\net10.0\MachineTest.exe
+C:\Users\PRIME\Desktop\New folder (3)\MachineTest\MachineTest\bin\Debug\net10.0\MachineTest.deps.json
+C:\Users\PRIME\Desktop\New folder (3)\MachineTest\MachineTest\bin\Debug\net10.0\MachineTest.runtimeconfig.json
+C:\Users\PRIME\Desktop\New folder (3)\MachineTest\MachineTest\bin\Debug\net10.0\MachineTest.dll
+C:\Users\PRIME\Desktop\New folder (3)\MachineTest\MachineTest\bin\Debug\net10.0\MachineTest.pdb
+C:\Users\PRIME\Desktop\New folder (3)\MachineTest\MachineTest\obj\Debug\net10.0\MachineTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRIME\Desktop\New folder (3)\MachineTest\MachineTest\obj\Debug\net10.0\MachineTest.AssemblyInfoInputs.cache
+C:\Users\PRIME\Desktop\New folder (3)\MachineTest\MachineTest\obj\Debug\net10.0\MachineTest.AssemblyInfo.cs
+C:\Users\PRIME\Desktop\New folder (3)\MachineTest\MachineTest\obj\Debug\net10.0\MachineTest.csproj.CoreCompileInputs.cache
+C:\Users\PRIME\Desktop\New folder (3)\MachineTest\MachineTest\obj\Debug\net10.0\MachineTest.dll
+C:\Users\PRIME\Desktop\New folder (3)\MachineTest\MachineTest\obj\Debug\net10.0\refint\MachineTest.dll
+C:\Users\PRIME\Desktop\New folder (3)\MachineTest\MachineTest\obj\Debug\net10.0\MachineTest.pdb
+C:\Users\PRIME\Desktop\New folder (3)\MachineTest\MachineTest\obj\Debug\net10.0\MachineTest.genruntimeconfig.cache
+C:\Users\PRIME\Desktop\New folder (3)\MachineTest\MachineTest\obj\Debug\net10.0\ref\MachineTest.dll

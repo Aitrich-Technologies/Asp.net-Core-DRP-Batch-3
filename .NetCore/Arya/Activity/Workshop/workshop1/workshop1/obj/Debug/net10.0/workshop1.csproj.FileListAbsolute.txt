@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\bin\Debug\net10.0\workshop1.exe
+C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\bin\Debug\net10.0\workshop1.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\bin\Debug\net10.0\workshop1.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\bin\Debug\net10.0\workshop1.dll
+C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\bin\Debug\net10.0\workshop1.pdb
+C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\obj\Debug\net10.0\workshop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\obj\Debug\net10.0\workshop1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\obj\Debug\net10.0\workshop1.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\obj\Debug\net10.0\workshop1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\obj\Debug\net10.0\workshop1.dll
+C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\obj\Debug\net10.0\refint\workshop1.dll
+C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\obj\Debug\net10.0\workshop1.pdb
+C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\obj\Debug\net10.0\workshop1.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\obj\Debug\net10.0\ref\workshop1.dll
