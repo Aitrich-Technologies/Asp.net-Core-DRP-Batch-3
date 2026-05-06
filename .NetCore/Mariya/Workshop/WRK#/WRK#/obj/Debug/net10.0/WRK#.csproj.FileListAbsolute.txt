@@ -1,0 +1,4 @@
+D:\Mariya\WRK#\WRK#\obj\Debug\net10.0\WRK#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariya\WRK#\WRK#\obj\Debug\net10.0\WRK#.AssemblyInfoInputs.cache
+D:\Mariya\WRK#\WRK#\obj\Debug\net10.0\WRK#.AssemblyInfo.cs
+D:\Mariya\WRK#\WRK#\obj\Debug\net10.0\WRK#.csproj.CoreCompileInputs.cache
