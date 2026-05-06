@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "WKXg/RHJpyc=",
+  "dgSpecHash": "ensGJ2Trf6k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-core-DRP-Batch-2\\ASP.NETCore\\Chapter3\\OOPs\\Constructor\\Constructor\\Constructor.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Constructor\\Constructor\\Constructor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRIME\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\PRIME\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\PRIME\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\PRIME\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
