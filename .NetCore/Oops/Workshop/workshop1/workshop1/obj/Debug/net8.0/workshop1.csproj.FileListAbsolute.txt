@@ -12,3 +12,18 @@ C:\Users\Lenovo\Documents\Training\ASP.NETCore\OOPSProgram\workshop1\workshop1\o
 C:\Users\Lenovo\Documents\Training\ASP.NETCore\OOPSProgram\workshop1\workshop1\obj\Debug\net8.0\workshop1.pdb
 C:\Users\Lenovo\Documents\Training\ASP.NETCore\OOPSProgram\workshop1\workshop1\obj\Debug\net8.0\workshop1.genruntimeconfig.cache
 C:\Users\Lenovo\Documents\Training\ASP.NETCore\OOPSProgram\workshop1\workshop1\obj\Debug\net8.0\ref\workshop1.dll
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\bin\Debug\net8.0\workshop1.exe
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\bin\Debug\net8.0\workshop1.deps.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\bin\Debug\net8.0\workshop1.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\bin\Debug\net8.0\workshop1.dll
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\bin\Debug\net8.0\workshop1.pdb
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\obj\Debug\net8.0\workshop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\obj\Debug\net8.0\workshop1.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\obj\Debug\net8.0\workshop1.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\obj\Debug\net8.0\workshop1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\obj\Debug\net8.0\workshop1.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\obj\Debug\net8.0\workshop1.dll
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\obj\Debug\net8.0\refint\workshop1.dll
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\obj\Debug\net8.0\workshop1.pdb
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\obj\Debug\net8.0\workshop1.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Oops\Workshop\workshop1\workshop1\obj\Debug\net8.0\ref\workshop1.dll

@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ExerciseOop1\ExerciseOop1\bin\Debug\net10.0\ExerciseOop1.exe
+C:\Users\ASUS\source\repos\ExerciseOop1\ExerciseOop1\bin\Debug\net10.0\ExerciseOop1.deps.json
+C:\Users\ASUS\source\repos\ExerciseOop1\ExerciseOop1\bin\Debug\net10.0\ExerciseOop1.runtimeconfig.json
+C:\Users\ASUS\source\repos\ExerciseOop1\ExerciseOop1\bin\Debug\net10.0\ExerciseOop1.dll
+C:\Users\ASUS\source\repos\ExerciseOop1\ExerciseOop1\bin\Debug\net10.0\ExerciseOop1.pdb
+C:\Users\ASUS\source\repos\ExerciseOop1\ExerciseOop1\obj\Debug\net10.0\ExerciseOop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ExerciseOop1\ExerciseOop1\obj\Debug\net10.0\ExerciseOop1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ExerciseOop1\ExerciseOop1\obj\Debug\net10.0\ExerciseOop1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ExerciseOop1\ExerciseOop1\obj\Debug\net10.0\ExerciseOop1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ExerciseOop1\ExerciseOop1\obj\Debug\net10.0\ExerciseOop1.dll
+C:\Users\ASUS\source\repos\ExerciseOop1\ExerciseOop1\obj\Debug\net10.0\refint\ExerciseOop1.dll
+C:\Users\ASUS\source\repos\ExerciseOop1\ExerciseOop1\obj\Debug\net10.0\ExerciseOop1.pdb
+C:\Users\ASUS\source\repos\ExerciseOop1\ExerciseOop1\obj\Debug\net10.0\ExerciseOop1.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ExerciseOop1\ExerciseOop1\obj\Debug\net10.0\ref\ExerciseOop1.dll
