@@ -1,7 +1,0 @@
-C:\Users\Lenovo\OneDrive\Desktop\oops\Exercise\Exercise\bin\Debug\Exercise.exe.config
-C:\Users\Lenovo\OneDrive\Desktop\oops\Exercise\Exercise\bin\Debug\Exercise.exe
-C:\Users\Lenovo\OneDrive\Desktop\oops\Exercise\Exercise\bin\Debug\Exercise.pdb
-C:\Users\Lenovo\OneDrive\Desktop\oops\Exercise\Exercise\obj\Debug\Exercise.csproj.AssemblyReference.cache
-C:\Users\Lenovo\OneDrive\Desktop\oops\Exercise\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\OneDrive\Desktop\oops\Exercise\Exercise\obj\Debug\Exercise.exe
-C:\Users\Lenovo\OneDrive\Desktop\oops\Exercise\Exercise\obj\Debug\Exercise.pdb
