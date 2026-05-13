@@ -1,0 +1,14 @@
+C:\Users\PRIME\Desktop\Workshop_1\Workshop\Workshop\bin\Debug\net10.0\Workshop.exe
+C:\Users\PRIME\Desktop\Workshop_1\Workshop\Workshop\bin\Debug\net10.0\Workshop.deps.json
+C:\Users\PRIME\Desktop\Workshop_1\Workshop\Workshop\bin\Debug\net10.0\Workshop.runtimeconfig.json
+C:\Users\PRIME\Desktop\Workshop_1\Workshop\Workshop\bin\Debug\net10.0\Workshop.dll
+C:\Users\PRIME\Desktop\Workshop_1\Workshop\Workshop\bin\Debug\net10.0\Workshop.pdb
+C:\Users\PRIME\Desktop\Workshop_1\Workshop\Workshop\obj\Debug\net10.0\Workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRIME\Desktop\Workshop_1\Workshop\Workshop\obj\Debug\net10.0\Workshop.AssemblyInfoInputs.cache
+C:\Users\PRIME\Desktop\Workshop_1\Workshop\Workshop\obj\Debug\net10.0\Workshop.AssemblyInfo.cs
+C:\Users\PRIME\Desktop\Workshop_1\Workshop\Workshop\obj\Debug\net10.0\Workshop.csproj.CoreCompileInputs.cache
+C:\Users\PRIME\Desktop\Workshop_1\Workshop\Workshop\obj\Debug\net10.0\Workshop.dll
+C:\Users\PRIME\Desktop\Workshop_1\Workshop\Workshop\obj\Debug\net10.0\refint\Workshop.dll
+C:\Users\PRIME\Desktop\Workshop_1\Workshop\Workshop\obj\Debug\net10.0\Workshop.pdb
+C:\Users\PRIME\Desktop\Workshop_1\Workshop\Workshop\obj\Debug\net10.0\Workshop.genruntimeconfig.cache
+C:\Users\PRIME\Desktop\Workshop_1\Workshop\Workshop\obj\Debug\net10.0\ref\Workshop.dll
