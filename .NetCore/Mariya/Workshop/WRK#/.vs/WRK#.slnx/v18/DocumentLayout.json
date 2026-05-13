@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mariya\\WRK#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|d:\\mariya\\wrk#\\wrk#\\manager\\tourmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|solutionrelative:wrk#\\manager\\tourmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|d:\\mariya\\wrk#\\wrk#\\interface\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|solutionrelative:wrk#\\interface\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|d:\\mariya\\wrk#\\wrk#\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|solutionrelative:wrk#\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|d:\\mariya\\wrk#\\wrk#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|solutionrelative:wrk#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|d:\\mariya\\wrk#\\wrk#\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|solutionrelative:wrk#\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|d:\\mariya\\wrk#\\wrk#\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|solutionrelative:wrk#\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|d:\\mariya\\wrk#\\wrk#\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|solutionrelative:wrk#\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|d:\\mariya\\wrk#\\wrk#\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|solutionrelative:wrk#\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|d:\\mariya\\wrk#\\wrk#\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|solutionrelative:wrk#\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|d:\\mariya\\wrk#\\wrk#\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|solutionrelative:wrk#\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|d:\\mariya\\wrk#\\wrk#\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|solutionrelative:wrk#\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|d:\\mariya\\wrk#\\wrk#\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|solutionrelative:wrk#\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|d:\\mariya\\wrk#\\wrk#\\manager\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|solutionrelative:wrk#\\manager\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|d:\\mariya\\wrk#\\wrk#\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AE5FE-8CAA-9DA9-C597-44CCB772947E}|WRK#\\WRK#.csproj|solutionrelative:wrk#\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\WRK#\\WRK#\\Interface\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "WRK#\\Interface\\IBookingRepository.cs",
+              "ToolTip": "D:\\Mariya\\WRK#\\WRK#\\Interface\\IBookingRepository.cs",
+              "RelativeToolTip": "WRK#\\Interface\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:01:28.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITourRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\WRK#\\WRK#\\Interface\\ITourRepository.cs",
+              "RelativeDocumentMoniker": "WRK#\\Interface\\ITourRepository.cs",
+              "ToolTip": "D:\\Mariya\\WRK#\\WRK#\\Interface\\ITourRepository.cs",
+              "RelativeToolTip": "WRK#\\Interface\\ITourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:01:50.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "D:\\Mariya\\WRK#\\WRK#\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "WRK#\\Models\\Tour.cs",
+              "ToolTip": "D:\\Mariya\\WRK#\\WRK#\\Models\\Tour.cs",
+              "RelativeToolTip": "WRK#\\Models\\Tour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:04:43.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\Mariya\\WRK#\\WRK#\\Enum\\UserRoles.cs",
+              "RelativeDocumentMoniker": "WRK#\\Enum\\UserRoles.cs",
+              "ToolTip": "D:\\Mariya\\WRK#\\WRK#\\Enum\\UserRoles.cs",
+              "RelativeToolTip": "WRK#\\Enum\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:00:09.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mariya\\WRK#\\WRK#\\Program.cs",
+              "RelativeDocumentMoniker": "WRK#\\Program.cs",
+              "ToolTip": "D:\\Mariya\\WRK#\\WRK#\\Program.cs",
+              "RelativeToolTip": "WRK#\\Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAADwv30AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:59:14.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TourManager.cs",
+              "DocumentMoniker": "D:\\Mariya\\WRK#\\WRK#\\Manager\\TourManager.cs",
+              "RelativeDocumentMoniker": "WRK#\\Manager\\TourManager.cs",
+              "ToolTip": "D:\\Mariya\\WRK#\\WRK#\\Manager\\TourManager.cs",
+              "RelativeToolTip": "WRK#\\Manager\\TourManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:03:10.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\WRK#\\WRK#\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WRK#\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Mariya\\WRK#\\WRK#\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "WRK#\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:06:06.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TourRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\WRK#\\WRK#\\Repository\\TourRepository.cs",
+              "RelativeDocumentMoniker": "WRK#\\Repository\\TourRepository.cs",
+              "ToolTip": "D:\\Mariya\\WRK#\\WRK#\\Repository\\TourRepository.cs",
+              "RelativeToolTip": "WRK#\\Repository\\TourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:05:46.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\WRK#\\WRK#\\Repository\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "WRK#\\Repository\\BookingRepository.cs",
+              "ToolTip": "D:\\Mariya\\WRK#\\WRK#\\Repository\\BookingRepository.cs",
+              "RelativeToolTip": "WRK#\\Repository\\BookingRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:05:27.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Mariya\\WRK#\\WRK#\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "WRK#\\Models\\Booking.cs",
+              "ToolTip": "D:\\Mariya\\WRK#\\WRK#\\Models\\Booking.cs",
+              "RelativeToolTip": "WRK#\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:04:32.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "D:\\Mariya\\WRK#\\WRK#\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "WRK#\\Models\\AuthUser.cs",
+              "ToolTip": "D:\\Mariya\\WRK#\\WRK#\\Models\\AuthUser.cs",
+              "RelativeToolTip": "WRK#\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:04:18.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\Mariya\\WRK#\\WRK#\\Manager\\UserManager.cs",
+              "RelativeDocumentMoniker": "WRK#\\Manager\\UserManager.cs",
+              "ToolTip": "D:\\Mariya\\WRK#\\WRK#\\Manager\\UserManager.cs",
+              "RelativeToolTip": "WRK#\\Manager\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:03:27.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingManager.cs",
+              "DocumentMoniker": "D:\\Mariya\\WRK#\\WRK#\\Manager\\BookingManager.cs",
+              "RelativeDocumentMoniker": "WRK#\\Manager\\BookingManager.cs",
+              "ToolTip": "D:\\Mariya\\WRK#\\WRK#\\Manager\\BookingManager.cs",
+              "RelativeToolTip": "WRK#\\Manager\\BookingManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:02:55.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\WRK#\\WRK#\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WRK#\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\Mariya\\WRK#\\WRK#\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "WRK#\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:02:16.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

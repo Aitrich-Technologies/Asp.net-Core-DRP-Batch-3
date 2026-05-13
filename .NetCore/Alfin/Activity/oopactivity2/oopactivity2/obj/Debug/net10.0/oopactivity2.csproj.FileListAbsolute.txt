@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\oopactivity2\oopactivity2\bin\Debug\net10.0\oopactivity2.exe
+C:\Users\ASUS\source\repos\oopactivity2\oopactivity2\bin\Debug\net10.0\oopactivity2.deps.json
+C:\Users\ASUS\source\repos\oopactivity2\oopactivity2\bin\Debug\net10.0\oopactivity2.runtimeconfig.json
+C:\Users\ASUS\source\repos\oopactivity2\oopactivity2\bin\Debug\net10.0\oopactivity2.dll
+C:\Users\ASUS\source\repos\oopactivity2\oopactivity2\bin\Debug\net10.0\oopactivity2.pdb
+C:\Users\ASUS\source\repos\oopactivity2\oopactivity2\obj\Debug\net10.0\oopactivity2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\oopactivity2\oopactivity2\obj\Debug\net10.0\oopactivity2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\oopactivity2\oopactivity2\obj\Debug\net10.0\oopactivity2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\oopactivity2\oopactivity2\obj\Debug\net10.0\oopactivity2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\oopactivity2\oopactivity2\obj\Debug\net10.0\oopactivity2.dll
+C:\Users\ASUS\source\repos\oopactivity2\oopactivity2\obj\Debug\net10.0\refint\oopactivity2.dll
+C:\Users\ASUS\source\repos\oopactivity2\oopactivity2\obj\Debug\net10.0\oopactivity2.pdb
+C:\Users\ASUS\source\repos\oopactivity2\oopactivity2\obj\Debug\net10.0\oopactivity2.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\oopactivity2\oopactivity2\obj\Debug\net10.0\ref\oopactivity2.dll

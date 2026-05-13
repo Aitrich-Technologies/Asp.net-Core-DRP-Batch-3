@@ -1,8 +1,42 @@
 {
   "version": 2,
-  "dgSpecHash": "hMU1FiituGQ=",
+<<<<<<< HEAD
+  "dgSpecHash": "ro0X8qL3pd4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NETCore\\OOPSProgram\\workshop1\\workshop1\\workshop1.csproj",
+  "projectFilePath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\workshop1.csproj",
   "expectedPackageFiles": [],
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "ojNSqoBxvkM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\workshop1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "l8PoMQ54yOA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\workshop1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRIME\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\PRIME\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\PRIME\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\PRIME\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+=======
+  "dgSpecHash": "5PuKkHxkgHs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\workshop1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+>>>>>>> 6b4ec0854967b2674cfde792bf9db7228a515040
+>>>>>>> 864f60f501bc770388cf192ebb73f196235089f5
+  ],
+>>>>>>> 420210271216d60143052cce1132894a9ac44d8c
   "logs": []
 }

@@ -1,0 +1,14 @@
+D:\Mariya\EXX#\EXX#\obj\Debug\net10.0\EXX#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariya\EXX#\EXX#\obj\Debug\net10.0\EXX#.AssemblyInfoInputs.cache
+D:\Mariya\EXX#\EXX#\obj\Debug\net10.0\EXX#.AssemblyInfo.cs
+D:\Mariya\EXX#\EXX#\obj\Debug\net10.0\EXX#.csproj.CoreCompileInputs.cache
+D:\Mariya\EXX#\EXX#\bin\Debug\net10.0\EXX#.exe
+D:\Mariya\EXX#\EXX#\bin\Debug\net10.0\EXX#.deps.json
+D:\Mariya\EXX#\EXX#\bin\Debug\net10.0\EXX#.runtimeconfig.json
+D:\Mariya\EXX#\EXX#\bin\Debug\net10.0\EXX#.dll
+D:\Mariya\EXX#\EXX#\bin\Debug\net10.0\EXX#.pdb
+D:\Mariya\EXX#\EXX#\obj\Debug\net10.0\EXX#.dll
+D:\Mariya\EXX#\EXX#\obj\Debug\net10.0\refint\EXX#.dll
+D:\Mariya\EXX#\EXX#\obj\Debug\net10.0\EXX#.pdb
+D:\Mariya\EXX#\EXX#\obj\Debug\net10.0\EXX#.genruntimeconfig.cache
+D:\Mariya\EXX#\EXX#\obj\Debug\net10.0\ref\EXX#.dll
