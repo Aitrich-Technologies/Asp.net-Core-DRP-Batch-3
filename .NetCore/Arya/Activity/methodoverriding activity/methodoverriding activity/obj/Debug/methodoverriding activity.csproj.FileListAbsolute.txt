@@ -1,7 +1,0 @@
-C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\oops\methodoverriding activity\methodoverriding activity\bin\Debug\methodoverriding activity.exe.config
-C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\oops\methodoverriding activity\methodoverriding activity\bin\Debug\methodoverriding activity.exe
-C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\oops\methodoverriding activity\methodoverriding activity\bin\Debug\methodoverriding activity.pdb
-C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\oops\methodoverriding activity\methodoverriding activity\obj\Debug\methodoverriding activity.csproj.AssemblyReference.cache
-C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\oops\methodoverriding activity\methodoverriding activity\obj\Debug\methodoverriding activity.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\oops\methodoverriding activity\methodoverriding activity\obj\Debug\methodoverriding activity.exe
-C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\oops\methodoverriding activity\methodoverriding activity\obj\Debug\methodoverriding activity.pdb
