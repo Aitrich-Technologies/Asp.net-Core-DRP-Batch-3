@@ -1,4 +1,0 @@
-C:\Users\HP\source\repos\act\act\obj\Debug\net10.0\act.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP\source\repos\act\act\obj\Debug\net10.0\act.AssemblyInfoInputs.cache
-C:\Users\HP\source\repos\act\act\obj\Debug\net10.0\act.AssemblyInfo.cs
-C:\Users\HP\source\repos\act\act\obj\Debug\net10.0\act.csproj.CoreCompileInputs.cache
