@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MY CLASS\\Collection-Materials\\Excercise3\\Excercise3\\Excercise3.csproj": {}
+    "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Exercise\\Excercise\\Excercise3\\Excercise3\\Excercise3.csproj": {}
   },
   "projects": {
-    "E:\\MY CLASS\\Collection-Materials\\Excercise3\\Excercise3\\Excercise3.csproj": {
+    "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Exercise\\Excercise\\Excercise3\\Excercise3\\Excercise3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MY CLASS\\Collection-Materials\\Excercise3\\Excercise3\\Excercise3.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Exercise\\Excercise\\Excercise3\\Excercise3\\Excercise3.csproj",
         "projectName": "Excercise3",
-        "projectPath": "E:\\MY CLASS\\Collection-Materials\\Excercise3\\Excercise3\\Excercise3.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "E:\\MY CLASS\\Collection-Materials\\Excercise3\\Excercise3\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Exercise\\Excercise\\Excercise3\\Excercise3\\Excercise3.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Exercise\\Excercise\\Excercise3\\Excercise3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,11 +26,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
+            "framework": "net7.0",
             "targetAlias": "net7.0",
             "projectReferences": {}
           }
@@ -45,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net7.0": {
+          "framework": "net7.0",
           "targetAlias": "net7.0",
           "imports": [
             "net461",
@@ -66,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
