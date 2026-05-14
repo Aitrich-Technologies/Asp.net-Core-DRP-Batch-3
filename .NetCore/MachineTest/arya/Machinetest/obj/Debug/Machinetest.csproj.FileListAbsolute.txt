@@ -1,7 +1,0 @@
-C:\Users\Lenovo\OneDrive\Desktop\oops\Machinetest\Machinetest\bin\Debug\Machinetest.exe.config
-C:\Users\Lenovo\OneDrive\Desktop\oops\Machinetest\Machinetest\bin\Debug\Machinetest.exe
-C:\Users\Lenovo\OneDrive\Desktop\oops\Machinetest\Machinetest\bin\Debug\Machinetest.pdb
-C:\Users\Lenovo\OneDrive\Desktop\oops\Machinetest\Machinetest\obj\Debug\Machinetest.csproj.AssemblyReference.cache
-C:\Users\Lenovo\OneDrive\Desktop\oops\Machinetest\Machinetest\obj\Debug\Machinetest.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\OneDrive\Desktop\oops\Machinetest\Machinetest\obj\Debug\Machinetest.exe
-C:\Users\Lenovo\OneDrive\Desktop\oops\Machinetest\Machinetest\obj\Debug\Machinetest.pdb
