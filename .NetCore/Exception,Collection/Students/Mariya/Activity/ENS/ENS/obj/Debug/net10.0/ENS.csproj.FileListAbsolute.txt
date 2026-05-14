@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\C#\ENS\ENS\bin\Debug\net10.0\ENS.exe
+C:\Users\HP\OneDrive\Desktop\C#\ENS\ENS\bin\Debug\net10.0\ENS.deps.json
+C:\Users\HP\OneDrive\Desktop\C#\ENS\ENS\bin\Debug\net10.0\ENS.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\C#\ENS\ENS\bin\Debug\net10.0\ENS.dll
+C:\Users\HP\OneDrive\Desktop\C#\ENS\ENS\bin\Debug\net10.0\ENS.pdb
+C:\Users\HP\OneDrive\Desktop\C#\ENS\ENS\obj\Debug\net10.0\ENS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\C#\ENS\ENS\obj\Debug\net10.0\ENS.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\C#\ENS\ENS\obj\Debug\net10.0\ENS.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\C#\ENS\ENS\obj\Debug\net10.0\ENS.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\C#\ENS\ENS\obj\Debug\net10.0\ENS.dll
+C:\Users\HP\OneDrive\Desktop\C#\ENS\ENS\obj\Debug\net10.0\refint\ENS.dll
+C:\Users\HP\OneDrive\Desktop\C#\ENS\ENS\obj\Debug\net10.0\ENS.pdb
+C:\Users\HP\OneDrive\Desktop\C#\ENS\ENS\obj\Debug\net10.0\ENS.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\C#\ENS\ENS\obj\Debug\net10.0\ref\ENS.dll

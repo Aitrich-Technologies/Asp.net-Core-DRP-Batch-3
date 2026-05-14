@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\activityoverride1\activityoverride1\bin\Debug\net10.0\activityoverride1.exe
+C:\Users\ASUS\source\repos\activityoverride1\activityoverride1\bin\Debug\net10.0\activityoverride1.deps.json
+C:\Users\ASUS\source\repos\activityoverride1\activityoverride1\bin\Debug\net10.0\activityoverride1.runtimeconfig.json
+C:\Users\ASUS\source\repos\activityoverride1\activityoverride1\bin\Debug\net10.0\activityoverride1.dll
+C:\Users\ASUS\source\repos\activityoverride1\activityoverride1\bin\Debug\net10.0\activityoverride1.pdb
+C:\Users\ASUS\source\repos\activityoverride1\activityoverride1\obj\Debug\net10.0\activityoverride1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\activityoverride1\activityoverride1\obj\Debug\net10.0\activityoverride1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\activityoverride1\activityoverride1\obj\Debug\net10.0\activityoverride1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\activityoverride1\activityoverride1\obj\Debug\net10.0\activityoverride1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\activityoverride1\activityoverride1\obj\Debug\net10.0\activityoverride1.dll
+C:\Users\ASUS\source\repos\activityoverride1\activityoverride1\obj\Debug\net10.0\refint\activityoverride1.dll
+C:\Users\ASUS\source\repos\activityoverride1\activityoverride1\obj\Debug\net10.0\activityoverride1.pdb
+C:\Users\ASUS\source\repos\activityoverride1\activityoverride1\obj\Debug\net10.0\activityoverride1.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\activityoverride1\activityoverride1\obj\Debug\net10.0\ref\activityoverride1.dll

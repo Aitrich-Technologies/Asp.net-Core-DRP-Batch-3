@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>workshop1</id>
+    <version>1.0.0</version>
+    <authors>workshop1</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\bin\Debug\net8.0\workshop1.runtimeconfig.json" target="lib\net8.0\workshop1.runtimeconfig.json" />
+    <file src="C:\Users\Lenovo\OneDrive\Desktop\oops\Workshop\workshop1\workshop1\bin\Debug\net8.0\workshop1.dll" target="lib\net8.0\workshop1.dll" />
+  </files>
+</package>

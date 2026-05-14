@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\interface (1)\\itourrepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:interface (1)\\itourrepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\interface (1)\\imenu (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:interface (1)\\imenu (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\exceptions (1)\\invalidformatexception (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:exceptions (1)\\invalidformatexception (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\repository (1)\\userrepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:repository (1)\\userrepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\lists (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:lists (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\interface (1)\\itourrepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:interface (1)\\itourrepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\interface (1)\\iuserrepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:interface (1)\\iuserrepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\interface (1)\\itourservice (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:interface (1)\\itourservice (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\manager (1)\\tourmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:manager (1)\\tourmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\manager (1)\\publicmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:manager (1)\\publicmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\manager (1)\\customermanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:manager (1)\\customermanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\manager (1)\\adminmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:manager (1)\\adminmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\interface (1)\\imenu (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:interface (1)\\imenu (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\program (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,22 +66,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\models (1)\\tour (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:models (1)\\tour (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\manager (1)\\tourmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:manager (1)\\tourmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\manager (1)\\publicmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:manager (1)\\publicmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\manager (1)\\customermanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:manager (1)\\customermanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\exception,collection\\workshop\\workshop (1)\\workshop (1)\\manager (1)\\adminmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:manager (1)\\adminmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,11 +75,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "IUserRepository (1).cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\IUserRepository (1).cs",
+              "RelativeDocumentMoniker": "Interface (1)\\IUserRepository (1).cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\IUserRepository (1).cs",
+              "RelativeToolTip": "Interface (1)\\IUserRepository (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:56:35.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITourService (1).cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourService (1).cs",
+              "RelativeDocumentMoniker": "Interface (1)\\ITourService (1).cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourService (1).cs",
+              "RelativeToolTip": "Interface (1)\\ITourService (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:56:30.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lists (1).cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Lists (1).cs",
+              "RelativeDocumentMoniker": "Lists (1).cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Lists (1).cs",
+              "RelativeToolTip": "Lists (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:55:56.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ITourRepository (1).cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourRepository (1).cs",
               "RelativeDocumentMoniker": "Interface (1)\\ITourRepository (1).cs",
@@ -80,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "IMenu (1).cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\IMenu (1).cs",
               "RelativeDocumentMoniker": "Interface (1)\\IMenu (1).cs",
@@ -88,16 +143,11 @@
               "RelativeToolTip": "Interface (1)\\IMenu (1).cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:30:40.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2026-05-12T11:30:40.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Program (1).cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Program (1).cs",
               "RelativeDocumentMoniker": "Program (1).cs",
@@ -105,12 +155,11 @@
               "RelativeToolTip": "Program (1).cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:34:35.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:34:35.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Admin_Destination.deps (1).json",
               "DocumentMoniker": "C:\\Users\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination.deps (1).json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination.deps (1).json",
@@ -122,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Admin_Destination (1).exe",
               "DocumentMoniker": "C:\\Users\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination (1).exe",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination (1).exe",
@@ -133,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Admin_Destination (1).dll",
               "DocumentMoniker": "C:\\Users\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination (1).dll",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination (1).dll",
@@ -144,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "InvalidFormatException (1).cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Exceptions (1)\\InvalidFormatException (1).cs",
               "RelativeDocumentMoniker": "Exceptions (1)\\InvalidFormatException (1).cs",
@@ -157,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UserRepository (1).cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Repository (1)\\UserRepository (1).cs",
               "RelativeDocumentMoniker": "Repository (1)\\UserRepository (1).cs",
@@ -170,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "User (1).cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Models (1)\\User (1).cs",
               "RelativeDocumentMoniker": "Models (1)\\User (1).cs",
@@ -182,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Tour (1).cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Models (1)\\Tour (1).cs",
               "RelativeDocumentMoniker": "Models (1)\\Tour (1).cs",
@@ -194,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "TourManager (1).cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\TourManager (1).cs",
               "RelativeDocumentMoniker": "Manager (1)\\TourManager (1).cs",
@@ -202,23 +251,25 @@
               "RelativeToolTip": "Manager (1)\\TourManager (1).cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T04:55:37.891Z"
+              "WhenOpened": "2026-05-12T04:55:37.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "PublicManager (1).cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\PublicManager (1).cs",
               "RelativeDocumentMoniker": "Manager (1)\\PublicManager (1).cs",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\PublicManager (1).cs",
               "RelativeToolTip": "Manager (1)\\PublicManager (1).cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwGUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwGUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T04:55:26.463Z"
+              "WhenOpened": "2026-05-12T04:55:26.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "CustomerManager (1).cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\CustomerManager (1).cs",
               "RelativeDocumentMoniker": "Manager (1)\\CustomerManager (1).cs",
@@ -226,11 +277,12 @@
               "RelativeToolTip": "Manager (1)\\CustomerManager (1).cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T04:55:14.064Z"
+              "WhenOpened": "2026-05-12T04:55:14.064Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "AdminManager (1).cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\AdminManager (1).cs",
               "RelativeDocumentMoniker": "Manager (1)\\AdminManager (1).cs",
@@ -238,7 +290,8 @@
               "RelativeToolTip": "Manager (1)\\AdminManager (1).cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T04:55:08.081Z"
+              "WhenOpened": "2026-05-12T04:55:08.081Z",
+              "EditorCaption": ""
             }
           ]
         }
