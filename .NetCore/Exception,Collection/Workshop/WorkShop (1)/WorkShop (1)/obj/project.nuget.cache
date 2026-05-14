@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "w0rsKkkzKPw=",
+  "dgSpecHash": "nzLwYrpp1DE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Admin_Destination (1).csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Admin_Destination (1).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
