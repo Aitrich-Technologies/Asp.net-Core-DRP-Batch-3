@@ -1,7 +1,0 @@
-C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\samples\samples\bin\Debug\samples.exe.config
-C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\samples\samples\bin\Debug\samples.exe
-C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\samples\samples\bin\Debug\samples.pdb
-C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\samples\samples\obj\Debug\samples.csproj.AssemblyReference.cache
-C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\samples\samples\obj\Debug\samples.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\samples\samples\obj\Debug\samples.exe
-C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\c #\samples\samples\obj\Debug\samples.pdb
