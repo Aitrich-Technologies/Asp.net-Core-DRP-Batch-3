@@ -1,0 +1,14 @@
+E:\MY CLASS\Collection-Materials\Excercise1\Excercise1\obj\Debug\net7.0\Excercise1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY CLASS\Collection-Materials\Excercise1\Excercise1\obj\Debug\net7.0\Excercise1.AssemblyInfoInputs.cache
+E:\MY CLASS\Collection-Materials\Excercise1\Excercise1\obj\Debug\net7.0\Excercise1.AssemblyInfo.cs
+E:\MY CLASS\Collection-Materials\Excercise1\Excercise1\obj\Debug\net7.0\Excercise1.csproj.CoreCompileInputs.cache
+E:\MY CLASS\Collection-Materials\Excercise1\Excercise1\bin\Debug\net7.0\Excercise1.exe
+E:\MY CLASS\Collection-Materials\Excercise1\Excercise1\bin\Debug\net7.0\Excercise1.deps.json
+E:\MY CLASS\Collection-Materials\Excercise1\Excercise1\bin\Debug\net7.0\Excercise1.runtimeconfig.json
+E:\MY CLASS\Collection-Materials\Excercise1\Excercise1\bin\Debug\net7.0\Excercise1.dll
+E:\MY CLASS\Collection-Materials\Excercise1\Excercise1\bin\Debug\net7.0\Excercise1.pdb
+E:\MY CLASS\Collection-Materials\Excercise1\Excercise1\obj\Debug\net7.0\Excercise1.dll
+E:\MY CLASS\Collection-Materials\Excercise1\Excercise1\obj\Debug\net7.0\refint\Excercise1.dll
+E:\MY CLASS\Collection-Materials\Excercise1\Excercise1\obj\Debug\net7.0\Excercise1.pdb
+E:\MY CLASS\Collection-Materials\Excercise1\Excercise1\obj\Debug\net7.0\Excercise1.genruntimeconfig.cache
+E:\MY CLASS\Collection-Materials\Excercise1\Excercise1\obj\Debug\net7.0\ref\Excercise1.dll
