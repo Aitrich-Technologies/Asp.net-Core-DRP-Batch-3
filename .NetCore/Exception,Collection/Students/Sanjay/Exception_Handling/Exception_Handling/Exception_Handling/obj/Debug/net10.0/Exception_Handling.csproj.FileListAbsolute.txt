@@ -1,0 +1,14 @@
+C:\Users\PRIME\Desktop\Exception_Handling\Exception_Handling\Exception_Handling\bin\Debug\net10.0\Exception_Handling.exe
+C:\Users\PRIME\Desktop\Exception_Handling\Exception_Handling\Exception_Handling\bin\Debug\net10.0\Exception_Handling.deps.json
+C:\Users\PRIME\Desktop\Exception_Handling\Exception_Handling\Exception_Handling\bin\Debug\net10.0\Exception_Handling.runtimeconfig.json
+C:\Users\PRIME\Desktop\Exception_Handling\Exception_Handling\Exception_Handling\bin\Debug\net10.0\Exception_Handling.dll
+C:\Users\PRIME\Desktop\Exception_Handling\Exception_Handling\Exception_Handling\bin\Debug\net10.0\Exception_Handling.pdb
+C:\Users\PRIME\Desktop\Exception_Handling\Exception_Handling\Exception_Handling\obj\Debug\net10.0\Exception_Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRIME\Desktop\Exception_Handling\Exception_Handling\Exception_Handling\obj\Debug\net10.0\Exception_Handling.AssemblyInfoInputs.cache
+C:\Users\PRIME\Desktop\Exception_Handling\Exception_Handling\Exception_Handling\obj\Debug\net10.0\Exception_Handling.AssemblyInfo.cs
+C:\Users\PRIME\Desktop\Exception_Handling\Exception_Handling\Exception_Handling\obj\Debug\net10.0\Exception_Handling.csproj.CoreCompileInputs.cache
+C:\Users\PRIME\Desktop\Exception_Handling\Exception_Handling\Exception_Handling\obj\Debug\net10.0\Exception_Handling.dll
+C:\Users\PRIME\Desktop\Exception_Handling\Exception_Handling\Exception_Handling\obj\Debug\net10.0\refint\Exception_Handling.dll
+C:\Users\PRIME\Desktop\Exception_Handling\Exception_Handling\Exception_Handling\obj\Debug\net10.0\Exception_Handling.pdb
+C:\Users\PRIME\Desktop\Exception_Handling\Exception_Handling\Exception_Handling\obj\Debug\net10.0\Exception_Handling.genruntimeconfig.cache
+C:\Users\PRIME\Desktop\Exception_Handling\Exception_Handling\Exception_Handling\obj\Debug\net10.0\ref\Exception_Handling.dll
