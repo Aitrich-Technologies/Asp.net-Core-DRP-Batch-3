@@ -1,0 +1,14 @@
+C:\Users\PRIME\Desktop\LINQ_Activity\Activities\Activities\bin\Debug\net10.0\Activities.exe
+C:\Users\PRIME\Desktop\LINQ_Activity\Activities\Activities\bin\Debug\net10.0\Activities.deps.json
+C:\Users\PRIME\Desktop\LINQ_Activity\Activities\Activities\bin\Debug\net10.0\Activities.runtimeconfig.json
+C:\Users\PRIME\Desktop\LINQ_Activity\Activities\Activities\bin\Debug\net10.0\Activities.dll
+C:\Users\PRIME\Desktop\LINQ_Activity\Activities\Activities\bin\Debug\net10.0\Activities.pdb
+C:\Users\PRIME\Desktop\LINQ_Activity\Activities\Activities\obj\Debug\net10.0\Activities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRIME\Desktop\LINQ_Activity\Activities\Activities\obj\Debug\net10.0\Activities.AssemblyInfoInputs.cache
+C:\Users\PRIME\Desktop\LINQ_Activity\Activities\Activities\obj\Debug\net10.0\Activities.AssemblyInfo.cs
+C:\Users\PRIME\Desktop\LINQ_Activity\Activities\Activities\obj\Debug\net10.0\Activities.csproj.CoreCompileInputs.cache
+C:\Users\PRIME\Desktop\LINQ_Activity\Activities\Activities\obj\Debug\net10.0\Activities.dll
+C:\Users\PRIME\Desktop\LINQ_Activity\Activities\Activities\obj\Debug\net10.0\refint\Activities.dll
+C:\Users\PRIME\Desktop\LINQ_Activity\Activities\Activities\obj\Debug\net10.0\Activities.pdb
+C:\Users\PRIME\Desktop\LINQ_Activity\Activities\Activities\obj\Debug\net10.0\Activities.genruntimeconfig.cache
+C:\Users\PRIME\Desktop\LINQ_Activity\Activities\Activities\obj\Debug\net10.0\ref\Activities.dll
