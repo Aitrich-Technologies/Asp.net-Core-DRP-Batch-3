@@ -1,7 +1,0 @@
-C:\Users\Lenovo\OneDrive\Desktop\oops\Activity loop\Activity loop\bin\Debug\Activity loop.exe.config
-C:\Users\Lenovo\OneDrive\Desktop\oops\Activity loop\Activity loop\bin\Debug\Activity loop.exe
-C:\Users\Lenovo\OneDrive\Desktop\oops\Activity loop\Activity loop\bin\Debug\Activity loop.pdb
-C:\Users\Lenovo\OneDrive\Desktop\oops\Activity loop\Activity loop\obj\Debug\Activity loop.csproj.AssemblyReference.cache
-C:\Users\Lenovo\OneDrive\Desktop\oops\Activity loop\Activity loop\obj\Debug\Activity loop.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\OneDrive\Desktop\oops\Activity loop\Activity loop\obj\Debug\Activity loop.exe
-C:\Users\Lenovo\OneDrive\Desktop\oops\Activity loop\Activity loop\obj\Debug\Activity loop.pdb

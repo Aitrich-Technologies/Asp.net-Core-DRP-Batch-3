@@ -1,4 +1,0 @@
-C:\Users\HP\OneDrive\Desktop\C#\oops#3\oops#3\obj\Debug\net10.0\oops#3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP\OneDrive\Desktop\C#\oops#3\oops#3\obj\Debug\net10.0\oops#3.AssemblyInfoInputs.cache
-C:\Users\HP\OneDrive\Desktop\C#\oops#3\oops#3\obj\Debug\net10.0\oops#3.AssemblyInfo.cs
-C:\Users\HP\OneDrive\Desktop\C#\oops#3\oops#3\obj\Debug\net10.0\oops#3.csproj.CoreCompileInputs.cache
