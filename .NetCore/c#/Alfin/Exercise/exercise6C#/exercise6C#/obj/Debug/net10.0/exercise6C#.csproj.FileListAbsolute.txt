@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\exercise6C#\exercise6C#\bin\Debug\net10.0\exercise6C#.exe
+C:\Users\ASUS\source\repos\exercise6C#\exercise6C#\bin\Debug\net10.0\exercise6C#.deps.json
+C:\Users\ASUS\source\repos\exercise6C#\exercise6C#\bin\Debug\net10.0\exercise6C#.runtimeconfig.json
+C:\Users\ASUS\source\repos\exercise6C#\exercise6C#\bin\Debug\net10.0\exercise6C#.dll
+C:\Users\ASUS\source\repos\exercise6C#\exercise6C#\bin\Debug\net10.0\exercise6C#.pdb
+C:\Users\ASUS\source\repos\exercise6C#\exercise6C#\obj\Debug\net10.0\exercise6C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\exercise6C#\exercise6C#\obj\Debug\net10.0\exercise6C#.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\exercise6C#\exercise6C#\obj\Debug\net10.0\exercise6C#.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\exercise6C#\exercise6C#\obj\Debug\net10.0\exercise6C#.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\exercise6C#\exercise6C#\obj\Debug\net10.0\exercise6C#.dll
+C:\Users\ASUS\source\repos\exercise6C#\exercise6C#\obj\Debug\net10.0\refint\exercise6C#.dll
+C:\Users\ASUS\source\repos\exercise6C#\exercise6C#\obj\Debug\net10.0\exercise6C#.pdb
+C:\Users\ASUS\source\repos\exercise6C#\exercise6C#\obj\Debug\net10.0\exercise6C#.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\exercise6C#\exercise6C#\obj\Debug\net10.0\ref\exercise6C#.dll
