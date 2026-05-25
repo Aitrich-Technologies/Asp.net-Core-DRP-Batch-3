@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\collection\LINQActivity\LINQActivity\bin\Debug\LINQActivity.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\collection\LINQActivity\LINQActivity\bin\Debug\LINQActivity.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\LINQActivity\LINQActivity\bin\Debug\LINQActivity.pdb
+C:\Users\Lenovo\OneDrive\Desktop\collection\LINQActivity\LINQActivity\obj\Debug\LINQActivity.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\LINQActivity\LINQActivity\obj\Debug\LINQActivity.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\LINQActivity\LINQActivity\obj\Debug\LINQActivity.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\LINQActivity\LINQActivity\obj\Debug\LINQActivity.pdb

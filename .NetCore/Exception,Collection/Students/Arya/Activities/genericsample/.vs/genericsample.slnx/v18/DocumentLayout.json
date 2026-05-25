@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\genericsample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{346BBCDC-1400-4D60-B1B4-5ED505947113}|genericsample\\genericsample.csproj|c:\\users\\lenovo\\onedrive\\desktop\\collection\\genericsample\\genericsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346BBCDC-1400-4D60-B1B4-5ED505947113}|genericsample\\genericsample.csproj|solutionrelative:genericsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\genericsample\\genericsample\\Program.cs",
+              "RelativeDocumentMoniker": "genericsample\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\genericsample\\genericsample\\Program.cs",
+              "RelativeToolTip": "genericsample\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:21:50.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

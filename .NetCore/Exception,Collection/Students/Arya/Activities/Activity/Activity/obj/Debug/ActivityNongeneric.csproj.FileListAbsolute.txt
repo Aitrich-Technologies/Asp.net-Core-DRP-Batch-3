@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activity\Activity\bin\Debug\Activity.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activity\Activity\bin\Debug\Activity.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activity\Activity\bin\Debug\Activity.pdb
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activity\Activity\obj\Debug\ActivityNongeneric.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activity\Activity\obj\Debug\ActivityNongeneric.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activity\Activity\obj\Debug\Activity.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activity\Activity\obj\Debug\Activity.pdb

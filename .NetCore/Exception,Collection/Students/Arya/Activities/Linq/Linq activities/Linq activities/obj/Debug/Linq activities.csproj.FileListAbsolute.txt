@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\collection\Linq activities\Linq activities\bin\Debug\Linq activities.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\collection\Linq activities\Linq activities\bin\Debug\Linq activities.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\Linq activities\Linq activities\bin\Debug\Linq activities.pdb
+C:\Users\Lenovo\OneDrive\Desktop\collection\Linq activities\Linq activities\obj\Debug\Linq activities.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\Linq activities\Linq activities\obj\Debug\Linq activities.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\Linq activities\Linq activities\obj\Debug\Linq activities.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\Linq activities\Linq activities\obj\Debug\Linq activities.pdb

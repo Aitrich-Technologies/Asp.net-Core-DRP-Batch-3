@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\collection\sampleLinq\sampleLinq\bin\Debug\sampleLinq.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\collection\sampleLinq\sampleLinq\bin\Debug\sampleLinq.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\sampleLinq\sampleLinq\bin\Debug\sampleLinq.pdb
+C:\Users\Lenovo\OneDrive\Desktop\collection\sampleLinq\sampleLinq\obj\Debug\sampleLinq.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\sampleLinq\sampleLinq\obj\Debug\sampleLinq.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\sampleLinq\sampleLinq\obj\Debug\sampleLinq.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\sampleLinq\sampleLinq\obj\Debug\sampleLinq.pdb
