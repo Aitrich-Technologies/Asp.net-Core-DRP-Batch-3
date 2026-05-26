@@ -1,0 +1,14 @@
+D:\Mariya\EH2\EH2\bin\Debug\net10.0\EH2.exe
+D:\Mariya\EH2\EH2\bin\Debug\net10.0\EH2.deps.json
+D:\Mariya\EH2\EH2\bin\Debug\net10.0\EH2.runtimeconfig.json
+D:\Mariya\EH2\EH2\bin\Debug\net10.0\EH2.dll
+D:\Mariya\EH2\EH2\bin\Debug\net10.0\EH2.pdb
+D:\Mariya\EH2\EH2\obj\Debug\net10.0\EH2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariya\EH2\EH2\obj\Debug\net10.0\EH2.AssemblyInfoInputs.cache
+D:\Mariya\EH2\EH2\obj\Debug\net10.0\EH2.AssemblyInfo.cs
+D:\Mariya\EH2\EH2\obj\Debug\net10.0\EH2.csproj.CoreCompileInputs.cache
+D:\Mariya\EH2\EH2\obj\Debug\net10.0\EH2.dll
+D:\Mariya\EH2\EH2\obj\Debug\net10.0\refint\EH2.dll
+D:\Mariya\EH2\EH2\obj\Debug\net10.0\EH2.pdb
+D:\Mariya\EH2\EH2\obj\Debug\net10.0\EH2.genruntimeconfig.cache
+D:\Mariya\EH2\EH2\obj\Debug\net10.0\ref\EH2.dll

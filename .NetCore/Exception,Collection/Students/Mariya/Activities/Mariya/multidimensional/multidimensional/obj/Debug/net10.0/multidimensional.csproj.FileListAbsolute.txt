@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\multidimensional\multidimensional\bin\Debug\net10.0\multidimensional.exe
+C:\Users\HP\source\repos\multidimensional\multidimensional\bin\Debug\net10.0\multidimensional.deps.json
+C:\Users\HP\source\repos\multidimensional\multidimensional\bin\Debug\net10.0\multidimensional.runtimeconfig.json
+C:\Users\HP\source\repos\multidimensional\multidimensional\bin\Debug\net10.0\multidimensional.dll
+C:\Users\HP\source\repos\multidimensional\multidimensional\bin\Debug\net10.0\multidimensional.pdb
+C:\Users\HP\source\repos\multidimensional\multidimensional\obj\Debug\net10.0\multidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\multidimensional\multidimensional\obj\Debug\net10.0\multidimensional.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\multidimensional\multidimensional\obj\Debug\net10.0\multidimensional.AssemblyInfo.cs
+C:\Users\HP\source\repos\multidimensional\multidimensional\obj\Debug\net10.0\multidimensional.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\multidimensional\multidimensional\obj\Debug\net10.0\multidimensional.dll
+C:\Users\HP\source\repos\multidimensional\multidimensional\obj\Debug\net10.0\refint\multidimensional.dll
+C:\Users\HP\source\repos\multidimensional\multidimensional\obj\Debug\net10.0\multidimensional.pdb
+C:\Users\HP\source\repos\multidimensional\multidimensional\obj\Debug\net10.0\multidimensional.genruntimeconfig.cache
+C:\Users\HP\source\repos\multidimensional\multidimensional\obj\Debug\net10.0\ref\multidimensional.dll

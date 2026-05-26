@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\LOOP\LOOP\bin\Debug\net10.0\LOOP.exe
+C:\Users\HP\source\repos\LOOP\LOOP\bin\Debug\net10.0\LOOP.deps.json
+C:\Users\HP\source\repos\LOOP\LOOP\bin\Debug\net10.0\LOOP.runtimeconfig.json
+C:\Users\HP\source\repos\LOOP\LOOP\bin\Debug\net10.0\LOOP.dll
+C:\Users\HP\source\repos\LOOP\LOOP\bin\Debug\net10.0\LOOP.pdb
+C:\Users\HP\source\repos\LOOP\LOOP\obj\Debug\net10.0\LOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LOOP\LOOP\obj\Debug\net10.0\LOOP.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LOOP\LOOP\obj\Debug\net10.0\LOOP.AssemblyInfo.cs
+C:\Users\HP\source\repos\LOOP\LOOP\obj\Debug\net10.0\LOOP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LOOP\LOOP\obj\Debug\net10.0\LOOP.dll
+C:\Users\HP\source\repos\LOOP\LOOP\obj\Debug\net10.0\refint\LOOP.dll
+C:\Users\HP\source\repos\LOOP\LOOP\obj\Debug\net10.0\LOOP.pdb
+C:\Users\HP\source\repos\LOOP\LOOP\obj\Debug\net10.0\LOOP.genruntimeconfig.cache
+C:\Users\HP\source\repos\LOOP\LOOP\obj\Debug\net10.0\ref\LOOP.dll
