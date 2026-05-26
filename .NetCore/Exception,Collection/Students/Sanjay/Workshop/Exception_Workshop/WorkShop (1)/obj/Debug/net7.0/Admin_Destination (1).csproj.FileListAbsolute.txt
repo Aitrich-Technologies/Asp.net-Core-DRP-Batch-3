@@ -1,0 +1,29 @@
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\bin\Debug\net7.0\Admin_Destination (1).exe
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\bin\Debug\net7.0\Admin_Destination (1).deps.json
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\bin\Debug\net7.0\Admin_Destination (1).runtimeconfig.json
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\bin\Debug\net7.0\Admin_Destination (1).dll
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\bin\Debug\net7.0\Admin_Destination (1).pdb
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).AssemblyInfoInputs.cache
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).AssemblyInfo.cs
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).csproj.CoreCompileInputs.cache
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).sourcelink.json
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).dll
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\obj\Debug\net7.0\refint\Admin_Destination (1).dll
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).pdb
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).genruntimeconfig.cache
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\obj\Debug\net7.0\ref\Admin_Destination (1).dll
+C:\Users\PRIME\Desktop\collection_Workshop\WorkShop (1)\bin\Debug\net7.0\Admin_Destination (1).exe
+C:\Users\PRIME\Desktop\collection_Workshop\WorkShop (1)\bin\Debug\net7.0\Admin_Destination (1).deps.json
+C:\Users\PRIME\Desktop\collection_Workshop\WorkShop (1)\bin\Debug\net7.0\Admin_Destination (1).runtimeconfig.json
+C:\Users\PRIME\Desktop\collection_Workshop\WorkShop (1)\bin\Debug\net7.0\Admin_Destination (1).dll
+C:\Users\PRIME\Desktop\collection_Workshop\WorkShop (1)\bin\Debug\net7.0\Admin_Destination (1).pdb
+C:\Users\PRIME\Desktop\collection_Workshop\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRIME\Desktop\collection_Workshop\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).AssemblyInfoInputs.cache
+C:\Users\PRIME\Desktop\collection_Workshop\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).AssemblyInfo.cs
+C:\Users\PRIME\Desktop\collection_Workshop\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).csproj.CoreCompileInputs.cache
+C:\Users\PRIME\Desktop\collection_Workshop\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).dll
+C:\Users\PRIME\Desktop\collection_Workshop\WorkShop (1)\obj\Debug\net7.0\refint\Admin_Destination (1).dll
+C:\Users\PRIME\Desktop\collection_Workshop\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).pdb
+C:\Users\PRIME\Desktop\collection_Workshop\WorkShop (1)\obj\Debug\net7.0\Admin_Destination (1).genruntimeconfig.cache
+C:\Users\PRIME\Desktop\collection_Workshop\WorkShop (1)\obj\Debug\net7.0\ref\Admin_Destination (1).dll

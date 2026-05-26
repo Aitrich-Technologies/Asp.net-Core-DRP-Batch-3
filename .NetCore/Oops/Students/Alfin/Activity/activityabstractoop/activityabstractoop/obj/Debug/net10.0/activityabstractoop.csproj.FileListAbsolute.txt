@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\activityabstractoop\activityabstractoop\bin\Debug\net10.0\activityabstractoop.exe
+C:\Users\ASUS\source\repos\activityabstractoop\activityabstractoop\bin\Debug\net10.0\activityabstractoop.deps.json
+C:\Users\ASUS\source\repos\activityabstractoop\activityabstractoop\bin\Debug\net10.0\activityabstractoop.runtimeconfig.json
+C:\Users\ASUS\source\repos\activityabstractoop\activityabstractoop\bin\Debug\net10.0\activityabstractoop.dll
+C:\Users\ASUS\source\repos\activityabstractoop\activityabstractoop\bin\Debug\net10.0\activityabstractoop.pdb
+C:\Users\ASUS\source\repos\activityabstractoop\activityabstractoop\obj\Debug\net10.0\activityabstractoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\activityabstractoop\activityabstractoop\obj\Debug\net10.0\activityabstractoop.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\activityabstractoop\activityabstractoop\obj\Debug\net10.0\activityabstractoop.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\activityabstractoop\activityabstractoop\obj\Debug\net10.0\activityabstractoop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\activityabstractoop\activityabstractoop\obj\Debug\net10.0\activityabstractoop.dll
+C:\Users\ASUS\source\repos\activityabstractoop\activityabstractoop\obj\Debug\net10.0\refint\activityabstractoop.dll
+C:\Users\ASUS\source\repos\activityabstractoop\activityabstractoop\obj\Debug\net10.0\activityabstractoop.pdb
+C:\Users\ASUS\source\repos\activityabstractoop\activityabstractoop\obj\Debug\net10.0\activityabstractoop.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\activityabstractoop\activityabstractoop\obj\Debug\net10.0\ref\activityabstractoop.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\Exception_Handling\\Exception_Handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A08457D-81F1-21FA-422F-B805989487D7}|Exception_Handling\\Exception_Handling.csproj|c:\\users\\prime\\desktop\\exception_handling\\exception_handling\\exception_handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A08457D-81F1-21FA-422F-B805989487D7}|Exception_Handling\\Exception_Handling.csproj|solutionrelative:exception_handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A08457D-81F1-21FA-422F-B805989487D7}|Exception_Handling\\Exception_Handling.csproj|c:\\users\\prime\\desktop\\exception_handling\\exception_handling\\exception_handling\\ageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A08457D-81F1-21FA-422F-B805989487D7}|Exception_Handling\\Exception_Handling.csproj|solutionrelative:exception_handling\\ageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgeException.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Exception_Handling\\Exception_Handling\\Exception_Handling\\AgeException.cs",
+              "RelativeDocumentMoniker": "Exception_Handling\\AgeException.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Exception_Handling\\Exception_Handling\\Exception_Handling\\AgeException.cs",
+              "RelativeToolTip": "Exception_Handling\\AgeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:09:06.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Exception_Handling\\Exception_Handling\\Exception_Handling\\Program.cs",
+              "RelativeDocumentMoniker": "Exception_Handling\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Exception_Handling\\Exception_Handling\\Exception_Handling\\Program.cs",
+              "RelativeToolTip": "Exception_Handling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:26:26.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

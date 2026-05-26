@@ -1,0 +1,14 @@
+D:\Mariya\LQAc#\LQAc#\bin\Debug\net10.0\LQAc#.exe
+D:\Mariya\LQAc#\LQAc#\bin\Debug\net10.0\LQAc#.deps.json
+D:\Mariya\LQAc#\LQAc#\bin\Debug\net10.0\LQAc#.runtimeconfig.json
+D:\Mariya\LQAc#\LQAc#\bin\Debug\net10.0\LQAc#.dll
+D:\Mariya\LQAc#\LQAc#\bin\Debug\net10.0\LQAc#.pdb
+D:\Mariya\LQAc#\LQAc#\obj\Debug\net10.0\LQAc#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariya\LQAc#\LQAc#\obj\Debug\net10.0\LQAc#.AssemblyInfoInputs.cache
+D:\Mariya\LQAc#\LQAc#\obj\Debug\net10.0\LQAc#.AssemblyInfo.cs
+D:\Mariya\LQAc#\LQAc#\obj\Debug\net10.0\LQAc#.csproj.CoreCompileInputs.cache
+D:\Mariya\LQAc#\LQAc#\obj\Debug\net10.0\LQAc#.dll
+D:\Mariya\LQAc#\LQAc#\obj\Debug\net10.0\refint\LQAc#.dll
+D:\Mariya\LQAc#\LQAc#\obj\Debug\net10.0\LQAc#.pdb
+D:\Mariya\LQAc#\LQAc#\obj\Debug\net10.0\LQAc#.genruntimeconfig.cache
+D:\Mariya\LQAc#\LQAc#\obj\Debug\net10.0\ref\LQAc#.dll

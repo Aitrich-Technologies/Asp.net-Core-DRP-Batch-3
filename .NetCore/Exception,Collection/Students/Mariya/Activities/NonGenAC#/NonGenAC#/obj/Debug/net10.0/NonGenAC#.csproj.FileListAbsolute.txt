@@ -1,0 +1,14 @@
+D:\Mariya\NonGenAC#\NonGenAC#\bin\Debug\net10.0\NonGenAC#.exe
+D:\Mariya\NonGenAC#\NonGenAC#\bin\Debug\net10.0\NonGenAC#.deps.json
+D:\Mariya\NonGenAC#\NonGenAC#\bin\Debug\net10.0\NonGenAC#.runtimeconfig.json
+D:\Mariya\NonGenAC#\NonGenAC#\bin\Debug\net10.0\NonGenAC#.dll
+D:\Mariya\NonGenAC#\NonGenAC#\bin\Debug\net10.0\NonGenAC#.pdb
+D:\Mariya\NonGenAC#\NonGenAC#\obj\Debug\net10.0\NonGenAC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariya\NonGenAC#\NonGenAC#\obj\Debug\net10.0\NonGenAC#.AssemblyInfoInputs.cache
+D:\Mariya\NonGenAC#\NonGenAC#\obj\Debug\net10.0\NonGenAC#.AssemblyInfo.cs
+D:\Mariya\NonGenAC#\NonGenAC#\obj\Debug\net10.0\NonGenAC#.csproj.CoreCompileInputs.cache
+D:\Mariya\NonGenAC#\NonGenAC#\obj\Debug\net10.0\NonGenAC#.dll
+D:\Mariya\NonGenAC#\NonGenAC#\obj\Debug\net10.0\refint\NonGenAC#.dll
+D:\Mariya\NonGenAC#\NonGenAC#\obj\Debug\net10.0\NonGenAC#.pdb
+D:\Mariya\NonGenAC#\NonGenAC#\obj\Debug\net10.0\NonGenAC#.genruntimeconfig.cache
+D:\Mariya\NonGenAC#\NonGenAC#\obj\Debug\net10.0\ref\NonGenAC#.dll

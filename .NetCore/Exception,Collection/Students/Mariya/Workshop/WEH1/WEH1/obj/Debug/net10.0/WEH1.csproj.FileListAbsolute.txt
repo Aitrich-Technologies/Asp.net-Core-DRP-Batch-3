@@ -1,0 +1,14 @@
+D:\Mariya\WEH1\WEH1\bin\Debug\net10.0\WEH1.exe
+D:\Mariya\WEH1\WEH1\bin\Debug\net10.0\WEH1.deps.json
+D:\Mariya\WEH1\WEH1\bin\Debug\net10.0\WEH1.runtimeconfig.json
+D:\Mariya\WEH1\WEH1\bin\Debug\net10.0\WEH1.dll
+D:\Mariya\WEH1\WEH1\bin\Debug\net10.0\WEH1.pdb
+D:\Mariya\WEH1\WEH1\obj\Debug\net10.0\WEH1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariya\WEH1\WEH1\obj\Debug\net10.0\WEH1.AssemblyInfoInputs.cache
+D:\Mariya\WEH1\WEH1\obj\Debug\net10.0\WEH1.AssemblyInfo.cs
+D:\Mariya\WEH1\WEH1\obj\Debug\net10.0\WEH1.csproj.CoreCompileInputs.cache
+D:\Mariya\WEH1\WEH1\obj\Debug\net10.0\WEH1.dll
+D:\Mariya\WEH1\WEH1\obj\Debug\net10.0\refint\WEH1.dll
+D:\Mariya\WEH1\WEH1\obj\Debug\net10.0\WEH1.pdb
+D:\Mariya\WEH1\WEH1\obj\Debug\net10.0\WEH1.genruntimeconfig.cache
+D:\Mariya\WEH1\WEH1\obj\Debug\net10.0\ref\WEH1.dll

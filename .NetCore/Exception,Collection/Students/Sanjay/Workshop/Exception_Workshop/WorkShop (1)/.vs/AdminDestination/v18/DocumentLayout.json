@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\prime\\desktop\\collection_workshop\\workshop (1)\\program (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:program (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\prime\\desktop\\collection_workshop\\workshop (1)\\repository (1)\\userrepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:repository (1)\\userrepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\prime\\desktop\\collection_workshop\\workshop (1)\\models (1)\\user (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:models (1)\\user (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\prime\\desktop\\collection_workshop\\workshop (1)\\models (1)\\tour (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:models (1)\\tour (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\prime\\desktop\\collection_workshop\\workshop (1)\\manager (1)\\tourmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:manager (1)\\tourmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\prime\\desktop\\collection_workshop\\workshop (1)\\manager (1)\\publicmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:manager (1)\\publicmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\prime\\desktop\\collection_workshop\\workshop (1)\\manager (1)\\customermanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:manager (1)\\customermanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\prime\\desktop\\collection_workshop\\workshop (1)\\manager (1)\\adminmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:manager (1)\\adminmanager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\prime\\desktop\\collection_workshop\\workshop (1)\\interface (1)\\imenu (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:interface (1)\\imenu (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\prime\\desktop\\collection_workshop\\workshop (1)\\interface (1)\\itourrepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:interface (1)\\itourrepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|c:\\users\\prime\\desktop\\collection_workshop\\workshop (1)\\exceptions (1)\\invalidformatexception (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DC4CF8-CE31-3545-015E-0A9861484D4F}|Admin_Destination (1).csproj|solutionrelative:exceptions (1)\\invalidformatexception (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination.deps (1).json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination (1).exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination (1).dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository (1).cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Repository (1)\\UserRepository (1).cs",
+              "RelativeDocumentMoniker": "Repository (1)\\UserRepository (1).cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Repository (1)\\UserRepository (1).cs",
+              "RelativeToolTip": "Repository (1)\\UserRepository (1).cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:31:02.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program (1).cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Program (1).cs",
+              "RelativeDocumentMoniker": "Program (1).cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Program (1).cs",
+              "RelativeToolTip": "Program (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:31:02.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User (1).cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Models (1)\\User (1).cs",
+              "RelativeDocumentMoniker": "Models (1)\\User (1).cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Models (1)\\User (1).cs",
+              "RelativeToolTip": "Models (1)\\User (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:31:02.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tour (1).cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Models (1)\\Tour (1).cs",
+              "RelativeDocumentMoniker": "Models (1)\\Tour (1).cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Models (1)\\Tour (1).cs",
+              "RelativeToolTip": "Models (1)\\Tour (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:31:02.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TourManager (1).cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Manager (1)\\TourManager (1).cs",
+              "RelativeDocumentMoniker": "Manager (1)\\TourManager (1).cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Manager (1)\\TourManager (1).cs",
+              "RelativeToolTip": "Manager (1)\\TourManager (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:31:02.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PublicManager (1).cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Manager (1)\\PublicManager (1).cs",
+              "RelativeDocumentMoniker": "Manager (1)\\PublicManager (1).cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Manager (1)\\PublicManager (1).cs",
+              "RelativeToolTip": "Manager (1)\\PublicManager (1).cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAI8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:31:02.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerManager (1).cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Manager (1)\\CustomerManager (1).cs",
+              "RelativeDocumentMoniker": "Manager (1)\\CustomerManager (1).cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Manager (1)\\CustomerManager (1).cs",
+              "RelativeToolTip": "Manager (1)\\CustomerManager (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:31:02.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminManager (1).cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Manager (1)\\AdminManager (1).cs",
+              "RelativeDocumentMoniker": "Manager (1)\\AdminManager (1).cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Manager (1)\\AdminManager (1).cs",
+              "RelativeToolTip": "Manager (1)\\AdminManager (1).cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:31:02.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMenu (1).cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Interface (1)\\IMenu (1).cs",
+              "RelativeDocumentMoniker": "Interface (1)\\IMenu (1).cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Interface (1)\\IMenu (1).cs",
+              "RelativeToolTip": "Interface (1)\\IMenu (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:31:02.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITourRepository (1).cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Interface (1)\\ITourRepository (1).cs",
+              "RelativeDocumentMoniker": "Interface (1)\\ITourRepository (1).cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Interface (1)\\ITourRepository (1).cs",
+              "RelativeToolTip": "Interface (1)\\ITourRepository (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:31:02.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvalidFormatException (1).cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Exceptions (1)\\InvalidFormatException (1).cs",
+              "RelativeDocumentMoniker": "Exceptions (1)\\InvalidFormatException (1).cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\collection_Workshop\\WorkShop (1)\\Exceptions (1)\\InvalidFormatException (1).cs",
+              "RelativeToolTip": "Exceptions (1)\\InvalidFormatException (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:31:02.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin_Destination (1).dll",
+              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination (1).dll",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination (1).dll",
+              "ToolTip": "C:\\Users\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination (1).dll",
+              "RelativeToolTip": "..\\..\\..\\..\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination (1).dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2026-05-13T14:31:02.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin_Destination (1).exe",
+              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination (1).exe",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination (1).exe",
+              "ToolTip": "C:\\Users\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination (1).exe",
+              "RelativeToolTip": "..\\..\\..\\..\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination (1).exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2026-05-13T14:31:02.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin_Destination.deps (1).json",
+              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination.deps (1).json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination.deps (1).json",
+              "ToolTip": "C:\\Users\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination.deps (1).json",
+              "RelativeToolTip": "..\\..\\..\\..\\razal\\Downloads\\WorkShop (1)-20260512T044029Z-3-001\\WorkShop (1)\\bin (1)\\Debug (1)\\net7 (1).0\\Admin_Destination.deps (1).json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-13T14:31:02.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,0 @@
-C:\Users\PRIME\Desktop\C#\enum\enum\obj\Debug\net10.0\enum.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PRIME\Desktop\C#\enum\enum\obj\Debug\net10.0\enum.AssemblyInfoInputs.cache
-C:\Users\PRIME\Desktop\C#\enum\enum\obj\Debug\net10.0\enum.AssemblyInfo.cs
-C:\Users\PRIME\Desktop\C#\enum\enum\obj\Debug\net10.0\enum.csproj.CoreCompileInputs.cache
