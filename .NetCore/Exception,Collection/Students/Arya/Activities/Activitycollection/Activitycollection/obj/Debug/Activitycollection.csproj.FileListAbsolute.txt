@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Desktop\oops\Activitycollection\Activitycollection\bin\Debug\Activitycollection.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\oops\Activitycollection\Activitycollection\bin\Debug\Activitycollection.exe
+C:\Users\Lenovo\OneDrive\Desktop\oops\Activitycollection\Activitycollection\bin\Debug\Activitycollection.pdb
+C:\Users\Lenovo\OneDrive\Desktop\oops\Activitycollection\Activitycollection\obj\Debug\Activitycollection.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\oops\Activitycollection\Activitycollection\obj\Debug\Activitycollection.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\oops\Activitycollection\Activitycollection\obj\Debug\Activitycollection.exe
+C:\Users\Lenovo\OneDrive\Desktop\oops\Activitycollection\Activitycollection\obj\Debug\Activitycollection.pdb
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activitycollection\Activitycollection\bin\Debug\Activitycollection.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activitycollection\Activitycollection\bin\Debug\Activitycollection.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activitycollection\Activitycollection\bin\Debug\Activitycollection.pdb
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activitycollection\Activitycollection\obj\Debug\Activitycollection.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activitycollection\Activitycollection\obj\Debug\Activitycollection.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activitycollection\Activitycollection\obj\Debug\Activitycollection.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activitycollection\Activitycollection\obj\Debug\Activitycollection.pdb

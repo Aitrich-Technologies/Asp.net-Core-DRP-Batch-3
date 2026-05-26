@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\C#_Exercise\\Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\c#_exercise\\exercise\\exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\c#_exercise\\exercise\\exercise\\repository\\bankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\repository\\bankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\c#_exercise\\exercise\\exercise\\exception\\accountnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\exception\\accountnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\c#_exercise\\exercise\\exercise\\manager\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\manager\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\c#_exercise\\exercise\\exercise\\enum\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\enum\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\C#_Exercise\\Exercise\\Exercise\\Repository\\BankRepository.cs",
+              "RelativeDocumentMoniker": "Exercise\\Repository\\BankRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\C#_Exercise\\Exercise\\Exercise\\Repository\\BankRepository.cs",
+              "RelativeToolTip": "Exercise\\Repository\\BankRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T10:58:20.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\C#_Exercise\\Exercise\\Exercise\\Manager\\AccountManager.cs",
+              "RelativeDocumentMoniker": "Exercise\\Manager\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\C#_Exercise\\Exercise\\Exercise\\Manager\\AccountManager.cs",
+              "RelativeToolTip": "Exercise\\Manager\\AccountManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T10:16:05.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\C#_Exercise\\Exercise\\Exercise\\Exception\\AccountNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exercise\\Exception\\AccountNotFoundException.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\C#_Exercise\\Exercise\\Exercise\\Exception\\AccountNotFoundException.cs",
+              "RelativeToolTip": "Exercise\\Exception\\AccountNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:39:44.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\C#_Exercise\\Exercise\\Exercise\\Enum\\AccountType.cs",
+              "RelativeDocumentMoniker": "Exercise\\Enum\\AccountType.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\C#_Exercise\\Exercise\\Exercise\\Enum\\AccountType.cs",
+              "RelativeToolTip": "Exercise\\Enum\\AccountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:39:18.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\C#_Exercise\\Exercise\\Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\C#_Exercise\\Exercise\\Exercise\\Program.cs",
+              "RelativeToolTip": "Exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:38:21.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

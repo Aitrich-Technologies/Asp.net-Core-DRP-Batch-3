@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\collection\Exception sample\Exception sample\bin\Debug\Exception sample.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\collection\Exception sample\Exception sample\bin\Debug\Exception sample.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\Exception sample\Exception sample\bin\Debug\Exception sample.pdb
+C:\Users\Lenovo\OneDrive\Desktop\collection\Exception sample\Exception sample\obj\Debug\Exception sample.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\Exception sample\Exception sample\obj\Debug\Exception sample.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\Exception sample\Exception sample\obj\Debug\Exception sample.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\Exception sample\Exception sample\obj\Debug\Exception sample.pdb
