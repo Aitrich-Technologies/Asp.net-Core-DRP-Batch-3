@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Activity3Exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16ADA009-A397-D306-5FF7-634F54C71BA1}|Activity3Exception\\Activity3Exception.csproj|c:\\users\\asus\\source\\repos\\activity3exception\\activity3exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ADA009-A397-D306-5FF7-634F54C71BA1}|Activity3Exception\\Activity3Exception.csproj|solutionrelative:activity3exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ADA009-A397-D306-5FF7-634F54C71BA1}|Activity3Exception\\Activity3Exception.csproj|c:\\users\\asus\\source\\repos\\activity3exception\\activity3exception\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ADA009-A397-D306-5FF7-634F54C71BA1}|Activity3Exception\\Activity3Exception.csproj|solutionrelative:activity3exception\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ADA009-A397-D306-5FF7-634F54C71BA1}|Activity3Exception\\Activity3Exception.csproj|c:\\users\\asus\\source\\repos\\activity3exception\\activity3exception\\invalidamountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ADA009-A397-D306-5FF7-634F54C71BA1}|Activity3Exception\\Activity3Exception.csproj|solutionrelative:activity3exception\\invalidamountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsufficientBalanceException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Activity3Exception\\Activity3Exception\\InsufficientBalanceException.cs",
+              "RelativeDocumentMoniker": "Activity3Exception\\InsufficientBalanceException.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Activity3Exception\\Activity3Exception\\InsufficientBalanceException.cs*",
+              "RelativeToolTip": "Activity3Exception\\InsufficientBalanceException.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T02:21:23.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Activity3Exception\\Activity3Exception\\Program.cs",
+              "RelativeDocumentMoniker": "Activity3Exception\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Activity3Exception\\Activity3Exception\\Program.cs*",
+              "RelativeToolTip": "Activity3Exception\\Program.cs*",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:02:53.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidAmountException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Activity3Exception\\Activity3Exception\\InvalidAmountException.cs",
+              "RelativeDocumentMoniker": "Activity3Exception\\InvalidAmountException.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Activity3Exception\\Activity3Exception\\InvalidAmountException.cs*",
+              "RelativeToolTip": "Activity3Exception\\InvalidAmountException.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:07:50.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
