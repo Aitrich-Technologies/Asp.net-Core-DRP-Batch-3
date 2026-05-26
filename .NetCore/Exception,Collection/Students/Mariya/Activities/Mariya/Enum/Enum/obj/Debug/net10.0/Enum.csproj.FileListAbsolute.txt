@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\Enum\Enum\obj\Debug\net10.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Enum\Enum\obj\Debug\net10.0\Enum.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Enum\Enum\obj\Debug\net10.0\Enum.AssemblyInfo.cs
+C:\Users\HP\source\repos\Enum\Enum\obj\Debug\net10.0\Enum.csproj.CoreCompileInputs.cache

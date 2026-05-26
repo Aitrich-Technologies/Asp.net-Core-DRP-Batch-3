@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mariya\\EH3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{421BA61A-F4A6-497D-AA19-448E9AA20641}|EH3\\EH3.csproj|d:\\mariya\\eh3\\eh3\\bankac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421BA61A-F4A6-497D-AA19-448E9AA20641}|EH3\\EH3.csproj|solutionrelative:eh3\\bankac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421BA61A-F4A6-497D-AA19-448E9AA20641}|EH3\\EH3.csproj|d:\\mariya\\eh3\\eh3\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421BA61A-F4A6-497D-AA19-448E9AA20641}|EH3\\EH3.csproj|solutionrelative:eh3\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421BA61A-F4A6-497D-AA19-448E9AA20641}|EH3\\EH3.csproj|d:\\mariya\\eh3\\eh3\\invalidexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421BA61A-F4A6-497D-AA19-448E9AA20641}|EH3\\EH3.csproj|solutionrelative:eh3\\invalidexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421BA61A-F4A6-497D-AA19-448E9AA20641}|EH3\\EH3.csproj|d:\\mariya\\eh3\\eh3\\insufficientexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421BA61A-F4A6-497D-AA19-448E9AA20641}|EH3\\EH3.csproj|solutionrelative:eh3\\insufficientexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421BA61A-F4A6-497D-AA19-448E9AA20641}|EH3\\EH3.csproj|d:\\mariya\\eh3\\eh3\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421BA61A-F4A6-497D-AA19-448E9AA20641}|EH3\\EH3.csproj|solutionrelative:eh3\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421BA61A-F4A6-497D-AA19-448E9AA20641}|EH3\\EH3.csproj|d:\\mariya\\eh3\\eh3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421BA61A-F4A6-497D-AA19-448E9AA20641}|EH3\\EH3.csproj|solutionrelative:eh3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InSufficientExceptions.cs",
+              "DocumentMoniker": "D:\\Mariya\\EH3\\EH3\\InSufficientExceptions.cs",
+              "RelativeDocumentMoniker": "EH3\\InSufficientExceptions.cs",
+              "ToolTip": "D:\\Mariya\\EH3\\EH3\\InSufficientExceptions.cs*",
+              "RelativeToolTip": "EH3\\InSufficientExceptions.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:51:45.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InValidExceptions.cs",
+              "DocumentMoniker": "D:\\Mariya\\EH3\\EH3\\InValidExceptions.cs",
+              "RelativeDocumentMoniker": "EH3\\InValidExceptions.cs",
+              "ToolTip": "D:\\Mariya\\EH3\\EH3\\InValidExceptions.cs*",
+              "RelativeToolTip": "EH3\\InValidExceptions.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:51:00.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\Mariya\\EH3\\EH3\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "EH3\\SavingsAccount.cs",
+              "ToolTip": "D:\\Mariya\\EH3\\EH3\\SavingsAccount.cs*",
+              "RelativeToolTip": "EH3\\SavingsAccount.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:42:12.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "D:\\Mariya\\EH3\\EH3\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "EH3\\CurrentAccount.cs",
+              "ToolTip": "D:\\Mariya\\EH3\\EH3\\CurrentAccount.cs*",
+              "RelativeToolTip": "EH3\\CurrentAccount.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:41:28.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAC.cs",
+              "DocumentMoniker": "D:\\Mariya\\EH3\\EH3\\BankAC.cs",
+              "RelativeDocumentMoniker": "EH3\\BankAC.cs",
+              "ToolTip": "D:\\Mariya\\EH3\\EH3\\BankAC.cs",
+              "RelativeToolTip": "EH3\\BankAC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:12:15.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mariya\\EH3\\EH3\\Program.cs",
+              "RelativeDocumentMoniker": "EH3\\Program.cs",
+              "ToolTip": "D:\\Mariya\\EH3\\EH3\\Program.cs*",
+              "RelativeToolTip": "EH3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T04:43:42.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

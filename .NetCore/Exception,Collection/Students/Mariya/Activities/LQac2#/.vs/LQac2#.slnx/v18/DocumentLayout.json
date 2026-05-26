@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mariya\\LQac2#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1A42BD-5843-F258-C4BD-C8E0BC1D8093}|LQac2#\\LQac2#.csproj|d:\\mariya\\lqac2#\\lqac2#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1A42BD-5843-F258-C4BD-C8E0BC1D8093}|LQac2#\\LQac2#.csproj|solutionrelative:lqac2#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mariya\\LQac2#\\LQac2#\\Program.cs",
+              "RelativeDocumentMoniker": "LQac2#\\Program.cs",
+              "ToolTip": "D:\\Mariya\\LQac2#\\LQac2#\\Program.cs",
+              "RelativeToolTip": "LQac2#\\Program.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAUwBgBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:15:53.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

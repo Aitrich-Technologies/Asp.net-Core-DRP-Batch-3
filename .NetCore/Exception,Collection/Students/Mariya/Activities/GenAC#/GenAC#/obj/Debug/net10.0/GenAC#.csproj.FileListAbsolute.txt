@@ -1,0 +1,14 @@
+D:\Mariya\GenAC#\GenAC#\bin\Debug\net10.0\GenAC#.exe
+D:\Mariya\GenAC#\GenAC#\bin\Debug\net10.0\GenAC#.deps.json
+D:\Mariya\GenAC#\GenAC#\bin\Debug\net10.0\GenAC#.runtimeconfig.json
+D:\Mariya\GenAC#\GenAC#\bin\Debug\net10.0\GenAC#.dll
+D:\Mariya\GenAC#\GenAC#\bin\Debug\net10.0\GenAC#.pdb
+D:\Mariya\GenAC#\GenAC#\obj\Debug\net10.0\GenAC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariya\GenAC#\GenAC#\obj\Debug\net10.0\GenAC#.AssemblyInfoInputs.cache
+D:\Mariya\GenAC#\GenAC#\obj\Debug\net10.0\GenAC#.AssemblyInfo.cs
+D:\Mariya\GenAC#\GenAC#\obj\Debug\net10.0\GenAC#.csproj.CoreCompileInputs.cache
+D:\Mariya\GenAC#\GenAC#\obj\Debug\net10.0\GenAC#.dll
+D:\Mariya\GenAC#\GenAC#\obj\Debug\net10.0\refint\GenAC#.dll
+D:\Mariya\GenAC#\GenAC#\obj\Debug\net10.0\GenAC#.pdb
+D:\Mariya\GenAC#\GenAC#\obj\Debug\net10.0\GenAC#.genruntimeconfig.cache
+D:\Mariya\GenAC#\GenAC#\obj\Debug\net10.0\ref\GenAC#.dll

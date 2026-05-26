@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\starx\starx\bin\Debug\net10.0\starx.exe
+C:\Users\HP\source\repos\starx\starx\bin\Debug\net10.0\starx.deps.json
+C:\Users\HP\source\repos\starx\starx\bin\Debug\net10.0\starx.runtimeconfig.json
+C:\Users\HP\source\repos\starx\starx\bin\Debug\net10.0\starx.dll
+C:\Users\HP\source\repos\starx\starx\bin\Debug\net10.0\starx.pdb
+C:\Users\HP\source\repos\starx\starx\obj\Debug\net10.0\starx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\starx\starx\obj\Debug\net10.0\starx.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\starx\starx\obj\Debug\net10.0\starx.AssemblyInfo.cs
+C:\Users\HP\source\repos\starx\starx\obj\Debug\net10.0\starx.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\starx\starx\obj\Debug\net10.0\starx.dll
+C:\Users\HP\source\repos\starx\starx\obj\Debug\net10.0\refint\starx.dll
+C:\Users\HP\source\repos\starx\starx\obj\Debug\net10.0\starx.pdb
+C:\Users\HP\source\repos\starx\starx\obj\Debug\net10.0\starx.genruntimeconfig.cache
+C:\Users\HP\source\repos\starx\starx\obj\Debug\net10.0\ref\starx.dll

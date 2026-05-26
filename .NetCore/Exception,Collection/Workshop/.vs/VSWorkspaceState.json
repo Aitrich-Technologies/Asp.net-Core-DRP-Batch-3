@@ -3,6 +3,15 @@
     "",
     "\\WorkShop (1)",
     "\\WorkShop (1)\\WorkShop (1)",
+<<<<<<< HEAD
+    "\\WorkShop (1)\\WorkShop (1)\\Enums (1)",
+    "\\WorkShop (1)\\WorkShop (1)\\Exceptions (1)",
+    "\\WorkShop (1)\\WorkShop (1)\\Interface (1)",
+    "\\WorkShop (1)\\WorkShop (1)\\Manager (1)",
+    "\\WorkShop (1)\\WorkShop (1)\\obj\\Debug\\net7.0"
+  ],
+  "SelectedNode": "\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourRepository (1).cs",
+=======
     "\\WorkShop (1)\\WorkShop (1)\\Interface (1)",
     "\\WorkShop (1)\\WorkShop (1)\\Manager (1)",
     "\\WorkShop (1)\\WorkShop (1)\\Models (1)",
@@ -11,5 +20,6 @@
     "\\WorkShop (1)\\WorkShop (1)\\Repository (1)"
   ],
   "SelectedNode": "\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\TourManager (1).cs",
+>>>>>>> ca898cceebe1612ed6477828328293aa4165a272
   "PreviewInSolutionExplorer": false
 }

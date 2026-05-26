@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mariya\\WEH1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\manager\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\manager\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\manager\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\manager\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\manager\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\manager\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\execptions\\invalidexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\execptions\\invalidexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\interface\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\interface\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|d:\\mariya\\weh1\\weh1\\manager\\tourmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822460F-DD69-4E51-B62D-4260CE66BAED}|WEH1\\WEH1.csproj|solutionrelative:weh1\\manager\\tourmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminManager.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Manager\\AdminManager.cs",
+              "RelativeDocumentMoniker": "WEH1\\Manager\\AdminManager.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Manager\\AdminManager.cs",
+              "RelativeToolTip": "WEH1\\Manager\\AdminManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:39:31.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Manager\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "WEH1\\Manager\\CustomerManager.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Manager\\CustomerManager.cs",
+              "RelativeToolTip": "WEH1\\Manager\\CustomerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:40:01.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicManager.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Manager\\PublicManager.cs",
+              "RelativeDocumentMoniker": "WEH1\\Manager\\PublicManager.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Manager\\PublicManager.cs",
+              "RelativeToolTip": "WEH1\\Manager\\PublicManager.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAgwIoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:39:45.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WEH1\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "WEH1\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:43:14.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "WEH1\\Models\\Tour.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Models\\Tour.cs",
+              "RelativeToolTip": "WEH1\\Models\\Tour.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:40:51.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InValidExceptions.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Execptions\\InValidExceptions.cs",
+              "RelativeDocumentMoniker": "WEH1\\Execptions\\InValidExceptions.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Execptions\\InValidExceptions.cs",
+              "RelativeToolTip": "WEH1\\Execptions\\InValidExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:08:01.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Program.cs",
+              "RelativeDocumentMoniker": "WEH1\\Program.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Program.cs",
+              "RelativeToolTip": "WEH1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:31:38.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WEH1\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "WEH1\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:37:11.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITourService.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Interface\\ITourService.cs",
+              "RelativeDocumentMoniker": "WEH1\\Interface\\ITourService.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Interface\\ITourService.cs",
+              "RelativeToolTip": "WEH1\\Interface\\ITourService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:36:46.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITourRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Interface\\ITourRepository.cs",
+              "RelativeDocumentMoniker": "WEH1\\Interface\\ITourRepository.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Interface\\ITourRepository.cs",
+              "RelativeToolTip": "WEH1\\Interface\\ITourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:36:30.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Interface\\IMenu.cs",
+              "RelativeDocumentMoniker": "WEH1\\Interface\\IMenu.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Interface\\IMenu.cs",
+              "RelativeToolTip": "WEH1\\Interface\\IMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:36:11.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "WEH1\\Enums\\Roles.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Enums\\Roles.cs",
+              "RelativeToolTip": "WEH1\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:35:26.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WEH1\\Models\\User.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Models\\User.cs",
+              "RelativeToolTip": "WEH1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:41:02.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lists.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Lists.cs",
+              "RelativeDocumentMoniker": "WEH1\\Lists.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Lists.cs",
+              "RelativeToolTip": "WEH1\\Lists.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:55:26.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TourManager.cs",
+              "DocumentMoniker": "D:\\Mariya\\WEH1\\WEH1\\Manager\\TourManager.cs",
+              "RelativeDocumentMoniker": "WEH1\\Manager\\TourManager.cs",
+              "ToolTip": "D:\\Mariya\\WEH1\\WEH1\\Manager\\TourManager.cs",
+              "RelativeToolTip": "WEH1\\Manager\\TourManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:40:22.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

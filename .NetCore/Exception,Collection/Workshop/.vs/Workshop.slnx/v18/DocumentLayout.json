@@ -1,5 +1,52 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Admin_Destination (1).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkShop (1)\\WorkShop (1)\\Admin_Destination (1).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\TourManager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkShop (1)\\WorkShop (1)\\Manager (1)\\TourManager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\PublicManager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkShop (1)\\WorkShop (1)\\Manager (1)\\PublicManager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\CustomerManager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkShop (1)\\WorkShop (1)\\Manager (1)\\CustomerManager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\AdminManager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkShop (1)\\WorkShop (1)\\Manager (1)\\AdminManager (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\IMenu (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkShop (1)\\WorkShop (1)\\Interface (1)\\IMenu (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourRepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourRepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourService (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourService (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\IUserRepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkShop (1)\\WorkShop (1)\\Interface (1)\\IUserRepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\bin\\Roles (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkShop (1)\\WorkShop (1)\\bin\\Roles (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Program (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkShop (1)\\WorkShop (1)\\Program (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\",
   "Documents": [
     {
@@ -61,6 +108,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Enums (1)\\Roles (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkShop (1)\\WorkShop (1)\\Enums (1)\\Roles (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> ca898cceebe1612ed6477828328293aa4165a272
     }
   ],
   "DocumentGroupContainers": [
@@ -75,6 +123,16 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
+              "Title": "Admin_Destination (1).csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Admin_Destination (1).csproj",
+              "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Admin_Destination (1).csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Admin_Destination (1).csproj",
+              "RelativeToolTip": "WorkShop (1)\\WorkShop (1)\\Admin_Destination (1).csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-14T04:52:39.729Z",
+=======
               "Title": "TourManager (1).cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\TourManager (1).cs",
               "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Manager (1)\\TourManager (1).cs",
@@ -83,11 +141,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T09:36:46.067Z",
+>>>>>>> ca898cceebe1612ed6477828328293aa4165a272
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
+              "Title": "TourManager (1).cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\TourManager (1).cs",
+              "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Manager (1)\\TourManager (1).cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\TourManager (1).cs",
+              "RelativeToolTip": "WorkShop (1)\\WorkShop (1)\\Manager (1)\\TourManager (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:51:57.766Z",
+=======
               "Title": "CustomerManager (1).cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\CustomerManager (1).cs",
               "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Manager (1)\\CustomerManager (1).cs",
@@ -96,12 +165,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T09:31:10.043Z",
+>>>>>>> ca898cceebe1612ed6477828328293aa4165a272
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PublicManager (1).cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\PublicManager (1).cs",
+              "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Manager (1)\\PublicManager (1).cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\PublicManager (1).cs",
+              "RelativeToolTip": "WorkShop (1)\\WorkShop (1)\\Manager (1)\\PublicManager (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:51:55.66Z",
+=======
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\PublicManager (1).cs",
               "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Manager (1)\\PublicManager (1).cs",
               "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\PublicManager (1).cs",
@@ -109,11 +188,22 @@
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAEcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T09:26:35.913Z",
+>>>>>>> ca898cceebe1612ed6477828328293aa4165a272
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
+              "Title": "CustomerManager (1).cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\CustomerManager (1).cs",
+              "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Manager (1)\\CustomerManager (1).cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\CustomerManager (1).cs",
+              "RelativeToolTip": "WorkShop (1)\\WorkShop (1)\\Manager (1)\\CustomerManager (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:51:54.169Z",
+=======
               "Title": "UserRepository (1).cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Repository (1)\\UserRepository (1).cs",
               "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Repository (1)\\UserRepository (1).cs",
@@ -174,12 +264,87 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T09:22:38.069Z",
+>>>>>>> ca898cceebe1612ed6477828328293aa4165a272
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AdminManager (1).cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\AdminManager (1).cs",
+              "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Manager (1)\\AdminManager (1).cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\AdminManager (1).cs",
+              "RelativeToolTip": "WorkShop (1)\\WorkShop (1)\\Manager (1)\\AdminManager (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:51:52.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository (1).cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\IUserRepository (1).cs",
+              "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Interface (1)\\IUserRepository (1).cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\IUserRepository (1).cs",
+              "RelativeToolTip": "WorkShop (1)\\WorkShop (1)\\Interface (1)\\IUserRepository (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:51:34.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITourService (1).cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourService (1).cs",
+              "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourService (1).cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourService (1).cs",
+              "RelativeToolTip": "WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourService (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:51:32.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITourRepository (1).cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourRepository (1).cs",
+              "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourRepository (1).cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourRepository (1).cs",
+              "RelativeToolTip": "WorkShop (1)\\WorkShop (1)\\Interface (1)\\ITourRepository (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:51:31.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMenu (1).cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\IMenu (1).cs",
+              "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Interface (1)\\IMenu (1).cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\IMenu (1).cs",
+              "RelativeToolTip": "WorkShop (1)\\WorkShop (1)\\Interface (1)\\IMenu (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:51:28.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program (1).cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Program (1).cs",
+              "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Program (1).cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Program (1).cs",
+              "RelativeToolTip": "WorkShop (1)\\WorkShop (1)\\Program (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T09:41:30.221Z",
+=======
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\AdminManager (1).cs",
               "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Manager (1)\\AdminManager (1).cs",
               "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Manager (1)\\AdminManager (1).cs",
@@ -187,11 +352,22 @@
               "ViewState": "AgIAAE8AAAAAAAAAAAAAACgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T09:22:13.606Z",
+>>>>>>> ca898cceebe1612ed6477828328293aa4165a272
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+<<<<<<< HEAD
+              "Title": "Roles (1).cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\bin\\Roles (1).cs",
+              "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\bin\\Roles (1).cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\bin\\Roles (1).cs",
+              "RelativeToolTip": "WorkShop (1)\\WorkShop (1)\\bin\\Roles (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T09:41:15.176Z",
+=======
               "Title": "IUserRepository (1).cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\aitrich depositary\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Exception,Collection\\Workshop\\WorkShop (1)\\WorkShop (1)\\Interface (1)\\IUserRepository (1).cs",
               "RelativeDocumentMoniker": "WorkShop (1)\\WorkShop (1)\\Interface (1)\\IUserRepository (1).cs",
@@ -265,6 +441,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T09:19:15.934Z",
+>>>>>>> ca898cceebe1612ed6477828328293aa4165a272
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,14 @@
+D:\Mariya\LQac2#\LQac2#\bin\Debug\net10.0\LQac2#.exe
+D:\Mariya\LQac2#\LQac2#\bin\Debug\net10.0\LQac2#.deps.json
+D:\Mariya\LQac2#\LQac2#\bin\Debug\net10.0\LQac2#.runtimeconfig.json
+D:\Mariya\LQac2#\LQac2#\bin\Debug\net10.0\LQac2#.dll
+D:\Mariya\LQac2#\LQac2#\bin\Debug\net10.0\LQac2#.pdb
+D:\Mariya\LQac2#\LQac2#\obj\Debug\net10.0\LQac2#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariya\LQac2#\LQac2#\obj\Debug\net10.0\LQac2#.AssemblyInfoInputs.cache
+D:\Mariya\LQac2#\LQac2#\obj\Debug\net10.0\LQac2#.AssemblyInfo.cs
+D:\Mariya\LQac2#\LQac2#\obj\Debug\net10.0\LQac2#.csproj.CoreCompileInputs.cache
+D:\Mariya\LQac2#\LQac2#\obj\Debug\net10.0\LQac2#.dll
+D:\Mariya\LQac2#\LQac2#\obj\Debug\net10.0\refint\LQac2#.dll
+D:\Mariya\LQac2#\LQac2#\obj\Debug\net10.0\LQac2#.pdb
+D:\Mariya\LQac2#\LQac2#\obj\Debug\net10.0\LQac2#.genruntimeconfig.cache
+D:\Mariya\LQac2#\LQac2#\obj\Debug\net10.0\ref\LQac2#.dll
