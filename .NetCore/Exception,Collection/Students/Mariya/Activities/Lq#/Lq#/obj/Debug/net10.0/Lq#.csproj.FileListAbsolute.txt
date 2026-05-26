@@ -1,0 +1,14 @@
+D:\Mariya\Lq#\Lq#\bin\Debug\net10.0\Lq#.exe
+D:\Mariya\Lq#\Lq#\bin\Debug\net10.0\Lq#.deps.json
+D:\Mariya\Lq#\Lq#\bin\Debug\net10.0\Lq#.runtimeconfig.json
+D:\Mariya\Lq#\Lq#\bin\Debug\net10.0\Lq#.dll
+D:\Mariya\Lq#\Lq#\bin\Debug\net10.0\Lq#.pdb
+D:\Mariya\Lq#\Lq#\obj\Debug\net10.0\Lq#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariya\Lq#\Lq#\obj\Debug\net10.0\Lq#.AssemblyInfoInputs.cache
+D:\Mariya\Lq#\Lq#\obj\Debug\net10.0\Lq#.AssemblyInfo.cs
+D:\Mariya\Lq#\Lq#\obj\Debug\net10.0\Lq#.csproj.CoreCompileInputs.cache
+D:\Mariya\Lq#\Lq#\obj\Debug\net10.0\Lq#.dll
+D:\Mariya\Lq#\Lq#\obj\Debug\net10.0\refint\Lq#.dll
+D:\Mariya\Lq#\Lq#\obj\Debug\net10.0\Lq#.pdb
+D:\Mariya\Lq#\Lq#\obj\Debug\net10.0\Lq#.genruntimeconfig.cache
+D:\Mariya\Lq#\Lq#\obj\Debug\net10.0\ref\Lq#.dll

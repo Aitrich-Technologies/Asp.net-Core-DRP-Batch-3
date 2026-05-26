@@ -1,0 +1,14 @@
+D:\Mariya\EH1\EH1\bin\Debug\net10.0\EH1.exe
+D:\Mariya\EH1\EH1\bin\Debug\net10.0\EH1.deps.json
+D:\Mariya\EH1\EH1\bin\Debug\net10.0\EH1.runtimeconfig.json
+D:\Mariya\EH1\EH1\bin\Debug\net10.0\EH1.dll
+D:\Mariya\EH1\EH1\bin\Debug\net10.0\EH1.pdb
+D:\Mariya\EH1\EH1\obj\Debug\net10.0\EH1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariya\EH1\EH1\obj\Debug\net10.0\EH1.AssemblyInfoInputs.cache
+D:\Mariya\EH1\EH1\obj\Debug\net10.0\EH1.AssemblyInfo.cs
+D:\Mariya\EH1\EH1\obj\Debug\net10.0\EH1.csproj.CoreCompileInputs.cache
+D:\Mariya\EH1\EH1\obj\Debug\net10.0\EH1.dll
+D:\Mariya\EH1\EH1\obj\Debug\net10.0\refint\EH1.dll
+D:\Mariya\EH1\EH1\obj\Debug\net10.0\EH1.pdb
+D:\Mariya\EH1\EH1\obj\Debug\net10.0\EH1.genruntimeconfig.cache
+D:\Mariya\EH1\EH1\obj\Debug\net10.0\ref\EH1.dll

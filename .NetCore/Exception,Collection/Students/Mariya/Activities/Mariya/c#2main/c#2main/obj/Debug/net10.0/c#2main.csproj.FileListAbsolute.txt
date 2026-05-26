@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\c#2main\c#2main\bin\Debug\net10.0\c#2main.exe
+C:\Users\HP\source\repos\c#2main\c#2main\bin\Debug\net10.0\c#2main.deps.json
+C:\Users\HP\source\repos\c#2main\c#2main\bin\Debug\net10.0\c#2main.runtimeconfig.json
+C:\Users\HP\source\repos\c#2main\c#2main\bin\Debug\net10.0\c#2main.dll
+C:\Users\HP\source\repos\c#2main\c#2main\bin\Debug\net10.0\c#2main.pdb
+C:\Users\HP\source\repos\c#2main\c#2main\obj\Debug\net10.0\c#2main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\c#2main\c#2main\obj\Debug\net10.0\c#2main.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\c#2main\c#2main\obj\Debug\net10.0\c#2main.AssemblyInfo.cs
+C:\Users\HP\source\repos\c#2main\c#2main\obj\Debug\net10.0\c#2main.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\c#2main\c#2main\obj\Debug\net10.0\c#2main.dll
+C:\Users\HP\source\repos\c#2main\c#2main\obj\Debug\net10.0\refint\c#2main.dll
+C:\Users\HP\source\repos\c#2main\c#2main\obj\Debug\net10.0\c#2main.pdb
+C:\Users\HP\source\repos\c#2main\c#2main\obj\Debug\net10.0\c#2main.genruntimeconfig.cache
+C:\Users\HP\source\repos\c#2main\c#2main\obj\Debug\net10.0\ref\c#2main.dll

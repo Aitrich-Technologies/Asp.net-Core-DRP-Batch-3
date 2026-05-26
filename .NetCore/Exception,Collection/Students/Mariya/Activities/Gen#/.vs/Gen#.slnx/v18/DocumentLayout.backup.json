@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mariya\\Gen#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{655FCF85-F233-E52C-6D57-B0EB86013E3D}|Gen#\\Gen#.csproj|d:\\mariya\\gen#\\gen#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655FCF85-F233-E52C-6D57-B0EB86013E3D}|Gen#\\Gen#.csproj|solutionrelative:gen#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mariya\\Gen#\\Gen#\\Program.cs",
+              "RelativeDocumentMoniker": "Gen#\\Program.cs",
+              "ToolTip": "D:\\Mariya\\Gen#\\Gen#\\Program.cs*",
+              "RelativeToolTip": "Gen#\\Program.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwDcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:22:28.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

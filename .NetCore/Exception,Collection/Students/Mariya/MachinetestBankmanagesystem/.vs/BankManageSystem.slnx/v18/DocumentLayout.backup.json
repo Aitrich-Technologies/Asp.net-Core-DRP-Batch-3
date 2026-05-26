@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mariya\\BankManageSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|d:\\mariya\\bankmanagesystem\\bankmanagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|solutionrelative:bankmanagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|d:\\mariya\\bankmanagesystem\\bankmanagesystem\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|solutionrelative:bankmanagesystem\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|d:\\mariya\\bankmanagesystem\\bankmanagesystem\\enums\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|solutionrelative:bankmanagesystem\\enums\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|d:\\mariya\\bankmanagesystem\\bankmanagesystem\\managers\\bankmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|solutionrelative:bankmanagesystem\\managers\\bankmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|d:\\mariya\\bankmanagesystem\\bankmanagesystem\\repository\\bankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|solutionrelative:bankmanagesystem\\repository\\bankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|d:\\mariya\\bankmanagesystem\\bankmanagesystem\\interface\\ibankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|solutionrelative:bankmanagesystem\\interface\\ibankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|d:\\mariya\\bankmanagesystem\\bankmanagesystem\\exceptions\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|solutionrelative:bankmanagesystem\\exceptions\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|d:\\mariya\\bankmanagesystem\\bankmanagesystem\\exceptions\\accountnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1709FBD-51A9-19E7-BCEE-4ECF7E905E1D}|BankManageSystem\\BankManageSystem.csproj|solutionrelative:bankmanagesystem\\exceptions\\accountnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBankRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Interface\\IBankRepository.cs",
+              "RelativeDocumentMoniker": "BankManageSystem\\Interface\\IBankRepository.cs",
+              "ToolTip": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Interface\\IBankRepository.cs",
+              "RelativeToolTip": "BankManageSystem\\Interface\\IBankRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T06:57:45.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankManager.cs",
+              "DocumentMoniker": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Managers\\BankManager.cs",
+              "RelativeDocumentMoniker": "BankManageSystem\\Managers\\BankManager.cs",
+              "ToolTip": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Managers\\BankManager.cs",
+              "RelativeToolTip": "BankManageSystem\\Managers\\BankManager.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwD8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:02:44.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankManageSystem\\Models\\BankAccount.cs",
+              "ToolTip": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Models\\BankAccount.cs",
+              "RelativeToolTip": "BankManageSystem\\Models\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:03:22.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankRepository.cs",
+              "DocumentMoniker": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Repository\\BankRepository.cs",
+              "RelativeDocumentMoniker": "BankManageSystem\\Repository\\BankRepository.cs",
+              "ToolTip": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Repository\\BankRepository.cs",
+              "RelativeToolTip": "BankManageSystem\\Repository\\BankRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:03:53.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BankManageSystem\\Program.cs",
+              "ToolTip": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Program.cs",
+              "RelativeToolTip": "BankManageSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T06:53:18.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Enums\\AccountType.cs",
+              "RelativeDocumentMoniker": "BankManageSystem\\Enums\\AccountType.cs",
+              "ToolTip": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Enums\\AccountType.cs",
+              "RelativeToolTip": "BankManageSystem\\Enums\\AccountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T06:55:43.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsufficientBalanceException.cs",
+              "DocumentMoniker": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Exceptions\\InsufficientBalanceException.cs",
+              "RelativeDocumentMoniker": "BankManageSystem\\Exceptions\\InsufficientBalanceException.cs",
+              "ToolTip": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Exceptions\\InsufficientBalanceException.cs",
+              "RelativeToolTip": "BankManageSystem\\Exceptions\\InsufficientBalanceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:04:53.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountNotFoundException.cs",
+              "DocumentMoniker": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Exceptions\\AccountNotFoundException.cs",
+              "RelativeDocumentMoniker": "BankManageSystem\\Exceptions\\AccountNotFoundException.cs",
+              "ToolTip": "D:\\Mariya\\BankManageSystem\\BankManageSystem\\Exceptions\\AccountNotFoundException.cs",
+              "RelativeToolTip": "BankManageSystem\\Exceptions\\AccountNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:35:45.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

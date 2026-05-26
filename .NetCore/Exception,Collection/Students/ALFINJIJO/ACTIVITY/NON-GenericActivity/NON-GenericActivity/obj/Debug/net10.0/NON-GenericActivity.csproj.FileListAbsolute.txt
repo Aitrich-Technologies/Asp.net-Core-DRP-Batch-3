@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\NON-GenericActivity\NON-GenericActivity\bin\Debug\net10.0\NON-GenericActivity.exe
+C:\Users\ASUS\source\repos\NON-GenericActivity\NON-GenericActivity\bin\Debug\net10.0\NON-GenericActivity.deps.json
+C:\Users\ASUS\source\repos\NON-GenericActivity\NON-GenericActivity\bin\Debug\net10.0\NON-GenericActivity.runtimeconfig.json
+C:\Users\ASUS\source\repos\NON-GenericActivity\NON-GenericActivity\bin\Debug\net10.0\NON-GenericActivity.dll
+C:\Users\ASUS\source\repos\NON-GenericActivity\NON-GenericActivity\bin\Debug\net10.0\NON-GenericActivity.pdb
+C:\Users\ASUS\source\repos\NON-GenericActivity\NON-GenericActivity\obj\Debug\net10.0\NON-GenericActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\NON-GenericActivity\NON-GenericActivity\obj\Debug\net10.0\NON-GenericActivity.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\NON-GenericActivity\NON-GenericActivity\obj\Debug\net10.0\NON-GenericActivity.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\NON-GenericActivity\NON-GenericActivity\obj\Debug\net10.0\NON-GenericActivity.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NON-GenericActivity\NON-GenericActivity\obj\Debug\net10.0\NON-GenericActivity.dll
+C:\Users\ASUS\source\repos\NON-GenericActivity\NON-GenericActivity\obj\Debug\net10.0\refint\NON-GenericActivity.dll
+C:\Users\ASUS\source\repos\NON-GenericActivity\NON-GenericActivity\obj\Debug\net10.0\NON-GenericActivity.pdb
+C:\Users\ASUS\source\repos\NON-GenericActivity\NON-GenericActivity\obj\Debug\net10.0\NON-GenericActivity.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\NON-GenericActivity\NON-GenericActivity\obj\Debug\net10.0\ref\NON-GenericActivity.dll
