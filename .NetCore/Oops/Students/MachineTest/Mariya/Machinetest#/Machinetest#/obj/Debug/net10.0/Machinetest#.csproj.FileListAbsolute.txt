@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\C#\Machinetest#\Machinetest#\bin\Debug\net10.0\Machinetest#.exe
+C:\Users\HP\OneDrive\Desktop\C#\Machinetest#\Machinetest#\bin\Debug\net10.0\Machinetest#.deps.json
+C:\Users\HP\OneDrive\Desktop\C#\Machinetest#\Machinetest#\bin\Debug\net10.0\Machinetest#.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\C#\Machinetest#\Machinetest#\bin\Debug\net10.0\Machinetest#.dll
+C:\Users\HP\OneDrive\Desktop\C#\Machinetest#\Machinetest#\bin\Debug\net10.0\Machinetest#.pdb
+C:\Users\HP\OneDrive\Desktop\C#\Machinetest#\Machinetest#\obj\Debug\net10.0\Machinetest#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\C#\Machinetest#\Machinetest#\obj\Debug\net10.0\Machinetest#.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\C#\Machinetest#\Machinetest#\obj\Debug\net10.0\Machinetest#.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\C#\Machinetest#\Machinetest#\obj\Debug\net10.0\Machinetest#.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\C#\Machinetest#\Machinetest#\obj\Debug\net10.0\Machinetest#.dll
+C:\Users\HP\OneDrive\Desktop\C#\Machinetest#\Machinetest#\obj\Debug\net10.0\refint\Machinetest#.dll
+C:\Users\HP\OneDrive\Desktop\C#\Machinetest#\Machinetest#\obj\Debug\net10.0\Machinetest#.pdb
+C:\Users\HP\OneDrive\Desktop\C#\Machinetest#\Machinetest#\obj\Debug\net10.0\Machinetest#.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\C#\Machinetest#\Machinetest#\obj\Debug\net10.0\ref\Machinetest#.dll

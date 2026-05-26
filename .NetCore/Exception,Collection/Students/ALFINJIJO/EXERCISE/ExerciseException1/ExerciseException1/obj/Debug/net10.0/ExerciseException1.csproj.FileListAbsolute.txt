@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ExerciseException1\ExerciseException1\bin\Debug\net10.0\ExerciseException1.exe
+C:\Users\ASUS\source\repos\ExerciseException1\ExerciseException1\bin\Debug\net10.0\ExerciseException1.deps.json
+C:\Users\ASUS\source\repos\ExerciseException1\ExerciseException1\bin\Debug\net10.0\ExerciseException1.runtimeconfig.json
+C:\Users\ASUS\source\repos\ExerciseException1\ExerciseException1\bin\Debug\net10.0\ExerciseException1.dll
+C:\Users\ASUS\source\repos\ExerciseException1\ExerciseException1\bin\Debug\net10.0\ExerciseException1.pdb
+C:\Users\ASUS\source\repos\ExerciseException1\ExerciseException1\obj\Debug\net10.0\ExerciseException1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ExerciseException1\ExerciseException1\obj\Debug\net10.0\ExerciseException1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ExerciseException1\ExerciseException1\obj\Debug\net10.0\ExerciseException1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ExerciseException1\ExerciseException1\obj\Debug\net10.0\ExerciseException1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ExerciseException1\ExerciseException1\obj\Debug\net10.0\ExerciseException1.dll
+C:\Users\ASUS\source\repos\ExerciseException1\ExerciseException1\obj\Debug\net10.0\refint\ExerciseException1.dll
+C:\Users\ASUS\source\repos\ExerciseException1\ExerciseException1\obj\Debug\net10.0\ExerciseException1.pdb
+C:\Users\ASUS\source\repos\ExerciseException1\ExerciseException1\obj\Debug\net10.0\ExerciseException1.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ExerciseException1\ExerciseException1\obj\Debug\net10.0\ref\ExerciseException1.dll
