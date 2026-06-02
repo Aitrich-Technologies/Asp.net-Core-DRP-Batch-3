@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\collection\genericsample\genericsample\bin\Debug\genericsample.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\collection\genericsample\genericsample\bin\Debug\genericsample.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\genericsample\genericsample\bin\Debug\genericsample.pdb
+C:\Users\Lenovo\OneDrive\Desktop\collection\genericsample\genericsample\obj\Debug\genericsample.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\genericsample\genericsample\obj\Debug\genericsample.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\genericsample\genericsample\obj\Debug\genericsample.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\genericsample\genericsample\obj\Debug\genericsample.pdb

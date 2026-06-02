@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88BB856E-3574-41D4-9E32-B2CFD36BC905}|Activity2\\Activity2.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\activity2\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BB856E-3574-41D4-9E32-B2CFD36BC905}|Activity2\\Activity2.csproj|solutionrelative:activity2\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BB856E-3574-41D4-9E32-B2CFD36BC905}|Activity2\\Activity2.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\activity2\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BB856E-3574-41D4-9E32-B2CFD36BC905}|Activity2\\Activity2.csproj|solutionrelative:activity2\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BB856E-3574-41D4-9E32-B2CFD36BC905}|Activity2\\Activity2.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\activity2\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BB856E-3574-41D4-9E32-B2CFD36BC905}|Activity2\\Activity2.csproj|solutionrelative:activity2\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BB856E-3574-41D4-9E32-B2CFD36BC905}|Activity2\\Activity2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\collection\\activity2\\activity2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BB856E-3574-41D4-9E32-B2CFD36BC905}|Activity2\\Activity2.csproj|solutionrelative:activity2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BB856E-3574-41D4-9E32-B2CFD36BC905}|Activity2\\Activity2.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\activity2\\invalidamountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BB856E-3574-41D4-9E32-B2CFD36BC905}|Activity2\\Activity2.csproj|solutionrelative:activity2\\invalidamountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BB856E-3574-41D4-9E32-B2CFD36BC905}|Activity2\\Activity2.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\activity2\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BB856E-3574-41D4-9E32-B2CFD36BC905}|Activity2\\Activity2.csproj|solutionrelative:activity2\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsufficientBalanceException.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\Activity2\\InsufficientBalanceException.cs",
+              "RelativeDocumentMoniker": "Activity2\\InsufficientBalanceException.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\Activity2\\InsufficientBalanceException.cs",
+              "RelativeToolTip": "Activity2\\InsufficientBalanceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:33:59.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidAmountException.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\Activity2\\InvalidAmountException.cs",
+              "RelativeDocumentMoniker": "Activity2\\InvalidAmountException.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\Activity2\\InvalidAmountException.cs",
+              "RelativeToolTip": "Activity2\\InvalidAmountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:32:56.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\Activity2\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "Activity2\\CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\Activity2\\CurrentAccount.cs",
+              "RelativeToolTip": "Activity2\\CurrentAccount.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:30:59.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\Activity2\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Activity2\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\Activity2\\SavingsAccount.cs",
+              "RelativeToolTip": "Activity2\\SavingsAccount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:28:31.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\Activity2\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Activity2\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\Activity2\\BankAccount.cs*",
+              "RelativeToolTip": "Activity2\\BankAccount.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:11:00.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\Activity2\\Program.cs",
+              "RelativeDocumentMoniker": "Activity2\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\Activity2\\Activity2\\Program.cs*",
+              "RelativeToolTip": "Activity2\\Program.cs*",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAG4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:10:21.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

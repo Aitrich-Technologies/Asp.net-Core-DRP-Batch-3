@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activitygeneric\Activitygeneric\bin\Debug\Activitygeneric.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activitygeneric\Activitygeneric\bin\Debug\Activitygeneric.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activitygeneric\Activitygeneric\bin\Debug\Activitygeneric.pdb
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activitygeneric\Activitygeneric\obj\Debug\Activitygeneric.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activitygeneric\Activitygeneric\obj\Debug\Activitygeneric.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activitygeneric\Activitygeneric\obj\Debug\Activitygeneric.exe
+C:\Users\Lenovo\OneDrive\Desktop\collection\Activitygeneric\Activitygeneric\obj\Debug\Activitygeneric.pdb
