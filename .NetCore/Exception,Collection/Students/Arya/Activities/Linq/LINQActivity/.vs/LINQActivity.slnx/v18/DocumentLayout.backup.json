@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\LINQActivity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F554C026-C661-4DFC-A2C0-9212068D3E74}|LINQActivity\\LINQActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\collection\\linqactivity\\linqactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F554C026-C661-4DFC-A2C0-9212068D3E74}|LINQActivity\\LINQActivity.csproj|solutionrelative:linqactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\LINQActivity\\LINQActivity\\Program.cs",
+              "RelativeDocumentMoniker": "LINQActivity\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\collection\\LINQActivity\\LINQActivity\\Program.cs",
+              "RelativeToolTip": "LINQActivity\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:16:39.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

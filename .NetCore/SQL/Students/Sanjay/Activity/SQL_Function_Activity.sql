@@ -1,0 +1,9 @@
+CREATE FUNCTION GetStudents()
+RETURNS TABLE
+AS
+RETURN
+(
+   SELECT * FROM Customer
+)
+
+SELECT * FROM GetStudents();

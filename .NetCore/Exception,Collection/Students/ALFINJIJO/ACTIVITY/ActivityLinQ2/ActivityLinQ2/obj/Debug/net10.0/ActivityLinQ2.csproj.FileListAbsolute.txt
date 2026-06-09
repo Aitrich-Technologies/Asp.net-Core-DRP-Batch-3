@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ActivityLinQ2\ActivityLinQ2\bin\Debug\net10.0\ActivityLinQ2.exe
+C:\Users\ASUS\source\repos\ActivityLinQ2\ActivityLinQ2\bin\Debug\net10.0\ActivityLinQ2.deps.json
+C:\Users\ASUS\source\repos\ActivityLinQ2\ActivityLinQ2\bin\Debug\net10.0\ActivityLinQ2.runtimeconfig.json
+C:\Users\ASUS\source\repos\ActivityLinQ2\ActivityLinQ2\bin\Debug\net10.0\ActivityLinQ2.dll
+C:\Users\ASUS\source\repos\ActivityLinQ2\ActivityLinQ2\bin\Debug\net10.0\ActivityLinQ2.pdb
+C:\Users\ASUS\source\repos\ActivityLinQ2\ActivityLinQ2\obj\Debug\net10.0\ActivityLinQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ActivityLinQ2\ActivityLinQ2\obj\Debug\net10.0\ActivityLinQ2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ActivityLinQ2\ActivityLinQ2\obj\Debug\net10.0\ActivityLinQ2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ActivityLinQ2\ActivityLinQ2\obj\Debug\net10.0\ActivityLinQ2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ActivityLinQ2\ActivityLinQ2\obj\Debug\net10.0\ActivityLinQ2.dll
+C:\Users\ASUS\source\repos\ActivityLinQ2\ActivityLinQ2\obj\Debug\net10.0\refint\ActivityLinQ2.dll
+C:\Users\ASUS\source\repos\ActivityLinQ2\ActivityLinQ2\obj\Debug\net10.0\ActivityLinQ2.pdb
+C:\Users\ASUS\source\repos\ActivityLinQ2\ActivityLinQ2\obj\Debug\net10.0\ActivityLinQ2.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ActivityLinQ2\ActivityLinQ2\obj\Debug\net10.0\ref\ActivityLinQ2.dll

@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Activity3Exception\Activity3Exception\bin\Debug\net10.0\Activity3Exception.exe
+C:\Users\ASUS\source\repos\Activity3Exception\Activity3Exception\bin\Debug\net10.0\Activity3Exception.deps.json
+C:\Users\ASUS\source\repos\Activity3Exception\Activity3Exception\bin\Debug\net10.0\Activity3Exception.runtimeconfig.json
+C:\Users\ASUS\source\repos\Activity3Exception\Activity3Exception\bin\Debug\net10.0\Activity3Exception.dll
+C:\Users\ASUS\source\repos\Activity3Exception\Activity3Exception\bin\Debug\net10.0\Activity3Exception.pdb
+C:\Users\ASUS\source\repos\Activity3Exception\Activity3Exception\obj\Debug\net10.0\Activity3Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Activity3Exception\Activity3Exception\obj\Debug\net10.0\Activity3Exception.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Activity3Exception\Activity3Exception\obj\Debug\net10.0\Activity3Exception.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Activity3Exception\Activity3Exception\obj\Debug\net10.0\Activity3Exception.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Activity3Exception\Activity3Exception\obj\Debug\net10.0\Activity3Exception.dll
+C:\Users\ASUS\source\repos\Activity3Exception\Activity3Exception\obj\Debug\net10.0\refint\Activity3Exception.dll
+C:\Users\ASUS\source\repos\Activity3Exception\Activity3Exception\obj\Debug\net10.0\Activity3Exception.pdb
+C:\Users\ASUS\source\repos\Activity3Exception\Activity3Exception\obj\Debug\net10.0\Activity3Exception.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Activity3Exception\Activity3Exception\obj\Debug\net10.0\ref\Activity3Exception.dll

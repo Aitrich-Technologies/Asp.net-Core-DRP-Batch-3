@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\activityException1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03EF0D8C-C131-3F0B-7013-26762F13E5F1}|activityException1\\activityException1.csproj|c:\\users\\asus\\source\\repos\\activityexception1\\activityexception1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EF0D8C-C131-3F0B-7013-26762F13E5F1}|activityException1\\activityException1.csproj|solutionrelative:activityexception1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EF0D8C-C131-3F0B-7013-26762F13E5F1}|activityException1\\activityException1.csproj|c:\\users\\asus\\source\\repos\\activityexception1\\activityexception1\\ageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EF0D8C-C131-3F0B-7013-26762F13E5F1}|activityException1\\activityException1.csproj|solutionrelative:activityexception1\\ageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgeException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\activityException1\\activityException1\\AgeException.cs",
+              "RelativeDocumentMoniker": "activityException1\\AgeException.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\activityException1\\activityException1\\AgeException.cs",
+              "RelativeToolTip": "activityException1\\AgeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:09:09.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\activityException1\\activityException1\\Program.cs",
+              "RelativeDocumentMoniker": "activityException1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\activityException1\\activityException1\\Program.cs",
+              "RelativeToolTip": "activityException1\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:48:07.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
