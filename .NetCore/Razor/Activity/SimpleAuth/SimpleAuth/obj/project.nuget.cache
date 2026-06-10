@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kKW0j2gaB6o=",
+  "dgSpecHash": "EmQKHfdkQjc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
+  "projectFilePath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\razal\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\razal\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\",
+  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git material\\asp.netcore_material\\chapter 7\\activity\\simpleauth\\simpleauth\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git material\\asp.netcore_material\\chapter 7\\activity\\simpleauth\\simpleauth\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git material\\asp.netcore_material\\chapter 7\\activity\\simpleauth\\simpleauth\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git material\\asp.netcore_material\\chapter 7\\activity\\simpleauth\\simpleauth\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git material\\asp.netcore_material\\chapter 7\\activity\\simpleauth\\simpleauth\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git material\\asp.netcore_material\\chapter 7\\activity\\simpleauth\\simpleauth\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git material\\asp.netcore_material\\chapter 7\\activity\\simpleauth\\simpleauth\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git material\\asp.netcore_material\\chapter 7\\activity\\simpleauth\\simpleauth\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git material\\asp.netcore_material\\chapter 7\\activity\\simpleauth\\simpleauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git material\\asp.netcore_material\\chapter 7\\activity\\simpleauth\\simpleauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git material\\asp.netcore_material\\chapter 7\\activity\\simpleauth\\simpleauth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git material\\asp.netcore_material\\chapter 7\\activity\\simpleauth\\simpleauth\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git material\\asp.netcore_material\\chapter 7\\activity\\simpleauth\\simpleauth\\simpleauth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\simpleauth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\simpleauth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git material\\asp.netcore_material\\chapter 7\\activity\\simpleauth\\simpleauth\\migrations\\20250212065323_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\simpleauth\\simpleauth\\migrations\\20250212065323_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\migrations\\20250212065323_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,136 +66,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 14,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Index.cshtml",
-              "RelativeToolTip": "SimpleAuth\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-08T16:37:10.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "SimpleAuth\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T16:37:03.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Privacy.cshtml",
-              "RelativeToolTip": "SimpleAuth\\Pages\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-08T16:36:58.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SimpleAuth",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
-              "RelativeDocumentMoniker": "SimpleAuth\\SimpleAuth.csproj",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
-              "RelativeToolTip": "SimpleAuth\\SimpleAuth.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-08T16:17:33.54Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T16:37:10.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:37:03.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T16:36:58.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SimpleAuth.csproj",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
+              "RelativeDocumentMoniker": "SimpleAuth\\SimpleAuth.csproj",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
+              "RelativeToolTip": "SimpleAuth\\SimpleAuth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-08T16:17:33.54Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Program.cs",
               "RelativeDocumentMoniker": "SimpleAuth\\Program.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Program.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Program.cs",
               "RelativeToolTip": "SimpleAuth\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T17:43:31.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T17:43:31.627Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\appsettings.json",
               "RelativeDocumentMoniker": "SimpleAuth\\appsettings.json",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\appsettings.json",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\appsettings.json",
               "RelativeToolTip": "SimpleAuth\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-05T17:43:20.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T17:43:20.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Login.cshtml",
               "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Login.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Login.cshtml",
               "RelativeToolTip": "SimpleAuth\\Pages\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-05T17:38:50.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T17:38:50.764Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Models\\User.cs",
               "RelativeDocumentMoniker": "SimpleAuth\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Models\\User.cs",
               "RelativeToolTip": "SimpleAuth\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T17:38:39.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T17:38:39.228Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Models\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "SimpleAuth\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Models\\ApplicationDbContext.cs",
               "RelativeToolTip": "SimpleAuth\\Models\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T17:38:37.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T17:38:37.327Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "20250212065323_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Migrations\\20250212065323_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Migrations\\20250212065323_Initial.cs",
               "RelativeDocumentMoniker": "SimpleAuth\\Migrations\\20250212065323_Initial.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Migrations\\20250212065323_Initial.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Migrations\\20250212065323_Initial.cs",
               "RelativeToolTip": "SimpleAuth\\Migrations\\20250212065323_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,52 +194,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Login.cshtml.cs",
               "RelativeToolTip": "SimpleAuth\\Pages\\Login.cshtml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T14:44:13.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T14:44:13.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Privacy.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Privacy.cshtml.cs",
               "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Privacy.cshtml.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Privacy.cshtml.cs",
               "RelativeToolTip": "SimpleAuth\\Pages\\Privacy.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T14:44:11.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Register.cshtml",
               "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Register.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Register.cshtml",
               "RelativeToolTip": "SimpleAuth\\Pages\\Register.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-02T14:44:07.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\Pages\\Register.cshtml.cs",
               "RelativeToolTip": "SimpleAuth\\Pages\\Register.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T14:44:05.163Z",
               "EditorCaption": ""

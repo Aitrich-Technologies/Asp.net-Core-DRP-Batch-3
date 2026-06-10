@@ -4740,11 +4740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
+      "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
       "projectName": "SimpleAuth",
-      "projectPath": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
+      "projectPath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
       "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\razal\\Desktop\\Git Material\\Asp.NetCore_Material\\Chapter 7\\Activity\\SimpleAuth\\SimpleAuth\\obj\\",
+      "outputPath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\SimpleAuth\\SimpleAuth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
