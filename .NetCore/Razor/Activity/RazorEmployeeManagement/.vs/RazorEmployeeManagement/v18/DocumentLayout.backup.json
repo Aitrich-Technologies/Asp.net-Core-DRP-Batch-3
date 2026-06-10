@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\prime\\desktop\\aitrichmainfile\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\prime\\desktop\\aitrichmainfile\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\prime\\desktop\\aitrichmainfile\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\prime\\desktop\\aitrichmainfile\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\prime\\desktop\\aitrichmainfile\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\prime\\desktop\\aitrichmainfile\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\prime\\desktop\\aitrichmainfile\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\employees\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\employees\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\prime\\desktop\\aitrichmainfile\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\prime\\desktop\\aitrichmainfile\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\prime\\desktop\\aitrichmainfile\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\prime\\desktop\\aitrichmainfile\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\prime\\desktop\\aitrichmainfile\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\prime\\desktop\\aitrichmainfile\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "RazorEmployeeManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-09T10:27:51.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T10:27:51.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Program.cs",
+              "RelativeToolTip": "RazorEmployeeManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T15:09:39.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T10:27:51.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Employees\\Edit.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:27:51.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T14:57:14.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T10:27:51.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Employees\\Delete.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:27:51.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:27:51.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T10:27:51.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "RazorEmployeeManagement\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:27:50.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RazorEmployeeManagement\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:27:51.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorEmployeeManagement\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T10:27:51.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
