@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\Razor\\sample_partial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6423923D-CBC7-41C6-A3A0-6C5C39845930}|sample_partial\\sample_partial.csproj|c:\\users\\prime\\desktop\\razor\\sample_partial\\sample_partial\\pages\\demopage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6423923D-CBC7-41C6-A3A0-6C5C39845930}|sample_partial\\sample_partial.csproj|solutionrelative:sample_partial\\pages\\demopage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6423923D-CBC7-41C6-A3A0-6C5C39845930}|sample_partial\\sample_partial.csproj|c:\\users\\prime\\desktop\\razor\\sample_partial\\sample_partial\\pages\\demopage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6423923D-CBC7-41C6-A3A0-6C5C39845930}|sample_partial\\sample_partial.csproj|solutionrelative:sample_partial\\pages\\demopage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6423923D-CBC7-41C6-A3A0-6C5C39845930}|sample_partial\\sample_partial.csproj|c:\\users\\prime\\desktop\\razor\\sample_partial\\sample_partial\\pages\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6423923D-CBC7-41C6-A3A0-6C5C39845930}|sample_partial\\sample_partial.csproj|solutionrelative:sample_partial\\pages\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6423923D-CBC7-41C6-A3A0-6C5C39845930}|sample_partial\\sample_partial.csproj|c:\\users\\prime\\desktop\\razor\\sample_partial\\sample_partial\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6423923D-CBC7-41C6-A3A0-6C5C39845930}|sample_partial\\sample_partial.csproj|solutionrelative:sample_partial\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demopage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\sample_partial\\sample_partial\\Pages\\Demopage.cshtml.cs",
+              "RelativeDocumentMoniker": "sample_partial\\Pages\\Demopage.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\sample_partial\\sample_partial\\Pages\\Demopage.cshtml.cs",
+              "RelativeToolTip": "sample_partial\\Pages\\Demopage.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T06:44:56.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\sample_partial\\sample_partial\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "sample_partial\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\sample_partial\\sample_partial\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "sample_partial\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T06:17:05.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demopage.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\sample_partial\\sample_partial\\Pages\\Demopage.cshtml",
+              "RelativeDocumentMoniker": "sample_partial\\Pages\\Demopage.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\sample_partial\\sample_partial\\Pages\\Demopage.cshtml",
+              "RelativeToolTip": "sample_partial\\Pages\\Demopage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T06:16:07.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Message.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\sample_partial\\sample_partial\\Pages\\_Message.cshtml",
+              "RelativeDocumentMoniker": "sample_partial\\Pages\\_Message.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\sample_partial\\sample_partial\\Pages\\_Message.cshtml",
+              "RelativeToolTip": "sample_partial\\Pages\\_Message.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T06:15:33.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
