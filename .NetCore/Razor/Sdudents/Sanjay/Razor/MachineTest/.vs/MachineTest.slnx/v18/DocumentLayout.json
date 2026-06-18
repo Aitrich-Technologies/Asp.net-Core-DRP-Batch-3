@@ -1,0 +1,585 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\repository\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\repository\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\pages\\package\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\package\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\pages\\package\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\package\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\pages\\package\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\package\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\service\\packageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\service\\packageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\interface\\ipackagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interface\\ipackagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\pages\\package\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\package\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\pages\\package\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\package\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\pages\\package\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\package\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\pages\\package\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\package\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\pages\\package\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\package\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\interface\\ipackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interface\\ipackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\dto\\packagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\dto\\packagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\models\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\models\\packages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\migrations\\20260617065224_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\migrations\\20260617065224_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\razor\\machinetest\\machinetest\\migrations\\20260617064013_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\migrations\\20260617064013_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PackageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Repository\\PackageRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Repository\\PackageRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Repository\\PackageRepository.cs",
+              "RelativeToolTip": "MachineTest\\Repository\\PackageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T08:31:20.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PackageService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Service\\PackageService.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Service\\PackageService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Service\\PackageService.cs",
+              "RelativeToolTip": "MachineTest\\Service\\PackageService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T08:30:04.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "MachineTest\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:28:51.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Package\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Index.cshtml.cs",
+              "RelativeToolTip": "MachineTest\\Pages\\Package\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:33:07.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Package\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Create.cshtml.cs",
+              "RelativeToolTip": "MachineTest\\Pages\\Package\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T08:26:55.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Index.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Package\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Index.cshtml",
+              "RelativeToolTip": "MachineTest\\Pages\\Package\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T08:26:51.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MachineTest\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T07:59:13.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPackageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Interface\\IPackageRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interface\\IPackageRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Interface\\IPackageRepository.cs",
+              "RelativeToolTip": "MachineTest\\Interface\\IPackageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:57:38.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Program.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Program.cs",
+              "RelativeToolTip": "MachineTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:29:24.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Package\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Edit.cshtml.cs",
+              "RelativeToolTip": "MachineTest\\Pages\\Package\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:26:49.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Package\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Delete.cshtml.cs",
+              "RelativeToolTip": "MachineTest\\Pages\\Package\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T08:44:51.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Create.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Package\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Create.cshtml",
+              "RelativeToolTip": "MachineTest\\Pages\\Package\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T08:25:54.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Service\\UserService.cs",
+              "RelativeToolTip": "MachineTest\\Service\\UserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T07:14:26.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\appsettings.json",
+              "RelativeDocumentMoniker": "MachineTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\appsettings.json",
+              "RelativeToolTip": "MachineTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-17T06:32:23.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "MachineTest\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T07:39:25.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Register.cshtml",
+              "RelativeToolTip": "MachineTest\\Pages\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T07:03:44.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "MachineTest\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T07:11:23.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Package\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Edit.cshtml",
+              "RelativeToolTip": "MachineTest\\Pages\\Package\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T08:26:05.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Package\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Package\\Delete.cshtml",
+              "RelativeToolTip": "MachineTest\\Pages\\Package\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T08:26:14.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MachineTest\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:17:08.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Interface\\IUserService.cs",
+              "RelativeToolTip": "MachineTest\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T07:21:36.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "MachineTest\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T07:27:19.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPackageService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Interface\\IPackageService.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interface\\IPackageService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Interface\\IPackageService.cs",
+              "RelativeToolTip": "MachineTest\\Interface\\IPackageService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:58:01.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "MachineTest\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T07:43:42.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Pages\\Login.cshtml",
+              "RelativeToolTip": "MachineTest\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T07:03:56.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Dto\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Dto\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Dto\\UserLoginDto.cs",
+              "RelativeToolTip": "MachineTest\\Dto\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T07:29:33.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Dto\\UserDto.cs",
+              "RelativeToolTip": "MachineTest\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:46:20.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PackageDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Dto\\PackageDto.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Dto\\PackageDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Dto\\PackageDto.cs",
+              "RelativeToolTip": "MachineTest\\Dto\\PackageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:50:43.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Models\\User.cs",
+              "RelativeToolTip": "MachineTest\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:05:16.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Packages.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Models\\Packages.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Models\\Packages.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Models\\Packages.cs",
+              "RelativeToolTip": "MachineTest\\Models\\Packages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:08:15.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "MachineTest\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T07:00:46.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20260617065224_create.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Migrations\\20260617065224_create.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Migrations\\20260617065224_create.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Migrations\\20260617065224_create.cs",
+              "RelativeToolTip": "MachineTest\\Migrations\\20260617065224_create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:52:24.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260617064013_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Migrations\\20260617064013_Initial.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Migrations\\20260617064013_Initial.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\MachineTest\\MachineTest\\Migrations\\20260617064013_Initial.cs",
+              "RelativeToolTip": "MachineTest\\Migrations\\20260617064013_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:40:13.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

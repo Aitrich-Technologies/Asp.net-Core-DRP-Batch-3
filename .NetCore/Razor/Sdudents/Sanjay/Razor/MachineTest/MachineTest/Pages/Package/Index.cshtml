@@ -1,0 +1,35 @@
+﻿@page
+@model MachineTest.Pages.Package.IndexModel
+@{
+}
+
+<a asp-page="Create" class="btn btn-primary mb-3">Create New Package</a>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>PackagevName</th>
+            <th>Discription</th>
+            <th>Price</th>
+            <th>Duration </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var package in Model.packages)
+        {
+            <tr>
+                <td>@package.PackageName</td>
+                <td>@package.Description</td>
+                <td>@package.Price</td>
+                <td>@package.Duration</td>
+               
+                <td>
+                    <a asp-page="Edit" asp-route-id="@package.Id" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-page="Details" asp-route-id="@package.Id" class="btn btn-info btn-sm">View</a>
+                    <a asp-page="Delete" asp-route-id="@package.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
