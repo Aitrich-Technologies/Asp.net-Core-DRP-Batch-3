@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\pages\\tour\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\pages\\tour\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\pages\\tour\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\pages\\tour\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\pages\\tour\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\pages\\tour\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\pages\\tour\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\pages\\tour\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\pages\\tour\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\pages\\tour\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\pages\\tour\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\pages\\tour\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\pages\\tour\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\pages\\tour\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\pages\\tour\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\pages\\tour\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\interface\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\interface\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\models\\tours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\models\\tours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\migrations\\20260611172402_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\migrations\\20260611172402_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\dto\\tourdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\dto\\tourdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|c:\\users\\prime\\desktop\\razor\\workshop_razor\\workshop_razor\\workshop_razor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77280D2E-A3DE-FCDC-7EA7-96BB33C61BF9}|Workshop_Razor\\Workshop_Razor.csproj|solutionrelative:workshop_razor\\workshop_razor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Pages\\Tour\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Index.cshtml.cs",
+              "RelativeToolTip": "Workshop_Razor\\Pages\\Tour\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T17:55:26.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Create.cshtml",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Pages\\Tour\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Create.cshtml",
+              "RelativeToolTip": "Workshop_Razor\\Pages\\Tour\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T17:37:51.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Program.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Program.cs",
+              "RelativeToolTip": "Workshop_Razor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:52:32.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Index.cshtml",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Pages\\Tour\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Index.cshtml",
+              "RelativeToolTip": "Workshop_Razor\\Pages\\Tour\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T17:38:34.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Pages\\Tour\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Create.cshtml.cs",
+              "RelativeToolTip": "Workshop_Razor\\Pages\\Tour\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T17:39:28.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TourRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Repository\\TourRepository.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Repository\\TourRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Repository\\TourRepository.cs",
+              "RelativeToolTip": "Workshop_Razor\\Repository\\TourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:05:00.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Pages\\Tour\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Edit.cshtml",
+              "RelativeToolTip": "Workshop_Razor\\Pages\\Tour\\Edit.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T17:38:14.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Pages\\Tour\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Edit.cshtml.cs",
+              "RelativeToolTip": "Workshop_Razor\\Pages\\Tour\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T17:52:41.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Pages\\Tour\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Delete.cshtml",
+              "RelativeToolTip": "Workshop_Razor\\Pages\\Tour\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T17:38:04.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Pages\\Tour\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Tour\\Delete.cshtml.cs",
+              "RelativeToolTip": "Workshop_Razor\\Pages\\Tour\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T17:44:55.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TourService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Service\\TourService.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Service\\TourService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Service\\TourService.cs",
+              "RelativeToolTip": "Workshop_Razor\\Service\\TourService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:03:31.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tours.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Models\\Tours.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Models\\Tours.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Models\\Tours.cs",
+              "RelativeToolTip": "Workshop_Razor\\Models\\Tours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:03:37.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Workshop_Razor\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:02:02.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITourRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Interface\\ITourRepository.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Interface\\ITourRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Interface\\ITourRepository.cs",
+              "RelativeToolTip": "Workshop_Razor\\Interface\\ITourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:00:17.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITourService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Interface\\ITourService.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Interface\\ITourService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Interface\\ITourService.cs",
+              "RelativeToolTip": "Workshop_Razor\\Interface\\ITourService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:59:10.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Workshop_Razor\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:11:02.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\appsettings.json",
+              "RelativeDocumentMoniker": "Workshop_Razor\\appsettings.json",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\appsettings.json",
+              "RelativeToolTip": "Workshop_Razor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-11T07:04:05.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Workshop_Razor\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:16:29.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260611172402_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Migrations\\20260611172402_Initial.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Migrations\\20260611172402_Initial.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Migrations\\20260611172402_Initial.cs",
+              "RelativeToolTip": "Workshop_Razor\\Migrations\\20260611172402_Initial.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T17:24:02.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TourDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Dto\\TourDto.cs",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Dto\\TourDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Dto\\TourDto.cs",
+              "RelativeToolTip": "Workshop_Razor\\Dto\\TourDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T07:06:25.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Workshop_Razor\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T18:03:21.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Workshop_Razor.csproj",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Workshop_Razor.csproj",
+              "RelativeDocumentMoniker": "Workshop_Razor\\Workshop_Razor.csproj",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Workshop_Razor\\Workshop_Razor\\Workshop_Razor.csproj",
+              "RelativeToolTip": "Workshop_Razor\\Workshop_Razor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-10T18:04:37.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

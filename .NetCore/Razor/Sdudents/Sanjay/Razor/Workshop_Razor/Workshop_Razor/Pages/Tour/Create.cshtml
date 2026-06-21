@@ -1,0 +1,38 @@
+﻿@page
+@model Workshop_Razor.Pages.Tour.CreateModel
+@{
+}
+<h2>Create Tour </h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="TourPost.TourName" class="control-label"></label>
+        <input asp-for="TourPost.TourName" class="form-control" />
+        <span asp-validation-for="TourPost.TourName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TourPost.Destination" class="control-label"></label>
+        <input asp-for="TourPost.Destination" class="form-control" />
+        <span asp-validation-for="TourPost.Destination" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TourPost.Price" class="control-label"></label>
+        <input asp-for="TourPost.Price" class="form-control" />
+        <span asp-validation-for="TourPost.Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TourPost.Duration" class="control-label"></label>
+        <input asp-for="TourPost.Duration" class="form-control" />
+        <span asp-validation-for="TourPost.Duration" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Create</button>
+    <a asp-page="Index" class="btn btn-secondary mt-3">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
