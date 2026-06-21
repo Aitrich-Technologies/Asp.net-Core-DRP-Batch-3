@@ -14,15 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Admin_Destination (1)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1843eeea4580f9bf03de3a021263e8601b202848")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34ad6d52c7ecbfdae41ba00f146b85107e7ef82f")]
->>>>>>> 8249172fcb0eddfda6f5ba4bd0ea39d8d49ff3ee
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73db4733c8a2f4534fd0a6b2fe8068ad632646e5")]
->>>>>>> ca898cceebe1612ed6477828328293aa4165a272
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+945b4c710de781ec4b21ee18297ae0fc880aa34b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Admin_Destination (1)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Admin_Destination (1)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
