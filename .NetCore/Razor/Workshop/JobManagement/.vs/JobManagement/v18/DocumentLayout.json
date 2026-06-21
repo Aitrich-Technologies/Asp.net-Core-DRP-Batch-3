@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\pages\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\pages\\job\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\pages\\job\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\pages\\job\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\pages\\job\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\pages\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\model\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\model\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Edit.cshtml.cs",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Edit.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:54:13.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Delete.cshtml.cs",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:54:13.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Program.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Program.cs",
+              "RelativeToolTip": "JobManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:54:13.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Index.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Index.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T10:54:13.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Delete.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Delete.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T10:54:13.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Create.cshtml.cs",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Create.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:54:13.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Create.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Create.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T10:54:13.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Interface\\IJobRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobRepository.cs",
+              "RelativeToolTip": "JobManagement\\Interface\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:54:13.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Dto\\JobDto.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Dto\\JobDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Dto\\JobDto.cs",
+              "RelativeToolTip": "JobManagement\\Dto\\JobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:54:13.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "JobManagement\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:54:13.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "JobManagement\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:54:13.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Jobs.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Model\\Jobs.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Model\\Jobs.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Model\\Jobs.cs",
+              "RelativeToolTip": "JobManagement\\Model\\Jobs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:54:13.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JobManagement\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:54:13.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "JobManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\appsettings.json",
+              "RelativeToolTip": "JobManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-17T10:54:13.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "JobManagement\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:54:13.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T10:54:13.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T10:54:13.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "home.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\home.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\home.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\home.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T10:54:13.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T10:54:13.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Error.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T10:54:13.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
