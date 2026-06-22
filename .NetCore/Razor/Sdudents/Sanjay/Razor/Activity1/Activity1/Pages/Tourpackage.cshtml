@@ -1,0 +1,86 @@
+﻿@page
+@model Activity1.Pages.TourpackageModel
+@{
+}
+<partial name="_Message"
+         model="new Activity1.Pages._MessageModel()" />
+
+<form method="post">
+    <label asp-for="PackageId"></label>
+    <input asp-for="PackageId" class="form-control"/><br /><br />
+
+    <label asp-for="PackageName"></label>
+    <input asp-for="PackageName" class="form-control"/><br /><br />
+
+    <label asp-for="Destination"></label>
+    <input asp-validation-for="Destination" class="form-control"/><br /><br />
+
+    <label asp-for="Price"></label>
+    <input asp-for="Price" class="form-control"/><br /><br />
+
+    <label asp-for="Duration"></label>
+    <input asp-for="Duration" class="form-control"/><br /><br />
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+
+
+@* <form method="post">
+
+    <div >
+        <label > PackageName</label>
+            <input type="text" name="PackageName" />
+        </div>
+        <br />
+
+        <div>
+            <label>Destination</label>
+            <input type="text" name="Destination"/>
+        </div>
+        <br />
+
+        <div>
+            <label>Price</label>
+            <input type="number" name="Price" />
+        </div>
+        <br />
+
+        <div>
+            <label>Duration(Days)</label>
+            <input type="number" name="Duration"/>
+        </div>
+        <br />
+
+        <div>
+            <label>Tour Type</label><br />
+            <input type="radio" name="TourType" value="Domestic" /> Domestic
+            <input type= "radio" name= "TourType" value= "International" /> International
+        </div >
+        <br />
+
+        <div >
+            <label > Facilities </label ><br />
+            <input type= "checkbox" name= "Facilities" value= "Food" /> Food
+            <input type= "checkbox" name= "Facilities" value= "Hotel" /> Hotel
+
+            <input type= "checkbox" name= "Facilities" value= "Guide" /> Guide
+        </div >
+        <br />
+
+        <div >
+            <label > Description </label ><br/>
+            <textarea name= "Description" rows= "4" cols= "50" ></textarea >
+        </div >
+        <br />
+
+        <div >
+            <label > Tour Image</label>
+                <input type="file" name="TourImage" />
+            </div >
+            <br />
+
+            <button type = "submit" class="btn btn-primary">Submit</button>
+                <button type ="reset" class="btn btn-secondary">Reset</button>
+
+            </form> *@

@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\manager\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|solutionrelative:workshop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{611B0D79-BFA2-4E37-BE19-8058A60EE433}|workshop1\\workshop1.csproj|c:\\users\\razal\\desktop\\git2\\asp.net-core-drp-batch-3\\.netcore\\oops\\workshop\\workshop1\\workshop1\\interface\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "workshop1\\Manager\\BookingManager.cs",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Manager\\BookingManager.cs",
               "RelativeToolTip": "workshop1\\Manager\\BookingManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T15:19:20.743Z",
               "EditorCaption": ""
@@ -135,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserManager.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Manager\\UserManager.cs",
               "RelativeDocumentMoniker": "workshop1\\Manager\\UserManager.cs",
@@ -159,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "workshop1\\Repository\\UserRepository.cs",
@@ -231,15 +231,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Program.cs",
               "RelativeDocumentMoniker": "workshop1\\Program.cs",
               "ToolTip": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\Program.cs",
               "RelativeToolTip": "workshop1\\Program.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHIAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:56:02.75Z"
+              "WhenOpened": "2026-03-04T09:56:02.75Z",
+              "EditorCaption": ""
             }
           ]
         }

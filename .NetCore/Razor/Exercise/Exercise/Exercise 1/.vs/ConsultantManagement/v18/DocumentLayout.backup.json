@@ -127,6 +127,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Exercise\\Exercise\\Exercise 1\\ConsultantManagement\\Helper\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "ConsultantManagement\\Helper\\AutoMapperProfile.cs",
@@ -200,6 +201,16 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T09:09:41.696Z",
+=======
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConsultantManagement\\Pages\\Consultantt\\Index.cshtml",
+              "ToolTip": "D:\\Materials\\penguin\\training material\\Razor\\Exercise\\Exercise 1\\ConsultantManagement\\Pages\\Consultantt\\Index.cshtml",
+              "RelativeToolTip": "ConsultantManagement\\Pages\\Consultantt\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T11:04:34.984Z",
+>>>>>>> f5b9792b5c8bad0a6bcaee47de5d22fe0ba9c993
               "EditorCaption": ""
             },
             {

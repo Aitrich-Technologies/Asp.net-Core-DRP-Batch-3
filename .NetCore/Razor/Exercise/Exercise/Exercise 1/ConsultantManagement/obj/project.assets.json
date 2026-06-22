@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net8.0": {
       "AutoMapper/13.0.1": {
@@ -4754,23 +4754,55 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+=======
+<<<<<<< HEAD
+    "C:\\Users\\razal\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\PRIME\\.nuget\\packages\\": {},
+>>>>>>> 9de83f4f2cc1d3a7f8b7be895434e5c0fd2d89a8
+>>>>>>> f5b9792b5c8bad0a6bcaee47de5d22fe0ba9c993
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Exercise\\Exercise\\Exercise 1\\ConsultantManagement\\ConsultantManagement.csproj",
       "projectName": "ConsultantManagement",
       "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Exercise\\Exercise\\Exercise 1\\ConsultantManagement\\ConsultantManagement.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Exercise\\Exercise\\Exercise 1\\ConsultantManagement\\obj\\",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Exercise\\Exercise\\Exercise 1\\ConsultantManagement\\ConsultantManagement.csproj",
+      "projectName": "ConsultantManagement",
+      "projectPath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Exercise\\Exercise\\Exercise 1\\ConsultantManagement\\ConsultantManagement.csproj",
+      "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Exercise\\Exercise\\Exercise 1\\ConsultantManagement\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Exercise\\Exercise\\Exercise 1\\ConsultantManagement\\ConsultantManagement.csproj",
+      "projectName": "ConsultantManagement",
+      "projectPath": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Exercise\\Exercise\\Exercise 1\\ConsultantManagement\\ConsultantManagement.csproj",
+      "packagesPath": "C:\\Users\\PRIME\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Exercise\\Exercise\\Exercise 1\\ConsultantManagement\\obj\\",
+>>>>>>> 9de83f4f2cc1d3a7f8b7be895434e5c0fd2d89a8
+>>>>>>> f5b9792b5c8bad0a6bcaee47de5d22fe0ba9c993
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+        "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\PRIME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 9de83f4f2cc1d3a7f8b7be895434e5c0fd2d89a8
+>>>>>>> f5b9792b5c8bad0a6bcaee47de5d22fe0ba9c993
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4798,7 +4830,15 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
+<<<<<<< HEAD
       "SdkAnalysisLevel": "10.0.200"
+=======
+<<<<<<< HEAD
+      "SdkAnalysisLevel": "9.0.200"
+=======
+      "SdkAnalysisLevel": "10.0.300"
+>>>>>>> 9de83f4f2cc1d3a7f8b7be895434e5c0fd2d89a8
+>>>>>>> f5b9792b5c8bad0a6bcaee47de5d22fe0ba9c993
     },
     "frameworks": {
       "net8.0": {
@@ -4838,6 +4878,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
+<<<<<<< HEAD
             "version": "[8.0.26, 8.0.26]"
           },
           {
@@ -4851,6 +4892,21 @@
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
             "version": "[8.0.26, 8.0.26]"
+=======
+            "version": "[8.0.28, 8.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.28, 8.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.28, 8.0.28]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.28, 8.0.28]"
+>>>>>>> f5b9792b5c8bad0a6bcaee47de5d22fe0ba9c993
           }
         ],
         "frameworkReferences": {
@@ -4861,7 +4917,15 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+=======
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 9de83f4f2cc1d3a7f8b7be895434e5c0fd2d89a8
+>>>>>>> f5b9792b5c8bad0a6bcaee47de5d22fe0ba9c993
       }
     }
   },

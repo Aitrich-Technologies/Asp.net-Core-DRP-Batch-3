@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,40 +31,8 @@
       "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\model\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\interfaces\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\interfaces\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\dtos\\tourupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\dtos\\tourupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\dtos\\tourregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\dtos\\tourregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\pages\\tourpage\\tourindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\pages\\tourpage\\tourindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\pages\\tourpage\\edittour.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\pages\\tourpage\\edittour.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\pages\\tourpage\\deletetour.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -91,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\pages\\userpage\\home.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\pages\\userpage\\home.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -111,24 +95,12 @@
       "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\extention\\applicationserviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\extention\\applicationserviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\dtos\\userchangepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -137,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\tourconsultant_login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\tourconsultant_login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|d:\\tour_materials\\razor\\exercise\\touragency_login\\touragency_login\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6B22EA8-8A0F-402B-9EED-C6C5AD007796}|TourAgency_login\\TourConsultant_login.csproj|solutionrelative:touragency_login\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,59 +118,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "TourAgency_login\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "TourAgency_login\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T11:41:01.097Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\appsettings.json",
+              "RelativeDocumentMoniker": "TourAgency_login\\appsettings.json",
+              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\appsettings.json",
+              "RelativeToolTip": "TourAgency_login\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-25T08:11:49.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ITourService.cs",
-              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Interfaces\\ITourService.cs",
-              "RelativeDocumentMoniker": "TourAgency_login\\Interfaces\\ITourService.cs",
-              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Interfaces\\ITourService.cs",
-              "RelativeToolTip": "TourAgency_login\\Interfaces\\ITourService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "TourAgency_login\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "TourAgency_login\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T11:37:44.002Z"
+              "WhenOpened": "2025-10-25T06:54:56.638Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TourUpdateDto.cs",
-              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Dtos\\TourUpdateDto.cs",
-              "RelativeDocumentMoniker": "TourAgency_login\\Dtos\\TourUpdateDto.cs",
-              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Dtos\\TourUpdateDto.cs",
-              "RelativeToolTip": "TourAgency_login\\Dtos\\TourUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowBwAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "TourAgency_login\\Service\\UserService.cs",
+              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Service\\UserService.cs",
+              "RelativeToolTip": "TourAgency_login\\Service\\UserService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T11:24:23.856Z"
+              "WhenOpened": "2025-10-25T06:56:05.588Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TourRegisterDto.cs",
-              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Dtos\\TourRegisterDto.cs",
-              "RelativeDocumentMoniker": "TourAgency_login\\Dtos\\TourRegisterDto.cs",
-              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Dtos\\TourRegisterDto.cs",
-              "RelativeToolTip": "TourAgency_login\\Dtos\\TourRegisterDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowBkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TourAgency_login\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "TourAgency_login\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T11:21:32.356Z"
+              "WhenOpened": "2025-10-25T06:56:27.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TourRepository.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Repository\\TourRepository.cs",
+              "RelativeDocumentMoniker": "TourAgency_login\\Repository\\TourRepository.cs",
+              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Repository\\TourRepository.cs",
+              "RelativeToolTip": "TourAgency_login\\Repository\\TourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:45:04.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Model\\User.cs",
+              "RelativeDocumentMoniker": "TourAgency_login\\Model\\User.cs",
+              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Model\\User.cs",
+              "RelativeToolTip": "TourAgency_login\\Model\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:04:17.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Tour.cs",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Model\\Tour.cs",
               "RelativeDocumentMoniker": "TourAgency_login\\Model\\Tour.cs",
@@ -214,56 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TourIndex.cshtml",
-              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Tourpage\\TourIndex.cshtml",
-              "RelativeDocumentMoniker": "TourAgency_login\\Pages\\Tourpage\\TourIndex.cshtml",
-              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Tourpage\\TourIndex.cshtml",
-              "RelativeToolTip": "TourAgency_login\\Pages\\Tourpage\\TourIndex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-27T10:51:07.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EditTour.cshtml",
-              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Tourpage\\EditTour.cshtml",
-              "RelativeDocumentMoniker": "TourAgency_login\\Pages\\Tourpage\\EditTour.cshtml",
-              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Tourpage\\EditTour.cshtml",
-              "RelativeToolTip": "TourAgency_login\\Pages\\Tourpage\\EditTour.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-27T10:50:29.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Model\\User.cs",
-              "RelativeDocumentMoniker": "TourAgency_login\\Model\\User.cs",
-              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Model\\User.cs",
-              "RelativeToolTip": "TourAgency_login\\Model\\User.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA+wCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:04:17.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TourRepository.cs",
-              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Repository\\TourRepository.cs",
-              "RelativeDocumentMoniker": "TourAgency_login\\Repository\\TourRepository.cs",
-              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Repository\\TourRepository.cs",
-              "RelativeToolTip": "TourAgency_login\\Repository\\TourRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T11:45:04.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "TourService.cs",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Service\\TourService.cs",
               "RelativeDocumentMoniker": "TourAgency_login\\Service\\TourService.cs",
@@ -275,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "DeleteTour.cshtml",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Tourpage\\DeleteTour.cshtml",
               "RelativeDocumentMoniker": "TourAgency_login\\Pages\\Tourpage\\DeleteTour.cshtml",
@@ -287,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "CreateTour.cshtml",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Tourpage\\CreateTour.cshtml",
               "RelativeDocumentMoniker": "TourAgency_login\\Pages\\Tourpage\\CreateTour.cshtml",
@@ -299,19 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Helper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "TourAgency_login\\Helper\\MappingProfile.cs",
-              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Helper\\MappingProfile.cs",
-              "RelativeToolTip": "TourAgency_login\\Helper\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:44:01.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "Home.cshtml",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Userpage\\Home.cshtml",
               "RelativeDocumentMoniker": "TourAgency_login\\Pages\\Userpage\\Home.cshtml",
@@ -323,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Userpage\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "TourAgency_login\\Pages\\Userpage\\Index.cshtml.cs",
@@ -335,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Userpage\\Index.cshtml",
               "RelativeDocumentMoniker": "TourAgency_login\\Pages\\Userpage\\Index.cshtml",
@@ -347,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TourAgency_login\\Pages\\Shared\\_Layout.cshtml",
@@ -359,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 19,
               "Title": "Home.cshtml.cs",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Userpage\\Home.cshtml.cs",
               "RelativeDocumentMoniker": "TourAgency_login\\Pages\\Userpage\\Home.cshtml.cs",
@@ -371,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Userpage\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "TourAgency_login\\Pages\\Userpage\\Login.cshtml.cs",
@@ -383,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Userpage\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "TourAgency_login\\Pages\\Userpage\\Register.cshtml.cs",
@@ -395,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Userpage\\Login.cshtml",
               "RelativeDocumentMoniker": "TourAgency_login\\Pages\\Userpage\\Login.cshtml",
@@ -407,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Pages\\Userpage\\Register.cshtml",
               "RelativeDocumentMoniker": "TourAgency_login\\Pages\\Userpage\\Register.cshtml",
@@ -419,19 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\appsettings.json",
-              "RelativeDocumentMoniker": "TourAgency_login\\appsettings.json",
-              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\appsettings.json",
-              "RelativeToolTip": "TourAgency_login\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-25T08:11:49.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 18,
               "Title": "UserRegisterDto.cs",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Dtos\\UserRegisterDto.cs",
               "RelativeDocumentMoniker": "TourAgency_login\\Dtos\\UserRegisterDto.cs",
@@ -443,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Program.cs",
               "RelativeDocumentMoniker": "TourAgency_login\\Program.cs",
@@ -455,31 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "TourAgency_login\\Repository\\UserRepository.cs",
-              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "TourAgency_login\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAwwCIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:56:27.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "TourAgency_login\\Service\\UserService.cs",
-              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Service\\UserService.cs",
-              "RelativeToolTip": "TourAgency_login\\Service\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:56:05.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 24,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "TourAgency_login\\Interfaces\\IUserRepository.cs",
@@ -491,19 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "TourAgency_login\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "TourAgency_login\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:54:56.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 22,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Enum\\UserRole.cs",
               "RelativeDocumentMoniker": "TourAgency_login\\Enum\\UserRole.cs",
@@ -515,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 21,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Model\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "TourAgency_login\\Model\\ApplicationDbContext.cs",
@@ -527,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 23,
               "Title": "ApplicationServiceExtention.cs",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Extention\\ApplicationServiceExtention.cs",
               "RelativeDocumentMoniker": "TourAgency_login\\Extention\\ApplicationServiceExtention.cs",
@@ -539,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 25,
               "Title": "UserchangePasswordDto.cs",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Dtos\\UserchangePasswordDto.cs",
               "RelativeDocumentMoniker": "TourAgency_login\\Dtos\\UserchangePasswordDto.cs",
@@ -551,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 26,
               "Title": "TourConsultant_login.csproj",
               "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\TourConsultant_login.csproj",
               "RelativeDocumentMoniker": "TourAgency_login\\TourConsultant_login.csproj",
@@ -560,18 +449,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-10-25T06:46:23.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "UserLoginDto.cs",
-              "DocumentMoniker": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Dtos\\UserLoginDto.cs",
-              "RelativeDocumentMoniker": "TourAgency_login\\Dtos\\UserLoginDto.cs",
-              "ToolTip": "D:\\Tour_materials\\Razor\\Exercise\\TourAgency_login\\TourAgency_login\\Dtos\\UserLoginDto.cs",
-              "RelativeToolTip": "TourAgency_login\\Dtos\\UserLoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:47:50.733Z"
             }
           ]
         }

@@ -1,0 +1,617 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\repository\\registerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\repository\\registerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\service\\consultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\service\\consultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\consultant\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\consultant\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\dto\\consultantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\dto\\consultantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\interface\\iconsultantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\interface\\iconsultantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\interface\\iconsultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\interface\\iconsultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\consultant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\consultant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\models\\consultants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\models\\consultants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\consultant\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\consultant\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\consultant\\view.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\consultant\\view.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\consultant\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\consultant\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\consultant\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\consultant\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\consultant\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\consultant\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\consultant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\consultant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\consultant\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\consultant\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\consultant\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\consultant\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\consultant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\consultant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\repository\\consultantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\repository\\consultantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\service\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\service\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\pages\\consultant\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\pages\\consultant\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\migrations\\20260613073646_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\migrations\\20260613073646_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\interface\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\interface\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|c:\\users\\prime\\desktop\\razor\\exercise\\exercise\\interface\\iregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84904FA8-C7C7-2CCC-FC26-4652545FDB04}|Exercise\\Exercise.csproj|solutionrelative:exercise\\interface\\iregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsultantDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Dto\\ConsultantDto.cs",
+              "RelativeDocumentMoniker": "Exercise\\Dto\\ConsultantDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Dto\\ConsultantDto.cs",
+              "RelativeToolTip": "Exercise\\Dto\\ConsultantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T06:50:02.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultantService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Service\\ConsultantService.cs",
+              "RelativeDocumentMoniker": "Exercise\\Service\\ConsultantService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Service\\ConsultantService.cs",
+              "RelativeToolTip": "Exercise\\Service\\ConsultantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:06:33.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Program.cs",
+              "RelativeToolTip": "Exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:07:42.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Exercise\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T07:38:22.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Repository\\RegisterRepository.cs",
+              "RelativeDocumentMoniker": "Exercise\\Repository\\RegisterRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Repository\\RegisterRepository.cs",
+              "RelativeToolTip": "Exercise\\Repository\\RegisterRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:01:32.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Exercise\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:39:41.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Exercise\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Exercise\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T06:51:58.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Consultant\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Create.cshtml.cs",
+              "RelativeToolTip": "Exercise\\Pages\\Consultant\\Create.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:41:39.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IConsultantService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Interface\\IConsultantService.cs",
+              "RelativeDocumentMoniker": "Exercise\\Interface\\IConsultantService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Interface\\IConsultantService.cs",
+              "RelativeToolTip": "Exercise\\Interface\\IConsultantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:03:53.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IConsultantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Interface\\IConsultantRepository.cs",
+              "RelativeDocumentMoniker": "Exercise\\Interface\\IConsultantRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Interface\\IConsultantRepository.cs",
+              "RelativeToolTip": "Exercise\\Interface\\IConsultantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:03:23.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Exercise\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Exercise\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T06:54:30.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Consultant\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Index.cshtml",
+              "RelativeToolTip": "Exercise\\Pages\\Consultant\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T07:42:18.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Exercise\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "Exercise\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T06:50:32.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "Exercise\\Enums\\Status.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Enums\\Status.cs",
+              "RelativeToolTip": "Exercise\\Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T06:50:54.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "Exercise\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Models\\Register.cs",
+              "RelativeToolTip": "Exercise\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:00:01.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Consultants.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Models\\Consultants.cs",
+              "RelativeDocumentMoniker": "Exercise\\Models\\Consultants.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Models\\Consultants.cs",
+              "RelativeToolTip": "Exercise\\Models\\Consultants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T06:59:41.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Exercise\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Exercise\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T06:59:06.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\View.cshtml",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Consultant\\View.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\View.cshtml",
+              "RelativeToolTip": "Exercise\\Pages\\Consultant\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T07:42:40.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "View.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\View.cshtml.cs",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Consultant\\View.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\View.cshtml.cs",
+              "RelativeToolTip": "Exercise\\Pages\\Consultant\\View.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:45:24.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Consultant\\Profile.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Profile.cshtml.cs",
+              "RelativeToolTip": "Exercise\\Pages\\Consultant\\Profile.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:44:46.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Consultant\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Profile.cshtml",
+              "RelativeToolTip": "Exercise\\Pages\\Consultant\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T07:42:30.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Consultant\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Edit.cshtml.cs",
+              "RelativeToolTip": "Exercise\\Pages\\Consultant\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:43:53.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Consultant\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Edit.cshtml",
+              "RelativeToolTip": "Exercise\\Pages\\Consultant\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T07:42:06.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Consultant\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Delete.cshtml.cs",
+              "RelativeToolTip": "Exercise\\Pages\\Consultant\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:43:27.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Consultant\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Delete.cshtml",
+              "RelativeToolTip": "Exercise\\Pages\\Consultant\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T07:41:56.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Create.cshtml",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Consultant\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Create.cshtml",
+              "RelativeToolTip": "Exercise\\Pages\\Consultant\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T07:41:07.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "Exercise\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:40:19.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Exercise\\Pages\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T07:40:04.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Exercise\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T07:39:07.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ConsultantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Repository\\ConsultantRepository.cs",
+              "RelativeDocumentMoniker": "Exercise\\Repository\\ConsultantRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Repository\\ConsultantRepository.cs",
+              "RelativeToolTip": "Exercise\\Repository\\ConsultantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:00:43.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Service\\RegisterService.cs",
+              "RelativeDocumentMoniker": "Exercise\\Service\\RegisterService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Service\\RegisterService.cs",
+              "RelativeToolTip": "Exercise\\Service\\RegisterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:07:15.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\appsettings.json",
+              "RelativeDocumentMoniker": "Exercise\\appsettings.json",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\appsettings.json",
+              "RelativeToolTip": "Exercise\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T07:22:24.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Exercise\\Pages\\Consultant\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Pages\\Consultant\\Index.cshtml.cs",
+              "RelativeToolTip": "Exercise\\Pages\\Consultant\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:44:27.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20260613073646_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Migrations\\20260613073646_Initial.cs",
+              "RelativeDocumentMoniker": "Exercise\\Migrations\\20260613073646_Initial.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Migrations\\20260613073646_Initial.cs",
+              "RelativeToolTip": "Exercise\\Migrations\\20260613073646_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:36:47.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Exercise.csproj",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Exercise.csproj",
+              "RelativeDocumentMoniker": "Exercise\\Exercise.csproj",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Exercise.csproj",
+              "RelativeToolTip": "Exercise\\Exercise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-13T06:54:55.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Interface\\IRegisterService.cs",
+              "RelativeDocumentMoniker": "Exercise\\Interface\\IRegisterService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Interface\\IRegisterService.cs",
+              "RelativeToolTip": "Exercise\\Interface\\IRegisterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:04:54.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IRegisterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Interface\\IRegisterRepository.cs",
+              "RelativeDocumentMoniker": "Exercise\\Interface\\IRegisterRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Exercise\\Exercise\\Interface\\IRegisterRepository.cs",
+              "RelativeToolTip": "Exercise\\Interface\\IRegisterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T07:04:27.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

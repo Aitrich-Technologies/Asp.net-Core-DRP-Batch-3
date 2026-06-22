@@ -1,7 +1,5 @@
 is_global = true
 build_property.TargetFramework = net7.0
-build_property.TargetFrameworkIdentifier = .NETCoreApp
-build_property.TargetFrameworkVersion = v7.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
@@ -10,11 +8,7 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Admin_Destination_(1)
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\HP\OneDrive\Desktop\Git repo\Aitrich repo\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\
-=======
-build_property.ProjectDir = C:\Users\Lenovo\OneDrive\Desktop\aitrich depositary\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\
->>>>>>> ca898cceebe1612ed6477828328293aa4165a272
+build_property.ProjectDir = C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Exception,Collection\Workshop\WorkShop (1)\WorkShop (1)\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 7.0
