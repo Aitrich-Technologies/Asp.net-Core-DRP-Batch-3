@@ -11,7 +11,7 @@
             employee.Id = EmployeeList.Count + 1;
             EmployeeList.Add(employee);
         }
-
+        
         public List<EmployeeDetails> GetEmployee()
         {
             return EmployeeList;
