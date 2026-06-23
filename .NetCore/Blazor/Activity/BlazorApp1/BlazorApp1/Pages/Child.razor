@@ -1,0 +1,10 @@
+﻿@page "/child/{Name}"
+
+<h3>Child Page</h3>
+
+<p>Name: @Name</p>
+
+@code {
+    [Parameter]
+    public string Name { get; set; }
+}
