@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\razal\\Downloads\\Workshop-20260609T095808Z-3-001\\Workshop\\workshop1\\workshop1\\TourDestination\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|c:\\users\\razal\\downloads\\workshop-20260609t095808z-3-001\\workshop\\workshop1\\workshop1\\tourdestination\\tourdestination\\pages\\destination\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|solutionrelative:tourdestination\\pages\\destination\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|c:\\users\\razal\\downloads\\workshop-20260609t095808z-3-001\\workshop\\workshop1\\workshop1\\tourdestination\\tourdestination\\services\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|solutionrelative:tourdestination\\services\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|c:\\users\\razal\\downloads\\workshop-20260609t095808z-3-001\\workshop\\workshop1\\workshop1\\tourdestination\\tourdestination\\pages\\destination\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|solutionrelative:tourdestination\\pages\\destination\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|c:\\users\\razal\\downloads\\workshop-20260609t095808z-3-001\\workshop\\workshop1\\workshop1\\tourdestination\\tourdestination\\pages\\destination\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|solutionrelative:tourdestination\\pages\\destination\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|c:\\users\\razal\\downloads\\workshop-20260609t095808z-3-001\\workshop\\workshop1\\workshop1\\tourdestination\\tourdestination\\pages\\destination\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|solutionrelative:tourdestination\\pages\\destination\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|c:\\users\\razal\\downloads\\workshop-20260609t095808z-3-001\\workshop\\workshop1\\workshop1\\tourdestination\\tourdestination\\pages\\destination\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|solutionrelative:tourdestination\\pages\\destination\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|c:\\users\\razal\\downloads\\workshop-20260609t095808z-3-001\\workshop\\workshop1\\workshop1\\tourdestination\\tourdestination\\pages\\destination\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|solutionrelative:tourdestination\\pages\\destination\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|c:\\users\\razal\\downloads\\workshop-20260609t095808z-3-001\\workshop\\workshop1\\workshop1\\tourdestination\\tourdestination\\services\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|solutionrelative:tourdestination\\services\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|c:\\users\\razal\\downloads\\workshop-20260609t095808z-3-001\\workshop\\workshop1\\workshop1\\tourdestination\\tourdestination\\pages\\destination\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|solutionrelative:tourdestination\\pages\\destination\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E2A3ACA-E0DA-46A8-BF51-31B510822F30}|TourDestination\\TourDestination.csproj|c:\\users\\razal\\downloads\\workshop-20260609t095808z-3-001\\workshop\\workshop1\\workshop1\\tourdestination\\tourdestination\\repositories\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,8 +142,7 @@
               "RelativeToolTip": "TourDestination\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T11:43:07.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T11:43:07.333Z"
             },
             {
               "$type": "Document",
@@ -179,8 +178,7 @@
               "RelativeToolTip": "TourDestination\\Model\\Destination.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T08:56:09.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T08:56:09.474Z"
             },
             {
               "$type": "Document",
@@ -192,8 +190,7 @@
               "RelativeToolTip": "TourDestination\\Model\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T11:35:30.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T11:35:30.513Z"
             },
             {
               "$type": "Document",
@@ -217,12 +214,11 @@
               "RelativeToolTip": "TourDestination\\Extension\\ApplicationServiceExtension.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T11:29:18.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T11:29:18.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Workshop-20260609T095808Z-3-001\\Workshop\\workshop1\\workshop1\\TourDestination\\TourDestination\\Pages\\Destination\\Create.cshtml",
               "RelativeDocumentMoniker": "TourDestination\\Pages\\Destination\\Create.cshtml",
@@ -235,13 +231,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Workshop-20260609T095808Z-3-001\\Workshop\\workshop1\\workshop1\\TourDestination\\TourDestination\\Pages\\Destination\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "TourDestination\\Pages\\Destination\\Create.cshtml.cs",
               "ToolTip": "C:\\Users\\razal\\Downloads\\Workshop-20260609T095808Z-3-001\\Workshop\\workshop1\\workshop1\\TourDestination\\TourDestination\\Pages\\Destination\\Create.cshtml.cs",
               "RelativeToolTip": "TourDestination\\Pages\\Destination\\Create.cshtml.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAuwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T09:12:23.143Z",
               "EditorCaption": ""
@@ -260,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Workshop-20260609T095808Z-3-001\\Workshop\\workshop1\\workshop1\\TourDestination\\TourDestination\\Pages\\Destination\\Delete.cshtml",
               "RelativeDocumentMoniker": "TourDestination\\Pages\\Destination\\Delete.cshtml",
@@ -268,8 +264,7 @@
               "RelativeToolTip": "TourDestination\\Pages\\Destination\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T11:14:10.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T11:14:10.851Z"
             },
             {
               "$type": "Document",
@@ -341,8 +336,7 @@
               "RelativeToolTip": "TourDestination\\Helper\\AutoMapperProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:47:58.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T05:47:58.373Z"
             },
             {
               "$type": "Document",
@@ -354,8 +348,7 @@
               "RelativeToolTip": "TourDestination\\Dtos\\DestinationUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T08:17:33.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T08:17:33.592Z"
             },
             {
               "$type": "Document",
@@ -367,8 +360,7 @@
               "RelativeToolTip": "TourDestination\\Dtos\\DestinationcreationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:53:51.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:53:51.747Z"
             },
             {
               "$type": "Document",
@@ -402,7 +394,7 @@
               "RelativeDocumentMoniker": "TourDestination\\Pages\\Destination\\Delete.cshtml.cs",
               "ToolTip": "C:\\Users\\razal\\Downloads\\Workshop-20260609T095808Z-3-001\\Workshop\\workshop1\\workshop1\\TourDestination\\TourDestination\\Pages\\Destination\\Delete.cshtml.cs",
               "RelativeToolTip": "TourDestination\\Pages\\Destination\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwDQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T11:31:53.892Z",
               "EditorCaption": ""
@@ -417,18 +409,17 @@
               "RelativeToolTip": "TourDestination\\Repositories\\DestinationRepository.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T10:32:01.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T10:32:01.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "DestinationService.cs",
               "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Workshop-20260609T095808Z-3-001\\Workshop\\workshop1\\workshop1\\TourDestination\\TourDestination\\services\\DestinationService.cs",
               "RelativeDocumentMoniker": "TourDestination\\services\\DestinationService.cs",
               "ToolTip": "C:\\Users\\razal\\Downloads\\Workshop-20260609T095808Z-3-001\\Workshop\\workshop1\\workshop1\\TourDestination\\TourDestination\\services\\DestinationService.cs",
               "RelativeToolTip": "TourDestination\\services\\DestinationService.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAYwE4AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAE4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T10:33:09.352Z",
               "EditorCaption": ""

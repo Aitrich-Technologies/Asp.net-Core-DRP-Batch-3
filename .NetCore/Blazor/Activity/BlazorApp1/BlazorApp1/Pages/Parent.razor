@@ -1,0 +1,11 @@
+﻿@page "/parent"
+
+<input @bind="name" />
+
+<a href="/child/@name">
+    Go To Child
+</a>
+
+@code {
+    string name = "";
+}
