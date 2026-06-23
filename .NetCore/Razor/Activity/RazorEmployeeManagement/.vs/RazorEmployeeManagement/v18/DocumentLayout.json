@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,20 +39,12 @@
       "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|solutionrelative:razoremployeemanagement\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27061F7A-B374-437E-A02C-6FACD01EE8DF}|RazorEmployeeManagement\\RazorEmployeeManagement.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\razor\\activity\\razoremployeemanagement\\razoremployeemanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Edit.cshtml",
               "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Edit.cshtml",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "RazorEmployeeManagement\\Models\\Employee.cs",
@@ -94,27 +94,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "RazorEmployeeManagement\\Models\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Models\\ApplicationDbContext.cs",
               "RelativeToolTip": "RazorEmployeeManagement\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T09:06:56.326Z"
+              "WhenOpened": "2026-06-18T09:06:56.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\appsettings.json",
               "RelativeDocumentMoniker": "RazorEmployeeManagement\\appsettings.json",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\appsettings.json",
               "RelativeToolTip": "RazorEmployeeManagement\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-18T09:06:56.326Z"
+              "WhenOpened": "2026-06-18T09:06:56.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml.cs",
@@ -143,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Program.cs",
               "RelativeDocumentMoniker": "RazorEmployeeManagement\\Program.cs",
@@ -167,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml",
               "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Index.cshtml",
@@ -179,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Edit.cshtml.cs",
@@ -191,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Delete.cshtml.cs",
@@ -203,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml",
               "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Create.cshtml",
@@ -215,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Razor\\Activity\\RazorEmployeeManagement\\RazorEmployeeManagement\\Pages\\Employees\\Delete.cshtml",
               "RelativeDocumentMoniker": "RazorEmployeeManagement\\Pages\\Employees\\Delete.cshtml",
