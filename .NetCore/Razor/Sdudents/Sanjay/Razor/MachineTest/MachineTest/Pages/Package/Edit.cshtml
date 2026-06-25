@@ -1,0 +1,39 @@
+﻿@page
+@model MachineTest.Pages.Package.EditModel
+@{
+}
+<form method="post">
+    <input type="hidden" asp-for="package.Id" />
+
+    <div class="form-group">
+        <label asp-for="package.PackageName" class="control-label"></label>
+        <input asp-for="package.PackageName" class="form-control" />
+        <span asp-validation-for="package.PackageName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="package.Description" class="control-label"></label>
+        <input asp-for="package.Description" class="form-control" />
+        <span asp-validation-for="package.Description" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="package.Price" class="control-label"></label>
+        <input asp-for="package.Price" class="form-control" />
+        <span asp-validation-for="package.Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="package.Duration" class="control-label"></label>
+        <input asp-for="package.Duration" class="form-control" />
+        <span asp-validation-for="package.Duration" class="text-danger"></span>
+    </div>
+
+
+    <button type="submit" class="btn btn-success mt-3">Save Changes</button>
+    <a asp-page="Index" class="btn btn-secondary mt-3">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

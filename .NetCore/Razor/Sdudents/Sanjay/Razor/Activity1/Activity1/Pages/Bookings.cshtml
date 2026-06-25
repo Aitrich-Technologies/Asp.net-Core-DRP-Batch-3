@@ -1,0 +1,59 @@
+﻿@page
+@model Activity1.Pages.BookingsModel
+@{
+}
+<h3>Booking Form</h3>
+
+<form method="post">
+
+    <div>
+        <label>Customer Name</label>
+        <input type="text"  class="form-control"/>
+    </div>
+    <br/>
+
+    <div>
+        <label>Email</label>
+        <input type="email" name="Email" class="form-control"/>
+    </div>
+    <br/>
+
+    <div>
+        <label>Mobile Number</label>
+        <input type="tel" name="MobileNumber" class="form-control"/>
+    </div>
+    <br/>
+
+    <div>
+        <label>Package Selection</label>
+        <select name="PackageId" class="form-control">
+            <option>Select Package</option>
+            <option value="1">Kerala Tour</option>
+            <option value="2">Goa Tour</option>
+            <option value="3">Dubai Tour</option>
+        </select>
+    </div>
+    <br/>
+
+    <div>
+        <label>Travel Date</label>
+        <input type="date" name="TravelDate" class="form-control"/>
+    </div>
+    <br/>
+
+    <div>
+        <label>Number of Persons</label>
+        <input type="number" name="NumberOfPersons" class="form-control"/>
+    </div>
+    <br/>
+
+    <div>
+        <label>Special Requests</label><br />
+        <textarea name="SpecialRequests" rows="4" cols="50"></textarea>
+    </div>
+    <br/>
+
+    <button type="submit" class="btn btn-success">Book Tour</button>
+    
+
+</form>

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\Razor\\Activity1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\prime\\desktop\\razor\\activity1\\activity1\\pages\\tourpackage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\pages\\tourpackage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\prime\\desktop\\razor\\activity1\\activity1\\pages\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\pages\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\prime\\desktop\\razor\\activity1\\activity1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\prime\\desktop\\razor\\activity1\\activity1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\prime\\desktop\\razor\\activity1\\activity1\\pages\\tourpackage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\pages\\tourpackage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\prime\\desktop\\razor\\activity1\\activity1\\pages\\bookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\pages\\bookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Message.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Activity1\\Activity1\\Pages\\_Message.cshtml",
+              "RelativeDocumentMoniker": "Activity1\\Pages\\_Message.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Activity1\\Activity1\\Pages\\_Message.cshtml",
+              "RelativeToolTip": "Activity1\\Pages\\_Message.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T05:56:37.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Activity1\\Activity1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Activity1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Activity1\\Activity1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Activity1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-09T05:54:41.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bookings.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Activity1\\Activity1\\Pages\\Bookings.cshtml",
+              "RelativeDocumentMoniker": "Activity1\\Pages\\Bookings.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Activity1\\Activity1\\Pages\\Bookings.cshtml",
+              "RelativeToolTip": "Activity1\\Pages\\Bookings.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T16:55:39.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tourpackage.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Activity1\\Activity1\\Pages\\Tourpackage.cshtml",
+              "RelativeDocumentMoniker": "Activity1\\Pages\\Tourpackage.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Activity1\\Activity1\\Pages\\Tourpackage.cshtml",
+              "RelativeToolTip": "Activity1\\Pages\\Tourpackage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T16:15:51.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tourpackage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Activity1\\Activity1\\Pages\\Tourpackage.cshtml.cs",
+              "RelativeDocumentMoniker": "Activity1\\Pages\\Tourpackage.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Activity1\\Activity1\\Pages\\Tourpackage.cshtml.cs",
+              "RelativeToolTip": "Activity1\\Pages\\Tourpackage.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:16:03.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Activity1\\Activity1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Activity1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Activity1\\Activity1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Activity1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T16:21:40.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
