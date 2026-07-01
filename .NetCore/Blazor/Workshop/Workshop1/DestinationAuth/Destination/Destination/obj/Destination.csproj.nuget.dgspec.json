@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Workshop\\Workshop1\\DestinationAuth\\Destination\\Destination\\Destination.csproj": {}
+    "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Workshop\\Workshop1\\DestinationAuth\\Destination\\Destination\\Destination.csproj": {}
   },
   "projects": {
-    "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Workshop\\Workshop1\\DestinationAuth\\Destination\\Destination\\Destination.csproj": {
+    "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Workshop\\Workshop1\\DestinationAuth\\Destination\\Destination\\Destination.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Workshop\\Workshop1\\DestinationAuth\\Destination\\Destination\\Destination.csproj",
+        "projectUniqueName": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Workshop\\Workshop1\\DestinationAuth\\Destination\\Destination\\Destination.csproj",
         "projectName": "Destination",
-        "projectPath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Workshop\\Workshop1\\DestinationAuth\\Destination\\Destination\\Destination.csproj",
-        "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Workshop\\Workshop1\\DestinationAuth\\Destination\\Destination\\obj\\",
+        "projectPath": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Workshop\\Workshop1\\DestinationAuth\\Destination\\Destination\\Destination.csproj",
+        "packagesPath": "C:\\Users\\PRIME\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Workshop\\Workshop1\\DestinationAuth\\Destination\\Destination\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PRIME\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net7.0": {
+            "framework": "net7.0",
             "targetAlias": "net7.0",
             "projectReferences": {}
           }
@@ -44,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net7.0": {
+          "framework": "net7.0",
           "targetAlias": "net7.0",
           "dependencies": {
             "AutoMapper": {
@@ -92,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

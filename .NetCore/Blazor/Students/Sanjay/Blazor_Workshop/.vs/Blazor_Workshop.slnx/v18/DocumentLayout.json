@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\components\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\components\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\components\\pages\\tourview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\components\\pages\\tourview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\interface\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\interface\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\dto\\tourdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\dto\\tourdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\blazor_workshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\blazor_workshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\migrations\\20260624084414_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\migrations\\20260624084414_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_workshop\\blazor_workshop\\migrations\\20260625061516_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CE89A8-4235-9048-4E4A-4B7FDA929742}|Blazor_Workshop\\Blazor_Workshop.csproj|solutionrelative:blazor_workshop\\migrations\\20260625061516_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Components\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Components\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Components\\Pages\\Register.razor",
+              "RelativeToolTip": "Blazor_Workshop\\Components\\Pages\\Register.razor",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-24T09:38:14.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "Blazor_Workshop\\Components\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-24T09:38:22.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:22:52.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Service\\AuthService.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:56:04.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Helper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:22:44.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\appsettings.json",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\appsettings.json",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\appsettings.json",
+              "RelativeToolTip": "Blazor_Workshop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-24T08:34:55.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Program.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Program.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:45:48.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:22:20.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Interface\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Interface\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Interface\\IAuthRepository.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Interface\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:23:11.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Repository\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T10:10:00.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TourView.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Components\\Pages\\TourView.razor",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Components\\Pages\\TourView.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Components\\Pages\\TourView.razor",
+              "RelativeToolTip": "Blazor_Workshop\\Components\\Pages\\TourView.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-25T05:49:32.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TourRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Repository\\TourRepository.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Repository\\TourRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Repository\\TourRepository.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Repository\\TourRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T06:53:21.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TourService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Service\\TourService.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Service\\TourService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Service\\TourService.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Service\\TourService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T06:53:35.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:18:06.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Blazor_Workshop\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAIsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-25T07:02:35.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITourService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Interface\\ITourService.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Interface\\ITourService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Interface\\ITourService.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Interface\\ITourService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T06:51:47.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITourRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Interface\\ITourRepository.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Interface\\ITourRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Interface\\ITourRepository.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Interface\\ITourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T06:51:26.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260625061516_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Migrations\\20260625061516_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Migrations\\20260625061516_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Migrations\\20260625061516_InitialCreate.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Migrations\\20260625061516_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T06:15:16.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Models\\Tour.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Models\\Tour.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Models\\Tour.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:17:53.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TourDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Dto\\TourDto.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Dto\\TourDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Dto\\TourDto.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Dto\\TourDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:31:18.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:31:09.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Components\\App.razor",
+              "RelativeToolTip": "Blazor_Workshop\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-24T17:47:15.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Models\\Register.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:17:45.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Blazor_Workshop\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-24T10:20:04.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Blazor_Workshop.csproj",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Blazor_Workshop.csproj",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Blazor_Workshop.csproj",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Blazor_Workshop.csproj",
+              "RelativeToolTip": "Blazor_Workshop\\Blazor_Workshop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-24T09:30:36.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260624084414_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Migrations\\20260624084414_Initial.cs",
+              "RelativeDocumentMoniker": "Blazor_Workshop\\Migrations\\20260624084414_Initial.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Workshop\\Blazor_Workshop\\Migrations\\20260624084414_Initial.cs",
+              "RelativeToolTip": "Blazor_Workshop\\Migrations\\20260624084414_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T08:44:14.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

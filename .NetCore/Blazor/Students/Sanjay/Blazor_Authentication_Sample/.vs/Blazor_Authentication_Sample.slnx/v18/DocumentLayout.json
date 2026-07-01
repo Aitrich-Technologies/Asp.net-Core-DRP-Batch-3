@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\blazor_authentication_sample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\blazor_authentication_sample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\migrations\\20260623061500_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\migrations\\20260623061500_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|c:\\users\\prime\\desktop\\blazer\\blazor_authentication_sample\\blazor_authentication_sample\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60046581-7151-F3C6-1F05-AD141393F2AE}|Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj|solutionrelative:blazor_authentication_sample\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blazor_Authentication_Sample",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Blazor_Authentication_Sample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-25T05:54:55.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T06:37:34.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Pages\\Login.razor",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T07:48:13.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T06:38:09.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T06:38:29.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Service\\UserService.cs",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Service\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T06:37:47.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Pages\\Register.razor",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Pages\\Register.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T07:04:07.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Program.cs",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Program.cs",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T06:08:03.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Pages\\Index.razor",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T09:43:58.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T06:05:15.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T08:04:41.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:09:09.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T06:06:02.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\appsettings.json",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\appsettings.json",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\appsettings.json",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-23T06:12:57.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T07:09:20.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260623061500_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Migrations\\20260623061500_Initial.cs",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Migrations\\20260623061500_Initial.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Migrations\\20260623061500_Initial.cs",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Migrations\\20260623061500_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T06:15:00.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Data\\Users.cs",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Data\\Users.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Data\\Users.cs",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Data\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T06:00:20.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "Blazor_Authentication_Sample\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_Authentication_Sample\\Blazor_Authentication_Sample\\Pages\\FetchData.razor",
+              "RelativeToolTip": "Blazor_Authentication_Sample\\Pages\\FetchData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-23T05:48:49.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

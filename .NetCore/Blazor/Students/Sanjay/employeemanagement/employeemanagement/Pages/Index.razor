@@ -1,0 +1,52 @@
+﻿@page "/"
+@using employeemanagement.Data;
+@inject Service bookService;
+
+<h3>Index</h3>
+<div class="container-fluid">
+<div>
+    <form   method="post">
+        <label>Amount</label>
+            <input type="text" @bind="NewBookentry.Amount" />
+        <label>Name</label>
+            <input type="text" @bind="NewBookentry.Name" />
+        <label>Desacription</label>
+            <input type="text" @bind="NewBookentry.Description" />
+
+        <button @onclick="CreateEntry" type="button">Submit</button>
+    </form>
+   
+</div>
+<div>
+    <h2>Book list</h2>
+    <br />
+        @foreach (Entry en in newEntry)
+        {
+                <h6>Amount : @en.Amount</h6>
+                <h6>Name : @en.Name</h6>
+                <h6>Description : @en.Description</h6>
+        }
+    </div>
+</div>
+
+@code {
+
+    List<Entry> newEntry = new List<Entry>();
+    Entry NewBookentry = new Entry();
+
+    protected override async Task OnInitializedAsync()
+    {
+        newEntry = await bookService.GetAllEntries();
+    }
+    protected async void CreateEntry()
+    {
+        await bookService.AddEntry(NewBookentry);
+
+        NewBookentry = new Entry(); 
+
+        newEntry = await bookService.GetAllEntries();
+
+        StateHasChanged();
+    }
+
+}

@@ -1,0 +1,45 @@
+﻿@page "/Add"
+@rendermode InteractiveServer
+@using Blazor_MachineTest.Interface
+@using Blazor_MachineTest.Service
+@inject IStudService StudService
+@inject NavigationManager Navigation
+@using Blazor_MachineTest.Dto
+
+
+<div>
+    <EditForm Model="studentDto" OnValidSubmit="CreateStud">
+        <DataAnnotationsValidator />
+        <ValidationSummary class="text-danger mb-3" />
+
+        <div class="form-floating mb-3">
+            <InputText class="form-control" autocomplete="off" @bind-Value="studentDto.Name" placeholder="Name" />
+            <label>Full Name</label>
+        </div>
+
+        <div class="form-floating mb-3">
+            <InputText type="text" autocomplete="off" class="form-control" @bind-Value="studentDto.Course" placeholder="Course" />
+            <label>Course</label>
+        </div>
+
+        <div class="form-floating mb-3">
+            <InputText class="form-control" autocomplete="off" @bind-Value="studentDto.Email" placeholder="Email" />
+            <label>Email address</label>
+        </div>
+        <button type="submit" class="btn btn-success w-100 rounded-pill py-2">
+            Submit
+        </button>
+       
+
+    </EditForm>
+</div>
+
+@code {
+    public StudentDto studentDto = new();
+
+    public async Task CreateStud()
+    {
+            await StudService.AddAsync(studentDto);
+            Navigation.NavigateTo("/Display");
+    }
+}
