@@ -1,0 +1,68 @@
+﻿@page "/Edit/{Id:int}"
+@rendermode InteractiveServer
+@using Blazor_MachineTest.Interface
+@using Blazor_MachineTest.Model
+@inject IStudRepository Repository
+@inject NavigationManager Navigation
+@inject IWebHostEnvironment Environment
+
+
+
+
+<div class="container mt-5">
+    <div class="card shadow-lg p-4">
+        <h3 class="text-center mb-4 text-warning">Edit Destination</h3>
+
+        @if (model == null)
+        {
+            <p>Loading...</p>
+        }
+        else
+        {
+            <EditForm Model="model" OnValidSubmit="Update">
+                <DataAnnotationsValidator />
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Destination Name</label>
+                    <InputText class="form-control"
+                               @bind-Value="model.Name" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Description</label>
+                    <InputTextArea class="form-control"
+                                   @bind-Value="model.Course" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Description</label>
+                    <InputTextArea class="form-control"
+                                   @bind-Value="model.Email" />
+                </div>
+
+               
+
+                <button class="btn btn-warning w-100">Update Student</button>
+            </EditForm>
+        }
+    </div>
+</div>
+
+@code {
+    [Parameter] public int Id { get; set; }
+    
+
+    private Student  model;
+
+    protected override async Task OnInitializedAsync()
+    {
+        model = await Repository.GetByIdAsync(Id);
+    }
+
+    public async Task Update()
+    {
+   
+        await Repository.UpdateAsync(model!);
+        Navigation.NavigateTo("/Display");
+    }
+}

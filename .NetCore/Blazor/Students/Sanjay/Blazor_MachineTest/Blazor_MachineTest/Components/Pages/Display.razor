@@ -1,0 +1,86 @@
+﻿@page "/Display"
+@rendermode InteractiveServer
+@using Blazor_MachineTest.Model
+@using Blazor_MachineTest.Interface
+@inject NavigationManager Navigation
+@inject IStudRepository repository
+
+
+<div class="d-flex justify-content-between mb-4">
+    <h3 class="text-primary">Students</h3>
+    <button class="btn btn-success" @onclick="GoToAdd">
+        + Add Student
+    </button>
+</div>
+
+@if(students == null)
+{
+    <p>Loading</p>
+}
+else if (!students.Any())
+{
+    <div class="alert alert-info">No Students found.</div>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <th>Name</th>
+            <th>Course</th>
+            <th>Email</th>
+            <th>Action</th>
+        </thead>
+        <tbody>
+           
+                
+                @foreach (Student item in students)
+                {
+                     <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Course</td>
+                    <td>@item.Email</td>
+
+                    <td>
+                        <button type="submit" class="btn btn-danger btn-sm"
+                                @onclick="() => Delete(item.Id)">
+                            Delete
+                        </button>
+
+                        <button type="button" class="btn btn-warning btn-sm float-end"
+                                @onclick="() => Edit(item.Id)">
+                            Edit
+                        </button>
+                    </td>
+                </tr>
+                }
+               
+            
+            
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<Student> students;
+
+    protected override async Task OnInitializedAsync()
+    {
+        students = await repository.GetAllAsync();
+    }
+
+    private void GoToAdd()
+    {
+        Navigation.NavigateTo("/Add");
+    }
+
+    private async Task Delete(int id)
+    {
+        await repository.DeleteAsync(id);
+        students = await repository.GetAllAsync();
+    }
+
+    private void Edit(int id)
+    {
+        Navigation.NavigateTo($"/Edit/{id}");
+    }
+}

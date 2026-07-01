@@ -1,0 +1,30 @@
+﻿@page "/"
+@using Blazor_Authentication_Sample.Interface;
+@using Blazor_Authentication_Sample.Dtos;
+@inject IUserService userService;
+@inject NavigationManager navigationManager;
+
+
+<h3>Register</h3>
+
+<div>
+    <label>Name</label>
+    <input type="text" @bind="registerDto.Name"/>
+    <label>Email</label>
+    <input type="text" @bind="registerDto.Email"/>
+    <label>Password</label>
+    <input type="text" @bind="registerDto.Password"/>
+    <button type="button" @onclick="Registration">Register</button>
+</div>
+
+@code {
+    RegisterDto registerDto = new();
+    string message = " ";
+
+    void Registration()
+    {
+        userService.Register(registerDto);
+        navigationManager.NavigateTo("/Login");
+    }
+}
+    
