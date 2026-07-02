@@ -1,70 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\",
+  "WorkspaceRootPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\downloads\\activity-20260626t163312z-3-001\\activity\\partial view-activity\\studentportal\\studentportal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\migrations\\20240928074150_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\migrations\\20240928074150_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|c:\\users\\razal\\desktop\\git core\\asp.net-core-drp-batch-3\\.netcore\\mvc\\activity\\partial view-activity\\studentportal\\studentportal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9CB2AA-D37E-4089-9EAA-A944589C67AD}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,58 +78,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "StudentPortal\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\appsettings.Development.json",
-              "RelativeToolTip": "StudentPortal\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-01T06:55:29.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "StudentPortal\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "StudentPortal\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T04:46:14.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "StudentPortal\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "StudentPortal\\Views\\_ViewStart.cshtml",
+              "Title": "20240928074150_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Migrations\\20240928074150_Initial.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Migrations\\20240928074150_Initial.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Migrations\\20240928074150_Initial.cs",
+              "RelativeToolTip": "StudentPortal\\Migrations\\20240928074150_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-01T04:44:31.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "StudentPortal\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "StudentPortal\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-01T04:44:30.152Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T11:08:03.604Z",
               "EditorCaption": ""
             },
             {
@@ -134,63 +99,112 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Program.cs",
-              "RelativeDocumentMoniker": "StudentPortal\\Program.cs",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Program.cs",
-              "RelativeToolTip": "StudentPortal\\Program.cs",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StudentPortal\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\appsettings.Development.json",
+              "RelativeToolTip": "StudentPortal\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-01T06:55:29.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentPortal\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T04:46:14.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudentPortal\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T04:44:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudentPortal\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T04:44:30.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Program.cs",
+              "RelativeToolTip": "StudentPortal\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-01T04:17:02.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Student\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Student\\Edit.cshtml",
               "RelativeDocumentMoniker": "StudentPortal\\Views\\Student\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Student\\Edit.cshtml",
               "RelativeToolTip": "StudentPortal\\Views\\Student\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-28T15:16:13.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Student\\List.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Student\\List.cshtml",
               "RelativeDocumentMoniker": "StudentPortal\\Views\\Student\\List.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Student\\List.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Student\\List.cshtml",
               "RelativeToolTip": "StudentPortal\\Views\\Student\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-26T17:18:48.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Student\\Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Student\\Add.cshtml",
               "RelativeDocumentMoniker": "StudentPortal\\Views\\Student\\Add.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Student\\Add.cshtml",
               "RelativeToolTip": "StudentPortal\\Views\\Student\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-26T17:18:46.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "StudentPortal\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "StudentPortal\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -199,11 +213,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "StudentPortal\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "StudentPortal\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -212,11 +226,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\appsettings.json",
               "RelativeDocumentMoniker": "StudentPortal\\appsettings.json",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\appsettings.json",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\appsettings.json",
               "RelativeToolTip": "StudentPortal\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -225,35 +239,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "StudentDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\StudentDbContext.cs",
               "RelativeDocumentMoniker": "StudentPortal\\Models\\StudentDbContext.cs",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\StudentDbContext.cs",
               "RelativeToolTip": "StudentPortal\\Models\\StudentDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T17:18:20.737Z"
+              "WhenOpened": "2026-06-26T17:18:20.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "StudentPortal\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "StudentPortal\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T17:18:18.651Z"
+              "WhenOpened": "2026-06-26T17:18:18.651Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AddStudentViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\AddStudentViewModel.cs",
               "RelativeDocumentMoniker": "StudentPortal\\Models\\AddStudentViewModel.cs",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\AddStudentViewModel.cs",
               "RelativeToolTip": "StudentPortal\\Models\\AddStudentViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -262,11 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StudentPortal\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Models\\Student.cs",
               "RelativeToolTip": "StudentPortal\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -275,13 +291,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "StudentPortal\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
               "RelativeToolTip": "StudentPortal\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwB4AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-26T17:17:37.084Z",
               "EditorCaption": ""

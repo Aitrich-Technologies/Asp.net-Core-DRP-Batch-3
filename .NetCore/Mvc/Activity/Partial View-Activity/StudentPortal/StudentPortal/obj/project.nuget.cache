@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xjjeicipdzs=",
+  "dgSpecHash": "SQyAuZXCigI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
+  "projectFilePath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\razal\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\razal\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

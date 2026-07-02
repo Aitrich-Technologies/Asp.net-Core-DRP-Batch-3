@@ -4113,11 +4113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
+      "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
       "projectName": "StudentPortal",
-      "projectPath": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
+      "projectPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
       "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\razal\\Downloads\\Activity-20260626T163312Z-3-001\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\obj\\",
+      "outputPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
