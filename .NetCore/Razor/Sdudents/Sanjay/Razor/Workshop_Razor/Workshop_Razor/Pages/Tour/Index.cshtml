@@ -1,0 +1,37 @@
+﻿@page
+@model Workshop_Razor.Pages.Tour.IndexModel
+@{
+}
+<h2>Tour Listings</h2>
+
+<a asp-page="Create" class="btn btn-primary mb-3">Create New Job</a>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Tour Name</th>
+            <th>Destination</th>
+            <th>Price</th>
+            <th>Duration </th>
+            <th>Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Tour in Model.TourPosts)
+        {
+            <tr>
+                <td>@Tour.TourName</td>
+                <td>@Tour.Destination</td>
+                <td>@Tour.Price</td>
+                <td>@Tour.Duration</td>
+                <td>@Tour.Date</td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@Tour.Id" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-page="Details" asp-route-id="@Tour.Id" class="btn btn-info btn-sm">View</a>
+                    <a asp-page="Delete" asp-route-id="@Tour.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

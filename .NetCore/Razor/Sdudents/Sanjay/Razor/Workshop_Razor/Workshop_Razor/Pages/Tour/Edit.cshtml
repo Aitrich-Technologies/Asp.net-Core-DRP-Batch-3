@@ -1,0 +1,46 @@
+﻿@page
+@model Workshop_Razor.Pages.Tour.EditModel
+@{
+}
+<h2>Edit Job Post</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="TourPost.Id" />
+
+    <div class="form-group">
+        <label asp-for="TourPost.TourName" class="control-label"></label>
+        <input asp-for="TourPost.TourName" class="form-control" />
+        <span asp-validation-for="TourPost.TourName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TourPost.Destination" class="control-label"></label>
+        <input asp-for="TourPost.Destination" class="form-control" />
+        <span asp-validation-for="TourPost.Destination" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TourPost.Price" class="control-label"></label>
+        <input asp-for="TourPost.Price" class="form-control" />
+        <span asp-validation-for="TourPost.Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TourPost.Duration" class="control-label"></label>
+        <input asp-for="TourPost.Duration" class="form-control" />
+        <span asp-validation-for="TourPost.Duration" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TourPost.Date" class="control-label"></label>
+        <textarea asp-for="TourPost.Date" class="form-control" rows="4"></textarea>
+        <span asp-validation-for="TourPost.Date" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success mt-3">Save Changes</button>
+    <a asp-page="Index" class="btn btn-secondary mt-3">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

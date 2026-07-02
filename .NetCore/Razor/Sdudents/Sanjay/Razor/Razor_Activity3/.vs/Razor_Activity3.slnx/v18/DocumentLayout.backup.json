@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|c:\\users\\prime\\desktop\\razor\\razor_activity3\\razor_activity3\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|solutionrelative:razor_activity3\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|c:\\users\\prime\\desktop\\razor\\razor_activity3\\razor_activity3\\pages\\employees\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|solutionrelative:razor_activity3\\pages\\employees\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|c:\\users\\prime\\desktop\\razor\\razor_activity3\\razor_activity3\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|solutionrelative:razor_activity3\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|c:\\users\\prime\\desktop\\razor\\razor_activity3\\razor_activity3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|solutionrelative:razor_activity3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|c:\\users\\prime\\desktop\\razor\\razor_activity3\\razor_activity3\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|solutionrelative:razor_activity3\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|c:\\users\\prime\\desktop\\razor\\razor_activity3\\razor_activity3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|solutionrelative:razor_activity3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|c:\\users\\prime\\desktop\\razor\\razor_activity3\\razor_activity3\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|solutionrelative:razor_activity3\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|c:\\users\\prime\\desktop\\razor\\razor_activity3\\razor_activity3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|solutionrelative:razor_activity3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|c:\\users\\prime\\desktop\\razor\\razor_activity3\\razor_activity3\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|solutionrelative:razor_activity3\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|c:\\users\\prime\\desktop\\razor\\razor_activity3\\razor_activity3\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|solutionrelative:razor_activity3\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|c:\\users\\prime\\desktop\\razor\\razor_activity3\\razor_activity3\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|solutionrelative:razor_activity3\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|c:\\users\\prime\\desktop\\razor\\razor_activity3\\razor_activity3\\migrations\\20260609145207_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|solutionrelative:razor_activity3\\migrations\\20260609145207_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|c:\\users\\prime\\desktop\\razor\\razor_activity3\\razor_activity3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|solutionrelative:razor_activity3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|c:\\users\\prime\\desktop\\razor\\razor_activity3\\razor_activity3\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91185827-EFF6-28CE-73F4-1FE015183EE3}|Razor_Activity3\\Razor_Activity3.csproj|solutionrelative:razor_activity3\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Razor_Activity3\\Pages\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Razor_Activity3\\Pages\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T15:08:49.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Razor_Activity3\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Razor_Activity3\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T15:11:52.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Razor_Activity3\\Pages\\Employees\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeToolTip": "Razor_Activity3\\Pages\\Employees\\Index.cshtml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T15:09:18.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Program.cs",
+              "RelativeDocumentMoniker": "Razor_Activity3\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Program.cs",
+              "RelativeToolTip": "Razor_Activity3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T14:49:26.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Razor_Activity3\\Pages\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Razor_Activity3\\Pages\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T14:57:05.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Razor_Activity3\\Pages\\Employees\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeToolTip": "Razor_Activity3\\Pages\\Employees\\Delete.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T14:56:41.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Razor_Activity3\\Pages\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Delete.cshtml*",
+              "RelativeToolTip": "Razor_Activity3\\Pages\\Employees\\Delete.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T14:56:08.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Razor_Activity3\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Models\\Employee.cs",
+              "RelativeToolTip": "Razor_Activity3\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T14:43:17.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Razor_Activity3\\Pages\\Employees\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeToolTip": "Razor_Activity3\\Pages\\Employees\\Edit.cshtml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T14:57:27.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Razor_Activity3\\Pages\\Employees\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeToolTip": "Razor_Activity3\\Pages\\Employees\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T14:55:22.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Razor_Activity3\\Pages\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Pages\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Razor_Activity3\\Pages\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T14:55:10.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260609145207_Create.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Migrations\\20260609145207_Create.cs",
+              "RelativeDocumentMoniker": "Razor_Activity3\\Migrations\\20260609145207_Create.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Migrations\\20260609145207_Create.cs",
+              "RelativeToolTip": "Razor_Activity3\\Migrations\\20260609145207_Create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T14:52:07.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\appsettings.json",
+              "RelativeDocumentMoniker": "Razor_Activity3\\appsettings.json",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\appsettings.json",
+              "RelativeToolTip": "Razor_Activity3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-09T14:48:41.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Razor_Activity3\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Razor\\Razor_Activity3\\Razor_Activity3\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Razor_Activity3\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T14:44:33.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
