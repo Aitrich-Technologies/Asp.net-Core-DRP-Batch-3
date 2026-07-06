@@ -14,7 +14,7 @@ namespace MVC_Auth.Extension
         {
             services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(config.GetConnectionString("DefaultConnection")));
-            services.AddAutoMapper(typeof(MappingProfile));
+            services.AddAutoMapper(cfg => { }, typeof(MappingProfile));
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IUserService, UserService>();
 
