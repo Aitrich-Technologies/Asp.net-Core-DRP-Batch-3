@@ -1,0 +1,574 @@
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\appsettings.json
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Destination.staticwebassets.runtime.json
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Destination.staticwebassets.endpoints.json
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Destination.exe
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Destination.deps.json
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Destination.runtimeconfig.json
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Destination.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Destination.pdb
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\Destination.csproj.AssemblyReference.cache
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\Destination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\Destination.AssemblyInfoInputs.cache
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\Destination.AssemblyInfo.cs
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\Destination.csproj.CoreCompileInputs.cache
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\Destination.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\Destination.RazorAssemblyInfo.cache
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\Destination.RazorAssemblyInfo.cs
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\rjimswa.dswa.cache.json
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\scopedcss\bundle\Destination.styles.css
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\scopedcss\projectbundle\Destination.bundle.scp.css
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.json.cache
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\Destinat.DCB4CEEA.Up2Date
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\Destination.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\refint\Destination.dll
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\Destination.pdb
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\Destination.genruntimeconfig.cache
+C:\Users\Asrithadevi\source\repos\chapter8\Destination\Destination\obj\Debug\net7.0\ref\Destination.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\appsettings.Development.json
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\appsettings.json
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Destination.staticwebassets.runtime.json
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Destination.staticwebassets.endpoints.json
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Destination.exe
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Destination.deps.json
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Destination.runtimeconfig.json
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Destination.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Destination.pdb
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\AutoMapper.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Azure.Core.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Azure.Identity.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Humanizer.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\System.CodeDom.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\Destination.csproj.AssemblyReference.cache
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\rpswa.dswa.cache.json
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\Destination.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\Destination.AssemblyInfoInputs.cache
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\Destination.AssemblyInfo.cs
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\Destination.csproj.CoreCompileInputs.cache
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\Destination.MvcApplicationPartsAssemblyInfo.cache
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\Destination.RazorAssemblyInfo.cache
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\Destination.RazorAssemblyInfo.cs
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\rjimswa.dswa.cache.json
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\scopedcss\bundle\Destination.styles.css
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\scopedcss\projectbundle\Destination.bundle.scp.css
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.json
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.json.cache
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\staticwebassets.development.json
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\swae.build.ex.cache
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\Destinat.DCB4CEEA.Up2Date
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\Destination.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\refint\Destination.dll
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\Destination.pdb
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\Destination.genruntimeconfig.cache
+D:\Materials\penguin\training material\Blazor\Destination\Destination\obj\Debug\net7.0\ref\Destination.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.csproj.AssemblyReference.cache
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\rpswa.dswa.cache.json
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.AssemblyInfoInputs.cache
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.AssemblyInfo.cs
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.csproj.CoreCompileInputs.cache
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.MvcApplicationPartsAssemblyInfo.cache
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.RazorAssemblyInfo.cache
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.RazorAssemblyInfo.cs
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\refint\Destination.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.pdb
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\appsettings.Development.json
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Destination.staticwebassets.endpoints.json
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\appsettings.json
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Destination.staticwebassets.runtime.json
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Destination.exe
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Destination.deps.json
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Destination.runtimeconfig.json
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Destination.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Destination.pdb
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\AutoMapper.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Azure.Core.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Azure.Identity.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Humanizer.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.CodeDom.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\rjimswa.dswa.cache.json
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\scopedcss\bundle\Destination.styles.css
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\scopedcss\projectbundle\Destination.bundle.scp.css
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.json
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.json.cache
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets.development.json
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\swae.build.ex.cache
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destinat.DCB4CEEA.Up2Date
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.genruntimeconfig.cache
+D:\Materials\penguin\training material\Blazor\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\ref\Destination.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\appsettings.json
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Destination.staticwebassets.runtime.json
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Destination.staticwebassets.endpoints.json
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Destination.exe
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Destination.deps.json
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Destination.runtimeconfig.json
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Destination.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Destination.pdb
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Humanizer.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.csproj.AssemblyReference.cache
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.AssemblyInfoInputs.cache
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.AssemblyInfo.cs
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.csproj.CoreCompileInputs.cache
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.RazorAssemblyInfo.cache
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.RazorAssemblyInfo.cs
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\scopedcss\bundle\Destination.styles.css
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\scopedcss\projectbundle\Destination.bundle.scp.css
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.Destination.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.Destination.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.build.Destination.props
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Destination.props
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Destination.props
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destinat.DCB4CEEA.Up2Date
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\refint\Destination.dll
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.pdb
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\Destination.genruntimeconfig.cache
+C:\Users\razal\Downloads\Workshop-20260621T161056Z-3-001\Workshop\Workshop 1\Destination\Destination\obj\Debug\net7.0\ref\Destination.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\appsettings.Development.json
+D:\c#\Destination\Destination\bin\Debug\net7.0\appsettings.json
+D:\c#\Destination\Destination\bin\Debug\net7.0\Destination.staticwebassets.runtime.json
+D:\c#\Destination\Destination\bin\Debug\net7.0\Destination.staticwebassets.endpoints.json
+D:\c#\Destination\Destination\bin\Debug\net7.0\Destination.exe
+D:\c#\Destination\Destination\bin\Debug\net7.0\Destination.deps.json
+D:\c#\Destination\Destination\bin\Debug\net7.0\Destination.runtimeconfig.json
+D:\c#\Destination\Destination\bin\Debug\net7.0\Destination.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Destination.pdb
+D:\c#\Destination\Destination\bin\Debug\net7.0\AutoMapper.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Azure.Core.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Azure.Identity.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Humanizer.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\System.CodeDom.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\System.Memory.Data.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\c#\Destination\Destination\obj\Debug\net7.0\Destination.csproj.AssemblyReference.cache
+D:\c#\Destination\Destination\obj\Debug\net7.0\Destination.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Destination\Destination\obj\Debug\net7.0\Destination.AssemblyInfoInputs.cache
+D:\c#\Destination\Destination\obj\Debug\net7.0\Destination.AssemblyInfo.cs
+D:\c#\Destination\Destination\obj\Debug\net7.0\Destination.csproj.CoreCompileInputs.cache
+D:\c#\Destination\Destination\obj\Debug\net7.0\Destination.MvcApplicationPartsAssemblyInfo.cache
+D:\c#\Destination\Destination\obj\Debug\net7.0\Destination.RazorAssemblyInfo.cache
+D:\c#\Destination\Destination\obj\Debug\net7.0\Destination.RazorAssemblyInfo.cs
+D:\c#\Destination\Destination\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\c#\Destination\Destination\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\c#\Destination\Destination\obj\Debug\net7.0\scopedcss\bundle\Destination.styles.css
+D:\c#\Destination\Destination\obj\Debug\net7.0\scopedcss\projectbundle\Destination.bundle.scp.css
+D:\c#\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.json
+D:\c#\Destination\Destination\obj\Debug\net7.0\staticwebassets.development.json
+D:\c#\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\c#\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.Destination.Microsoft.AspNetCore.StaticWebAssets.props
+D:\c#\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.Destination.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\c#\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.build.Destination.props
+D:\c#\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Destination.props
+D:\c#\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Destination.props
+D:\c#\Destination\Destination\obj\Debug\net7.0\staticwebassets.pack.json
+D:\c#\Destination\Destination\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\c#\Destination\Destination\obj\Debug\net7.0\Destinat.DCB4CEEA.Up2Date
+D:\c#\Destination\Destination\obj\Debug\net7.0\Destination.dll
+D:\c#\Destination\Destination\obj\Debug\net7.0\refint\Destination.dll
+D:\c#\Destination\Destination\obj\Debug\net7.0\Destination.pdb
+D:\c#\Destination\Destination\obj\Debug\net7.0\Destination.genruntimeconfig.cache
+D:\c#\Destination\Destination\obj\Debug\net7.0\ref\Destination.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\appsettings.Development.json
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\appsettings.json
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Destination.staticwebassets.runtime.json
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Destination.staticwebassets.endpoints.json
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Destination.exe
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Destination.deps.json
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Destination.runtimeconfig.json
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Destination.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Destination.pdb
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\AutoMapper.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Azure.Core.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Azure.Identity.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Humanizer.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\System.CodeDom.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\System.Memory.Data.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#\WorkshopBlazor\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\Destination.csproj.AssemblyReference.cache
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\Destination.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\Destination.AssemblyInfoInputs.cache
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\Destination.AssemblyInfo.cs
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\Destination.csproj.CoreCompileInputs.cache
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\Destination.MvcApplicationPartsAssemblyInfo.cache
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\Destination.RazorAssemblyInfo.cache
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\Destination.RazorAssemblyInfo.cs
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\scopedcss\bundle\Destination.styles.css
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\scopedcss\projectbundle\Destination.bundle.scp.css
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.json
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\staticwebassets.development.json
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.Destination.Microsoft.AspNetCore.StaticWebAssets.props
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.Destination.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.build.Destination.props
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Destination.props
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Destination.props
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\staticwebassets.pack.json
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\Destinat.DCB4CEEA.Up2Date
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\Destination.dll
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\refint\Destination.dll
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\Destination.pdb
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\Destination.genruntimeconfig.cache
+D:\c#\WorkshopBlazor\Destination\Destination\obj\Debug\net7.0\ref\Destination.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\appsettings.json
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Destination.staticwebassets.runtime.json
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Destination.staticwebassets.endpoints.json
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Destination.exe
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Destination.deps.json
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Destination.runtimeconfig.json
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Destination.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Destination.pdb
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Humanizer.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\Destination.csproj.AssemblyReference.cache
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\Destination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\Destination.AssemblyInfoInputs.cache
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\Destination.AssemblyInfo.cs
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\Destination.csproj.CoreCompileInputs.cache
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\Destination.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\Destination.RazorAssemblyInfo.cache
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\Destination.RazorAssemblyInfo.cs
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\Destination.sourcelink.json
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\rjimswa.dswa.cache.json
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\scopedcss\bundle\Destination.styles.css
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\scopedcss\projectbundle\Destination.bundle.scp.css
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.json.cache
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\swae.build.ex.cache
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\Destinat.DCB4CEEA.Up2Date
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\Destination.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\refint\Destination.dll
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\Destination.pdb
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\Destination.genruntimeconfig.cache
+C:\Users\PRIME\Desktop\AitrichMainFile\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Workshop\Workshop2\Destination\Destination\obj\Debug\net7.0\ref\Destination.dll

@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|c:\\users\\prime\\desktop\\blazer\\employemanagement\\employemanagement\\pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|solutionrelative:employemanagement\\pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|c:\\users\\prime\\desktop\\blazer\\employemanagement\\employemanagement\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|solutionrelative:employemanagement\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|c:\\users\\prime\\desktop\\blazer\\employemanagement\\employemanagement\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|solutionrelative:employemanagement\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|c:\\users\\prime\\desktop\\blazer\\employemanagement\\employemanagement\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|solutionrelative:employemanagement\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|c:\\users\\prime\\desktop\\blazer\\employemanagement\\employemanagement\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|solutionrelative:employemanagement\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|c:\\users\\prime\\desktop\\blazer\\employemanagement\\employemanagement\\data\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|solutionrelative:employemanagement\\data\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|c:\\users\\prime\\desktop\\blazer\\employemanagement\\employemanagement\\data\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|solutionrelative:employemanagement\\data\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|c:\\users\\prime\\desktop\\blazer\\employemanagement\\employemanagement\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|solutionrelative:employemanagement\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|c:\\users\\prime\\desktop\\blazer\\employemanagement\\employemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CFDE20-5525-035C-BE68-C75FE121C8FC}|EmployeManagement\\EmployeManagement.csproj|solutionrelative:employemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "EmployeManagement\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Pages\\FetchData.razor",
+              "RelativeToolTip": "EmployeManagement\\Pages\\FetchData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T13:04:11.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Pages\\Delete.razor",
+              "RelativeDocumentMoniker": "EmployeManagement\\Pages\\Delete.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Pages\\Delete.razor",
+              "RelativeToolTip": "EmployeManagement\\Pages\\Delete.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T12:58:00.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Pages\\Edit.razor",
+              "RelativeDocumentMoniker": "EmployeManagement\\Pages\\Edit.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Pages\\Edit.razor",
+              "RelativeToolTip": "EmployeManagement\\Pages\\Edit.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T12:57:43.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Data\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "EmployeManagement\\Data\\EmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Data\\EmployeeDetails.cs",
+              "RelativeToolTip": "EmployeManagement\\Data\\EmployeeDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:43:48.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Display.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Pages\\Display.razor",
+              "RelativeDocumentMoniker": "EmployeManagement\\Pages\\Display.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Pages\\Display.razor",
+              "RelativeToolTip": "EmployeManagement\\Pages\\Display.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T12:58:11.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Data\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeManagement\\Data\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Data\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeManagement\\Data\\EmployeeService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA2wCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:44:50.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeManagement\\Data\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeManagement\\Data\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:44:35.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "EmployeManagement\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Pages\\Index.razor",
+              "RelativeToolTip": "EmployeManagement\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T12:46:26.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\Blazer\\EmployeManagement\\EmployeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:41:50.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
