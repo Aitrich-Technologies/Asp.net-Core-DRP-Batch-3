@@ -1,0 +1,142 @@
+D:\c#\BlazorApp2\BlazorApp2\bin\Debug\net7.0\appsettings.Development.json
+D:\c#\BlazorApp2\BlazorApp2\bin\Debug\net7.0\appsettings.json
+D:\c#\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.staticwebassets.runtime.json
+D:\c#\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.staticwebassets.endpoints.json
+D:\c#\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.exe
+D:\c#\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.deps.json
+D:\c#\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.runtimeconfig.json
+D:\c#\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.dll
+D:\c#\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.pdb
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.AssemblyInfoInputs.cache
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.AssemblyInfo.cs
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.csproj.CoreCompileInputs.cache
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.MvcApplicationPartsAssemblyInfo.cache
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.RazorAssemblyInfo.cache
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.RazorAssemblyInfo.cs
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\bundle\BlazorApp2.styles.css
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApp2.bundle.scp.css
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.build.json
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.development.json
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApp2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApp2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorApp2.props
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp2.props
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorApp2.props
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.pack.json
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.dll
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\refint\BlazorApp2.dll
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.pdb
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.genruntimeconfig.cache
+D:\c#\BlazorApp2\BlazorApp2\obj\Debug\net7.0\ref\BlazorApp2.dll
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\bin\Debug\net7.0\appsettings.Development.json
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\bin\Debug\net7.0\appsettings.json
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.staticwebassets.endpoints.json
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.staticwebassets.runtime.json
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.exe
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.deps.json
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.runtimeconfig.json
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.dll
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.pdb
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.AssemblyInfoInputs.cache
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.AssemblyInfo.cs
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.csproj.CoreCompileInputs.cache
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.MvcApplicationPartsAssemblyInfo.cache
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.RazorAssemblyInfo.cache
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.RazorAssemblyInfo.cs
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\bundle\BlazorApp2.styles.css
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApp2.bundle.scp.css
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.build.json
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.development.json
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApp2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApp2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorApp2.props
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp2.props
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorApp2.props
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.pack.json
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.dll
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\refint\BlazorApp2.dll
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.pdb
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.genruntimeconfig.cache
+D:\c#\Blazor,Razor,Mvc\Blazor\BlazorApp2\BlazorApp2\obj\Debug\net7.0\ref\BlazorApp2.dll
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\appsettings.json
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.staticwebassets.endpoints.json
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.staticwebassets.runtime.json
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.exe
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.deps.json
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.runtimeconfig.json
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.dll
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.pdb
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.AssemblyInfoInputs.cache
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.AssemblyInfo.cs
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.csproj.CoreCompileInputs.cache
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.RazorAssemblyInfo.cache
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.RazorAssemblyInfo.cs
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.sourcelink.json
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\bundle\BlazorApp2.styles.css
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApp2.bundle.scp.css
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApp2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApp2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorApp2.props
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp2.props
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorApp2.props
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.dll
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\refint\BlazorApp2.dll
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.pdb
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.genruntimeconfig.cache
+C:\Users\razal\Desktop\GIT2\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\ref\BlazorApp2.dll
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\appsettings.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.exe
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.deps.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.dll
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\bin\Debug\net7.0\BlazorApp2.pdb
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\bundle\BlazorApp2.styles.css
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApp2.bundle.scp.css
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.build.json.cache
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\swae.build.ex.cache
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.dll
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\refint\BlazorApp2.dll
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.pdb
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\BlazorApp2.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\main file\Asp.net-Core-DRP-Batch-3\.NetCore\Blazor\Activity\BlazorApp2\BlazorApp2\obj\Debug\net7.0\ref\BlazorApp2.dll

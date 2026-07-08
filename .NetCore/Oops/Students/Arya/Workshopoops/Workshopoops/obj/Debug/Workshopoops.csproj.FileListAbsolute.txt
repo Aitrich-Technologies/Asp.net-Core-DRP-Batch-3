@@ -1,2 +1,0 @@
-C:\Users\Lenovo\OneDrive\Desktop\oops\Workshopoops\Workshopoops\obj\Debug\Workshopoops.csproj.AssemblyReference.cache
-C:\Users\Lenovo\OneDrive\Desktop\oops\Workshopoops\Workshopoops\obj\Debug\Workshopoops.csproj.CoreCompileInputs.cache

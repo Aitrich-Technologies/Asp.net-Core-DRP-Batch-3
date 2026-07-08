@@ -1,0 +1,57 @@
+﻿@page "/login"
+@rendermode InteractiveServer
+@inject IAuthService AuthService
+@inject NavigationManager Navigation
+@using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage
+@using Blazor_Workshop.Interface
+@using global::Blazor_Workshop.Interface
+@inject ProtectedSessionStorage SessionStorage
+
+<h3>Login</h3>
+
+<div>
+    <EditForm Model="loginModel" OnValidSubmit="Loginn" FormName="LoginForm">
+        <DataAnnotationsValidator />
+
+        <div class="form-floating mb-3">
+            <InputText class="form-control" @bind-Value="loginModel.Email" placeholder="Email" />
+            <label>Email address</label>
+        </div>
+
+        <div class="form-floating mb-3">
+            <InputText type="password" class="form-control" @bind-Value="loginModel.Password" placeholder="Password" />
+            <label>Password</label>
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100 rounded-pill py-2">
+            Login
+        </button>
+    </EditForm>
+
+    @if (!string.IsNullOrEmpty(message))
+    {
+        <div class="alert alert-danger mt-3 text-center">@message</div>
+    }
+
+</div>
+
+@code {
+    private LoginModel loginModel = new();
+    private string message = "";
+
+    private async Task Loginn()
+    {
+        var success = await AuthService.Login(loginModel.Email, loginModel.Password);
+        if (success)
+            Navigation.NavigateTo("/home");
+        else
+            message = "Invalid login credentials.";
+    }
+
+    private class LoginModel
+    {
+        public string Email { get; set; } = "";
+        public string Password { get; set; } = "";
+
+    }
+}
