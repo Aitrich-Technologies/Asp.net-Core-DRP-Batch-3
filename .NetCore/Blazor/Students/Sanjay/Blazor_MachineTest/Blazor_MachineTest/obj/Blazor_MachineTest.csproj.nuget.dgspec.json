@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Workshop/Login/Login/obj/Login.csproj.nuget.dgspec.json
+    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Login\\Login\\Login.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Login\\Login\\Login.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Login\\Login\\Login.csproj",
+        "projectName": "Login",
+        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Login\\Login\\Login.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Login\\Login\\obj\\",
+========
     "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_MachineTest\\Blazor_MachineTest\\Blazor_MachineTest.csproj": {}
   },
   "projects": {
@@ -12,12 +25,17 @@
         "projectPath": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_MachineTest\\Blazor_MachineTest\\Blazor_MachineTest.csproj",
         "packagesPath": "C:\\Users\\PRIME\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\PRIME\\Desktop\\Blazer\\Blazor_MachineTest\\Blazor_MachineTest\\obj\\",
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Blazor/Students/Sanjay/Blazor_MachineTest/Blazor_MachineTest/obj/Blazor_MachineTest.csproj.nuget.dgspec.json
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Workshop/Login/Login/obj/Login.csproj.nuget.dgspec.json
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+========
           "C:\\Users\\PRIME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Blazor/Students/Sanjay/Blazor_MachineTest/Blazor_MachineTest/obj/Blazor_MachineTest.csproj.nuget.dgspec.json
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

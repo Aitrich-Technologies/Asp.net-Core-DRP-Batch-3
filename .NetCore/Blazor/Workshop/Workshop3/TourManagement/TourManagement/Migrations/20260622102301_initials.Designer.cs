@@ -2,29 +2,43 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Machinetest/TourManagement/TourManagement/Migrations/AppDbContextModelSnapshot.cs
+using TourManagement.Models;
+========
 using TourManagement.Model;
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Blazor/Workshop/Workshop3/TourManagement/TourManagement/Migrations/20260622102301_initials.Designer.cs
 
 #nullable disable
 
 namespace TourManagement.Migrations
 {
     [DbContext(typeof(AppDbContext))]
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Machinetest/TourManagement/TourManagement/Migrations/AppDbContextModelSnapshot.cs
+    partial class AppDbContextModelSnapshot : ModelSnapshot
+========
     [Migration("20260622102301_initials")]
     partial class initials
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Blazor/Workshop/Workshop3/TourManagement/TourManagement/Migrations/20260622102301_initials.Designer.cs
     {
-        /// <inheritdoc />
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Machinetest/TourManagement/TourManagement/Migrations/AppDbContextModelSnapshot.cs
+                .HasAnnotation("ProductVersion", "10.0.9")
+========
                 .HasAnnotation("ProductVersion", "7.0.0")
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Blazor/Workshop/Workshop3/TourManagement/TourManagement/Migrations/20260622102301_initials.Designer.cs
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Machinetest/TourManagement/TourManagement/Migrations/AppDbContextModelSnapshot.cs
+            modelBuilder.Entity("TourManagement.Models.Guide", b =>
+========
             modelBuilder.Entity("TourManagement.Model.Destination", b =>
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Blazor/Workshop/Workshop3/TourManagement/TourManagement/Migrations/20260622102301_initials.Designer.cs
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -32,24 +46,35 @@ namespace TourManagement.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Description")
+                    b.Property<int>("Experience")
+                        .HasColumnType("int");
+
+                    b.Property<string>("GuideName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Machinetest/TourManagement/TourManagement/Migrations/AppDbContextModelSnapshot.cs
+                    b.Property<string>("Langauage")
+========
                     b.Property<string>("ImageUrl")
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Blazor/Workshop/Workshop3/TourManagement/TourManagement/Migrations/20260622102301_initials.Designer.cs
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Name")
+                    b.Property<string>("PhoneNumber")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Destinations");
+                    b.ToTable("Guides");
                 });
 
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Machinetest/TourManagement/TourManagement/Migrations/AppDbContextModelSnapshot.cs
+            modelBuilder.Entity("TourManagement.Models.User", b =>
+========
             modelBuilder.Entity("TourManagement.Model.Tour", b =>
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Blazor/Workshop/Workshop3/TourManagement/TourManagement/Migrations/20260622102301_initials.Designer.cs
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -57,6 +82,13 @@ namespace TourManagement.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Machinetest/TourManagement/TourManagement/Migrations/AppDbContextModelSnapshot.cs
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("UserName")
+========
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -68,6 +100,7 @@ namespace TourManagement.Migrations
                         .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("Title")
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Blazor/Workshop/Workshop3/TourManagement/TourManagement/Migrations/20260622102301_initials.Designer.cs
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

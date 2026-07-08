@@ -2,28 +2,58 @@
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Activities/Activity/Activity/obj/Debug/net10.0/scopedcss/projectbundle/Activity.bundle.scp.css
+a.navbar-brand[b-lswcs4d5nj] {
+========
 a.navbar-brand[b-71dqi7nsip] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Razor/Activity/RazorEmployeeManagement/RazorEmployeeManagement/obj/Debug/net8.0/scopedcss/projectbundle/RazorEmployeeManagement.bundle.scp.css
   white-space: normal;
   text-align: center;
   word-break: break-all;
 }
 
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Activities/Activity/Activity/obj/Debug/net10.0/scopedcss/projectbundle/Activity.bundle.scp.css
+a[b-lswcs4d5nj] {
+  color: #0077cc;
+}
+
+.btn-primary[b-lswcs4d5nj] {
+========
 a[b-71dqi7nsip] {
   color: #0077cc;
 }
 
 .btn-primary[b-71dqi7nsip] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Razor/Activity/RazorEmployeeManagement/RazorEmployeeManagement/obj/Debug/net8.0/scopedcss/projectbundle/RazorEmployeeManagement.bundle.scp.css
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
 
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Activities/Activity/Activity/obj/Debug/net10.0/scopedcss/projectbundle/Activity.bundle.scp.css
+.nav-pills .nav-link.active[b-lswcs4d5nj], .nav-pills .show > .nav-link[b-lswcs4d5nj] {
+========
 .nav-pills .nav-link.active[b-71dqi7nsip], .nav-pills .show > .nav-link[b-71dqi7nsip] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Razor/Activity/RazorEmployeeManagement/RazorEmployeeManagement/obj/Debug/net8.0/scopedcss/projectbundle/RazorEmployeeManagement.bundle.scp.css
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
 
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Activities/Activity/Activity/obj/Debug/net10.0/scopedcss/projectbundle/Activity.bundle.scp.css
+.border-top[b-lswcs4d5nj] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-lswcs4d5nj] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-lswcs4d5nj] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-lswcs4d5nj] {
+========
 .border-top[b-71dqi7nsip] {
   border-top: 1px solid #e5e5e5;
 }
@@ -36,11 +66,16 @@ a[b-71dqi7nsip] {
 }
 
 button.accept-policy[b-71dqi7nsip] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Razor/Activity/RazorEmployeeManagement/RazorEmployeeManagement/obj/Debug/net8.0/scopedcss/projectbundle/RazorEmployeeManagement.bundle.scp.css
   font-size: 1rem;
   line-height: inherit;
 }
 
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Activities/Activity/Activity/obj/Debug/net10.0/scopedcss/projectbundle/Activity.bundle.scp.css
+.footer[b-lswcs4d5nj] {
+========
 .footer[b-71dqi7nsip] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Razor/Activity/RazorEmployeeManagement/RazorEmployeeManagement/obj/Debug/net8.0/scopedcss/projectbundle/RazorEmployeeManagement.bundle.scp.css
   position: absolute;
   bottom: 0;
   width: 100%;

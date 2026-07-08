@@ -6,16 +6,26 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Workshop/Login/Login/bin/Debug/net10.0/Login.deps.json
+      "Login/1.0.0": {
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+========
       "Blazor_Exercise/1.0.0": {
         "dependencies": {
           "AutoMapper": "16.1.1",
           "BCrypt.Net-Next": "4.2.0",
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Blazor/Students/Sanjay/Blazor_Exercise/Blazor_Exercise/bin/Debug/net10.0/Blazor_Exercise.deps.json
           "Microsoft.EntityFrameworkCore": "10.0.9",
           "Microsoft.EntityFrameworkCore.Design": "10.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.9"
         },
         "runtime": {
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Workshop/Login/Login/bin/Debug/net10.0/Login.deps.json
+          "Login.dll": {}
+========
           "Blazor_Exercise.dll": {}
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Blazor/Students/Sanjay/Blazor_Exercise/Blazor_Exercise/bin/Debug/net10.0/Blazor_Exercise.deps.json
         }
       },
       "AutoMapper/16.1.1": {
@@ -771,7 +781,11 @@
     }
   },
   "libraries": {
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Workshop/Login/Login/bin/Debug/net10.0/Login.deps.json
+    "Login/1.0.0": {
+========
     "Blazor_Exercise/1.0.0": {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Blazor/Students/Sanjay/Blazor_Exercise/Blazor_Exercise/bin/Debug/net10.0/Blazor_Exercise.deps.json
       "type": "project",
       "serviceable": false,
       "sha512": ""

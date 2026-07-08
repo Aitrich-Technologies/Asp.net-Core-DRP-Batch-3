@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
@@ -8,7 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Workshop/Login/Login/Login.csproj
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+========
     <PackageReference Include="AutoMapper" Version="16.1.1" />
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Blazor/Students/Sanjay/Blazor_MachineTest/Blazor_MachineTest/Blazor_MachineTest.csproj
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.9" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.9">
       <PrivateAssets>all</PrivateAssets>
