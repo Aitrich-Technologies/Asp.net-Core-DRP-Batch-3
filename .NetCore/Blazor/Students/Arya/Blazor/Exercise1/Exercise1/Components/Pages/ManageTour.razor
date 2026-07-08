@@ -1,0 +1,109 @@
+﻿@page "/managetours"
+@rendermode InteractiveServer
+
+@using Exercise1.Models
+@using Exercise1.Interface
+
+@inject ITourService TourService
+@inject NavigationManager Navigation
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+    <div class="container-fluid">
+
+        <a class="navbar-brand" href="/managetours">
+            Tour Management
+        </a>
+
+        <div class="collapse navbar-collapse">
+            <ul class="navbar-nav ms-auto">
+
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="/managetours">
+                        Manage Tours
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link"
+                       href="/addtour">
+                        Add Tour
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <button class="btn btn-danger ms-3"
+                            @onclick="Logout">
+                        Logout
+                    </button>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<h3>Manage Tours</h3>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Destination</th>
+            <th>Price</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in tours)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.Description</td>
+                <td>@item.Destination</td>
+                <td>@item.Price</td>
+
+                <td>
+                    <button class="btn btn-warning"
+                            @onclick="@(() => Edit(item.Id))">
+                        Edit
+                    </button>
+
+                    <button class="btn btn-danger"
+                            @onclick="@(() => Delete(item.Id))">
+                        Delete
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+
+    List<Tour> tours = new();
+
+    protected override void OnInitialized()
+    {
+        tours = TourService.GetAll();
+    }
+
+    void Edit(int id)
+    {
+        Navigation.NavigateTo($"/edittour/{id}");
+    }
+
+    void Delete(int id)
+    {
+        TourService.Delete(id);
+        tours = TourService.GetAll();
+    }
+
+    void Logout()
+    {
+        Navigation.NavigateTo("/login", true);
+    }
+}

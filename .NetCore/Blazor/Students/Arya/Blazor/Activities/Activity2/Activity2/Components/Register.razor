@@ -1,0 +1,32 @@
+﻿@page "/Register"
+@using Activity2.Components.Pages
+@using Activity2.Dto
+@using Activity2.Interface;
+@inject IUserService UserService;
+@inject NavigationManager Navigation;
+@rendermode InteractiveServer
+
+<h1>Register</h1>
+<label>Name</label>
+<input @bind ="registerDto.Name" />
+<label>Email</label>
+<input @bind="registerDto.Email"/>
+<label>Password</label>
+<input @bind="registerDto.Password" />
+<button  @onclick = "registration">Register</button>
+
+
+@code {
+    RegisterDto registerDto = new();
+
+    string message = "";
+    void registration()
+    {
+        UserService.Register(registerDto);
+        Navigation.NavigateTo("/Login");
+    }
+
+ 
+
+}
+

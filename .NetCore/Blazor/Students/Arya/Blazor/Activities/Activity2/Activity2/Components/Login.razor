@@ -1,0 +1,42 @@
+﻿@page "/login"
+@using Activity2.Dto
+@using Activity2.Interface
+@inject IUserService UserService
+@inject NavigationManager Navigation
+@rendermode InteractiveServer
+
+<h3>Login</h3>
+
+<div>
+    <label>Email</label>
+    <input @bind="loginDto.Email" />
+
+    <label>Password</label>
+    <input type="password" @bind="loginDto.Password" />
+
+    <button @onclick="login">Login</button>
+</div>
+
+<p>@message</p>
+
+@code {
+
+    LoginDto loginDto = new();
+
+    string message = "";
+
+    void login()
+    {
+        bool result = UserService.Login(loginDto);
+
+        if (result)
+        {
+            Navigation.NavigateTo("/DashBoard");
+        }
+        else
+        {
+            message = "Invalid Email or Password";
+        }
+    }
+
+}

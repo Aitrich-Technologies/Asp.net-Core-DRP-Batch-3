@@ -1,0 +1,84 @@
+/* _content/ConsultantMVCApp/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Exercise3/Exercise3/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+a.navbar-brand[b-1f77ck6x0b] {
+========
+a.navbar-brand[b-ho3n51zzr0] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Mvc/Workshop/ConsultantMVCApp/obj/Debug/net8.0/scopedcss/projectbundle/ConsultantMVCApp.bundle.scp.css
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Exercise3/Exercise3/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+a[b-1f77ck6x0b] {
+  color: #0077cc;
+}
+
+.btn-primary[b-1f77ck6x0b] {
+========
+a[b-ho3n51zzr0] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ho3n51zzr0] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Mvc/Workshop/ConsultantMVCApp/obj/Debug/net8.0/scopedcss/projectbundle/ConsultantMVCApp.bundle.scp.css
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Exercise3/Exercise3/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+.nav-pills .nav-link.active[b-1f77ck6x0b], .nav-pills .show > .nav-link[b-1f77ck6x0b] {
+========
+.nav-pills .nav-link.active[b-ho3n51zzr0], .nav-pills .show > .nav-link[b-ho3n51zzr0] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Mvc/Workshop/ConsultantMVCApp/obj/Debug/net8.0/scopedcss/projectbundle/ConsultantMVCApp.bundle.scp.css
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Exercise3/Exercise3/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+.border-top[b-1f77ck6x0b] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-1f77ck6x0b] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-1f77ck6x0b] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-1f77ck6x0b] {
+========
+.border-top[b-ho3n51zzr0] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ho3n51zzr0] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ho3n51zzr0] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ho3n51zzr0] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Mvc/Workshop/ConsultantMVCApp/obj/Debug/net8.0/scopedcss/projectbundle/ConsultantMVCApp.bundle.scp.css
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Exercise3/Exercise3/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+.footer[b-1f77ck6x0b] {
+========
+.footer[b-ho3n51zzr0] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Mvc/Workshop/ConsultantMVCApp/obj/Debug/net8.0/scopedcss/projectbundle/ConsultantMVCApp.bundle.scp.css
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

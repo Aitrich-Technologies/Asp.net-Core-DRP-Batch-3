@@ -1,0 +1,49 @@
+﻿@page "/register"
+@rendermode InteractiveServer
+
+@using Exercise1.Dto
+@using Exercise1.Interface
+
+@inject IUserService UserService
+@inject NavigationManager Navigation
+
+<h3>Register</h3>
+
+<div class="container">
+
+    <div class="mb-3">
+        <label>Name</label>
+        <input class="form-control"
+               @bind="registerDto.Name" />
+    </div>
+
+    <div class="mb-3">
+        <label>Email</label>
+        <input class="form-control"
+               @bind="registerDto.Email" />
+    </div>
+
+    <div class="mb-3">
+        <label>Password</label>
+        <input type="password"
+               class="form-control"
+               @bind="registerDto.Password" />
+    </div>
+
+    <button class="btn btn-success"
+            @onclick="RegisterUser">
+        Register
+    </button>
+
+</div>
+
+@code {
+
+    RegisterDto registerDto = new();
+
+    void RegisterUser()
+    {
+        UserService.Register(registerDto);
+        Navigation.NavigateTo("/login");
+    }
+}
