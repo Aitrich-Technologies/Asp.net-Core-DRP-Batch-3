@@ -1,0 +1,16 @@
+﻿@model MachineTest.Dto.DestinationResponseDto
+
+<h2>@Model.Name</h2>
+
+@if (!string.IsNullOrEmpty(Model.ImageUrl))
+{
+    <img src="@Model.ImageUrl" style="max-width:400px;" />
+}
+
+<p>@Model.City</p>
+<button type="submit" class="btn btn-danger"
+        asp-controller="Destinations"
+        asp-action="Delete"
+        asp-route-id="@Model.Id">
+    Delete
+</button>

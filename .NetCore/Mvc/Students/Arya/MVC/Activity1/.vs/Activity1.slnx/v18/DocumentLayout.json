@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\documents\\mvc\\activity1\\activity1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\documents\\mvc\\activity1\\activity1\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\documents\\mvc\\activity1\\activity1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\documents\\mvc\\activity1\\activity1\\migrations\\20260705025026_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\migrations\\20260705025026_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\documents\\mvc\\activity1\\activity1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\documents\\mvc\\activity1\\activity1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\documents\\mvc\\activity1\\activity1\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\documents\\mvc\\activity1\\activity1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\documents\\mvc\\activity1\\activity1\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\documents\\mvc\\activity1\\activity1\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\documents\\mvc\\activity1\\activity1\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\documents\\mvc\\activity1\\activity1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\documents\\mvc\\activity1\\activity1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\documents\\mvc\\activity1\\activity1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Views\\Shared\\_sidebar.cshtml",
+              "RelativeDocumentMoniker": "Activity1\\Views\\Shared\\_sidebar.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Views\\Shared\\_sidebar.cshtml",
+              "RelativeToolTip": "Activity1\\Views\\Shared\\_sidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T03:27:00.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Activity1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Activity1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T03:24:08.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Activity1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Activity1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T03:23:01.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Views\\Student\\List.cshtml",
+              "RelativeDocumentMoniker": "Activity1\\Views\\Student\\List.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Views\\Student\\List.cshtml",
+              "RelativeToolTip": "Activity1\\Views\\Student\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T03:20:01.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Activity1\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Activity1\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T03:17:21.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "Activity1\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "Activity1\\Views\\Student\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T03:11:41.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Activity1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Activity1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T02:57:35.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Activity1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Activity1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T02:52:08.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260705025026_intialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Migrations\\20260705025026_intialcreate.cs",
+              "RelativeDocumentMoniker": "Activity1\\Migrations\\20260705025026_intialcreate.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Migrations\\20260705025026_intialcreate.cs",
+              "RelativeToolTip": "Activity1\\Migrations\\20260705025026_intialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T02:50:27.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\appsettings.json",
+              "RelativeDocumentMoniker": "Activity1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\appsettings.json",
+              "RelativeToolTip": "Activity1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-05T02:49:26.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Program.cs",
+              "RelativeDocumentMoniker": "Activity1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Program.cs",
+              "RelativeToolTip": "Activity1\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T02:49:04.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Activity1\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Activity1\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T02:30:38.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "Activity1\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "Activity1\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T02:21:16.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Activity1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Documents\\MVC\\Activity1\\Activity1\\Models\\Student.cs",
+              "RelativeToolTip": "Activity1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T02:19:22.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

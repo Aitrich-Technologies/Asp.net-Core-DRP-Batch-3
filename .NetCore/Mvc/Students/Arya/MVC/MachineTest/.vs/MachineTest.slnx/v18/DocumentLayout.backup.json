@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\controllers\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\controllers\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\views\\tour\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\views\\tour\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\views\\tour\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\views\\tour\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\dto\\tourdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\dto\\tourdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\interface\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interface\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\interface\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interface\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\interface\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interface\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Migrations\\20260714065643_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MachineTest\\Migrations\\20260714065643_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\machinetest\\machinetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{945370BF-6B39-40C4-A24E-917E2DF5A778}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Tour\\Create.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Views\\Tour\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Tour\\Create.cshtml",
+              "RelativeToolTip": "MachineTest\\Views\\Tour\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T10:08:45.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TourController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Controllers\\TourController.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Controllers\\TourController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Controllers\\TourController.cs",
+              "RelativeToolTip": "MachineTest\\Controllers\\TourController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:43:06.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Tour\\Index.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Views\\Tour\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Tour\\Index.cshtml",
+              "RelativeToolTip": "MachineTest\\Views\\Tour\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T08:46:55.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "MachineTest\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T07:28:07.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MachineTest\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T07:22:10.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "MachineTest\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T07:28:33.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TourService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Service\\TourService.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Service\\TourService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Service\\TourService.cs",
+              "RelativeToolTip": "MachineTest\\Service\\TourService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:41:17.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TourDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\TourDto.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Dto\\TourDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\TourDto.cs",
+              "RelativeToolTip": "MachineTest\\Dto\\TourDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:34:57.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MachineTest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:54:16.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TourRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Repository\\TourRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Repository\\TourRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Repository\\TourRepository.cs",
+              "RelativeToolTip": "MachineTest\\Repository\\TourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:40:37.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITourRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\ITourRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interface\\ITourRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\ITourRepository.cs",
+              "RelativeToolTip": "MachineTest\\Interface\\ITourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:38:29.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Service\\AuthService.cs",
+              "RelativeToolTip": "MachineTest\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T07:16:50.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "MachineTest\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:36:08.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITourService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\ITourService.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interface\\ITourService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\ITourService.cs",
+              "RelativeToolTip": "MachineTest\\Interface\\ITourService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:39:17.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "MachineTest\\Repository\\AuthRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T07:20:00.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\BookingDto.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Dto\\BookingDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\BookingDto.cs",
+              "RelativeToolTip": "MachineTest\\Dto\\BookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:34:34.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Models\\AuthUser.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Models\\AuthUser.cs",
+              "RelativeToolTip": "MachineTest\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:02:06.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Models\\Tour.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Models\\Tour.cs",
+              "RelativeToolTip": "MachineTest\\Models\\Tour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:07:05.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IbookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IbookingService.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interface\\IbookingService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IbookingService.cs",
+              "RelativeToolTip": "MachineTest\\Interface\\IbookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:12:57.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interface\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IBookingRepository.cs",
+              "RelativeToolTip": "MachineTest\\Interface\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:17:54.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "MachineTest\\Helper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:58:09.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Models\\Booking.cs",
+              "RelativeToolTip": "MachineTest\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:15:42.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "MachineTest\\Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:43:45.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\AuthUserDto.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Dto\\AuthUserDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\AuthUserDto.cs",
+              "RelativeToolTip": "MachineTest\\Dto\\AuthUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:43:32.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Enum\\UserRole.cs",
+              "RelativeToolTip": "MachineTest\\Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:05:11.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interface\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IAuthRepository.cs",
+              "RelativeToolTip": "MachineTest\\Interface\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T07:09:01.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "MachineTest\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:28:42.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Program.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Program.cs",
+              "RelativeToolTip": "MachineTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:54:58.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "MachineTest\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T07:09:58.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260714065643_create.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Migrations\\20260714065643_create.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Migrations\\20260714065643_create.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\Migrations\\20260714065643_create.cs",
+              "RelativeToolTip": "MachineTest\\Migrations\\20260714065643_create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:56:44.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\appsettings.json",
+              "RelativeDocumentMoniker": "MachineTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\MachineTest\\MachineTest\\appsettings.json",
+              "RelativeToolTip": "MachineTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-14T06:52:09.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

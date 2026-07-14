@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\views\\destinations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\views\\destinations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\service\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\service\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\helper\\appprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\helper\\appprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\service\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\service\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\controllers\\destinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\controllers\\destinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\dto\\destinationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\dto\\destinationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\dto\\destinationpatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\dto\\destinationpatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\models\\destinationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\models\\destinationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\views\\destinations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\views\\destinations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\views\\destinations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\views\\destinations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\views\\destinations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\views\\destinations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\views\\destinations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\views\\destinations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\service\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\service\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\migrations\\20260707063619_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\migrations\\20260707063619_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\mvc\\workshop\\workshop\\migrations\\20260707150919_destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\migrations\\20260707150919_destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Workshop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Workshop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-08T14:01:33.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Destinations\\Create.cshtml",
+              "RelativeDocumentMoniker": "Workshop\\Views\\Destinations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Destinations\\Create.cshtml",
+              "RelativeToolTip": "Workshop\\Views\\Destinations\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T15:06:42.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Workshop\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Service\\AuthService.cs",
+              "RelativeToolTip": "Workshop\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:49:15.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Service\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Workshop\\Service\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Service\\AuthRepository.cs",
+              "RelativeToolTip": "Workshop\\Service\\AuthRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:50:45.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Workshop\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Workshop\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:03:50.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Workshop\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Workshop\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T06:06:55.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Workshop\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Workshop\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T06:48:33.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Workshop\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Workshop\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:40:57.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Interface\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Workshop\\Interface\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Interface\\IAuthRepository.cs",
+              "RelativeToolTip": "Workshop\\Interface\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:41:27.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Helper\\AppProfile.cs",
+              "RelativeDocumentMoniker": "Workshop\\Helper\\AppProfile.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Helper\\AppProfile.cs",
+              "RelativeToolTip": "Workshop\\Helper\\AppProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:09:24.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Service\\DestinationService.cs",
+              "RelativeDocumentMoniker": "Workshop\\Service\\DestinationService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Service\\DestinationService.cs",
+              "RelativeToolTip": "Workshop\\Service\\DestinationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T15:04:02.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "Workshop\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Enum\\UserRole.cs",
+              "RelativeToolTip": "Workshop\\Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T05:59:47.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DestinationsController.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Controllers\\DestinationsController.cs",
+              "RelativeDocumentMoniker": "Workshop\\Controllers\\DestinationsController.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Controllers\\DestinationsController.cs",
+              "RelativeToolTip": "Workshop\\Controllers\\DestinationsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wEIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T15:10:43.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Workshop\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Workshop\\Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:44:32.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Workshop\\Extensions\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Workshop\\Extensions\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:08:39.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DestinationResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Dto\\DestinationResponseDto.cs",
+              "RelativeDocumentMoniker": "Workshop\\Dto\\DestinationResponseDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Dto\\DestinationResponseDto.cs",
+              "RelativeToolTip": "Workshop\\Dto\\DestinationResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T15:02:49.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DestinationPatchDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Dto\\DestinationPatchDto.cs",
+              "RelativeDocumentMoniker": "Workshop\\Dto\\DestinationPatchDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Dto\\DestinationPatchDto.cs",
+              "RelativeToolTip": "Workshop\\Dto\\DestinationPatchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T15:02:11.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DestinationDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Dto\\DestinationDto.cs",
+              "RelativeDocumentMoniker": "Workshop\\Dto\\DestinationDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Dto\\DestinationDto.cs",
+              "RelativeToolTip": "Workshop\\Dto\\DestinationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T15:01:46.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Dto\\AuthUserDto.cs",
+              "RelativeDocumentMoniker": "Workshop\\Dto\\AuthUserDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Dto\\AuthUserDto.cs",
+              "RelativeToolTip": "Workshop\\Dto\\AuthUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:07:50.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DestinationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Models\\DestinationDbContext.cs",
+              "RelativeDocumentMoniker": "Workshop\\Models\\DestinationDbContext.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Models\\DestinationDbContext.cs",
+              "RelativeToolTip": "Workshop\\Models\\DestinationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:15:26.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Models\\Destination.cs",
+              "RelativeDocumentMoniker": "Workshop\\Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Models\\Destination.cs",
+              "RelativeToolTip": "Workshop\\Models\\Destination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T14:59:08.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "Workshop\\Models\\AuthUser.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Models\\AuthUser.cs",
+              "RelativeToolTip": "Workshop\\Models\\AuthUser.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:06:05.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Destinations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Workshop\\Views\\Destinations\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Destinations\\Delete.cshtml",
+              "RelativeToolTip": "Workshop\\Views\\Destinations\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-08T10:26:38.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Destinations\\Details.cshtml",
+              "RelativeDocumentMoniker": "Workshop\\Views\\Destinations\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Destinations\\Details.cshtml",
+              "RelativeToolTip": "Workshop\\Views\\Destinations\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T15:07:03.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Destinations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Workshop\\Views\\Destinations\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Destinations\\Edit.cshtml",
+              "RelativeToolTip": "Workshop\\Views\\Destinations\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T15:06:51.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Destinations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Workshop\\Views\\Destinations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Views\\Destinations\\Index.cshtml",
+              "RelativeToolTip": "Workshop\\Views\\Destinations\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-07T15:07:13.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Program.cs",
+              "RelativeDocumentMoniker": "Workshop\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Program.cs",
+              "RelativeToolTip": "Workshop\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:21:23.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260707150919_Destination.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Migrations\\20260707150919_Destination.cs",
+              "RelativeDocumentMoniker": "Workshop\\Migrations\\20260707150919_Destination.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Migrations\\20260707150919_Destination.cs",
+              "RelativeToolTip": "Workshop\\Migrations\\20260707150919_Destination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T15:09:19.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Service\\DestinationRepository.cs",
+              "RelativeDocumentMoniker": "Workshop\\Service\\DestinationRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Service\\DestinationRepository.cs",
+              "RelativeToolTip": "Workshop\\Service\\DestinationRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T15:05:24.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IDestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Interface\\IDestinationService.cs",
+              "RelativeDocumentMoniker": "Workshop\\Interface\\IDestinationService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Interface\\IDestinationService.cs",
+              "RelativeToolTip": "Workshop\\Interface\\IDestinationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T15:00:28.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IDestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Interface\\IDestinationRepository.cs",
+              "RelativeDocumentMoniker": "Workshop\\Interface\\IDestinationRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Interface\\IDestinationRepository.cs",
+              "RelativeToolTip": "Workshop\\Interface\\IDestinationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T15:00:11.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20260707063619_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Migrations\\20260707063619_Initial.cs",
+              "RelativeDocumentMoniker": "Workshop\\Migrations\\20260707063619_Initial.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\Migrations\\20260707063619_Initial.cs",
+              "RelativeToolTip": "Workshop\\Migrations\\20260707063619_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:36:19.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\appsettings.json",
+              "RelativeDocumentMoniker": "Workshop\\appsettings.json",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Workshop\\Workshop\\appsettings.json",
+              "RelativeToolTip": "Workshop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-07T06:25:35.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

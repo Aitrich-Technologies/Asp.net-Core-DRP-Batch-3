@@ -1,0 +1,43 @@
+﻿html
+@using System.Security.Claims
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2>Dashboard</h2>
+
+<hr />
+
+<h4>Welcome @User.Identity?.Name</h4>
+
+<p>
+    <strong>User Name :</strong>
+    @User.Identity?.Name
+</p>
+
+<p>
+    <strong>Email :</strong>
+    @User.FindFirst(ClaimTypes.Email)?.Value
+</p>
+
+<p>
+    <strong>Role :</strong>
+    @User.FindFirst(ClaimTypes.Role)?.Value
+</p>
+
+<p>
+    <strong>User Id :</strong>
+    @User.FindFirst("UserId")?.Value
+</p>
+
+<form asp-action="Logout" method="post">
+
+    @Html.AntiForgeryToken()
+
+    <button type="submit" class="btn btn-danger">
+        Logout
+    </button>
+
+</form>
+

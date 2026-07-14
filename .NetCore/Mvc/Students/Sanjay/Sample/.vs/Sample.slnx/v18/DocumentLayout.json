@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC6517-2AE6-48B4-AFF5-7D9F8E98DDA5}|Sample\\Sample.csproj|c:\\users\\prime\\desktop\\mvc\\sample\\sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC6517-2AE6-48B4-AFF5-7D9F8E98DDA5}|Sample\\Sample.csproj|solutionrelative:sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC6517-2AE6-48B4-AFF5-7D9F8E98DDA5}|Sample\\Sample.csproj|c:\\users\\prime\\desktop\\mvc\\sample\\sample\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DAC6517-2AE6-48B4-AFF5-7D9F8E98DDA5}|Sample\\Sample.csproj|solutionrelative:sample\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC6517-2AE6-48B4-AFF5-7D9F8E98DDA5}|Sample\\Sample.csproj|c:\\users\\prime\\desktop\\mvc\\sample\\sample\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC6517-2AE6-48B4-AFF5-7D9F8E98DDA5}|Sample\\Sample.csproj|solutionrelative:sample\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC6517-2AE6-48B4-AFF5-7D9F8E98DDA5}|Sample\\Sample.csproj|c:\\users\\prime\\desktop\\mvc\\sample\\sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DAC6517-2AE6-48B4-AFF5-7D9F8E98DDA5}|Sample\\Sample.csproj|solutionrelative:sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC6517-2AE6-48B4-AFF5-7D9F8E98DDA5}|Sample\\Sample.csproj|c:\\users\\prime\\desktop\\mvc\\sample\\sample\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC6517-2AE6-48B4-AFF5-7D9F8E98DDA5}|Sample\\Sample.csproj|solutionrelative:sample\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC6517-2AE6-48B4-AFF5-7D9F8E98DDA5}|Sample\\Sample.csproj|c:\\users\\prime\\desktop\\mvc\\sample\\sample\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DAC6517-2AE6-48B4-AFF5-7D9F8E98DDA5}|Sample\\Sample.csproj|solutionrelative:sample\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAC6517-2AE6-48B4-AFF5-7D9F8E98DDA5}|Sample\\Sample.csproj|c:\\users\\prime\\desktop\\mvc\\sample\\sample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAC6517-2AE6-48B4-AFF5-7D9F8E98DDA5}|Sample\\Sample.csproj|solutionrelative:sample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\Sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Sample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\Sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Sample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T08:18:52.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\Sample\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sample\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\Sample\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Sample\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T08:15:30.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\Sample\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Sample\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\Sample\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Sample\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T08:14:08.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\Sample\\Program.cs",
+              "RelativeDocumentMoniker": "Sample\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\Sample\\Program.cs",
+              "RelativeToolTip": "Sample\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T06:53:04.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\Sample\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sample\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\Sample\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Sample\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T06:45:35.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\Sample\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Sample\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\Sample\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Sample\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T06:39:22.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\Sample\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Sample\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Sample\\Sample\\Models\\Employee.cs",
+              "RelativeToolTip": "Sample\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T06:36:47.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
