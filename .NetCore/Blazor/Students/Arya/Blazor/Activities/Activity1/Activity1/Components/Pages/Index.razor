@@ -1,0 +1,78 @@
+﻿@page "/Index"
+
+@using Activity1.Data
+@inject EmployeeService EmpService
+@rendermode InteractiveServer
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6">
+
+            <label class="control-label">First Name</label>
+            <input class="form-control"
+                   placeholder="Enter First Name"
+                   @bind="employeeDetails.FirstName" />
+
+            <label class="control-label">Last Name</label>
+            <input class="form-control"
+                   placeholder="Enter Last Name"
+                   @bind="employeeDetails.LastName" />
+
+            <label class="control-label">Email</label>
+            <input class="form-control"
+                   placeholder="Enter Email"
+                   @bind="employeeDetails.Email" />
+
+            <label class="control-label">Phone</label>
+            <input class="form-control"
+                   placeholder="Enter Phone"
+                   @bind="employeeDetails.Phone" />
+
+            <br />
+
+            <button type="button"
+                    class="btn btn-primary"
+                    @onclick="Add">
+                Add
+            </button>
+
+            @if (!string.IsNullOrEmpty(message))
+            {
+                <div class="alert alert-success mt-2">
+                    @message
+                </div>
+            }
+
+            <br /><br />
+
+            <a class="btn btn-success" href="/Display">
+                Show List
+            </a>
+
+        </div>
+    </div>
+</div>
+
+@code {
+
+    private EmployeeDetails employeeDetails = new();
+    private string message = "";
+
+    private void Add()
+    {
+        EmpService.AddEmployeeList(new EmployeeDetails
+        {
+            FirstName = employeeDetails.FirstName,
+            LastName = employeeDetails.LastName,
+            Email = employeeDetails.Email,
+            Phone = employeeDetails.Phone
+        });
+
+        message = "Employee Added Successfully";
+
+        // Clear the form
+        employeeDetails = new EmployeeDetails();
+
+        StateHasChanged();
+    }
+}

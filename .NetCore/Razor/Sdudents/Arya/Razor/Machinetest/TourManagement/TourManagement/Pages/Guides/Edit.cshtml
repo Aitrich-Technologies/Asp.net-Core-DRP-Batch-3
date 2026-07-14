@@ -1,0 +1,26 @@
+﻿@page "{id:int}"
+@model TourManagement.Pages.Guides.EditModel
+
+<h2>Edit User</h2>
+
+<form method="post">
+
+    <input type="hidden" asp-for="User.Id" />
+
+    <div>
+        <label>Username</label>
+        <input asp-for="User.UserName" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Password</label>
+        <input asp-for="User.Password" />
+    </div>
+
+    <br />
+
+    <button type="submit">Update</button>
+
+</form>

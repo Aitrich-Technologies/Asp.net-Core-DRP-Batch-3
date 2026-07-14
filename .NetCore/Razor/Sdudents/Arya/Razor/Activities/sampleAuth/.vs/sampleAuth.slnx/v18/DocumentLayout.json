@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|c:\\users\\lenovo\\onedrive\\desktop\\razor\\activities\\sampleauth\\sampleauth\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|solutionrelative:sampleauth\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|c:\\users\\lenovo\\onedrive\\desktop\\razor\\activities\\sampleauth\\sampleauth\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|solutionrelative:sampleauth\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|c:\\users\\lenovo\\onedrive\\desktop\\razor\\activities\\sampleauth\\sampleauth\\sampleauth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|solutionrelative:sampleauth\\sampleauth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|c:\\users\\lenovo\\onedrive\\desktop\\razor\\activities\\sampleauth\\sampleauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|solutionrelative:sampleauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|c:\\users\\lenovo\\onedrive\\desktop\\razor\\activities\\sampleauth\\sampleauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|solutionrelative:sampleauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|c:\\users\\lenovo\\onedrive\\desktop\\razor\\activities\\sampleauth\\sampleauth\\pages\\registration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|solutionrelative:sampleauth\\pages\\registration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|c:\\users\\lenovo\\onedrive\\desktop\\razor\\activities\\sampleauth\\sampleauth\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|solutionrelative:sampleauth\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|c:\\users\\lenovo\\onedrive\\desktop\\razor\\activities\\sampleauth\\sampleauth\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|solutionrelative:sampleauth\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|c:\\users\\lenovo\\onedrive\\desktop\\razor\\activities\\sampleauth\\sampleauth\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|solutionrelative:sampleauth\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|c:\\users\\lenovo\\onedrive\\desktop\\razor\\activities\\sampleauth\\sampleauth\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|solutionrelative:sampleauth\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|c:\\users\\lenovo\\onedrive\\desktop\\razor\\activities\\sampleauth\\sampleauth\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|solutionrelative:sampleauth\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|c:\\users\\lenovo\\onedrive\\desktop\\razor\\activities\\sampleauth\\sampleauth\\pages\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|solutionrelative:sampleauth\\pages\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|c:\\users\\lenovo\\onedrive\\desktop\\razor\\activities\\sampleauth\\sampleauth\\migrations\\20260609082353_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|solutionrelative:sampleauth\\migrations\\20260609082353_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|c:\\users\\lenovo\\onedrive\\desktop\\razor\\activities\\sampleauth\\sampleauth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C2D5FA-AC46-F129-DA11-8CED83962C6C}|sampleAuth\\sampleAuth.csproj|solutionrelative:sampleauth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\appsettings.json",
+              "RelativeDocumentMoniker": "sampleAuth\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\appsettings.json",
+              "RelativeToolTip": "sampleAuth\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-09T08:12:40.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Program.cs",
+              "RelativeDocumentMoniker": "sampleAuth\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Program.cs",
+              "RelativeToolTip": "sampleAuth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T08:14:54.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sampleAuth.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\sampleAuth.csproj",
+              "RelativeDocumentMoniker": "sampleAuth\\sampleAuth.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\sampleAuth.csproj",
+              "RelativeToolTip": "sampleAuth\\sampleAuth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-09T07:59:20.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "sampleAuth\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "sampleAuth\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T16:23:02.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "sampleAuth\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Index.cshtml",
+              "RelativeToolTip": "sampleAuth\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T16:22:50.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "sampleAuth\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Login.cshtml",
+              "RelativeToolTip": "sampleAuth\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T09:57:32.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "sampleAuth\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "sampleAuth\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T08:01:21.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registration.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Registration.cshtml.cs",
+              "RelativeDocumentMoniker": "sampleAuth\\Pages\\Registration.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Registration.cshtml.cs",
+              "RelativeToolTip": "sampleAuth\\Pages\\Registration.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T09:20:22.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "sampleAuth\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "sampleAuth\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T10:11:52.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "sampleAuth\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "sampleAuth\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T09:59:13.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "sampleAuth\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "sampleAuth\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T16:07:32.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Registration.cshtml",
+              "RelativeDocumentMoniker": "sampleAuth\\Pages\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Pages\\Registration.cshtml",
+              "RelativeToolTip": "sampleAuth\\Pages\\Registration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T09:18:41.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260609082353_create.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Migrations\\20260609082353_create.cs",
+              "RelativeDocumentMoniker": "sampleAuth\\Migrations\\20260609082353_create.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Migrations\\20260609082353_create.cs",
+              "RelativeToolTip": "sampleAuth\\Migrations\\20260609082353_create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T08:23:53.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Models\\User.cs",
+              "RelativeDocumentMoniker": "sampleAuth\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Razor\\Activities\\sampleAuth\\sampleAuth\\Models\\User.cs",
+              "RelativeToolTip": "sampleAuth\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T08:00:58.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

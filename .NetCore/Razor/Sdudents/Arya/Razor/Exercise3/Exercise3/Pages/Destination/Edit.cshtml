@@ -1,0 +1,48 @@
+﻿@page "{id:int}"
+@model Exercise3.Pages.Destination.EditModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="container mt-4">
+
+    <h2>Edit Destination</h2>
+
+    <form method="post">
+
+        <input type="hidden" asp-for="Destination.Id" />
+
+        <div class="mb-3">
+            <label>Name</label>
+            <input asp-for="Destination.Name" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label>Location</label>
+            <input asp-for="Destination.Location" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label>Price</label>
+            <input asp-for="Destination.Price" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label>Duration</label>
+            <input asp-for="Destination.Duration" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label>Description</label>
+            <textarea asp-for="Destination.Description" class="form-control"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-success">
+            Update
+        </button>
+
+        <a asp-page="./Index" class="btn btn-secondary">
+            Cancel
+        </a>
+
+    </form>
+
+</div>

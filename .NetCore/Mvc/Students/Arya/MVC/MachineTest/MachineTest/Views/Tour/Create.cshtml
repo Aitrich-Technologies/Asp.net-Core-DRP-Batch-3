@@ -1,0 +1,78 @@
+﻿@model MachineTest.Dto.TourDto
+
+@{
+    ViewData["Title"] = "Add Tour";
+}
+
+<h2 class="text-center mb-4">Add Tour</h2>
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+
+        <form asp-action="Create" method="post">
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="TourName" class="form-label"></label>
+                <input asp-for="TourName" class="form-control" />
+                <span asp-validation-for="TourName" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Destination" class="form-label"></label>
+                <input asp-for="Destination" class="form-control" />
+                <span asp-validation-for="Destination" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Price" class="form-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Status" class="form-label"></label>
+                <select asp-for="Status" class="form-select">
+                    <option value="">--Select Status--</option>
+                    <option value="Available">Available</option>
+                    <option value="Booked">Booked</option>
+                    <option value="Cancelled">Cancelled</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="DepartureDate" class="form-label"></label>
+                <input asp-for="DepartureDate" type="date" class="form-control" />
+                <span asp-validation-for="DepartureDate" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="ArrivalDate" class="form-label"></label>
+                <input asp-for="ArrivalDate" type="date" class="form-control" />
+                <span asp-validation-for="ArrivalDate" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="AvailableSeat" class="form-label"></label>
+                <input asp-for="AvailableSeat" class="form-control" />
+                <span asp-validation-for="AvailableSeat" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">
+                Save Tour
+            </button>
+
+            <a asp-action="Index" class="btn btn-secondary">
+                Back
+            </a>
+
+        </form>
+
+    </div>
+</div>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

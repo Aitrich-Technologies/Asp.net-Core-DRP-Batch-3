@@ -1,0 +1,84 @@
+/* _content/ConsultantMVCApp/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Activities/sampleAuth/sampleAuth/obj/Debug/net10.0/scopedcss/bundle/sampleAuth.styles.css
+a.navbar-brand[b-4hojab3xed] {
+========
+a.navbar-brand[b-ho3n51zzr0] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Mvc/Workshop/ConsultantMVCApp/obj/Debug/net8.0/scopedcss/bundle/ConsultantMVCApp.styles.css
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Activities/sampleAuth/sampleAuth/obj/Debug/net10.0/scopedcss/bundle/sampleAuth.styles.css
+a[b-4hojab3xed] {
+  color: #0077cc;
+}
+
+.btn-primary[b-4hojab3xed] {
+========
+a[b-ho3n51zzr0] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ho3n51zzr0] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Mvc/Workshop/ConsultantMVCApp/obj/Debug/net8.0/scopedcss/bundle/ConsultantMVCApp.styles.css
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Activities/sampleAuth/sampleAuth/obj/Debug/net10.0/scopedcss/bundle/sampleAuth.styles.css
+.nav-pills .nav-link.active[b-4hojab3xed], .nav-pills .show > .nav-link[b-4hojab3xed] {
+========
+.nav-pills .nav-link.active[b-ho3n51zzr0], .nav-pills .show > .nav-link[b-ho3n51zzr0] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Mvc/Workshop/ConsultantMVCApp/obj/Debug/net8.0/scopedcss/bundle/ConsultantMVCApp.styles.css
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Activities/sampleAuth/sampleAuth/obj/Debug/net10.0/scopedcss/bundle/sampleAuth.styles.css
+.border-top[b-4hojab3xed] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-4hojab3xed] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-4hojab3xed] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-4hojab3xed] {
+========
+.border-top[b-ho3n51zzr0] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ho3n51zzr0] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ho3n51zzr0] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ho3n51zzr0] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Mvc/Workshop/ConsultantMVCApp/obj/Debug/net8.0/scopedcss/bundle/ConsultantMVCApp.styles.css
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+<<<<<<<< HEAD:.NetCore/Razor/Sdudents/Arya/Razor/Activities/sampleAuth/sampleAuth/obj/Debug/net10.0/scopedcss/bundle/sampleAuth.styles.css
+.footer[b-4hojab3xed] {
+========
+.footer[b-ho3n51zzr0] {
+>>>>>>>> 72d82c91693b9e35788e1e94f879a16858273e20:.NetCore/Mvc/Workshop/ConsultantMVCApp/obj/Debug/net8.0/scopedcss/bundle/ConsultantMVCApp.styles.css
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

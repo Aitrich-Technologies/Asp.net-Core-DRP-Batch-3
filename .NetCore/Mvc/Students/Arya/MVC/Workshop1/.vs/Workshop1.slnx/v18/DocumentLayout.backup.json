@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\repository\\consultantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\repository\\consultantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\interface\\iconsultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\interface\\iconsultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\interface\\iconsulatantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\interface\\iconsulatantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\dto\\createconsultantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\dto\\createconsultantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\dto\\consultantlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\dto\\consultantlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\dto\\consultantdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\dto\\consultantdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\migrations\\20260707031539_creates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\migrations\\20260707031539_creates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\workshop1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\workshop1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\models\\tourbookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\models\\tourbookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\models\\participantinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\models\\participantinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\mvc\\workshop1\\workshop1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E05EC5-648D-3CB6-A4CA-07F9909361C9}|Workshop1\\Workshop1.csproj|solutionrelative:workshop1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsultantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Repository\\ConsultantRepository.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Repository\\ConsultantRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Repository\\ConsultantRepository.cs*",
+              "RelativeToolTip": "Workshop1\\Repository\\ConsultantRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:58:39.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IConsultantService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Interface\\IConsultantService.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Interface\\IConsultantService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Interface\\IConsultantService.cs",
+              "RelativeToolTip": "Workshop1\\Interface\\IConsultantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:27:33.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IConsulatantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Interface\\IConsulatantRepository.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Interface\\IConsulatantRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Interface\\IConsulatantRepository.cs",
+              "RelativeToolTip": "Workshop1\\Interface\\IConsulatantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:25:21.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthservice.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Interface\\IAuthservice.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Interface\\IAuthservice.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Interface\\IAuthservice.cs",
+              "RelativeToolTip": "Workshop1\\Interface\\IAuthservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:24:36.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Interface\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Interface\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Interface\\IAuthRepository.cs",
+              "RelativeToolTip": "Workshop1\\Interface\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:23:51.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Workshop1\\Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:20:14.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateConsultantDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Dto\\CreateConsultantDto.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Dto\\CreateConsultantDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Dto\\CreateConsultantDto.cs",
+              "RelativeToolTip": "Workshop1\\Dto\\CreateConsultantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:19:47.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsultantListDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Dto\\ConsultantListDto.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Dto\\ConsultantListDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Dto\\ConsultantListDto.cs",
+              "RelativeToolTip": "Workshop1\\Dto\\ConsultantListDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:19:03.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsultantDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Dto\\ConsultantDetailsDto.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Dto\\ConsultantDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Dto\\ConsultantDetailsDto.cs",
+              "RelativeToolTip": "Workshop1\\Dto\\ConsultantDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:18:05.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Dto\\AuthUserDto.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Dto\\AuthUserDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Dto\\AuthUserDto.cs",
+              "RelativeToolTip": "Workshop1\\Dto\\AuthUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:17:03.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260707031539_creates.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Migrations\\20260707031539_creates.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Migrations\\20260707031539_creates.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Migrations\\20260707031539_creates.cs",
+              "RelativeToolTip": "Workshop1\\Migrations\\20260707031539_creates.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:15:40.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Program.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Program.cs",
+              "RelativeToolTip": "Workshop1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:13:52.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\appsettings.json",
+              "RelativeDocumentMoniker": "Workshop1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\appsettings.json",
+              "RelativeToolTip": "Workshop1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-07T03:12:05.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Workshop1\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:10:51.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Enum\\UserRole.cs",
+              "RelativeToolTip": "Workshop1\\Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:09:21.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Workshop1\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T02:53:19.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Workshop1.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Workshop1.csproj",
+              "RelativeDocumentMoniker": "Workshop1\\Workshop1.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Workshop1.csproj",
+              "RelativeToolTip": "Workshop1\\Workshop1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-07T02:51:48.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TourBookingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Models\\TourBookingForm.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Models\\TourBookingForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Models\\TourBookingForm.cs",
+              "RelativeToolTip": "Workshop1\\Models\\TourBookingForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T02:33:02.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ParticipantInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Models\\ParticipantInformation.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Models\\ParticipantInformation.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Models\\ParticipantInformation.cs",
+              "RelativeToolTip": "Workshop1\\Models\\ParticipantInformation.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T02:32:06.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Models\\Destination.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Models\\Destination.cs",
+              "RelativeToolTip": "Workshop1\\Models\\Destination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T02:30:42.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Models\\Tour.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Models\\Tour.cs",
+              "RelativeToolTip": "Workshop1\\Models\\Tour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T02:28:00.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Workshop1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\MVC\\Workshop1\\Workshop1\\Models\\User.cs",
+              "RelativeToolTip": "Workshop1\\Models\\User.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAIAwwC0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T02:24:59.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

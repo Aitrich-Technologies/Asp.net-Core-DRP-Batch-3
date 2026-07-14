@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\manager\\tourmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\manager\\tourmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\repositary\\tourrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\repositary\\tourrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|c:\\users\\hp\\onedrive\\desktop\\git repo\\aitrich repo\\asp.net-core-drp-batch-3\\.netcore\\arya\\activity\\exercise\\exercise\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\enum\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\repositary\\userrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\repositary\\userrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\interface\\iuserrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\interface\\iuserrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\repositary\\consultantrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\repositary\\consultantrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\manager\\consultantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\manager\\consultantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\interface\\iconsultantrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\interface\\iconsultantrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\models\\consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\models\\consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\manager\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\manager\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\interface\\itourrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\interface\\itourrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\interface\\ibookingrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\interface\\ibookingrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\repositary\\bookingrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\repositary\\bookingrepositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\exercise\\participants\\userparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA90E2-FED4-47A2-B2FD-F3314410DF21}|Exercise\\Exercise.csproj|solutionrelative:exercise\\participants\\userparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepositary.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Interface\\IUserRepositary.cs",
+              "RelativeDocumentMoniker": "Exercise\\Interface\\IUserRepositary.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Interface\\IUserRepositary.cs",
+              "RelativeToolTip": "Exercise\\Interface\\IUserRepositary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:55:41.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Manager\\UserManager.cs",
+              "RelativeDocumentMoniker": "Exercise\\Manager\\UserManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Manager\\UserManager.cs",
+              "RelativeToolTip": "Exercise\\Manager\\UserManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwCcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:28:31.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "Exercise\\Models\\AuthUser.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Models\\AuthUser.cs",
+              "RelativeToolTip": "Exercise\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:20:59.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Enum\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Exercise\\Enum\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Enum\\UserRoles.cs",
+              "RelativeToolTip": "Exercise\\Enum\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:46:55.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TourRepositary.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Repositary\\TourRepositary.cs",
+              "RelativeDocumentMoniker": "Exercise\\Repositary\\TourRepositary.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Repositary\\TourRepositary.cs",
+              "RelativeToolTip": "Exercise\\Repositary\\TourRepositary.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:24:54.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TourManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Manager\\TourManager.cs",
+              "RelativeDocumentMoniker": "Exercise\\Manager\\TourManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Manager\\TourManager.cs",
+              "RelativeToolTip": "Exercise\\Manager\\TourManager.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:14:23.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Program.cs",
+              "RelativeToolTip": "Exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:41:54.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsultantRepositary.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Repositary\\ConsultantRepositary.cs",
+              "RelativeDocumentMoniker": "Exercise\\Repositary\\ConsultantRepositary.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Repositary\\ConsultantRepositary.cs",
+              "RelativeToolTip": "Exercise\\Repositary\\ConsultantRepositary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:25:19.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsultantManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Manager\\ConsultantManager.cs",
+              "RelativeDocumentMoniker": "Exercise\\Manager\\ConsultantManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Manager\\ConsultantManager.cs",
+              "RelativeToolTip": "Exercise\\Manager\\ConsultantManager.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAD4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:19:53.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepositary.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Repositary\\UserRepositary.cs",
+              "RelativeDocumentMoniker": "Exercise\\Repositary\\UserRepositary.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Repositary\\UserRepositary.cs",
+              "RelativeToolTip": "Exercise\\Repositary\\UserRepositary.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:24:32.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IConsultantRepositary.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Interface\\IConsultantRepositary.cs",
+              "RelativeDocumentMoniker": "Exercise\\Interface\\IConsultantRepositary.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Interface\\IConsultantRepositary.cs",
+              "RelativeToolTip": "Exercise\\Interface\\IConsultantRepositary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:59:04.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Consultant.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Models\\Consultant.cs",
+              "RelativeDocumentMoniker": "Exercise\\Models\\Consultant.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Models\\Consultant.cs",
+              "RelativeToolTip": "Exercise\\Models\\Consultant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:21:50.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Manager\\BookingManager.cs",
+              "RelativeDocumentMoniker": "Exercise\\Manager\\BookingManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Manager\\BookingManager.cs",
+              "RelativeToolTip": "Exercise\\Manager\\BookingManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:14:01.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITourRepositary.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Interface\\ITourRepositary.cs",
+              "RelativeDocumentMoniker": "Exercise\\Interface\\ITourRepositary.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Interface\\ITourRepositary.cs",
+              "RelativeToolTip": "Exercise\\Interface\\ITourRepositary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:56:18.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBookingRepositary.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Interface\\IBookingRepositary.cs",
+              "RelativeDocumentMoniker": "Exercise\\Interface\\IBookingRepositary.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Interface\\IBookingRepositary.cs",
+              "RelativeToolTip": "Exercise\\Interface\\IBookingRepositary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:58:32.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Exercise\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Models\\Booking.cs",
+              "RelativeToolTip": "Exercise\\Models\\Booking.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:22:12.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingRepositary.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Repositary\\BookingRepositary.cs",
+              "RelativeDocumentMoniker": "Exercise\\Repositary\\BookingRepositary.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Repositary\\BookingRepositary.cs",
+              "RelativeToolTip": "Exercise\\Repositary\\BookingRepositary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:25:44.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "Exercise\\Models\\Tour.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Models\\Tour.cs",
+              "RelativeToolTip": "Exercise\\Models\\Tour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:21:33.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserParticipants.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Participants\\UserParticipants.cs",
+              "RelativeDocumentMoniker": "Exercise\\Participants\\UserParticipants.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Git repo\\Aitrich repo\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Arya\\Activity\\Exercise\\Exercise\\Participants\\UserParticipants.cs",
+              "RelativeToolTip": "Exercise\\Participants\\UserParticipants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:26:39.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

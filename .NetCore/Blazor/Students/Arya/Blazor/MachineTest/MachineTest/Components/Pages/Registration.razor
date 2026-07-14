@@ -1,0 +1,60 @@
+﻿@page "/registration"
+@rendermode InteractiveServer
+
+@using MachineTest.Dto
+@using MachineTest.Interface
+@using Microsoft.AspNetCore.Components.Forms
+
+@inject IStudentService StudentService
+@inject NavigationManager Navigation
+
+<h3>Student Registration</h3>
+
+<EditForm Model="@registerDto"
+          OnValidSubmit="RegisterStudent"
+          FormName="StudentRegistration">
+
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="mb-3">
+        <label>Student Name</label>
+        <InputText class="form-control"
+                   @bind-Value="registerDto.StudentName" />
+    </div>
+
+    <div class="mb-3">
+        <label>Email</label>
+        <InputText class="form-control"
+                   @bind-Value="registerDto.Email" />
+    </div>
+
+    <div class="mb-3">
+        <label>Course</label>
+        <InputText class="form-control"
+                   @bind-Value="registerDto.Course" />
+    </div>
+
+    <div class="mb-3">
+        <label>Age</label>
+        <InputNumber class="form-control"
+                     @bind-Value="registerDto.Age" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        Register
+    </button>
+
+</EditForm>
+
+@code
+{
+    RegisterDto registerDto = new();
+
+    private void RegisterStudent()
+    {
+        StudentService.Register(registerDto);
+
+        Navigation.NavigateTo("/create");
+    }
+}
