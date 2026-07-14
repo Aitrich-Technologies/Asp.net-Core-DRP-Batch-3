@@ -1,0 +1,48 @@
+﻿@model IEnumerable< Workshop.Dto.DestinationResponseDto>
+
+@{
+    ViewData["Title"] = "Destinations";
+}
+
+<h2>Destinations</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add New Destination</a>
+</p>
+
+<div class="row">
+    @foreach (var destination in Model)
+    {
+        <div class="col-md-3 mb-3">
+            <div class="card">
+                @if (!string.IsNullOrEmpty(destination.ImageUrl))
+                {
+                    <img src="@destination.ImageUrl" class="card-img-top" style="height:150px;object-fit:cover" />
+                }
+                <div class="card-body">
+                    <h5 class="card-title">@destination.Name</h5>
+                    <p class="card-text">@destination.City</p>
+                    <a class="btn btn-primary"
+                       asp-controller="Destinations"
+                       asp-action="Edit"
+                    asp-route-id="@destination.Id">Edit</a>
+
+                    <a class="btn btn-success"
+                       asp-controller="Destinations"
+                       asp-action="Details"
+                       asp-route-id="@destination.Id">Details</a>
+
+                    <form asp-action="Delete"
+                          asp-controller="Destinations"
+                          asp-route-id="@destination.Id"
+                          method="post"
+                          style="display:inline">
+                        <button type="submit" class="btn btn-secondary">
+                            Delete
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    }
+</div>
