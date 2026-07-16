@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\razal\\Downloads\\Workshop-20260706T035712Z-3-001\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj": {}
+    "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\razal\\Downloads\\Workshop-20260706T035712Z-3-001\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj": {
+    "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\razal\\Downloads\\Workshop-20260706T035712Z-3-001\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj",
+        "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj",
         "projectName": "ConsultantMVCApp",
-        "projectPath": "C:\\Users\\razal\\Downloads\\Workshop-20260706T035712Z-3-001\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj",
+        "projectPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj",
         "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\razal\\Downloads\\Workshop-20260706T035712Z-3-001\\Workshop\\ConsultantMVCApp\\obj\\",
+        "outputPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

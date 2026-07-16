@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bxunhLnruso=",
+  "dgSpecHash": "x/JzYd27G7o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\razal\\Downloads\\Workshop-20260706T035712Z-3-001\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj",
+  "projectFilePath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\razal\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\razal\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

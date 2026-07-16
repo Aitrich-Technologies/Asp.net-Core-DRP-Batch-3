@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ro0X8qL3pd4=",
+  "dgSpecHash": "Q3uWJvofKKg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\workshop1.csproj",
+  "projectFilePath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\workshop1.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\razal\\Desktop\\GIT2\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Oops\\Workshop\\workshop1\\workshop1\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
