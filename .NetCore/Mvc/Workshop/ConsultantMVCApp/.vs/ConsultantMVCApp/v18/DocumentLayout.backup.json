@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\controllers\\consultantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:controllers\\consultantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\views\\consultant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:views\\consultant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\service\\consultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:service\\consultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\repository\\consultantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:repository\\consultantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\interface\\iconsultantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:interface\\iconsultantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\interface\\iconsultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:interface\\iconsultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\helper\\appprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:helper\\appprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\views\\consultant\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:views\\consultant\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\views\\shared\\_tourlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:views\\shared\\_tourlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\dto\\consultantdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:dto\\consultantdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\dto\\createconsultantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:dto\\createconsultantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\dto\\consultantlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:dto\\consultantlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\views\\shared\\_createconsultantmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:views\\shared\\_createconsultantmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\consultantmvcapp\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E19A8-0F61-4DC4-8955-C6F736DAC076}|ConsultantMVCApp.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Reeshma\\PROJECTS\\Tour Booking Project\\TourMaterials\\MVC\\Exercise\\ConsultantMVCApp\\DTO\\UpdateConsultantDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Reeshma\\PROJECTS\\Tour Booking Project\\TourMaterials\\MVC\\Exercise\\ConsultantMVCApp\\Views\\Consultant\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Reeshma\\PROJECTS\\Tour Booking Project\\TourMaterials\\MVC\\Exercise\\ConsultantMVCApp\\Views\\Consultant\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Service\\AuthService.cs",
+              "RelativeToolTip": "Service\\AuthService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "Extensions\\ApplicationServiceExtensions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-06T09:24:12.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-06T09:24:12.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Repository\\AuthRepository.cs*",
+              "RelativeToolTip": "Repository\\AuthRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Interface\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Interface\\IAuthRepository.cs",
+              "RelativeToolTip": "Interface\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\DTO\\AuthUserDto.cs",
+              "RelativeDocumentMoniker": "DTO\\AuthUserDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\DTO\\AuthUserDto.cs",
+              "RelativeToolTip": "DTO\\AuthUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-06T09:24:12.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA6wDAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsultantController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Controllers\\ConsultantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConsultantController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Controllers\\ConsultantController.cs",
+              "RelativeToolTip": "Controllers\\ConsultantController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateConsultantDto.cs",
+              "DocumentMoniker": "D:\\Reeshma\\PROJECTS\\Tour Booking Project\\TourMaterials\\MVC\\Exercise\\ConsultantMVCApp\\DTO\\UpdateConsultantDto.cs",
+              "ToolTip": "D:\\Reeshma\\PROJECTS\\Tour Booking Project\\TourMaterials\\MVC\\Exercise\\ConsultantMVCApp\\DTO\\UpdateConsultantDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConsultantService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Service\\ConsultantService.cs",
+              "RelativeDocumentMoniker": "Service\\ConsultantService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Service\\ConsultantService.cs",
+              "RelativeToolTip": "Service\\ConsultantService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConsultantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Repository\\ConsultantRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ConsultantRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Repository\\ConsultantRepository.cs",
+              "RelativeToolTip": "Repository\\ConsultantRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAtwCIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Helper\\AppProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AppProfile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Helper\\AppProfile.cs",
+              "RelativeToolTip": "Helper\\AppProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAMwDsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateConsultantDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\DTO\\CreateConsultantDto.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateConsultantDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\DTO\\CreateConsultantDto.cs",
+              "RelativeToolTip": "DTO\\CreateConsultantDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_CreateConsultantModal.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Views\\Shared\\_CreateConsultantModal.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_CreateConsultantModal.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Views\\Shared\\_CreateConsultantModal.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_CreateConsultantModal.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-06T09:24:12.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\PROJECTS\\Tour Booking Project\\TourMaterials\\MVC\\Exercise\\ConsultantMVCApp\\Views\\Consultant\\Edit.cshtml",
+              "ToolTip": "D:\\Reeshma\\PROJECTS\\Tour Booking Project\\TourMaterials\\MVC\\Exercise\\ConsultantMVCApp\\Views\\Consultant\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-06T09:24:12.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConsultantListDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\DTO\\ConsultantListDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ConsultantListDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\DTO\\ConsultantListDto.cs",
+              "RelativeToolTip": "DTO\\ConsultantListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Views\\Consultant\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Consultant\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Views\\Consultant\\Index.cshtml",
+              "RelativeToolTip": "Views\\Consultant\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-06T09:24:12.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Views\\Consultant\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Consultant\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Views\\Consultant\\Details.cshtml",
+              "RelativeToolTip": "Views\\Consultant\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-06T09:24:12.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IConsultantService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Interface\\IConsultantService.cs",
+              "RelativeDocumentMoniker": "Interface\\IConsultantService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Interface\\IConsultantService.cs",
+              "RelativeToolTip": "Interface\\IConsultantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IConsultantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Interface\\IConsultantRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IConsultantRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Interface\\IConsultantRepository.cs",
+              "RelativeToolTip": "Interface\\IConsultantRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-06T09:24:12.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\PROJECTS\\Tour Booking Project\\TourMaterials\\MVC\\Exercise\\ConsultantMVCApp\\Views\\Consultant\\Delete.cshtml",
+              "ToolTip": "D:\\Reeshma\\PROJECTS\\Tour Booking Project\\TourMaterials\\MVC\\Exercise\\ConsultantMVCApp\\Views\\Consultant\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-06T09:24:12.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConsultantDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\DTO\\ConsultantDetailsDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ConsultantDetailsDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\DTO\\ConsultantDetailsDto.cs",
+              "RelativeToolTip": "DTO\\ConsultantDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-06T09:24:12.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_TourLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Views\\Shared\\_TourLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_TourLayout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Views\\Shared\\_TourLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_TourLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-06T09:24:12.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\Enum\\UserRole.cs",
+              "RelativeToolTip": "Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "DTO\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:24:12.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
