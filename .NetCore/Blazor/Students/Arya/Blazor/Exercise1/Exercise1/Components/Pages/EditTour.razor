@@ -1,0 +1,63 @@
+﻿@page "/edittour/{Id:int}"
+@rendermode InteractiveServer
+
+@using Exercise1.Models
+@using Exercise1.Interface
+
+@inject ITourService TourService
+@inject NavigationManager Navigation
+
+<h3>Edit Tour</h3>
+
+<div class="container">
+
+    <div class="mb-3">
+        <label>Title</label>
+        <input class="form-control"
+               @bind="tour.Title" />
+    </div>
+
+    <div class="mb-3">
+        <label>Description</label>
+        <input class="form-control"
+               @bind="tour.Description" />
+    </div>
+
+    <div class="mb-3">
+        <label>Destination</label>
+        <input class="form-control"
+               @bind="tour.Destination" />
+    </div>
+
+    <div class="mb-3">
+        <label>Price</label>
+        <input type="number"
+               class="form-control"
+               @bind="tour.Price" />
+    </div>
+
+    <button class="btn btn-success"
+            @onclick="UpdateTour">
+        Update
+    </button>
+
+</div>
+
+@code {
+
+    [Parameter]
+    public int Id { get; set; }
+
+    Tour tour = new();
+
+    protected override void OnInitialized()
+    {
+        tour = TourService.GetById(Id);
+    }
+
+    void UpdateTour()
+    {
+        TourService.Update(tour);
+        Navigation.NavigateTo("/managetours");
+    }
+}

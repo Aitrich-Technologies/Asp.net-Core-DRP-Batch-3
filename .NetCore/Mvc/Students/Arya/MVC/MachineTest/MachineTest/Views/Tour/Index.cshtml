@@ -1,0 +1,60 @@
+﻿@model IEnumerable<MachineTest.Dto.TourDto>
+
+@{
+    ViewData["Title"] = "Available Tours";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2>Available Tours</h2>
+
+    <a asp-action="Create" asp-controller="Tour" class="btn btn-primary">
+        + Add Tour
+    </a>
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Tour Name</th>
+            <th>Destination</th>
+            <th>Price</th>
+            <th>Status</th>
+            <th>Departure Date</th>
+            <th>Arrival Date</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var tour in Model)
+            {
+                <tr>
+                    <td>@tour.TourName</td>
+                    <td>@tour.Destination</td>
+                    <td>₹@tour.Price</td>
+                    <td>@tour.Status</td>
+                    <td>@tour.DepartureDate</td>
+                    <td>@tour.ArrivalDate</td>
+                    <td>
+                        <a asp-controller="Booking"
+                           asp-action="Book"
+                           asp-route-tourId="@tour.TourId"
+                           class="btn btn-success btn-sm">
+                            Book
+                        </a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="7" class="text-center text-danger">
+                    No Tours Available
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

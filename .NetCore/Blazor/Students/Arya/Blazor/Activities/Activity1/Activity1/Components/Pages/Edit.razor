@@ -1,0 +1,94 @@
+﻿@page "/Edit/{Id:int}"
+@using Activity1.Data
+@inject EmployeeService EmpService
+@rendermode InteractiveServer
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h3>Edit Employee</h3>
+
+            @if (employeeDetails != null)
+            {
+                <div class="row">
+                    <div class="col-md-8">
+                        <form>
+                            <label class="control-label">Employee Id</label>
+                            <input type="text"
+                                   class="form-control"
+                                   @bind="employeeDetails.Id" readonly />
+
+                            <label class="control-label">First Name</label>
+                            <input type="text"
+                                   class="form-control"
+                                   @bind="employeeDetails.FirstName" />
+
+                            <label class="control-label">Last Name</label>
+                            <input type="text"
+                                   class="form-control"
+                                   @bind="employeeDetails.LastName" />
+
+                            <label class="control-label">Email</label>
+                            <input type="text"
+                                   class="form-control"
+                                   @bind="employeeDetails.Email" />
+
+                            <label class="control-label">Phone</label>
+                            <input type="text"
+                                   class="form-control"
+                                   @bind="employeeDetails.Phone" />
+
+                            <br />
+
+                            <input type="button"
+                                   class="btn btn-primary"
+                                   value="Update"
+                                   @onclick="Update" />
+
+                            @if (!string.IsNullOrEmpty(message))
+                            {
+                                <div class="alert alert-success mt-2">
+                                    @message
+                                </div>
+                            }
+
+                            <br /><br />
+
+                            <a class="btn btn-secondary"
+                               href="/Display">
+                                Show List
+                            </a>
+                        </form>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div class="alert alert-danger">
+                    Employee not found.
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@code {
+
+    [Parameter]
+    public int Id { get; set; }
+
+    public EmployeeDetails employeeDetails;
+
+    string message = "";
+
+    protected override void OnInitialized()
+    {
+        employeeDetails = EmpService.GetEmployeeById(Id);
+    }
+
+    protected void Update()
+    {
+        EmpService.UpdateEmployeeList(employeeDetails);
+        message = "Updated Successfully";
+    }
+}

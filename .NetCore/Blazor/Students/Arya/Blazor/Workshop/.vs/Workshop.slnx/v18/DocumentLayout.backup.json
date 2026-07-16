@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\workshop\\workshop\\components\\pages\\destination\\destinationadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\components\\pages\\destination\\destinationadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\workshop\\workshop\\components\\pages\\destination\\destinationindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\components\\pages\\destination\\destinationindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\workshop\\workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\workshop\\workshop\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\workshop\\workshop\\repository\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\repository\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\workshop\\workshop\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\workshop\\workshop\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\workshop\\workshop\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\workshop\\workshop\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\workshop\\workshop\\components\\pages\\destination\\destinationedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\components\\pages\\destination\\destinationedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\workshop\\workshop\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\workshop\\workshop\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\workshop\\workshop\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Repository\\DestinationRepository.cs",
+              "RelativeDocumentMoniker": "Workshop\\Repository\\DestinationRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Repository\\DestinationRepository.cs",
+              "RelativeToolTip": "Workshop\\Repository\\DestinationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T07:52:18.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Models\\Destination.cs",
+              "RelativeDocumentMoniker": "Workshop\\Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Models\\Destination.cs",
+              "RelativeToolTip": "Workshop\\Models\\Destination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T07:50:28.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Workshop\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Workshop\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-25T07:46:17.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Workshop\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Workshop\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-25T07:46:13.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestinationAdd.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\Pages\\Destination\\DestinationAdd.razor",
+              "RelativeDocumentMoniker": "Workshop\\Components\\Pages\\Destination\\DestinationAdd.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\Pages\\Destination\\DestinationAdd.razor",
+              "RelativeToolTip": "Workshop\\Components\\Pages\\Destination\\DestinationAdd.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-25T07:14:42.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DestinationEdit.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\Pages\\Destination\\DestinationEdit.razor",
+              "RelativeDocumentMoniker": "Workshop\\Components\\Pages\\Destination\\DestinationEdit.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\Pages\\Destination\\DestinationEdit.razor",
+              "RelativeToolTip": "Workshop\\Components\\Pages\\Destination\\DestinationEdit.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-25T07:11:51.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestinationIndex.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\Pages\\Destination\\DestinationIndex.razor",
+              "RelativeDocumentMoniker": "Workshop\\Components\\Pages\\Destination\\DestinationIndex.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\Pages\\Destination\\DestinationIndex.razor",
+              "RelativeToolTip": "Workshop\\Components\\Pages\\Destination\\DestinationIndex.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-25T06:23:56.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Workshop\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Workshop\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-25T05:42:33.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Workshop\\Components\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\Pages\\Index.razor",
+              "RelativeToolTip": "Workshop\\Components\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-25T05:40:49.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Workshop\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Components\\App.razor",
+              "RelativeToolTip": "Workshop\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-25T05:39:27.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Program.cs",
+              "RelativeDocumentMoniker": "Workshop\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Program.cs",
+              "RelativeToolTip": "Workshop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T05:36:49.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Interface\\IDestinationRepository.cs",
+              "RelativeDocumentMoniker": "Workshop\\Interface\\IDestinationRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Interface\\IDestinationRepository.cs",
+              "RelativeToolTip": "Workshop\\Interface\\IDestinationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T05:19:41.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Workshop\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Workshop\\Workshop\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Workshop\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T03:44:34.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
