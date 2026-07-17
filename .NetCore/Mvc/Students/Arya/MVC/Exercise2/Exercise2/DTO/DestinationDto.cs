@@ -1,0 +1,9 @@
+﻿namespace Exercise2.DTO
+{
+    public class DestinationDto
+    {
+        public string? Name { get; set; }
+        public string? City { get; set; }
+        public IFormFile? ImageFile { get; set; }
+    }
+}

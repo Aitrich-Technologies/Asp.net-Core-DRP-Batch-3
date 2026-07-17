@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AmnZ9JihEhI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Activity1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.9\\microsoft.aspnetcore.app.internal.assets.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

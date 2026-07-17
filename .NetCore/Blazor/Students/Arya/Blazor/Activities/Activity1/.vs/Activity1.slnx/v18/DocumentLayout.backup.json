@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\components\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\components\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\data\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\data\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\components\\layout\\reconnectmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\components\\layout\\reconnectmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\components\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\components\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\components\\pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\components\\pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\data\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\data\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|c:\\users\\lenovo\\onedrive\\desktop\\blazor\\activity1\\activity1\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707456DA-4CBE-8602-3807-46847A5AB9BA}|Activity1\\Activity1.csproj|solutionrelative:activity1\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Activity1\\Components\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Pages\\Index.razor",
+              "RelativeToolTip": "Activity1\\Components\\Pages\\Index.razor",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowEQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T13:04:11.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Activity1\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Activity1\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T14:39:18.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Activity1\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Activity1\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T14:17:00.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Data\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "Activity1\\Data\\EmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Data\\EmployeeDetails.cs",
+              "RelativeToolTip": "Activity1\\Data\\EmployeeDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:37:44.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Activity1\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\App.razor",
+              "RelativeToolTip": "Activity1\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T14:16:42.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Pages\\Edit.razor",
+              "RelativeDocumentMoniker": "Activity1\\Components\\Pages\\Edit.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Pages\\Edit.razor",
+              "RelativeToolTip": "Activity1\\Components\\Pages\\Edit.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T13:08:10.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Program.cs",
+              "RelativeDocumentMoniker": "Activity1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Program.cs",
+              "RelativeToolTip": "Activity1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T13:20:40.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Activity1\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Activity1\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T14:17:23.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReconnectModal.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Layout\\ReconnectModal.razor",
+              "RelativeDocumentMoniker": "Activity1\\Components\\Layout\\ReconnectModal.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Layout\\ReconnectModal.razor",
+              "RelativeToolTip": "Activity1\\Components\\Layout\\ReconnectModal.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T15:35:06.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Activity1\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Activity1\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T15:35:03.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Display.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Pages\\Display.razor",
+              "RelativeDocumentMoniker": "Activity1\\Components\\Pages\\Display.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Pages\\Display.razor",
+              "RelativeToolTip": "Activity1\\Components\\Pages\\Display.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T13:10:45.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Pages\\Delete.razor",
+              "RelativeDocumentMoniker": "Activity1\\Components\\Pages\\Delete.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Pages\\Delete.razor",
+              "RelativeToolTip": "Activity1\\Components\\Pages\\Delete.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T13:12:13.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotFound.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Pages\\NotFound.razor",
+              "RelativeDocumentMoniker": "Activity1\\Components\\Pages\\NotFound.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Pages\\NotFound.razor",
+              "RelativeToolTip": "Activity1\\Components\\Pages\\NotFound.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T14:16:46.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Activity1\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Components\\Routes.razor",
+              "RelativeToolTip": "Activity1\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T14:16:39.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Data\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Activity1\\Data\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Data\\EmployeeService.cs",
+              "RelativeToolTip": "Activity1\\Data\\EmployeeService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:56:15.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Activity1\\Data\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Blazor\\Activity1\\Activity1\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "Activity1\\Data\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:42:38.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

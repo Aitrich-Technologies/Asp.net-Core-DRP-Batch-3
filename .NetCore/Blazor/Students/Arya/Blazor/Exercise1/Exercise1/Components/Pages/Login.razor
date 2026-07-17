@@ -1,0 +1,70 @@
+﻿@page "/login"
+@rendermode InteractiveServer
+
+@using Exercise1.Dto
+@using Exercise1.Enum
+@using Exercise1.Interface
+
+@inject IUserService UserService
+@inject NavigationManager Navigation
+
+<h3>Login</h3>
+
+<div class="container">
+
+    <div class="mb-3">
+        <label>Email</label>
+        <input class="form-control"
+               @bind="loginDto.Email" />
+    </div>
+
+    <div class="mb-3">
+        <label>Password</label>
+        <input type="password"
+               class="form-control"
+               @bind="loginDto.Password" />
+    </div>
+
+    <button class="btn btn-primary"
+            @onclick="LoginUser">
+        Login
+    </button>
+
+    <p class="text-danger mt-2">@message</p>
+
+    <hr />
+
+    <p>
+        Don't have an account?
+        <a href="/register">Register</a>
+    </p>
+
+</div>
+
+@code {
+
+    private LoginDto loginDto = new();
+
+    private string message = "";
+
+    private void LoginUser()
+    {
+        var user = UserService.Login(loginDto);
+
+        if (user != null)
+        {
+            if (user.Role == UserRole.Admin)
+            {
+                Navigation.NavigateTo("/managetours");
+            }
+            else
+            {
+                Navigation.NavigateTo("/tours");
+            }
+        }
+        else
+        {
+            message = "Invalid Email or Password";
+        }
+    }
+}

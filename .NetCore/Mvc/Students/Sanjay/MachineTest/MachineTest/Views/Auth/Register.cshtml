@@ -1,0 +1,14 @@
+﻿@model MachineTest.Dto.AuthUserDto;
+
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<form method="post" asp-action="Register">
+    <label>Name</label>
+    <input asp-for="Name" class="form-control">
+    <label>Email</label>
+    <input asp-for="Email" class="form-control">
+    <label>Password</label>
+    <input asp-for="Password" class="form-control">
+
+    <button class="btn btn-outline-success mt-3" type="submit">Register</button>
+</form>

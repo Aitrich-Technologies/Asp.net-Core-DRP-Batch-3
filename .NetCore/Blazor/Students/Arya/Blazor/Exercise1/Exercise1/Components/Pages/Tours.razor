@@ -1,0 +1,47 @@
+﻿@page "/tours"
+@rendermode InteractiveServer
+
+@using Exercise1.Models
+@using Exercise1.Interface
+
+@inject ITourService TourService
+
+<h3>Available Tours</h3>
+
+<div class="row">
+
+    @foreach (var item in tours)
+    {
+        <div class="col-md-4">
+
+            <div class="card m-2 p-3 shadow">
+
+                <h5>@item.Title</h5>
+
+                <p>@item.Description</p>
+
+                <p>
+                    <b>Destination :</b>
+                    @item.Destination
+                </p>
+
+                <p>
+                    <b>Price :</b> ₹@item.Price
+                </p>
+
+            </div>
+
+        </div>
+    }
+
+</div>
+
+@code {
+
+    List<Tour> tours = new();
+
+    protected override void OnInitialized()
+    {
+        tours = TourService.GetAll();
+    }
+}
