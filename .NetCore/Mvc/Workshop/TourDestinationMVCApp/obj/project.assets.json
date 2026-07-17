@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net8.0": {
       "AutoMapper/13.0.1": {
@@ -4799,23 +4799,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\HP\\.nuget\\packages\\": {},
+=======
     "C:\\Users\\razal\\.nuget\\packages\\": {},
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\TourDestinationMVCApp.csproj",
+      "projectName": "TourDestinationMVCApp",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\TourDestinationMVCApp.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\obj\\",
+=======
       "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\TourDestinationMVCApp.csproj",
       "projectName": "TourDestinationMVCApp",
       "projectPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\TourDestinationMVCApp.csproj",
       "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\obj\\",
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
         "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4828,6 +4844,7 @@
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
@@ -4842,10 +4859,15 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
+<<<<<<< HEAD
+      "SdkAnalysisLevel": "10.0.300"
+=======
       "SdkAnalysisLevel": "9.0.200"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
     },
     "frameworks": {
       "net8.0": {
+        "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
           "AutoMapper": {
@@ -4882,6 +4904,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.28, 8.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.28, 8.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.28, 8.0.28]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.28, 8.0.28]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4890,7 +4930,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
+=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
       }
     }
   },
