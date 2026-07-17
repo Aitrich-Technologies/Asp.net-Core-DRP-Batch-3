@@ -2,6 +2,19 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+    "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj",
+        "projectName": "ConsultantMVCApp",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\obj\\",
+=======
+<<<<<<< HEAD
     "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj": {}
   },
   "projects": {
@@ -26,12 +39,17 @@
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\obj\\",
 >>>>>>> 0b6b7d9fce0f454eba33bce71ce517db1433a425
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
