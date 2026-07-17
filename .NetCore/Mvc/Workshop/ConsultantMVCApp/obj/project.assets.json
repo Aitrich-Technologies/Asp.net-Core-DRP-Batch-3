@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net8.0": {
       "AutoMapper/13.0.1": {
@@ -4803,23 +4803,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\razal\\.nuget\\packages\\": {},
+    "C:\\Users\\HP\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\razal\\Downloads\\Workshop-20260706T035712Z-3-001\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj",
       "projectName": "ConsultantMVCApp",
-      "projectPath": "C:\\Users\\razal\\Downloads\\Workshop-20260706T035712Z-3-001\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj",
-      "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\razal\\Downloads\\Workshop-20260706T035712Z-3-001\\Workshop\\ConsultantMVCApp\\obj\\",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\ConsultantMVCApp.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\ConsultantMVCApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4832,6 +4832,7 @@
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
@@ -4846,10 +4847,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net8.0": {
+        "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
           "AutoMapper": {
@@ -4886,6 +4888,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.28, 8.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.28, 8.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.28, 8.0.28]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.28, 8.0.28]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4894,7 +4914,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

@@ -1,66 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\data\\empolyeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\data\\empolyeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\data\\empolyeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\data\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\data\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\data\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\blazor\\activity\\blazorapp2\\blazorapp2\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D4CEFB-4FF0-45DA-8AA8-5E3000717243}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,15 +70,148 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "BlazorApp2\\Data\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "BlazorApp2\\Data\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T06:22:43.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpolyeeService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Data\\EmpolyeeService.cs",
+              "RelativeDocumentMoniker": "BlazorApp2\\Data\\EmpolyeeService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Data\\EmpolyeeService.cs",
+              "RelativeToolTip": "BlazorApp2\\Data\\EmpolyeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T06:22:43.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Edit.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Edit.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Edit.razor",
+              "RelativeToolTip": "BlazorApp2\\Pages\\Edit.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T06:22:43.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Delete.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Delete.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Delete.razor",
+              "RelativeToolTip": "BlazorApp2\\Pages\\Delete.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T06:22:43.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Display.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Display.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Display.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Display.razor",
+              "RelativeToolTip": "BlazorApp2\\Pages\\Display.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T06:22:43.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorApp2\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T06:22:43.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorApp2\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T06:22:43.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Program.cs",
+              "RelativeToolTip": "BlazorApp2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T06:22:43.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Data\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "BlazorApp2\\Data\\EmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Data\\EmployeeDetails.cs",
+              "RelativeToolTip": "BlazorApp2\\Data\\EmployeeDetails.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T06:22:43.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Error.cshtml",
+              "RelativeToolTip": "BlazorApp2\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T06:22:43.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorApp2\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T06:22:43.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_Host.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\_Host.cshtml",
               "RelativeDocumentMoniker": "BlazorApp2\\Pages\\_Host.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\_Host.cshtml",
               "RelativeToolTip": "BlazorApp2\\Pages\\_Host.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -87,73 +220,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Counter.razor",
-              "RelativeToolTip": "BlazorApp2\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-22T06:22:43.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Error.cshtml",
-              "RelativeToolTip": "BlazorApp2\\Pages\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-22T06:22:43.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Index.razor",
-              "RelativeToolTip": "BlazorApp2\\Pages\\Index.razor",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-22T06:22:43.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Display.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Display.razor",
-              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Display.razor",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Display.razor",
-              "RelativeToolTip": "BlazorApp2\\Pages\\Display.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-22T06:22:43.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmpolyeeService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Data\\EmpolyeeService.cs",
-              "RelativeDocumentMoniker": "BlazorApp2\\Data\\EmpolyeeService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Data\\EmpolyeeService.cs",
-              "RelativeToolTip": "BlazorApp2\\Data\\EmpolyeeService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T06:22:43.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Shared\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "BlazorApp2\\Shared\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Shared\\MainLayout.razor",
               "RelativeToolTip": "BlazorApp2\\Shared\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -161,11 +231,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "SurveyPrompt.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Shared\\SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Shared\\SurveyPrompt.razor",
               "RelativeDocumentMoniker": "BlazorApp2\\Shared\\SurveyPrompt.razor",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Shared\\SurveyPrompt.razor",
               "RelativeToolTip": "BlazorApp2\\Shared\\SurveyPrompt.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -173,87 +243,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Home.razor",
-              "RelativeToolTip": "BlazorApp2\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-22T06:22:43.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Delete.razor",
-              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Delete.razor",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Delete.razor",
-              "RelativeToolTip": "BlazorApp2\\Pages\\Delete.razor",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwC0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-22T06:22:43.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Edit.razor",
-              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\Edit.razor",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Pages\\Edit.razor",
-              "RelativeToolTip": "BlazorApp2\\Pages\\Edit.razor",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-22T06:22:43.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Shared\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorApp2\\Shared\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Shared\\NavMenu.razor",
               "RelativeToolTip": "BlazorApp2\\Shared\\NavMenu.razor",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-22T06:22:43.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Data\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "BlazorApp2\\Data\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Data\\EmployeeRepository.cs",
-              "RelativeToolTip": "BlazorApp2\\Data\\EmployeeRepository.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA5wB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T06:22:43.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EmployeeDetails.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Data\\EmployeeDetails.cs",
-              "RelativeDocumentMoniker": "BlazorApp2\\Data\\EmployeeDetails.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Data\\EmployeeDetails.cs",
-              "RelativeToolTip": "BlazorApp2\\Data\\EmployeeDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T06:22:43.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorApp2\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\BlazorApp2\\BlazorApp2\\Program.cs",
-              "RelativeToolTip": "BlazorApp2\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T06:22:43.906Z"
             }
           ]
         }
