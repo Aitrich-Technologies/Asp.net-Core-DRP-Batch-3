@@ -1,22 +1,6 @@
 [
   {
     "ContainingType": "JWT_Login.Controllers.UserController",
-    "Method": "Registration",
-    "RelativePath": "api/User",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "userDto",
-        "Type": "JWT_Login.Model.UserDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "JWT_Login.Controllers.UserController",
     "Method": "DeleteUser",
     "RelativePath": "api/User/DeleteUser",
     "HttpMethod": "DELETE",
@@ -58,6 +42,22 @@
       {
         "Name": "loginDto",
         "Type": "JWT_Login.Model.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JWT_Login.Controllers.UserController",
+    "Method": "Registration",
+    "RelativePath": "api/User/Registration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "JWT_Login.Model.UserDto",
         "IsRequired": true
       }
     ],

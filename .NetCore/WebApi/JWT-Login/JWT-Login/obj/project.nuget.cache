@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ZGomqaH5ss=",
+  "dgSpecHash": "d+0FDCoRMn4=",
   "success": true,
-  "projectFilePath": "D:\\c#\\JWT-Login-20260715T170303Z-1-001\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
+  "projectFilePath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\razal\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\razal\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
