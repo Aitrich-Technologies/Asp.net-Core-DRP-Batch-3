@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\models\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\models\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\migrations\\20260711150254_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\migrations\\20260711150254_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|c:\\users\\prime\\desktop\\mvc\\login_sample\\login_sample\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C670F98-F09B-28BC-B24A-FA55771EF869}|Login_Sample\\Login_Sample.csproj|solutionrelative:login_sample\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Login_Sample\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Login_Sample\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T15:10:38.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Login_Sample\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Views\\Auth\\Register.cshtml*",
+              "RelativeToolTip": "Login_Sample\\Views\\Auth\\Register.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-11T15:50:11.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Program.cs",
+              "RelativeDocumentMoniker": "Login_Sample\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Program.cs",
+              "RelativeToolTip": "Login_Sample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T14:49:34.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\appsettings.json",
+              "RelativeDocumentMoniker": "Login_Sample\\appsettings.json",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\appsettings.json",
+              "RelativeToolTip": "Login_Sample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-11T15:00:31.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Login_Sample\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Login_Sample\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T14:42:56.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "Login_Sample\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Enum\\UserRole.cs",
+              "RelativeToolTip": "Login_Sample\\Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T14:22:45.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Models\\Auth.cs",
+              "RelativeDocumentMoniker": "Login_Sample\\Models\\Auth.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Models\\Auth.cs",
+              "RelativeToolTip": "Login_Sample\\Models\\Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T14:20:51.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Login_Sample\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Service\\AuthService.cs",
+              "RelativeToolTip": "Login_Sample\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T15:16:22.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Login_Sample\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "Login_Sample\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T14:21:04.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Login_Sample\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Login_Sample\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-11T15:50:19.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Login_Sample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Login_Sample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-12T16:55:35.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Login_Sample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Login_Sample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-12T16:59:44.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Login_Sample\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Login_Sample\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-12T17:08:15.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Login_Sample\\Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "Login_Sample\\Repository\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T15:45:13.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Login_Sample\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "Login_Sample\\Helpers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T17:08:43.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Login_Sample\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Login_Sample\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T15:05:14.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Interface\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Login_Sample\\Interface\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Interface\\IAuthRepository.cs",
+              "RelativeToolTip": "Login_Sample\\Interface\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T15:18:10.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260711150254_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Migrations\\20260711150254_Initial.cs",
+              "RelativeDocumentMoniker": "Login_Sample\\Migrations\\20260711150254_Initial.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Migrations\\20260711150254_Initial.cs",
+              "RelativeToolTip": "Login_Sample\\Migrations\\20260711150254_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T15:02:54.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Login_Sample\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Login_Sample\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T14:24:12.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Login_Sample\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\Login_Sample\\Login_Sample\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Login_Sample\\Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T14:21:49.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

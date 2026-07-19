@@ -1,0 +1,14 @@
+﻿using MVC_Exercise.Dto;
+
+namespace MVC_Exercise.Interface
+{
+    public interface IDestinationService
+    {
+        Task<IEnumerable<DestinationResponseDto>> GetAllAsync();
+        Task<DestinationResponseDto?> GetByIdAsync(Guid id);
+        Task<DestinationResponseDto> CreateAsync(DestinationDto dto);
+        Task<DestinationResponseDto?> UpdateAsync(Guid id, DestinationDto dto);
+        Task<DestinationResponseDto?> PatchAsync(Guid id, DestinationPatchDto patchDto);
+        Task<bool> DeleteAsync(Guid id);
+    }
+}

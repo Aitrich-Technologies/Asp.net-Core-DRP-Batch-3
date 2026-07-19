@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\razal\\Downloads\\Activity-20260621T145520Z-3-001\\Activity\\Tour\\Tour\\Tour.csproj",
+      "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\Tour\\Tour\\Tour.csproj",
       "projectName": "Tour",
-      "projectPath": "C:\\Users\\razal\\Downloads\\Activity-20260621T145520Z-3-001\\Activity\\Tour\\Tour\\Tour.csproj",
+      "projectPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\Tour\\Tour\\Tour.csproj",
       "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\razal\\Downloads\\Activity-20260621T145520Z-3-001\\Activity\\Tour\\Tour\\obj\\",
+      "outputPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Blazor\\Activity\\Tour\\Tour\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

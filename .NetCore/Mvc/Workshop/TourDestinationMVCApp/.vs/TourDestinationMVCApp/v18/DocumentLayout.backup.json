@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\",
   "Documents": [
     {
@@ -124,6 +125,129 @@
     {
       "AbsoluteMoniker": "D:0:0:{4C174032-2C01-444B-88F2-088F2DCDAC2C}|TourDestinationMVCApp.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourdestinationmvcapp\\migrations\\20251021113819_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C174032-2C01-444B-88F2-088F2DCDAC2C}|TourDestinationMVCApp.csproj|solutionrelative:migrations\\20251021113819_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Controllers\\DestinationsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\DestinationsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Models\\DestinationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DestinationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Destinations\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Destinations\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Destinations\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Destinations\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Destinations\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Destinations\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Destinations\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Destinations\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C174032-2C01-444B-88F2-088F2DCDAC2C}|TourDestinationMVCApp.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\tourdestinationmvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C174032-2C01-444B-88F2-088F2DCDAC2C}|TourDestinationMVCApp.csproj|solutionrelative:tourdestinationmvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\DestinationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\DestinationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\DestinationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\DestinationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\DestinationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\DestinationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Extensions\\ApplicationServiceExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Extensions\\ApplicationServiceExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Helper\\AppProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helper\\AppProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\DestinationResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\DestinationResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\AuthRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\AuthRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Models\\AuthUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\AuthUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Auth\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Auth\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\AuthUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\AuthUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Migrations\\20251021113819_initial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251021113819_initial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IDestinationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IDestinationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IDestinationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IDestinationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\LoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\LoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\DestinationPatchDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\DestinationPatchDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IAuthRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IAuthRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Migrations\\20251021113819_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251021113819_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
     }
   ],
   "DocumentGroupContainers": [
@@ -133,6 +257,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -147,10 +272,50 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.512Z",
               "EditorCaption": ""
+=======
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Destinations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Destinations\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Destinations\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Destinations\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-08T05:52:34.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Destinations\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Destinations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Destinations\\Create.cshtml",
+              "RelativeToolTip": "Views\\Destinations\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-08T05:52:35.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Destinations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Destinations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Destinations\\Index.cshtml",
+              "RelativeToolTip": "Views\\Destinations\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-08T05:52:35.047Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "AuthRepository.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\AuthRepository.cs",
               "RelativeDocumentMoniker": "Services\\AuthRepository.cs",
@@ -159,10 +324,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.518Z",
+=======
+              "Title": "DestinationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Controllers\\DestinationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DestinationsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Controllers\\DestinationsController.cs",
+              "RelativeToolTip": "Controllers\\DestinationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.055Z",
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\appsettings.json",
@@ -172,11 +348,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-07-06T09:31:23.595Z",
+=======
+              "DocumentIndex": 1,
+              "Title": "DestinationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Models\\DestinationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\DestinationDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Models\\DestinationDbContext.cs",
+              "RelativeToolTip": "Models\\DestinationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.063Z",
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
               "Title": "DestinationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Models\\DestinationDbContext.cs",
               "RelativeDocumentMoniker": "Models\\DestinationDbContext.cs",
@@ -185,10 +373,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.484Z",
+=======
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-08T05:52:35.063Z",
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "AuthUser.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Models\\AuthUser.cs",
@@ -237,11 +436,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.504Z",
+=======
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Destinations\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Destinations\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Destinations\\Details.cshtml",
+              "RelativeToolTip": "Views\\Destinations\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-08T05:52:35.094Z",
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+<<<<<<< HEAD
               "Title": "AppProfile.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Helper\\AppProfile.cs",
               "RelativeDocumentMoniker": "Helper\\AppProfile.cs",
@@ -262,10 +473,21 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-06T09:31:23.477Z"
+=======
+              "Title": "DestinationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\DestinationDto.cs",
+              "RelativeDocumentMoniker": "DTO\\DestinationDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\DestinationDto.cs",
+              "RelativeToolTip": "DTO\\DestinationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.109Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+<<<<<<< HEAD
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -274,10 +496,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.512Z"
+=======
+              "Title": "DestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\DestinationRepository.cs",
+              "RelativeDocumentMoniker": "Services\\DestinationRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\DestinationRepository.cs",
+              "RelativeToolTip": "Services\\DestinationRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.109Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+<<<<<<< HEAD
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
@@ -286,10 +519,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-06T09:31:23.519Z"
+=======
+              "Title": "DestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\DestinationService.cs",
+              "RelativeDocumentMoniker": "Services\\DestinationService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\DestinationService.cs",
+              "RelativeToolTip": "Services\\DestinationService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwA0AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.109Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+<<<<<<< HEAD
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -322,10 +566,21 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-06T09:31:23.449Z"
+=======
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "Extensions\\ApplicationServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.119Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+<<<<<<< HEAD
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Destinations\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Destinations\\Details.cshtml",
@@ -358,10 +613,57 @@
               "ViewState": "AQIAAAsAAAAAAAAAAAAUwBkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.498Z"
+=======
+              "Title": "AppProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Helper\\AppProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AppProfile.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Helper\\AppProfile.cs",
+              "RelativeToolTip": "Helper\\AppProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DestinationResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\DestinationResponseDto.cs",
+              "RelativeDocumentMoniker": "DTO\\DestinationResponseDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\DestinationResponseDto.cs",
+              "RelativeToolTip": "DTO\\DestinationResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwBkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAEwEsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.142Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+<<<<<<< HEAD
               "Title": "DestinationService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\DestinationService.cs",
               "RelativeDocumentMoniker": "Services\\DestinationService.cs",
@@ -370,10 +672,45 @@
               "ViewState": "AQIAACIAAAAAAAAAAAAQwA0AAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.502Z"
+=======
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Services\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\AuthRepository.cs",
+              "RelativeToolTip": "Services\\AuthRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "Models\\AuthUser.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Models\\AuthUser.cs",
+              "RelativeToolTip": "Models\\AuthUser.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-08T05:52:35.159Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+<<<<<<< HEAD
               "Title": "DestinationResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\DestinationResponseDto.cs",
               "RelativeDocumentMoniker": "DTO\\DestinationResponseDto.cs",
@@ -382,10 +719,21 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.505Z"
+=======
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAIAwwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.159Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
+<<<<<<< HEAD
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\AuthService.cs",
@@ -394,10 +742,21 @@
               "ViewState": "AQIAABkAAAAAAAAAAIAwwCoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.526Z"
+=======
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.159Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
+<<<<<<< HEAD
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IAuthService.cs",
@@ -406,10 +765,21 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.526Z"
+=======
+              "Title": "AuthUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\AuthUserDto.cs",
+              "RelativeDocumentMoniker": "DTO\\AuthUserDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\AuthUserDto.cs",
+              "RelativeToolTip": "DTO\\AuthUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.167Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+<<<<<<< HEAD
               "Title": "AuthUserDto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\AuthUserDto.cs",
               "RelativeDocumentMoniker": "DTO\\AuthUserDto.cs",
@@ -418,10 +788,21 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.532Z"
+=======
+              "Title": "20251021113819_initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Migrations\\20251021113819_initial.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251021113819_initial.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Migrations\\20251021113819_initial.Designer.cs",
+              "RelativeToolTip": "Migrations\\20251021113819_initial.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAD4vw8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.176Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
+<<<<<<< HEAD
               "Title": "20251021113819_initial.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Migrations\\20251021113819_initial.Designer.cs",
               "RelativeDocumentMoniker": "Migrations\\20251021113819_initial.Designer.cs",
@@ -442,11 +823,22 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.539Z"
+=======
+              "Title": "IDestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IDestinationRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDestinationRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IDestinationRepository.cs",
+              "RelativeToolTip": "Interfaces\\IDestinationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.176Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "IDestinationService.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IDestinationService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IDestinationService.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IDestinationService.cs",
@@ -454,10 +846,32 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.542Z"
+=======
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IDestinationService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDestinationService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IDestinationService.cs",
+              "RelativeToolTip": "Interfaces\\IDestinationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "DTO\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.176Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
+<<<<<<< HEAD
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\LoginDto.cs",
               "RelativeDocumentMoniker": "DTO\\LoginDto.cs",
@@ -466,10 +880,33 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.544Z"
+=======
+              "Title": "DestinationPatchDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\DestinationPatchDto.cs",
+              "RelativeDocumentMoniker": "DTO\\DestinationPatchDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\DestinationPatchDto.cs",
+              "RelativeToolTip": "DTO\\DestinationPatchDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TourDestinationMVCApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\TourDestinationMVCApp.csproj",
+              "RelativeDocumentMoniker": "TourDestinationMVCApp.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\TourDestinationMVCApp.csproj",
+              "RelativeToolTip": "TourDestinationMVCApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003627|",
+              "WhenOpened": "2026-07-08T05:52:35.176Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
+<<<<<<< HEAD
               "Title": "DestinationPatchDto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\DTO\\DestinationPatchDto.cs",
               "RelativeDocumentMoniker": "DTO\\DestinationPatchDto.cs",
@@ -478,10 +915,21 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.546Z"
+=======
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "Interfaces\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.192Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
+<<<<<<< HEAD
               "Title": "TourDestinationMVCApp.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\TourDestinationMVCApp.csproj",
               "RelativeDocumentMoniker": "TourDestinationMVCApp.csproj",
@@ -490,10 +938,21 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-07-06T09:31:23.551Z"
+=======
+              "Title": "20251021113819_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Migrations\\20251021113819_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251021113819_initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Migrations\\20251021113819_initial.cs",
+              "RelativeToolTip": "Migrations\\20251021113819_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T05:52:35.2Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
+<<<<<<< HEAD
               "Title": "IAuthRepository.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\Interfaces\\IAuthRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IAuthRepository.cs",
@@ -514,6 +973,16 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:31:23.595Z"
+=======
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-08T05:52:35.2Z"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             }
           ]
         }

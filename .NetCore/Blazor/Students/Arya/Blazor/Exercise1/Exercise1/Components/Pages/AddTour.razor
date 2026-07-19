@@ -1,0 +1,55 @@
+﻿@page "/addtour"
+@rendermode InteractiveServer
+
+@using Exercise1.Dto
+@using Exercise1.Interface
+
+@inject ITourService TourService
+@inject NavigationManager Navigation
+
+<h3>Add Tour</h3>
+
+<div class="container">
+
+    <div class="mb-3">
+        <label>Title</label>
+        <input class="form-control"
+               @bind="tourDto.Title" />
+    </div>
+
+    <div class="mb-3">
+        <label>Description</label>
+        <input class="form-control"
+               @bind="tourDto.Description" />
+    </div>
+
+    <div class="mb-3">
+        <label>Destination</label>
+        <input class="form-control"
+               @bind="tourDto.Destination" />
+    </div>
+
+    <div class="mb-3">
+        <label>Price</label>
+        <input type="number"
+               class="form-control"
+               @bind="tourDto.Price" />
+    </div>
+
+    <button class="btn btn-primary"
+            @onclick="SaveTour">
+        Save
+    </button>
+
+</div>
+
+@code {
+
+    TourDto tourDto = new();
+
+    void SaveTour()
+    {
+        TourService.Add(tourDto);
+        Navigation.NavigateTo("/managetours");
+    }
+}

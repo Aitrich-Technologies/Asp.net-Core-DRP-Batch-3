@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TourDestinationMVCApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94a0e0cad6de3cd675f5c7d398367028ed2c220c")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72d82c91693b9e35788e1e94f879a16858273e20")]
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
 [assembly: System.Reflection.AssemblyProductAttribute("TourDestinationMVCApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TourDestinationMVCApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

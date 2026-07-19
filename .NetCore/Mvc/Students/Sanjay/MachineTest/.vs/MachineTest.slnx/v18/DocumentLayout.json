@@ -1,0 +1,584 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\service\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\service\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\views\\destination\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\views\\destination\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\views\\destination\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\views\\destination\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\views\\destination\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\views\\destination\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\repository\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\repository\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\migrations\\20260714090133_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\migrations\\20260714090133_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\dto\\destinationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\dto\\destinationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\dto\\destinationpatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\dto\\destinationpatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\models\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\models\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Migrations\\20260714081345_Destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MachineTest\\Migrations\\20260714081345_Destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Migrations\\20260714062905_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MachineTest\\Migrations\\20260714062905_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|c:\\users\\prime\\desktop\\mvc\\machinetest\\machinetest\\machinetest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A88688C5-A140-5053-6332-68958148CBF2}|MachineTest\\MachineTest.csproj|solutionrelative:machinetest\\machinetest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MachineTest\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:02:55.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "MachineTest\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T07:11:35.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Destination\\Index.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Views\\Destination\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Destination\\Index.cshtml",
+              "RelativeToolTip": "MachineTest\\Views\\Destination\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T08:36:39.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MachineTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T10:05:36.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Service\\AuthService.cs",
+              "RelativeToolTip": "MachineTest\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:36:00.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DestinationController.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Controllers\\DestinationController.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Controllers\\DestinationController.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Controllers\\DestinationController.cs",
+              "RelativeToolTip": "MachineTest\\Controllers\\DestinationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:15:00.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Service\\DestinationService.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Service\\DestinationService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Service\\DestinationService.cs",
+              "RelativeToolTip": "MachineTest\\Service\\DestinationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:27:03.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Destination\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Views\\Destination\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Destination\\Edit.cshtml",
+              "RelativeToolTip": "MachineTest\\Views\\Destination\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T08:36:30.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Destination\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Views\\Destination\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Destination\\Delete.cshtml",
+              "RelativeToolTip": "MachineTest\\Views\\Destination\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T08:36:17.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Destination\\Create.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Views\\Destination\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Destination\\Create.cshtml",
+              "RelativeToolTip": "MachineTest\\Views\\Destination\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T08:36:07.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "MachineTest\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "MachineTest\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T07:08:01.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Program.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Program.cs",
+              "RelativeToolTip": "MachineTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:23:24.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Repository\\DestinationRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Repository\\DestinationRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Repository\\DestinationRepository.cs",
+              "RelativeToolTip": "MachineTest\\Repository\\DestinationRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:27:23.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IDestinationRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interface\\IDestinationRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IDestinationRepository.cs",
+              "RelativeToolTip": "MachineTest\\Interface\\IDestinationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:18:29.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IDestinationService.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interface\\IDestinationService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IDestinationService.cs",
+              "RelativeToolTip": "MachineTest\\Interface\\IDestinationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:18:08.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260714090133_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Migrations\\20260714090133_Initial.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Migrations\\20260714090133_Initial.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Migrations\\20260714090133_Initial.cs",
+              "RelativeToolTip": "MachineTest\\Migrations\\20260714090133_Initial.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:01:33.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "MachineTest\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:17:30.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "MachineTest\\Repository\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:35:52.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "MachineTest\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:13:57.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "MachineTest\\Helper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:14:36.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DestinationResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\DestinationResponseDto.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Dto\\DestinationResponseDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\DestinationResponseDto.cs",
+              "RelativeToolTip": "MachineTest\\Dto\\DestinationResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:24:39.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DestinationPatchDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\DestinationPatchDto.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Dto\\DestinationPatchDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\DestinationPatchDto.cs",
+              "RelativeToolTip": "MachineTest\\Dto\\DestinationPatchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:41:01.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Models\\Destination.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Models\\Destination.cs",
+              "RelativeToolTip": "MachineTest\\Models\\Destination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:03:32.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Models\\Auth.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Models\\Auth.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Models\\Auth.cs",
+              "RelativeToolTip": "MachineTest\\Models\\Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:03:58.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260714081345_Destination.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Migrations\\20260714081345_Destination.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Migrations\\20260714081345_Destination.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Migrations\\20260714081345_Destination.cs",
+              "RelativeToolTip": "MachineTest\\Migrations\\20260714081345_Destination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:13:45.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DestinationDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\DestinationDto.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Dto\\DestinationDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\DestinationDto.cs",
+              "RelativeToolTip": "MachineTest\\Dto\\DestinationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:06:19.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\AuthUserDto.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Dto\\AuthUserDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\AuthUserDto.cs",
+              "RelativeToolTip": "MachineTest\\Dto\\AuthUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:10:36.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "MachineTest\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:34:53.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "MachineTest\\Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T07:12:01.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Interface\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Interface\\IAuthRepository.cs",
+              "RelativeToolTip": "MachineTest\\Interface\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:35:24.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260714062905_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Migrations\\20260714062905_Initial.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Migrations\\20260714062905_Initial.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Migrations\\20260714062905_Initial.cs",
+              "RelativeToolTip": "MachineTest\\Migrations\\20260714062905_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:29:05.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\appsettings.json",
+              "RelativeDocumentMoniker": "MachineTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\appsettings.json",
+              "RelativeToolTip": "MachineTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-14T06:24:57.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "MachineTest\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\Enum\\UserRole.cs",
+              "RelativeToolTip": "MachineTest\\Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:06:13.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MachineTest.csproj",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\MachineTest.csproj",
+              "RelativeDocumentMoniker": "MachineTest\\MachineTest.csproj",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\MVC\\MachineTest\\MachineTest\\MachineTest.csproj",
+              "RelativeToolTip": "MachineTest\\MachineTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-14T06:00:58.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

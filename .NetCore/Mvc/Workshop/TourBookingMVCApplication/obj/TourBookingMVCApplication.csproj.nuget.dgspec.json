@@ -1,6 +1,8 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+<<<<<<<< HEAD:.NetCore/Mvc/Workshop/TourBookingMVCApplication/obj/TourBookingMVCApplication.csproj.nuget.dgspec.json
     "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\TourBookingMVCApplication.csproj": {}
   },
   "projects": {
@@ -12,12 +14,60 @@
         "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\TourBookingMVCApplication.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\obj\\",
+========
+    "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\JWT-Login\\JWT-Login\\JWT-Login.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\JWT-Login\\JWT-Login\\JWT-Login.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
+        "projectName": "JWT-Login",
+        "projectPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
+        "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\JWT-Login\\JWT-Login\\obj\\",
+>>>>>>>> f843e72ae450349eec209efadf438e4e91186d82:.NetCore/WebApi/JWT-Login/JWT-Login/obj/JWT-Login.csproj.nuget.dgspec.json
+=======
+<<<<<<< HEAD
+    "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\TourBookingMVCApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\TourBookingMVCApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\TourBookingMVCApplication.csproj",
+        "projectName": "TourBookingMVCApplication",
+        "projectPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\TourBookingMVCApplication.csproj",
+        "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\obj\\",
+=======
+    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\TourBookingMVCApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\TourBookingMVCApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\TourBookingMVCApplication.csproj",
+        "projectName": "TourBookingMVCApplication",
+        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\TourBookingMVCApplication.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\obj\\",
+>>>>>>> 0b6b7d9fce0f454eba33bce71ce517db1433a425
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 0b6b7d9fce0f454eba33bce71ce517db1433a425
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,7 +80,14 @@
         },
         "frameworks": {
           "net8.0": {
+<<<<<<< HEAD
             "framework": "net8.0",
+=======
+<<<<<<< HEAD
+=======
+            "framework": "net8.0",
+>>>>>>> 0b6b7d9fce0f454eba33bce71ce517db1433a425
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -45,15 +102,34 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
+<<<<<<< HEAD
         "SdkAnalysisLevel": "10.0.200"
+=======
+<<<<<<< HEAD
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+=======
+        "SdkAnalysisLevel": "10.0.300"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
       },
       "frameworks": {
         "net8.0": {
           "framework": "net8.0",
+<<<<<<< HEAD
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+<<<<<<<< HEAD:.NetCore/Mvc/Workshop/TourBookingMVCApplication/obj/TourBookingMVCApplication.csproj.nuget.dgspec.json
+=======
+>>>>>>> 0b6b7d9fce0f454eba33bce71ce517db1433a425
           "targetAlias": "net8.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
               "version": "[13.0.1, )"
             },
             "BCrypt.Net-Core": {
@@ -67,12 +143,48 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.1, )"
+<<<<<<< HEAD
+========
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+>>>>>>>> f843e72ae450349eec209efadf438e4e91186d82:.NetCore/WebApi/JWT-Login/JWT-Login/obj/JWT-Login.csproj.nuget.dgspec.json
+=======
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
+<<<<<<< HEAD
+<<<<<<<< HEAD:.NetCore/Mvc/Workshop/TourBookingMVCApplication/obj/TourBookingMVCApplication.csproj.nuget.dgspec.json
               "version": "[9.0.1, )"
+========
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+>>>>>>>> f843e72ae450349eec209efadf438e4e91186d82:.NetCore/WebApi/JWT-Login/JWT-Login/obj/JWT-Login.csproj.nuget.dgspec.json
+=======
+              "version": "[9.0.1, )"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             }
           },
           "imports": [
@@ -86,6 +198,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+<<<<<<< HEAD
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
@@ -104,6 +217,29 @@
               "version": "[8.0.26, 8.0.26]"
             }
           ],
+=======
+<<<<<<< HEAD
+=======
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.28, 8.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.28, 8.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.28, 8.0.28]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.28, 8.0.28]"
+            }
+          ],
+>>>>>>> 0b6b7d9fce0f454eba33bce71ce517db1433a425
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -112,7 +248,15 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+=======
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 0b6b7d9fce0f454eba33bce71ce517db1433a425
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
         }
       }
     }

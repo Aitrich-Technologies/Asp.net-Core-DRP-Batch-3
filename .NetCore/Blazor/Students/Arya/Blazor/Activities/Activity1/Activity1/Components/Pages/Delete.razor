@@ -1,0 +1,86 @@
+﻿@page "/Delete/{Id:int}"
+@using Activity1.Data
+@inject EmployeeService EmpService
+@inject NavigationManager NavigationManager
+@rendermode InteractiveServer
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+
+            <h3>Delete Employee</h3>
+
+            @if (employeeDetails != null)
+            {
+                <p class="text-danger">
+                    Do you want to delete this employee?
+                </p>
+
+                <div class="mb-2">
+                    <strong>Employee Id:</strong> @employeeDetails.Id
+                </div>
+
+                <div class="mb-2">
+                    <strong>First Name:</strong> @employeeDetails.FirstName
+                </div>
+
+                <div class="mb-2">
+                    <strong>Last Name:</strong> @employeeDetails.LastName
+                </div>
+
+                <div class="mb-2">
+                    <strong>Email:</strong> @employeeDetails.Email
+                </div>
+
+                <div class="mb-2">
+                    <strong>Phone:</strong> @employeeDetails.Phone
+                </div>
+
+                <button class="btn btn-danger"
+                        @onclick="DeleteEmp">
+                    Delete
+                </button>
+
+                <button class="btn btn-secondary ms-2"
+                        @onclick="GoBack">
+                    Cancel
+                </button>
+            }
+            else
+            {
+                <p class="text-danger">Employee not found.</p>
+            }
+
+        </div>
+    </div>
+</div>
+
+@code {
+
+    [Parameter]
+    public int Id { get; set; }
+
+    private EmployeeDetails employeeDetails;
+
+    protected override void OnInitialized()
+    {
+        employeeDetails = EmpService.GetEmployeeById(Id);
+
+        if (employeeDetails == null)
+        {
+            NavigationManager.NavigateTo("/Display");
+        }
+    }
+
+    private void DeleteEmp()
+    {
+        EmpService.DeleteEmployeeList(employeeDetails);
+
+        NavigationManager.NavigateTo("/Display");
+    }
+
+    private void GoBack()
+    {
+        NavigationManager.NavigateTo("/Display");
+    }
+}

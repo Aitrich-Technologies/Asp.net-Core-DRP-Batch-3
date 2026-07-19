@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\",
   "Documents": [
     {
@@ -37,6 +38,93 @@
     {
       "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\views\\tourbooking\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:views\\tourbooking\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\interfaces\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:interfaces\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\interfaces\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:interfaces\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\interfaces\\itourbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:interfaces\\itourbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\dto\\tourdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:dto\\tourdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\dto\\tourbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:dto\\tourbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\interfaces\\itourbookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:interfaces\\itourbookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:dto\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\models\\tourbookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:models\\tourbookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\models\\participantinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:models\\participantinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\enum\\tourstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:enum\\tourstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\git\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\enum\\participanttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:enum\\participanttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
     }
   ],
   "DocumentGroupContainers": [
@@ -46,6 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 6,
           "Children": [
             {
@@ -59,11 +148,92 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwGcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T09:27:35.715Z",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITourService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Interfaces\\ITourService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITourService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Interfaces\\ITourService.cs*",
+              "RelativeToolTip": "Interfaces\\ITourService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:37:37.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITourRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Interfaces\\ITourRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITourRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Interfaces\\ITourRepository.cs*",
+              "RelativeToolTip": "Interfaces\\ITourRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:37:06.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TourDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\DTO\\TourDto.cs",
+              "RelativeDocumentMoniker": "DTO\\TourDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\DTO\\TourDto.cs",
+              "RelativeToolTip": "DTO\\TourDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:33:25.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TourBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\DTO\\TourBookingDto.cs",
+              "RelativeDocumentMoniker": "DTO\\TourBookingDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\DTO\\TourBookingDto.cs",
+              "RelativeToolTip": "DTO\\TourBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:24:05.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITourBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Interfaces\\ITourBookingService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITourBookingService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Interfaces\\ITourBookingService.cs",
+              "RelativeToolTip": "Interfaces\\ITourBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:23:10.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITourBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Interfaces\\ITourBookingRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITourBookingRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Interfaces\\ITourBookingRepository.cs",
+              "RelativeToolTip": "Interfaces\\ITourBookingRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:23:08.832Z",
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Auth\\Register.cshtml",
@@ -108,10 +278,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-06T09:30:02.624Z"
+=======
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "Repository\\AuthRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T07:08:07.883Z",
+              "EditorCaption": ""
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+<<<<<<< HEAD
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Views\\TourBooking\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\TourBooking\\Create.cshtml",
@@ -132,11 +314,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-07T11:46:57.407Z",
+=======
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-14T07:29:43.389Z",
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+<<<<<<< HEAD
               "Title": "AccessDenied.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Views\\TourBooking\\AccessDenied.cshtml",
               "RelativeDocumentMoniker": "Views\\TourBooking\\AccessDenied.cshtml",
@@ -157,6 +350,173 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-06T09:29:24.078Z"
+=======
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T07:15:49.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T07:10:12.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "Interfaces\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T07:10:11.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\DTO\\AuthUserDto.cs",
+              "RelativeDocumentMoniker": "DTO\\AuthUserDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\DTO\\AuthUserDto.cs",
+              "RelativeToolTip": "DTO\\AuthUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T07:06:34.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "DTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:45:54.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TourBookingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Models\\TourBookingForm.cs",
+              "RelativeDocumentMoniker": "Models\\TourBookingForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Models\\TourBookingForm.cs",
+              "RelativeToolTip": "Models\\TourBookingForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:21:56.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Models\\Destination.cs",
+              "RelativeDocumentMoniker": "Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Models\\Destination.cs",
+              "RelativeToolTip": "Models\\Destination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:25:46.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ParticipantInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Models\\ParticipantInformation.cs",
+              "RelativeDocumentMoniker": "Models\\ParticipantInformation.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Models\\ParticipantInformation.cs",
+              "RelativeToolTip": "Models\\ParticipantInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:25:40.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Enum\\UserRole.cs",
+              "RelativeToolTip": "Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:24:26.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TourStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Enum\\TourStatus.cs",
+              "RelativeDocumentMoniker": "Enum\\TourStatus.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Enum\\TourStatus.cs",
+              "RelativeToolTip": "Enum\\TourStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:24:19.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "Models\\Tour.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Models\\Tour.cs",
+              "RelativeToolTip": "Models\\Tour.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:21:27.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ParticipantType.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Enum\\ParticipantType.cs",
+              "RelativeDocumentMoniker": "Enum\\ParticipantType.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Enum\\ParticipantType.cs",
+              "RelativeToolTip": "Enum\\ParticipantType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:24:13.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "Models\\AuthUser.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Models\\AuthUser.cs",
+              "RelativeToolTip": "Models\\AuthUser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:21:21.532Z",
+              "EditorCaption": ""
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
             }
           ]
         }

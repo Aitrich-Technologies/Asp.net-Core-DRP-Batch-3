@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\TourDestinationMVCApp.csproj": {}
   },
   "projects": {
@@ -12,12 +13,29 @@
         "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\TourDestinationMVCApp.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\obj\\",
+=======
+    "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\TourDestinationMVCApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\TourDestinationMVCApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\TourDestinationMVCApp.csproj",
+        "projectName": "TourDestinationMVCApp",
+        "projectPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\TourDestinationMVCApp.csproj",
+        "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourDestinationMVCApp\\obj\\",
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +63,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
+<<<<<<< HEAD
         "SdkAnalysisLevel": "10.0.200"
+=======
+        "SdkAnalysisLevel": "9.0.200"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
       },
       "frameworks": {
         "net8.0": {
@@ -112,7 +134,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
         }
       }
     }
