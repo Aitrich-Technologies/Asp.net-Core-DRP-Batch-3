@@ -1,0 +1,27 @@
+﻿@page
+@model RazorMachineTest2.Pages.Vehicles.DeleteModel
+@{
+}
+<div>
+    <h4>Package Details</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">VehicleName</dt>
+        <dd class="col-sm-10">@Model.Vehicles.VehicleName</dd>
+
+        <dt class="col-sm-2">VehicleType</dt>
+        <dd class="col-sm-10">@Model.Vehicles.VehicleType</dd>
+
+        <dt class="col-sm-2">SeatCapacity</dt>
+        <dd class="col-sm-10">@Model.Vehicles.SeatCapacity</dd>
+
+        <dt class="col-sm-2">DriverName</dt>
+        <dd class="col-sm-10">@Model.Vehicles.DriverName</dd>
+    </dl>
+
+    <form method="post">
+        <input type="hidden" asp-for="Vehicles.Id" />
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

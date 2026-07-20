@@ -17,11 +17,11 @@ namespace TourBookingMVCApplication.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Register(AuthUserDto model, string password)
+        public async Task<IActionResult> Register(AuthUserDto model)
         {
             if (!ModelState.IsValid) return View(model);
 
-            var (success, error) = await _authService.RegisterAsync(model, password);
+            var (success, error) = await _authService.RegisterAsync(model,model.Password);
             if (!success)
             {
                 ModelState.AddModelError("", error);
@@ -50,7 +50,7 @@ namespace TourBookingMVCApplication.Controllers
                 return View();
             }
 
-            // Store user details in Session
+            
             HttpContext.Session.SetString("UserId", user.Id.ToString());
             HttpContext.Session.SetString("UserName", $"{user.FirstName} {user.LastName}");
             HttpContext.Session.SetString("Email", user.Email ?? "");

@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\pages\\employees\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\pages\\employees\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\razoractivity2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\razoractivity2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|c:\\users\\asus\\source\\repos\\razoractivity2\\razoractivity2\\migrations\\20260609145212_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA56848-2E60-31C3-EA89-61D4A6ECFA4E}|RazorActivity2\\RazorActivity2.csproj|solutionrelative:razoractivity2\\migrations\\20260609145212_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorActivity2\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\appsettings.json",
+              "RelativeToolTip": "RazorActivity2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-09T14:34:15.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Program.cs",
+              "RelativeDocumentMoniker": "RazorActivity2\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Program.cs",
+              "RelativeToolTip": "RazorActivity2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T14:36:02.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorActivity2\\Pages\\Employees\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorActivity2\\Pages\\Employees\\Edit.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T15:53:29.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorActivity2\\Pages\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "RazorActivity2\\Pages\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T15:03:46.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorActivity2\\Pages\\Employees\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeToolTip": "RazorActivity2\\Pages\\Employees\\Delete.cshtml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T15:41:34.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorActivity2\\Pages\\Employees\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorActivity2\\Pages\\Employees\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T15:16:14.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorActivity2\\Pages\\Employees\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorActivity2\\Pages\\Employees\\Index.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T16:57:47.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RazorActivity2\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "RazorActivity2\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T14:23:46.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "RazorActivity2\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Models\\Employee.cs",
+              "RelativeToolTip": "RazorActivity2\\Models\\Employee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T14:22:51.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RazorActivity2.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\RazorActivity2.csproj",
+              "RelativeDocumentMoniker": "RazorActivity2\\RazorActivity2.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\RazorActivity2.csproj",
+              "RelativeToolTip": "RazorActivity2\\RazorActivity2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-10T05:59:42.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorActivity2\\Pages\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Create.cshtml",
+              "RelativeToolTip": "RazorActivity2\\Pages\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T15:02:17.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorActivity2\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorActivity2\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T17:05:40.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorActivity2\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "RazorActivity2\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T17:11:59.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RazorActivity2\\Pages\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "RazorActivity2\\Pages\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T15:02:56.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorActivity2\\Pages\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Employees\\Index.cshtml",
+              "RelativeToolTip": "RazorActivity2\\Pages\\Employees\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T15:04:44.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorActivity2\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "RazorActivity2\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T17:15:13.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorActivity2\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorActivity2\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T17:14:24.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260609145212_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Migrations\\20260609145212_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RazorActivity2\\Migrations\\20260609145212_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorActivity2\\RazorActivity2\\Migrations\\20260609145212_InitialCreate.cs",
+              "RelativeToolTip": "RazorActivity2\\Migrations\\20260609145212_InitialCreate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T14:52:12.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

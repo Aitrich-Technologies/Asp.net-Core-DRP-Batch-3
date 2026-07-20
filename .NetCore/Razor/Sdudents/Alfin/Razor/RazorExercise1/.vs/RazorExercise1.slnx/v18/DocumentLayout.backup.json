@@ -1,0 +1,843 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\consultant\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\consultant\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\consultant\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\consultant\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\consultant\\view.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\consultant\\view.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\consultant\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\consultant\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\consultant\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\consultant\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\consultant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\consultant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\repository\\consultantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\repository\\consultantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\repository\\registerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\repository\\registerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\consultant\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\consultant\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\service\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\service\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\service\\consultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\service\\consultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\consultant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\consultant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\interface\\iconsultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\interface\\iconsultantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\model\\consultants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\model\\consultants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\dto\\consultantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\dto\\consultantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\interface\\iconsultantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\interface\\iconsultantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\consultant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\consultant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\consultant\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\consultant\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\2ecfa34f-2f32-4ce5-ab5e-b69c38103d88_Exercise.zip.d88\\Exercise\\Exercise\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\7fc7180a-4380-410c-bb24-0be577358d99_Exercise.zip.d99\\Exercise\\Exercise\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\f27d918a-267a-4266-a4b7-8ba36abf5ce5_Exercise.zip.ce5\\Exercise\\Exercise\\Extension\\ApplicationServiceExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\d90f3151-51f6-46a4-819a-9628246fa9ad_Exercise.zip.9ad\\Exercise\\Exercise\\Extension\\ApplicationServiceExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\interface\\iregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\interface\\iregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\interface\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\interface\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\migrations\\20260614063627_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\migrations\\20260614063627_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\consultant\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\consultant\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\consultant\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\consultant\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|c:\\users\\asus\\source\\repos\\razorexercise1\\razorexercise1\\razorexercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3AB959C-F38E-7196-A424-48AADA738064}|RazorExercise1\\RazorExercise1.csproj|solutionrelative:razorexercise1\\razorexercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\1773b35f-a43b-4cf0-9523-14b05406ae95_Exercise.zip.e95\\Exercise\\Exercise\\Pages\\Login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\b8e2940c-dcd2-4a38-8217-221e88b0d1af_Exercise.zip.1af\\Exercise\\Exercise\\Pages\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\e66398b2-b56f-462d-9606-21cdf563247e_Exercise.zip.47e\\Exercise\\Exercise\\Pages\\Error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\5446a465-9494-455c-8ebc-8bb4c6af8363_Exercise.zip.363\\Exercise\\Exercise\\Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\e0fb9e8a-8306-4140-b712-38e149da54c5_Exercise.zip.4c5\\Exercise\\Exercise\\Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\b81d926e-79a9-4775-885e-30abf2f52925_Exercise.zip.925\\Exercise\\Exercise\\Migrations\\20260613073646_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\98eaa9b7-20e6-471e-8ae7-bae8688d0b39_Exercise.zip.b39\\Exercise\\Exercise\\Migrations\\20260613073646_Initial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "RazorExercise1\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T15:33:59.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Consultant\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Consultant\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:09:40.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Consultant\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Edit.cshtml",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Consultant\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T12:09:33.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Consultant\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Consultant\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:13:18.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Consultant\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Delete.cshtml.cs",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Consultant\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:05:44.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "view.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\view.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Consultant\\view.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\view.cshtml.cs",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Consultant\\view.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:19:47.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "view.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\view.cshtml",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Consultant\\view.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\view.cshtml",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Consultant\\view.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T12:19:20.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Repository\\RegisterRepository.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Repository\\RegisterRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Repository\\RegisterRepository.cs",
+              "RelativeToolTip": "RazorExercise1\\Repository\\RegisterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T16:47:21.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsultantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Repository\\ConsultantRepository.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Repository\\ConsultantRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Repository\\ConsultantRepository.cs",
+              "RelativeToolTip": "RazorExercise1\\Repository\\ConsultantRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:18:09.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T13:15:00.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Register.cshtml",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Register.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T13:14:56.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Login.cshtml",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T13:08:40.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T13:09:14.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Model\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "RazorExercise1\\Model\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T15:09:52.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorExercise1\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\appsettings.json",
+              "RelativeToolTip": "RazorExercise1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T15:37:10.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Consultant\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Consultant\\Create.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:01:17.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Service\\RegisterService.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Service\\RegisterService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Service\\RegisterService.cs",
+              "RelativeToolTip": "RazorExercise1\\Service\\RegisterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T17:04:38.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsultantService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Service\\ConsultantService.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Service\\ConsultantService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Service\\ConsultantService.cs",
+              "RelativeToolTip": "RazorExercise1\\Service\\ConsultantService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T17:04:07.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Consultant\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Index.cshtml",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Consultant\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T12:13:10.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:50:14.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IConsultantService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Interface\\IConsultantService.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Interface\\IConsultantService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Interface\\IConsultantService.cs",
+              "RelativeToolTip": "RazorExercise1\\Interface\\IConsultantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T16:58:03.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Enums\\Status.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Enums\\Status.cs",
+              "RelativeToolTip": "RazorExercise1\\Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T15:05:35.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Model\\Register.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Model\\Register.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Model\\Register.cs",
+              "RelativeToolTip": "RazorExercise1\\Model\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T15:08:16.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Consultants.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Model\\Consultants.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Model\\Consultants.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Model\\Consultants.cs",
+              "RelativeToolTip": "RazorExercise1\\Model\\Consultants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T15:09:04.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "RazorExercise1\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:21:11.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ConsultantDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Dto\\ConsultantDto.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Dto\\ConsultantDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Dto\\ConsultantDto.cs",
+              "RelativeToolTip": "RazorExercise1\\Dto\\ConsultantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T15:20:07.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "RazorExercise1\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T17:23:17.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IConsultantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Interface\\IConsultantRepository.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Interface\\IConsultantRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Interface\\IConsultantRepository.cs",
+              "RelativeToolTip": "RazorExercise1\\Interface\\IConsultantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T16:57:05.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-15T16:02:22.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Consultant\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Create.cshtml",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Consultant\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T12:01:13.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Program.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Program.cs",
+              "RelativeToolTip": "RazorExercise1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T15:41:47.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\f27d918a-267a-4266-a4b7-8ba36abf5ce5_Exercise.zip.ce5\\Exercise\\Exercise\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\f27d918a-267a-4266-a4b7-8ba36abf5ce5_Exercise.zip.ce5\\Exercise\\Exercise\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\f27d918a-267a-4266-a4b7-8ba36abf5ce5_Exercise.zip.ce5\\Exercise\\Exercise\\Extension\\ApplicationServiceExtension.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\f27d918a-267a-4266-a4b7-8ba36abf5ce5_Exercise.zip.ce5\\Exercise\\Exercise\\Extension\\ApplicationServiceExtension.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T18:18:15.586Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Consultant\\Profile.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Profile.cshtml.cs",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Consultant\\Profile.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:17:46.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\7fc7180a-4380-410c-bb24-0be577358d99_Exercise.zip.d99\\Exercise\\Exercise\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\7fc7180a-4380-410c-bb24-0be577358d99_Exercise.zip.d99\\Exercise\\Exercise\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\7fc7180a-4380-410c-bb24-0be577358d99_Exercise.zip.d99\\Exercise\\Exercise\\Pages\\Shared\\_Layout.cshtml [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\7fc7180a-4380-410c-bb24-0be577358d99_Exercise.zip.d99\\Exercise\\Exercise\\Pages\\Shared\\_Layout.cshtml [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T18:19:27.439Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\2ecfa34f-2f32-4ce5-ab5e-b69c38103d88_Exercise.zip.d88\\Exercise\\Exercise\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\2ecfa34f-2f32-4ce5-ab5e-b69c38103d88_Exercise.zip.d88\\Exercise\\Exercise\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\2ecfa34f-2f32-4ce5-ab5e-b69c38103d88_Exercise.zip.d88\\Exercise\\Exercise\\Pages\\Shared\\_Layout.cshtml [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\2ecfa34f-2f32-4ce5-ab5e-b69c38103d88_Exercise.zip.d88\\Exercise\\Exercise\\Pages\\Shared\\_Layout.cshtml [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T18:20:19.254Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\d90f3151-51f6-46a4-819a-9628246fa9ad_Exercise.zip.9ad\\Exercise\\Exercise\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\d90f3151-51f6-46a4-819a-9628246fa9ad_Exercise.zip.9ad\\Exercise\\Exercise\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\d90f3151-51f6-46a4-819a-9628246fa9ad_Exercise.zip.9ad\\Exercise\\Exercise\\Extension\\ApplicationServiceExtension.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\d90f3151-51f6-46a4-819a-9628246fa9ad_Exercise.zip.9ad\\Exercise\\Exercise\\Extension\\ApplicationServiceExtension.cs [Read Only]",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T18:11:12.74Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IRegisterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Interface\\IRegisterRepository.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Interface\\IRegisterRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Interface\\IRegisterRepository.cs",
+              "RelativeToolTip": "RazorExercise1\\Interface\\IRegisterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T16:58:39.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IRegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Interface\\IRegisterService.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Interface\\IRegisterService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Interface\\IRegisterService.cs",
+              "RelativeToolTip": "RazorExercise1\\Interface\\IRegisterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T16:59:10.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20260614063627_Create.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Migrations\\20260614063627_Create.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Migrations\\20260614063627_Create.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Migrations\\20260614063627_Create.cs",
+              "RelativeToolTip": "RazorExercise1\\Migrations\\20260614063627_Create.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:36:27.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Consultant\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Delete.cshtml",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Consultant\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T12:05:20.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Profile.cshtml",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Consultant\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Consultant\\Profile.cshtml",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Consultant\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T12:15:14.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:47:36.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorExercise1\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "RazorExercise1\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T13:11:54.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RazorExercise1.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\RazorExercise1.csproj",
+              "RelativeDocumentMoniker": "RazorExercise1\\RazorExercise1.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RazorExercise1\\RazorExercise1\\RazorExercise1.csproj",
+              "RelativeToolTip": "RazorExercise1\\RazorExercise1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T15:13:42.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\1773b35f-a43b-4cf0-9523-14b05406ae95_Exercise.zip.e95\\Exercise\\Exercise\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\1773b35f-a43b-4cf0-9523-14b05406ae95_Exercise.zip.e95\\Exercise\\Exercise\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\1773b35f-a43b-4cf0-9523-14b05406ae95_Exercise.zip.e95\\Exercise\\Exercise\\Pages\\Login.cshtml.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\1773b35f-a43b-4cf0-9523-14b05406ae95_Exercise.zip.e95\\Exercise\\Exercise\\Pages\\Login.cshtml.cs [Read Only]",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T13:00:21.398Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\b8e2940c-dcd2-4a38-8217-221e88b0d1af_Exercise.zip.1af\\Exercise\\Exercise\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\b8e2940c-dcd2-4a38-8217-221e88b0d1af_Exercise.zip.1af\\Exercise\\Exercise\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\b8e2940c-dcd2-4a38-8217-221e88b0d1af_Exercise.zip.1af\\Exercise\\Exercise\\Pages\\Error.cshtml [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\b8e2940c-dcd2-4a38-8217-221e88b0d1af_Exercise.zip.1af\\Exercise\\Exercise\\Pages\\Error.cshtml [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T12:59:47.703Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\e66398b2-b56f-462d-9606-21cdf563247e_Exercise.zip.47e\\Exercise\\Exercise\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\e66398b2-b56f-462d-9606-21cdf563247e_Exercise.zip.47e\\Exercise\\Exercise\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\e66398b2-b56f-462d-9606-21cdf563247e_Exercise.zip.47e\\Exercise\\Exercise\\Pages\\Error.cshtml.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\e66398b2-b56f-462d-9606-21cdf563247e_Exercise.zip.47e\\Exercise\\Exercise\\Pages\\Error.cshtml.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:57:59.888Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\5446a465-9494-455c-8ebc-8bb4c6af8363_Exercise.zip.363\\Exercise\\Exercise\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\5446a465-9494-455c-8ebc-8bb4c6af8363_Exercise.zip.363\\Exercise\\Exercise\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\5446a465-9494-455c-8ebc-8bb4c6af8363_Exercise.zip.363\\Exercise\\Exercise\\Pages\\Index.cshtml [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\5446a465-9494-455c-8ebc-8bb4c6af8363_Exercise.zip.363\\Exercise\\Exercise\\Pages\\Index.cshtml [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T12:57:45.667Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\e0fb9e8a-8306-4140-b712-38e149da54c5_Exercise.zip.4c5\\Exercise\\Exercise\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\e0fb9e8a-8306-4140-b712-38e149da54c5_Exercise.zip.4c5\\Exercise\\Exercise\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\e0fb9e8a-8306-4140-b712-38e149da54c5_Exercise.zip.4c5\\Exercise\\Exercise\\Pages\\Index.cshtml [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\e0fb9e8a-8306-4140-b712-38e149da54c5_Exercise.zip.4c5\\Exercise\\Exercise\\Pages\\Index.cshtml [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T12:56:51.085Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20260613073646_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\b81d926e-79a9-4775-885e-30abf2f52925_Exercise.zip.925\\Exercise\\Exercise\\Migrations\\20260613073646_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\b81d926e-79a9-4775-885e-30abf2f52925_Exercise.zip.925\\Exercise\\Exercise\\Migrations\\20260613073646_Initial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\b81d926e-79a9-4775-885e-30abf2f52925_Exercise.zip.925\\Exercise\\Exercise\\Migrations\\20260613073646_Initial.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\b81d926e-79a9-4775-885e-30abf2f52925_Exercise.zip.925\\Exercise\\Exercise\\Migrations\\20260613073646_Initial.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:33:05.725Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20260613073646_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\98eaa9b7-20e6-471e-8ae7-bae8688d0b39_Exercise.zip.b39\\Exercise\\Exercise\\Migrations\\20260613073646_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\98eaa9b7-20e6-471e-8ae7-bae8688d0b39_Exercise.zip.b39\\Exercise\\Exercise\\Migrations\\20260613073646_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\98eaa9b7-20e6-471e-8ae7-bae8688d0b39_Exercise.zip.b39\\Exercise\\Exercise\\Migrations\\20260613073646_Initial.Designer.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\98eaa9b7-20e6-471e-8ae7-bae8688d0b39_Exercise.zip.b39\\Exercise\\Exercise\\Migrations\\20260613073646_Initial.Designer.cs [Read Only]",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T06:32:19.051Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
