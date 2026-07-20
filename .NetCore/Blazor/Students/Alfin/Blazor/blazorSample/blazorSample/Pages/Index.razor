@@ -1,0 +1,45 @@
+﻿@page "/"
+@using blazorSample.Data
+@inject BookService Service
+<h3>Index</h3>
+<div class="container-fluid">
+    <div>
+<form  method="post">
+    <label>amount</label>
+    <input type="text" @bind="entry.amount"/>
+    <label>Name</label>
+            <input type="text" @bind="entry.Name" />
+    <label>description</label>
+            <input type="text" @bind="entry.Description" />
+    <button @onclick="CreateEntry"type="button">submit</button>
+        </form>
+        </div>
+        <div><h2>Book list</h2>
+            <br/>
+        @foreach (Entry en in newEntry)
+        {
+         <h6>amount :@en.amount</h6>          
+         <h6>Name :@en.Name</h6>
+            <h6> Description:@en.Description</h6>
+
+        }
+    </div>
+</div>
+        
+@code {
+    List<Entry> newEntry = new List<Entry>();
+    Entry entry = new Entry();
+
+    protected override async Task OnInitializedAsync()
+    {
+        newEntry = await Service.GetAllEntries();
+
+    }
+    protected async void CreateEntry()
+    {
+        await Service.AddEntry(entry);
+        entry = new Entry();
+        newEntry = await Service.GetAllEntries();
+        StateHasChanged();
+    }
+}

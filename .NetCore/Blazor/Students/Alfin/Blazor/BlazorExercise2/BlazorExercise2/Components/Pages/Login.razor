@@ -1,0 +1,53 @@
+﻿<h3>Login</h3>
+@page "/login"
+@rendermode InteractiveServer
+@using BlazorExercise2.Dto
+@using BlazorExercise2.Dto
+@using BlazorExercise2.Interface
+@inject NavigationManager NavigationManager
+@inject IUserService UserService
+
+
+<div class="auth-bg">
+    <div class="auth-card">
+        <h2 class="text-center mb-4 text-primary fw-bold">Welcome Back</h2>
+    <EditForm OnValidSubmit="Loginn" Model="loginDto" FormName="LoginForm">
+        <DataAnnotationsValidator />
+
+        <div class="form-floating mb-3">
+        <InputText class="form-control" @bind-Value="loginDto.Email"  />
+        <label>Email</label> 
+        </div>
+
+        <div class="form-floating mb-3">
+        <InputText type="password" class="form-control" @bind-Value="loginDto.Password" />
+        <label>Password</label>
+        </div>
+        <button type="submit" class="btn btn-primary w-100 rounded-pill py-2">Login</button>
+    </EditForm>
+    @if (!string.IsNullOrEmpty(message))
+    {
+        <div class="alert alert-danger mt-3 text-center">@message</div>
+    }
+    <div class="text-center mt-3">
+        <small>Don't have an account?
+            <a href="/register" class="fw-bold text-decoration-none">Register</a>
+        </small>
+    </div>
+</div>
+</div>
+
+@code {
+    LoginDto loginDto = new();
+    public string message = "";
+
+    public async Task Loginn()
+    {
+        var success = await UserService.Login(loginDto);
+        if (success)
+            NavigationManager.NavigateTo("/DisplayDestination");
+        else
+            message = "Invalid Credential";
+
+    }
+}

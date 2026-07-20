@@ -1,0 +1,38 @@
+﻿@page
+@model RazorMachineTest2.Pages.Vehicles.CreateModel
+@{
+}
+<h2>Create Tour </h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Vehicle.VehicleName" class="control-label"></label>
+        <input asp-for="Vehicle.VehicleName" class="form-control" />
+        <span asp-validation-for="Vehicle.VehicleName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Vehicle.VehicleType" class="control-label"></label>
+        <input asp-for="Vehicle.VehicleType" class="form-control" />
+        <span asp-validation-for="Vehicle.VehicleType" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Vehicle.SeatCapacity" class="control-label"></label>
+        <input asp-for="Vehicle.SeatCapacity" class="form-control" />
+        <span asp-validation-for="Vehicle.SeatCapacity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Vehicle.DriverName" class="control-label"></label>
+        <input asp-for="Vehicle.DriverName" class="form-control" />
+        <span asp-validation-for="Vehicle.DriverName" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Create</button>
+    <a asp-page="Index" class="btn btn-secondary mt-3">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
