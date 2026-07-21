@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net8.0": {
       "Azure.Core/1.25.0": {
@@ -4281,23 +4281,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\razal\\.nuget\\packages\\": {},
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\JWT-Login-20260715T170303Z-1-001\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
       "projectName": "JWT-Login",
-      "projectPath": "D:\\c#\\JWT-Login-20260715T170303Z-1-001\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
-      "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\JWT-Login-20260715T170303Z-1-001\\JWT-Login\\JWT-Login\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\JWT-Login\\JWT-Login\\JWT-Login.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\JWT-Login\\JWT-Login\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4310,6 +4310,7 @@
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
@@ -4324,10 +4325,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net8.0": {
+        "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
@@ -4374,6 +4376,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.29, 8.0.29]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.29, 8.0.29]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.29, 8.0.29]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.29, 8.0.29]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4382,7 +4402,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
