@@ -1,0 +1,39 @@
+﻿<h3>Login</h3>
+@page "/Login"
+@using BlazorActivity02.Interface;
+@using BlazorActivity02.Dtos;
+@using BlazorActivity02.Service;
+@inject IUserService userservice;
+@inject NavigationManager navigationManager;
+
+
+<h3>Login</h3>
+<div>
+<label>Email</label>
+<input type="text" @bind="loginDto.Email"/>
+
+<label>Password</label>
+<input type="text"@bind="loginDto.Password"/>
+<button type="button" @onclick="Userlogin">"add"
+</button>
+</div>
+
+
+@code {
+    LoginDto loginDto = new();
+    string message = "";
+    void Userlogin()
+    {
+        bool result = userservice.Login(loginDto);
+        if (result)
+        {
+            navigationManager.NavigateTo("/Index");
+
+        }
+        else
+        {
+
+            message = "Invalid Creditionals";
+        }
+    }
+}

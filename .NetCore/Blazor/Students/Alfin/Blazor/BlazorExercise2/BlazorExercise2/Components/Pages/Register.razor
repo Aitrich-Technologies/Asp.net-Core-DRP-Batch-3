@@ -1,0 +1,66 @@
+﻿<h3>Register</h3>
+@page "/Register"
+@rendermode InteractiveServer
+@using BlazorExercise2.Dto
+@using BlazorExercise2.Interface
+@using BlazorExercise2.Dto
+@inject NavigationManager NavigationManager
+@inject IUserService UserService
+
+
+
+<div class="auth-bg">
+    <div class="auth-card">
+
+        <h2 class="text-center mb-4 text-primary fw-bold">create Account</h2>
+    <EditForm Model="registerDto" FormName="RegisterForm" OnValidSubmit="Registerr">
+        <DataAnnotationsValidator />
+        <ValidationSummary class="text-danger mb-3" />
+
+        <div class="form-floating mb-3">
+        <InputText class="form-control" @bind-Value="registerDto.Name"  />
+        <label>Name</label>
+        </div>
+
+
+        
+        <div class="form-floating mb-3">
+        <InputText class="form-control" @bind-Value="registerDto.Email" />
+        <label>Email</label>
+        </div>
+        
+        <div class="form-floating mb-3">
+        <InputText type="password" class="form-control" @bind-Value="registerDto.Password" />
+        <label>Password</label>
+        </div>
+        <button type="submit" class="btn btn-primary w-100 rounded-pill py-2">Register</button>
+    </EditForm>
+    @if (!string.IsNullOrEmpty(message))
+    {
+        <div class="alert alert-danger mt-3 text-center">@message</div>
+    }
+    <div class="text-center mt-3">
+        <small> already you have an account?
+            <a href="/login" class="fw-bold text-decoration-none">Login</a>
+        </small>
+    </div>
+</div>
+</div>
+
+@code {
+    RegisterDto registerDto = new();
+    public string message = "";
+
+    public async Task Registerr()
+    {
+        var success = await UserService.Register(registerDto);
+        if (success)
+        {
+            NavigationManager.NavigateTo("/login");
+        }
+        else
+        {
+            message = "Email already exists.";
+        }
+    }
+}

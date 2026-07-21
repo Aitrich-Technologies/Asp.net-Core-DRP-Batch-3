@@ -1,0 +1,36 @@
+﻿@page
+@model RazorMachineTest2.Pages.RegisterModel
+@{
+}
+<form method="post">
+    <div class="row mb-3">
+
+        <div class="mb-3">
+            <label asp-for="RegisterDto.UserName" class="form-label"></label>
+            <input asp-for="RegisterDto.UserName" class="form-control" placeholder="Username" />
+            <span asp-validation-for="RegisterDto.UserName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="RegisterDto.Password" class="form-label"></label>
+            <input asp-for="RegisterDto.Password" class="form-control" type="password" placeholder="Password" />
+            <span asp-validation-for="RegisterDto.Password" class="text-danger"></span>
+        </div>
+
+
+
+        <div class="d-grid gap-2">
+            <button type="submit" class="btn btn-primary btn-block">Register</button>
+        </div>
+    </form>
+</div>
+<div class="card-footer text-center">
+    Already have an account? <a asp-page="/Login">Login</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

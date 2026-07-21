@@ -4808,15 +4808,26 @@
   },
   "packageFolders": {
 <<<<<<< HEAD
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+=======
+<<<<<<< HEAD
     "C:\\Users\\razal\\.nuget\\packages\\": {},
 =======
     "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
 >>>>>>> 0b6b7d9fce0f454eba33bce71ce517db1433a425
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\TourBookingMVCApplication.csproj",
+      "projectName": "TourBookingMVCApplication",
+      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\TourBookingMVCApplication.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\obj\\",
+=======
 <<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\TourBookingMVCApplication.csproj",
       "projectName": "TourBookingMVCApplication",
@@ -4830,16 +4841,21 @@
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Git\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\obj\\",
 >>>>>>> 0b6b7d9fce0f454eba33bce71ce517db1433a425
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
 <<<<<<< HEAD
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
         "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> 0b6b7d9fce0f454eba33bce71ce517db1433a425
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4853,9 +4869,13 @@
       "frameworks": {
         "net8.0": {
 <<<<<<< HEAD
+          "framework": "net8.0",
+=======
+<<<<<<< HEAD
 =======
           "framework": "net8.0",
 >>>>>>> 0b6b7d9fce0f454eba33bce71ce517db1433a425
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
@@ -4871,6 +4891,13 @@
         "auditMode": "direct"
       },
 <<<<<<< HEAD
+      "SdkAnalysisLevel": "10.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "framework": "net8.0",
+=======
+<<<<<<< HEAD
       "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
@@ -4882,6 +4909,7 @@
       "net8.0": {
         "framework": "net8.0",
 >>>>>>> 0b6b7d9fce0f454eba33bce71ce517db1433a425
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
         "targetAlias": "net8.0",
         "dependencies": {
           "AutoMapper": {
@@ -4919,6 +4947,26 @@
         "assetTargetFallback": true,
         "warn": true,
 <<<<<<< HEAD
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.26, 8.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.26, 8.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.26, 8.0.26]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.26, 8.0.26]"
+          }
+        ],
+=======
+<<<<<<< HEAD
 =======
         "downloadDependencies": [
           {
@@ -4939,6 +4987,7 @@
           }
         ],
 >>>>>>> 0b6b7d9fce0f454eba33bce71ce517db1433a425
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4948,10 +4997,14 @@
           }
         },
 <<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+=======
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
 =======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
 >>>>>>> 0b6b7d9fce0f454eba33bce71ce517db1433a425
+>>>>>>> f843e72ae450349eec209efadf438e4e91186d82
       }
     }
   },

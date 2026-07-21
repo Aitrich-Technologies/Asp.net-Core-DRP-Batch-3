@@ -1,0 +1,693 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\components\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\components\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\59b6cecf-9fb4-4625-bbcd-37fdce15f5d0_BlazorWorkshop2 (2).zip.5d0\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\components\\pages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\components\\pages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\6c8868f9-0ac1-494c-8807-48fdeff44f58_BlazorWorkshop2 (2).zip.f58\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\6e42174e-f0b6-46c8-a9c8-78ed43d8b5c9_BlazorWorkshop2 (2).zip.5c9\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\da8d1f7e-81ee-4367-baf0-36ac9454d51f_BlazorWorkshop2 (2).zip.51f\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\repository\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\repository\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\service\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\service\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\interface\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\interface\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\213c0c72-b89e-48ea-9fbb-9fde99052758_BlazorWorkshop2 (2).zip.758\\BlazorWorkshop2\\BlazorWorkshop2\\Service\\DestinationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\8156e355-c9a6-4e6e-b964-a3a420446b64_BlazorWorkshop2 (2).zip.b64\\BlazorWorkshop2\\BlazorWorkshop2\\Repository\\DestinationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\36574380-4051-45f6-89af-6a1235fb0275_BlazorWorkshop2 (2).zip.275\\BlazorWorkshop2\\BlazorWorkshop2\\Repository\\DestinationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\f30894aa-b548-4292-a2ee-c4fbc49c7ccf_BlazorWorkshop2 (2).zip.ccf\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\220582ae-4372-41b6-b8f5-d7ecd1408d59_BlazorWorkshop2 (2).zip.d59\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\7f24b759-46c6-43f2-b272-4010e12b4ea5_BlazorWorkshop2 (2).zip.ea5\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\f21bfea6-5561-436a-8a28-15dd580d28d4_BlazorWorkshop2 (2).zip.8d4\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\7e31bcf5-5d9a-45fd-b2c1-957c5d573948_BlazorWorkshop2 (2).zip.948\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\eae84606-2a41-4eeb-a902-102049bbc76d_BlazorWorkshop2 (2).zip.76d\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\7d7760e9-195a-43c9-b132-e58dd64d4a57_BlazorWorkshop2 (2).zip.a57\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\f3924ff7-b693-4780-9455-384b6512d22d_BlazorWorkshop2 (2).zip.22d\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\7b921b6a-e31e-461a-a612-ddcc060795c6_BlazorWorkshop2 (2).zip.5c6\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\b758fd79-a195-4114-af25-8f233ecc127f_BlazorWorkshop2 (2).zip.27f\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\5f8b4f0f-76e0-4b0d-bb6e-036a0f781369_BlazorWorkshop2 (2).zip.369\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\interface\\itourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\dto\\tourdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\dto\\tourdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\model\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\model\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\model\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\model\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\blazorworkshop2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\blazorworkshop2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|c:\\users\\asus\\source\\repos\\blazorworkshop2\\blazorworkshop2\\migrations\\20260627070745_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821254BB-0B57-474F-998B-72BE925C01C0}|BlazorWorkshop2\\BlazorWorkshop2.csproj|solutionrelative:blazorworkshop2\\migrations\\20260627070745_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\6e42174e-f0b6-46c8-a9c8-78ed43d8b5c9_BlazorWorkshop2 (2).zip.5c9\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\6e42174e-f0b6-46c8-a9c8-78ed43d8b5c9_BlazorWorkshop2 (2).zip.5c9\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\6e42174e-f0b6-46c8-a9c8-78ed43d8b5c9_BlazorWorkshop2 (2).zip.5c9\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\6e42174e-f0b6-46c8-a9c8-78ed43d8b5c9_BlazorWorkshop2 (2).zip.5c9\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-29T13:59:48.121Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\da8d1f7e-81ee-4367-baf0-36ac9454d51f_BlazorWorkshop2 (2).zip.51f\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\da8d1f7e-81ee-4367-baf0-36ac9454d51f_BlazorWorkshop2 (2).zip.51f\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\da8d1f7e-81ee-4367-baf0-36ac9454d51f_BlazorWorkshop2 (2).zip.51f\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\da8d1f7e-81ee-4367-baf0-36ac9454d51f_BlazorWorkshop2 (2).zip.51f\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor [Read Only]",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-29T13:58:08.38Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Components\\Pages\\Edit.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor",
+              "RelativeToolTip": "BlazorWorkshop2\\Components\\Pages\\Edit.razor",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-27T13:47:41.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorWorkshop2\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T05:52:47.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Components\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorWorkshop2\\Components\\Pages\\Index.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-27T10:36:16.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T06:47:24.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\6c8868f9-0ac1-494c-8807-48fdeff44f58_BlazorWorkshop2 (2).zip.f58\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\6c8868f9-0ac1-494c-8807-48fdeff44f58_BlazorWorkshop2 (2).zip.f58\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\6c8868f9-0ac1-494c-8807-48fdeff44f58_BlazorWorkshop2 (2).zip.f58\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\6c8868f9-0ac1-494c-8807-48fdeff44f58_BlazorWorkshop2 (2).zip.f58\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor [Read Only]",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-29T14:18:57.277Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\59b6cecf-9fb4-4625-bbcd-37fdce15f5d0_BlazorWorkshop2 (2).zip.5d0\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\59b6cecf-9fb4-4625-bbcd-37fdce15f5d0_BlazorWorkshop2 (2).zip.5d0\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\59b6cecf-9fb4-4625-bbcd-37fdce15f5d0_BlazorWorkshop2 (2).zip.5d0\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\59b6cecf-9fb4-4625-bbcd-37fdce15f5d0_BlazorWorkshop2 (2).zip.5d0\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor [Read Only]",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-29T14:28:08.248Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "RelativeToolTip": "BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-27T12:07:30.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorWorkshop2\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-27T12:00:07.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DestinationDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Dto\\DestinationDto.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Dto\\DestinationDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Dto\\DestinationDto.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Dto\\DestinationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T08:17:15.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Repository\\DestinationRepository.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Repository\\DestinationRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Repository\\DestinationRepository.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Repository\\DestinationRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T10:45:41.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Service\\DestinationService.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Service\\DestinationService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Service\\DestinationService.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Service\\DestinationService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T10:50:22.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITourService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Interface\\ITourService.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Interface\\ITourService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Interface\\ITourService.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Interface\\ITourService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:35:40.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\213c0c72-b89e-48ea-9fbb-9fde99052758_BlazorWorkshop2 (2).zip.758\\BlazorWorkshop2\\BlazorWorkshop2\\Service\\DestinationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\213c0c72-b89e-48ea-9fbb-9fde99052758_BlazorWorkshop2 (2).zip.758\\BlazorWorkshop2\\BlazorWorkshop2\\Service\\DestinationService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\213c0c72-b89e-48ea-9fbb-9fde99052758_BlazorWorkshop2 (2).zip.758\\BlazorWorkshop2\\BlazorWorkshop2\\Service\\DestinationService.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\213c0c72-b89e-48ea-9fbb-9fde99052758_BlazorWorkshop2 (2).zip.758\\BlazorWorkshop2\\BlazorWorkshop2\\Service\\DestinationService.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T13:36:56.369Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\8156e355-c9a6-4e6e-b964-a3a420446b64_BlazorWorkshop2 (2).zip.b64\\BlazorWorkshop2\\BlazorWorkshop2\\Repository\\DestinationRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\8156e355-c9a6-4e6e-b964-a3a420446b64_BlazorWorkshop2 (2).zip.b64\\BlazorWorkshop2\\BlazorWorkshop2\\Repository\\DestinationRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\8156e355-c9a6-4e6e-b964-a3a420446b64_BlazorWorkshop2 (2).zip.b64\\BlazorWorkshop2\\BlazorWorkshop2\\Repository\\DestinationRepository.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\8156e355-c9a6-4e6e-b964-a3a420446b64_BlazorWorkshop2 (2).zip.b64\\BlazorWorkshop2\\BlazorWorkshop2\\Repository\\DestinationRepository.cs [Read Only]",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T13:31:54.266Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\36574380-4051-45f6-89af-6a1235fb0275_BlazorWorkshop2 (2).zip.275\\BlazorWorkshop2\\BlazorWorkshop2\\Repository\\DestinationRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\36574380-4051-45f6-89af-6a1235fb0275_BlazorWorkshop2 (2).zip.275\\BlazorWorkshop2\\BlazorWorkshop2\\Repository\\DestinationRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\36574380-4051-45f6-89af-6a1235fb0275_BlazorWorkshop2 (2).zip.275\\BlazorWorkshop2\\BlazorWorkshop2\\Repository\\DestinationRepository.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\36574380-4051-45f6-89af-6a1235fb0275_BlazorWorkshop2 (2).zip.275\\BlazorWorkshop2\\BlazorWorkshop2\\Repository\\DestinationRepository.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T12:19:20.909Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\7e31bcf5-5d9a-45fd-b2c1-957c5d573948_BlazorWorkshop2 (2).zip.948\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\7e31bcf5-5d9a-45fd-b2c1-957c5d573948_BlazorWorkshop2 (2).zip.948\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\7e31bcf5-5d9a-45fd-b2c1-957c5d573948_BlazorWorkshop2 (2).zip.948\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\7e31bcf5-5d9a-45fd-b2c1-957c5d573948_BlazorWorkshop2 (2).zip.948\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor [Read Only]",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T18:50:28.058Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\f21bfea6-5561-436a-8a28-15dd580d28d4_BlazorWorkshop2 (2).zip.8d4\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\f21bfea6-5561-436a-8a28-15dd580d28d4_BlazorWorkshop2 (2).zip.8d4\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\f21bfea6-5561-436a-8a28-15dd580d28d4_BlazorWorkshop2 (2).zip.8d4\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\f21bfea6-5561-436a-8a28-15dd580d28d4_BlazorWorkshop2 (2).zip.8d4\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor [Read Only]",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T18:59:20.49Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\7f24b759-46c6-43f2-b272-4010e12b4ea5_BlazorWorkshop2 (2).zip.ea5\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\7f24b759-46c6-43f2-b272-4010e12b4ea5_BlazorWorkshop2 (2).zip.ea5\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\7f24b759-46c6-43f2-b272-4010e12b4ea5_BlazorWorkshop2 (2).zip.ea5\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\7f24b759-46c6-43f2-b272-4010e12b4ea5_BlazorWorkshop2 (2).zip.ea5\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T19:07:57.756Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\220582ae-4372-41b6-b8f5-d7ecd1408d59_BlazorWorkshop2 (2).zip.d59\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\220582ae-4372-41b6-b8f5-d7ecd1408d59_BlazorWorkshop2 (2).zip.d59\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\220582ae-4372-41b6-b8f5-d7ecd1408d59_BlazorWorkshop2 (2).zip.d59\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\220582ae-4372-41b6-b8f5-d7ecd1408d59_BlazorWorkshop2 (2).zip.d59\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor [Read Only]",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T19:08:09.525Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\f30894aa-b548-4292-a2ee-c4fbc49c7ccf_BlazorWorkshop2 (2).zip.ccf\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\f30894aa-b548-4292-a2ee-c4fbc49c7ccf_BlazorWorkshop2 (2).zip.ccf\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\f30894aa-b548-4292-a2ee-c4fbc49c7ccf_BlazorWorkshop2 (2).zip.ccf\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\f30894aa-b548-4292-a2ee-c4fbc49c7ccf_BlazorWorkshop2 (2).zip.ccf\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Edit.razor [Read Only]",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T19:16:44.617Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\eae84606-2a41-4eeb-a902-102049bbc76d_BlazorWorkshop2 (2).zip.76d\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\eae84606-2a41-4eeb-a902-102049bbc76d_BlazorWorkshop2 (2).zip.76d\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\eae84606-2a41-4eeb-a902-102049bbc76d_BlazorWorkshop2 (2).zip.76d\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\eae84606-2a41-4eeb-a902-102049bbc76d_BlazorWorkshop2 (2).zip.76d\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T18:08:48.731Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\7d7760e9-195a-43c9-b132-e58dd64d4a57_BlazorWorkshop2 (2).zip.a57\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\7d7760e9-195a-43c9-b132-e58dd64d4a57_BlazorWorkshop2 (2).zip.a57\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\7d7760e9-195a-43c9-b132-e58dd64d4a57_BlazorWorkshop2 (2).zip.a57\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\7d7760e9-195a-43c9-b132-e58dd64d4a57_BlazorWorkshop2 (2).zip.a57\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor [Read Only]",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T18:06:49.003Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\f3924ff7-b693-4780-9455-384b6512d22d_BlazorWorkshop2 (2).zip.22d\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\f3924ff7-b693-4780-9455-384b6512d22d_BlazorWorkshop2 (2).zip.22d\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\f3924ff7-b693-4780-9455-384b6512d22d_BlazorWorkshop2 (2).zip.22d\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\f3924ff7-b693-4780-9455-384b6512d22d_BlazorWorkshop2 (2).zip.22d\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Create.razor [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T18:06:07.207Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\7b921b6a-e31e-461a-a612-ddcc060795c6_BlazorWorkshop2 (2).zip.5c6\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\7b921b6a-e31e-461a-a612-ddcc060795c6_BlazorWorkshop2 (2).zip.5c6\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\7b921b6a-e31e-461a-a612-ddcc060795c6_BlazorWorkshop2 (2).zip.5c6\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\7b921b6a-e31e-461a-a612-ddcc060795c6_BlazorWorkshop2 (2).zip.5c6\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T18:05:38.668Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\b758fd79-a195-4114-af25-8f233ecc127f_BlazorWorkshop2 (2).zip.27f\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\b758fd79-a195-4114-af25-8f233ecc127f_BlazorWorkshop2 (2).zip.27f\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\b758fd79-a195-4114-af25-8f233ecc127f_BlazorWorkshop2 (2).zip.27f\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\b758fd79-a195-4114-af25-8f233ecc127f_BlazorWorkshop2 (2).zip.27f\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Layout\\NavMenu.razor [Read Only]",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T18:04:39.52Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\5f8b4f0f-76e0-4b0d-bb6e-036a0f781369_BlazorWorkshop2 (2).zip.369\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\5f8b4f0f-76e0-4b0d-bb6e-036a0f781369_BlazorWorkshop2 (2).zip.369\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\5f8b4f0f-76e0-4b0d-bb6e-036a0f781369_BlazorWorkshop2 (2).zip.369\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\5f8b4f0f-76e0-4b0d-bb6e-036a0f781369_BlazorWorkshop2 (2).zip.369\\BlazorWorkshop2\\BlazorWorkshop2\\Components\\Pages\\Index.razor [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T18:04:13.754Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\appsettings.json",
+              "RelativeToolTip": "BlazorWorkshop2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-27T06:59:40.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TourRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Repository\\TourRepository.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Repository\\TourRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Repository\\TourRepository.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Repository\\TourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:31:17.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T10:28:52.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TourService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Service\\TourService.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Service\\TourService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Service\\TourService.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Service\\TourService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:36:18.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ITourRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Interface\\ITourRepository.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Interface\\ITourRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Interface\\ITourRepository.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Interface\\ITourRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:31:53.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IDestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Interface\\IDestinationService.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Interface\\IDestinationService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Interface\\IDestinationService.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Interface\\IDestinationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T08:37:36.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TourDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Dto\\TourDto.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Dto\\TourDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Dto\\TourDto.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Dto\\TourDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T08:18:05.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Program.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:04:52.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IDestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Interface\\IDestinationRepository.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Interface\\IDestinationRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Interface\\IDestinationRepository.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Interface\\IDestinationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T08:36:44.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Model\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Model\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T06:33:51.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Model\\Tour.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Model\\Tour.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Model\\Tour.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Model\\Tour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T06:33:19.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Model\\Destination.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Model\\Destination.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Model\\Destination.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Model\\Destination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T06:33:05.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20260627070745_create.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Migrations\\20260627070745_create.cs",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\Migrations\\20260627070745_create.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\Migrations\\20260627070745_create.cs",
+              "RelativeToolTip": "BlazorWorkshop2\\Migrations\\20260627070745_create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:07:46.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BlazorWorkshop2.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\BlazorWorkshop2.csproj",
+              "RelativeDocumentMoniker": "BlazorWorkshop2\\BlazorWorkshop2.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazorWorkshop2\\BlazorWorkshop2\\BlazorWorkshop2.csproj",
+              "RelativeToolTip": "BlazorWorkshop2\\BlazorWorkshop2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-27T06:04:39.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

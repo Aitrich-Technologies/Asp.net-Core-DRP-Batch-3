@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65E85362-1329-708D-0E6C-7BA176849573}|blazorSample\\blazorSample.csproj|c:\\users\\asus\\source\\repos\\blazorsample\\blazorsample\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65E85362-1329-708D-0E6C-7BA176849573}|blazorSample\\blazorSample.csproj|solutionrelative:blazorsample\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E85362-1329-708D-0E6C-7BA176849573}|blazorSample\\blazorSample.csproj|c:\\users\\asus\\source\\repos\\blazorsample\\blazorsample\\data\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E85362-1329-708D-0E6C-7BA176849573}|blazorSample\\blazorSample.csproj|solutionrelative:blazorsample\\data\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E85362-1329-708D-0E6C-7BA176849573}|blazorSample\\blazorSample.csproj|c:\\users\\asus\\source\\repos\\blazorsample\\blazorsample\\data\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E85362-1329-708D-0E6C-7BA176849573}|blazorSample\\blazorSample.csproj|solutionrelative:blazorsample\\data\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E85362-1329-708D-0E6C-7BA176849573}|blazorSample\\blazorSample.csproj|c:\\users\\asus\\source\\repos\\blazorsample\\blazorsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E85362-1329-708D-0E6C-7BA176849573}|blazorSample\\blazorSample.csproj|solutionrelative:blazorsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E85362-1329-708D-0E6C-7BA176849573}|blazorSample\\blazorSample.csproj|c:\\users\\asus\\source\\repos\\blazorsample\\blazorsample\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65E85362-1329-708D-0E6C-7BA176849573}|blazorSample\\blazorSample.csproj|solutionrelative:blazorsample\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E85362-1329-708D-0E6C-7BA176849573}|blazorSample\\blazorSample.csproj|c:\\users\\asus\\source\\repos\\blazorsample\\blazorsample\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65E85362-1329-708D-0E6C-7BA176849573}|blazorSample\\blazorSample.csproj|solutionrelative:blazorsample\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E85362-1329-708D-0E6C-7BA176849573}|blazorSample\\blazorSample.csproj|c:\\users\\asus\\source\\repos\\blazorsample\\blazorsample\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65E85362-1329-708D-0E6C-7BA176849573}|blazorSample\\blazorSample.csproj|solutionrelative:blazorsample\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\blazorSample\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "blazorSample\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\blazorSample\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "blazorSample\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T08:27:07.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\blazorSample\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "blazorSample\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\blazorSample\\Pages\\FetchData.razor",
+              "RelativeToolTip": "blazorSample\\Pages\\FetchData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T08:24:35.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\blazorSample\\Program.cs",
+              "RelativeDocumentMoniker": "blazorSample\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\blazorSample\\Program.cs",
+              "RelativeToolTip": "blazorSample\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T08:22:18.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\blazorSample\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "blazorSample\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\blazorSample\\Pages\\Index.razor",
+              "RelativeToolTip": "blazorSample\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T07:40:31.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\blazorSample\\Data\\BookService.cs",
+              "RelativeDocumentMoniker": "blazorSample\\Data\\BookService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\blazorSample\\Data\\BookService.cs",
+              "RelativeToolTip": "blazorSample\\Data\\BookService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:34:46.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\blazorSample\\Data\\Entry.cs",
+              "RelativeDocumentMoniker": "blazorSample\\Data\\Entry.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\blazorSample\\Data\\Entry.cs",
+              "RelativeToolTip": "blazorSample\\Data\\Entry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:32:45.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\blazorSample\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "blazorSample\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\blazorSample\\blazorSample\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "blazorSample\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T08:29:44.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
