@@ -1,0 +1,35 @@
+﻿@page
+@using RazorMachineTest2.Models
+@model RazorMachineTest2.Pages.Vehicles.IndexModel
+@{
+}
+<a asp-page="Create" class="btn btn-primary mb-3">Add Vehicle</a>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>VehicleName</th>
+            <th>VehicleType</th>
+            <th>Seatcupacity</th>
+            <th>DriverName </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Vehicles in Model.Vehicle)
+        {
+            <tr>
+                <td>@Vehicles.VehicleName</td>
+                <td>@Vehicles.VehicleType</td>
+                <td>@Vehicles.SeatCapacity</td>
+                <td>@Vehicles.DriverName</td>
+               
+                <td>
+                    <a asp-page="Edit" asp-route-id="@Vehicles.Id" class="btn btn-warning btn-sm">Edit</a>
+                    @* <a asp-page="Details" asp-route-id="@Vehicles.Id" class="btn btn-info btn-sm">Detail</a> *@
+                    <a asp-page="Delete" asp-route-id="@Vehicles.Id" class="btn btn-danger btn-sm">Detail</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

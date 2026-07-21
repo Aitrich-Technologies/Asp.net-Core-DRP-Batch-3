@@ -1,0 +1,18 @@
+﻿@page
+@model RazorActivity.Pages.RegisterModel
+@{
+}
+<form method = "post">
+   <label> Username :</label>
+   <input type ="text" asp-for="NewUser.UserName" required/>
+   <span asp-validation-for="NewUser.UserName" class=" ="text-danger"></span>
+
+   <label>Password:</label>
+   <input type="password" asp-for ="NewUser.Password" required/>
+   <span asp-validation-for="NewUser.Password" class="text-danger"></span>
+
+   <button type="submit">Register</button>
+</form>
+
+<p class="text-danger">@Html.ValidationSummary(true,"",new { @class = "text_danger"})</p>
+<a href="/Login">Already have an account? Login</a>

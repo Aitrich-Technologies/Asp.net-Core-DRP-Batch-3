@@ -1,0 +1,116 @@
+﻿<h3>Create</h3>
+@page "/create"
+@rendermode InteractiveServer
+@inject IDestinationService DestinationService
+@inject NavigationManager Navigation
+@inject IWebHostEnvironment Env
+@using BlazorWorkshop2.Dto
+@using BlazorWorkshop2.Interface
+@using BlazorWorkshop2.Model
+@using Microsoft.EntityFrameworkCore.Metadata.Internal
+
+
+<div class="modal fade show d-block" tabindex="-1" style="background-color : rgb(0,0,0,0.6);">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+<div class="modal-content rounded-4 shadow-lg">
+
+    <div class="modal-header border-0">
+        <div>
+            <h4 class="fw-bold">
+                <i class="bi bi-plus-circle"></i>
+
+            </h4>
+            <small class="text-muted">Add a new travel destination</small>
+        </div>
+        <button type="button" class="btn-close" @onclick="Close"></button>
+    </div>
+
+    <div class="modal-body">
+
+        <EditForm Model="destinationDto" OnvalidSubmit="SaveDestination" FormName="CreateDestinationForm">
+            <DataAnnotationsValidator/>
+            <ValidationSummary/>
+            <div class="mb-3">
+                <label class="form-label fw-bold">Destination Name</label>
+
+                <InputText class="form-control form-control-lg"
+                placeholder="e.g.,Maldives,Bali,Dubai"
+                @bind-Value="destinationDto.Name"/>
+              </div>
+
+              <div class="mb-3">
+                  <label class="form-label fw-bold">Destination *</label>
+                  <InputTextArea class="form-control"
+                  rows="4"
+                  placeholder="Describe the Destination..."
+                  @bind-Value="destinationDto.Description"/></div>
+
+                  <div class="mb-3">
+                      <label class="form-label fw-bold">Image Upload *</label>
+
+                      <InputFile OnChange="HandleFileUpload"
+                          class="form-control"/>
+
+                          <small class="text-muted"> Max 5MB</small>
+                  </div>
+
+                  <div class="d-flex justify-content-end mt-4">
+                      
+                      <button type="button"
+                          class="btn btn-light me-2"
+                      @onclick="Close">Cancel</button>
+
+                      <button type="submit"
+                          class="btn btn-primary px-4">
+                  Add Destination</button>
+              </div>
+              </EditForm>
+    </div>
+</div>
+    </div>
+</div>
+@code {
+    private DestinationDto destinationDto = new();
+    private IBrowserFile uploadedFile;
+
+    private void HandleFileUpload(InputFileChangeEventArgs e)
+    {
+
+        uploadedFile = e.File;
+    }
+    private async Task<string> SaveImageAsync()
+    {
+        if (uploadedFile == null)
+            return null;
+
+        var folderPath = Path.Combine(Env.WebRootPath, "images");
+
+        if (!Directory.Exists(folderPath))
+            Directory.CreateDirectory(folderPath);
+
+        var uniqueFileName = Guid.NewGuid().ToString() +
+                             Path.GetExtension(uploadedFile.Name);
+
+        var filePath = Path.Combine(folderPath, uniqueFileName);
+
+        using var stream = new FileStream(filePath, FileMode.Create);
+        await uploadedFile.OpenReadStream(5 * 1024 * 1024)
+                          .CopyToAsync(stream);
+
+        return "/images/" + uniqueFileName;
+    }
+
+    private async Task SaveDestination()
+    {
+        destinationDto.ImageUrl = await SaveImageAsync();
+        await DestinationService.AddAsync(destinationDto);
+        Navigation.NavigateTo("/");
+    }
+
+    private void Close()
+    {
+        Navigation.NavigateTo("/");
+    }
+}
+
+
