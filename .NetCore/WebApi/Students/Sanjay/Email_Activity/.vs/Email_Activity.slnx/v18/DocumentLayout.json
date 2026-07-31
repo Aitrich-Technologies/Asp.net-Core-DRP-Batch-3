@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|c:\\users\\prime\\desktop\\api\\email_activity\\email_activity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|solutionrelative:email_activity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|c:\\users\\prime\\desktop\\api\\email_activity\\email_activity\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|solutionrelative:email_activity\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|c:\\users\\prime\\desktop\\api\\email_activity\\email_activity\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|solutionrelative:email_activity\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|c:\\users\\prime\\desktop\\api\\email_activity\\email_activity\\email_activity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|solutionrelative:email_activity\\email_activity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|c:\\users\\prime\\desktop\\api\\email_activity\\email_activity\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|solutionrelative:email_activity\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|c:\\users\\prime\\desktop\\api\\email_activity\\email_activity\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|solutionrelative:email_activity\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|c:\\users\\prime\\desktop\\api\\email_activity\\email_activity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|solutionrelative:email_activity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|c:\\users\\prime\\desktop\\api\\email_activity\\email_activity\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|solutionrelative:email_activity\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|c:\\users\\prime\\desktop\\api\\email_activity\\email_activity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|solutionrelative:email_activity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|c:\\users\\prime\\desktop\\api\\email_activity\\email_activity\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|solutionrelative:email_activity\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|c:\\users\\prime\\desktop\\api\\email_activity\\email_activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|solutionrelative:email_activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|c:\\users\\prime\\desktop\\api\\email_activity\\email_activity\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|solutionrelative:email_activity\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|c:\\users\\prime\\desktop\\api\\email_activity\\email_activity\\email_activity.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8738966D-6817-4C51-92C7-78B808CACFF9}|Email_Activity\\Email_Activity.csproj|solutionrelative:email_activity\\email_activity.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Migrations\\20260717063502_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Email_Activity\\Migrations\\20260717063502_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Email_Activity\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Email_Activity\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T06:16:37.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "Email_Activity\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Service\\EmailService.cs",
+              "RelativeToolTip": "Email_Activity\\Service\\EmailService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T07:19:08.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Email_Activity",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Email_Activity.csproj",
+              "RelativeDocumentMoniker": "Email_Activity\\Email_Activity.csproj",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Email_Activity.csproj",
+              "RelativeToolTip": "Email_Activity\\Email_Activity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-17T06:24:54.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Email_Activity\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Email_Activity\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T06:21:49.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Email_Activity\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Models\\User.cs",
+              "RelativeToolTip": "Email_Activity\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T06:16:58.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Service\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Email_Activity\\Service\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Service\\IEmailService.cs",
+              "RelativeToolTip": "Email_Activity\\Service\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T07:18:49.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Email_Activity\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Email_Activity\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T07:47:01.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\appsettings.json",
+              "RelativeDocumentMoniker": "Email_Activity\\appsettings.json",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\appsettings.json",
+              "RelativeToolTip": "Email_Activity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-17T06:29:33.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Email_Activity\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Email_Activity\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-17T06:35:52.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Email_Activity\\Models\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "Email_Activity\\Models\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T06:19:52.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Program.cs",
+              "RelativeDocumentMoniker": "Email_Activity\\Program.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Program.cs",
+              "RelativeToolTip": "Email_Activity\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T06:31:02.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Email_Activity\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Email_Activity\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T07:46:27.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Email_Activity",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Email_Activity.csproj",
+              "RelativeDocumentMoniker": "Email_Activity\\Email_Activity.csproj",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Email_Activity.csproj",
+              "RelativeToolTip": "Email_Activity\\Email_Activity.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-17T06:35:45.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260717063502_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Migrations\\20260717063502_Initial.cs",
+              "RelativeDocumentMoniker": "Email_Activity\\Migrations\\20260717063502_Initial.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Email_Activity\\Email_Activity\\Migrations\\20260717063502_Initial.cs",
+              "RelativeToolTip": "Email_Activity\\Migrations\\20260717063502_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T06:35:02.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
