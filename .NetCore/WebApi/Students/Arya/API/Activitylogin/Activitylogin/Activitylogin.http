@@ -1,0 +1,6 @@
+@Activitylogin_HostAddress = http://localhost:5197
+
+GET {{Activitylogin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

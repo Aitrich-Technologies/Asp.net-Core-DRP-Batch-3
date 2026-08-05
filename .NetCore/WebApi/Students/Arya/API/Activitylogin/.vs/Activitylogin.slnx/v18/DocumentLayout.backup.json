@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\activitylogin\\activitylogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|solutionrelative:activitylogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\activitylogin\\activitylogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|solutionrelative:activitylogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\activitylogin\\activitylogin\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|solutionrelative:activitylogin\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\activitylogin\\activitylogin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|solutionrelative:activitylogin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\activitylogin\\activitylogin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|solutionrelative:activitylogin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\activitylogin\\activitylogin\\activitylogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|solutionrelative:activitylogin\\activitylogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\activitylogin\\activitylogin\\model\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|solutionrelative:activitylogin\\model\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\activitylogin\\activitylogin\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|solutionrelative:activitylogin\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\activitylogin\\activitylogin\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|solutionrelative:activitylogin\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\activitylogin\\activitylogin\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|solutionrelative:activitylogin\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\activitylogin\\activitylogin\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|solutionrelative:activitylogin\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\activitylogin\\activitylogin\\migrations\\20260721052350_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C22A22-6670-BE93-A3B0-FEC18C0B9C12}|Activitylogin\\Activitylogin.csproj|solutionrelative:activitylogin\\migrations\\20260721052350_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Activitylogin\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\appsettings.Development.json",
+              "RelativeToolTip": "Activitylogin\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-22T07:32:31.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Model\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "Activitylogin\\Model\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Model\\UserDbContext.cs",
+              "RelativeToolTip": "Activitylogin\\Model\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T09:31:39.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Activitylogin.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Activitylogin.csproj",
+              "RelativeDocumentMoniker": "Activitylogin\\Activitylogin.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Activitylogin.csproj",
+              "RelativeToolTip": "Activitylogin\\Activitylogin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-19T05:12:41.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Program.cs",
+              "RelativeDocumentMoniker": "Activitylogin\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Program.cs",
+              "RelativeToolTip": "Activitylogin\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwD8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T05:10:00.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\appsettings.json",
+              "RelativeDocumentMoniker": "Activitylogin\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\appsettings.json",
+              "RelativeToolTip": "Activitylogin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-20T15:00:36.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Activitylogin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Activitylogin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T05:16:32.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "Activitylogin\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Enum\\UserRole.cs",
+              "RelativeToolTip": "Activitylogin\\Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T05:18:36.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Activitylogin\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Activitylogin\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-19T05:08:38.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Model\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Activitylogin\\Model\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Model\\LoginDto.cs",
+              "RelativeToolTip": "Activitylogin\\Model\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T05:51:43.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Activitylogin\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Model\\User.cs",
+              "RelativeToolTip": "Activitylogin\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T05:49:47.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260721052350_add.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Migrations\\20260721052350_add.cs",
+              "RelativeDocumentMoniker": "Activitylogin\\Migrations\\20260721052350_add.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Migrations\\20260721052350_add.cs",
+              "RelativeToolTip": "Activitylogin\\Migrations\\20260721052350_add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T05:23:50.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Model\\UserDto.cs",
+              "RelativeDocumentMoniker": "Activitylogin\\Model\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\Activitylogin\\Activitylogin\\Model\\UserDto.cs",
+              "RelativeToolTip": "Activitylogin\\Model\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T05:51:08.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

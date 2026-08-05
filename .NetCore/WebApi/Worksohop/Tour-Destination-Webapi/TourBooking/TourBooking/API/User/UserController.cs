@@ -58,7 +58,7 @@ namespace TourBooking.API.User
         [HttpPost("ForgotPassword")]
         public async Task<IActionResult> ForgotPassword([FromBody] ForgotPasswordRequest request)
         {
-            var dto = _mapper.Map<ForgotPasswordDto>(request);
+            var dto = _mapper.Map<ForgotUserDto>(request);
             var token = await _userService.ForgotPasswordAsync(dto);
 
             if (string.IsNullOrEmpty(token))
