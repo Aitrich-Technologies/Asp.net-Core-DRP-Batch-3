@@ -1,0 +1,115 @@
+﻿@model MVC_Workshop01.Dto.TourDetailsDto
+
+@{
+    ViewData["Title"] = "Booking Details";
+    Layout = "~/Views/Shared/_TourLayout.cshtml";
+}
+
+<div class="container mt-4">
+
+    <div class="row mb-3">
+        <div class="col">
+            <a asp-action="Index" class="btn btn-secondary">
+                <i class="bi bi-arrow-left"></i> Back to Bookings
+            </a>
+        </div>
+    </div>
+
+    <div class="card shadow">
+
+        <div class="card-header bg-primary text-white">
+            <h3 class="mb-0">Booking Details</h3>
+        </div>
+
+        <div class="card-body">
+
+            <div class="row">
+
+                <div class="col-md-6 mb-3">
+                    <strong>First Name</strong>
+                    <p>@Model.Booking.FirstName</p>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <strong>Last Name</strong>
+                    <p>@Model.Booking.LastName</p>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <strong>Gender</strong>
+                    <p>@Model.Booking.Gender</p>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <strong>Date of Birth</strong>
+                    <p>@Model.Booking.Dob</p>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <strong>Citizenship</strong>
+                    <p>@Model.Booking.Citizenship</p>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <strong>Passport Number</strong>
+                    <p>@Model.Booking.PassportNumber</p>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <strong>Issue Date</strong>
+                    <p>@Model.Booking.IssueDate</p>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <strong>Expiry Date</strong>
+                    <p>@Model.Booking.ExpiryDate</p>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <strong>Place of Birth</strong>
+                    <p>@Model.Booking.PlaceOfBirth</p>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <strong>Lead Passenger</strong>
+                    <p>
+                        @if (Model.Booking.LeadPassenger)
+                        {
+                            <span class="badge bg-success">Yes</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-secondary">No</span>
+                        }
+                    </p>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <strong>Participant Type</strong>
+                    <p>@Model.Booking.ParticipantType</p>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <strong>Status</strong>
+                    <p>
+                        <span class="badge bg-primary">
+                            @Model.Booking.Status
+                        </span>
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="card-footer d-flex justify-content-between">
+           
+
+            <a asp-action="Create" class="btn btn-primary">
+                New Booking
+            </a>
+        </div>
+
+    </div>
+
+</div>

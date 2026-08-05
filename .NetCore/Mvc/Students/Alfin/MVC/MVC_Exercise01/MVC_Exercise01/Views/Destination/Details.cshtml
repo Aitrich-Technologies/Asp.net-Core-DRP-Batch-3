@@ -1,0 +1,14 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model MVC_Exercise01.Dto.DestinationResponseDto
+
+<h2>@Model.Name</h2>
+
+@if (!string.IsNullOrEmpty(Model.ImageUrl))
+{
+    <img src="@Model.ImageUrl" style="max-width:400px;" />
+}
+
+<p>@Model.City</p>
+<a asp-action="Index" class="btn btn-secondary">Back</a>
