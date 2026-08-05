@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\activityjwt\\activityjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|solutionrelative:activityjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\activityjwt\\activityjwt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|solutionrelative:activityjwt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\activityjwt\\activityjwt\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|solutionrelative:activityjwt\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\ce9daceb-bf7d-42a8-b315-4179b5679d16_JWT-Login.zip.d16\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\ebf3bc93-f32a-4ea7-8cd2-069460d65f64_JWT-Login.zip.f64\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\94d5ec35-9c41-4aad-84be-a97a0e07c3fc_JWT-Login.zip.3fc\\JWT-Login\\JWT-Login\\Enum\\UserRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\183e7d93-28d2-4d26-8c2d-c6e1890ee178_JWT-Login.zip.178\\JWT-Login\\JWT-Login\\Enum\\UserRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\5d7deaf2-3d25-474a-80dd-4c81c546f50b_JWT-Login.zip.50b\\JWT-Login\\JWT-Login\\Model\\UserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\23804e74-2c6b-4fde-9565-d93cd1abfa18_JWT-Login.zip.a18\\JWT-Login\\JWT-Login\\Model\\UserDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\d574a55b-8d32-4bde-99b9-ac024ba38a19_JWT-Login.zip.a19\\JWT-Login\\JWT-Login\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\0b8bc03f-da6b-4868-8d64-9bf6e416ae22_JWT-Login.zip.e22\\JWT-Login\\JWT-Login\\Model\\LoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\63561d31-cd63-4dc3-8cde-e10c5bf74c30_JWT-Login.zip.c30\\JWT-Login\\JWT-Login\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\f9c64338-9de9-4385-980a-28b56725d805_JWT-Login.zip.805\\JWT-Login\\JWT-Login\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\69fffb93-91f2-4513-9089-164eeaccdbe7_JWT-Login.zip.be7\\JWT-Login\\JWT-Login\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\2e034944-1ec4-4f66-8cf1-6a8b912ba557_JWT-Login.zip.557\\JWT-Login\\JWT-Login\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\activityjwt\\activityjwt\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|solutionrelative:activityjwt\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\activityjwt\\activityjwt\\migrations\\20260716085407_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|solutionrelative:activityjwt\\migrations\\20260716085407_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\activityjwt\\activityjwt\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|solutionrelative:activityjwt\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\activityjwt\\activityjwt\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|solutionrelative:activityjwt\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\activityjwt\\activityjwt\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|solutionrelative:activityjwt\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\activityjwt\\activityjwt\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|solutionrelative:activityjwt\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\activityjwt\\activityjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057042F9-567B-BB26-0E3F-E5486B940C94}|ActivityJWT\\ActivityJWT.csproj|solutionrelative:activityjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\appsettings.json",
+              "RelativeDocumentMoniker": "ActivityJWT\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\appsettings.json",
+              "RelativeToolTip": "ActivityJWT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-16T08:42:01.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\ce9daceb-bf7d-42a8-b315-4179b5679d16_JWT-Login.zip.d16\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\ce9daceb-bf7d-42a8-b315-4179b5679d16_JWT-Login.zip.d16\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\ce9daceb-bf7d-42a8-b315-4179b5679d16_JWT-Login.zip.d16\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\ce9daceb-bf7d-42a8-b315-4179b5679d16_JWT-Login.zip.d16\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs [Read Only]",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:57:19.824Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\ebf3bc93-f32a-4ea7-8cd2-069460d65f64_JWT-Login.zip.f64\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\ebf3bc93-f32a-4ea7-8cd2-069460d65f64_JWT-Login.zip.f64\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\ebf3bc93-f32a-4ea7-8cd2-069460d65f64_JWT-Login.zip.f64\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\ebf3bc93-f32a-4ea7-8cd2-069460d65f64_JWT-Login.zip.f64\\JWT-Login\\JWT-Login\\Controllers\\UserController.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:55:52.518Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260716085407_create.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Migrations\\20260716085407_create.cs",
+              "RelativeDocumentMoniker": "ActivityJWT\\Migrations\\20260716085407_create.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Migrations\\20260716085407_create.cs",
+              "RelativeToolTip": "ActivityJWT\\Migrations\\20260716085407_create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:54:08.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ActivityJWT\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ActivityJWT\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-16T08:46:33.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "ActivityJWT\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Enum\\UserRole.cs",
+              "RelativeToolTip": "ActivityJWT\\Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:33:10.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ActivityJWT\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ActivityJWT\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAuwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:57:09.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Model\\UserDto.cs",
+              "RelativeDocumentMoniker": "ActivityJWT\\Model\\UserDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Model\\UserDto.cs",
+              "RelativeToolTip": "ActivityJWT\\Model\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:28:25.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ActivityJWT\\Model\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "ActivityJWT\\Model\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:26:54.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Model\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ActivityJWT\\Model\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Model\\LoginDto.cs",
+              "RelativeToolTip": "ActivityJWT\\Model\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:22:50.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Model\\User.cs",
+              "RelativeDocumentMoniker": "ActivityJWT\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Model\\User.cs",
+              "RelativeToolTip": "ActivityJWT\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:24:34.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Program.cs",
+              "RelativeDocumentMoniker": "ActivityJWT\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\ActivityJWT\\ActivityJWT\\Program.cs",
+              "RelativeToolTip": "ActivityJWT\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:05:37.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\94d5ec35-9c41-4aad-84be-a97a0e07c3fc_JWT-Login.zip.3fc\\JWT-Login\\JWT-Login\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\94d5ec35-9c41-4aad-84be-a97a0e07c3fc_JWT-Login.zip.3fc\\JWT-Login\\JWT-Login\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\94d5ec35-9c41-4aad-84be-a97a0e07c3fc_JWT-Login.zip.3fc\\JWT-Login\\JWT-Login\\Enum\\UserRole.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\94d5ec35-9c41-4aad-84be-a97a0e07c3fc_JWT-Login.zip.3fc\\JWT-Login\\JWT-Login\\Enum\\UserRole.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:35:42.731Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\183e7d93-28d2-4d26-8c2d-c6e1890ee178_JWT-Login.zip.178\\JWT-Login\\JWT-Login\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\183e7d93-28d2-4d26-8c2d-c6e1890ee178_JWT-Login.zip.178\\JWT-Login\\JWT-Login\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\183e7d93-28d2-4d26-8c2d-c6e1890ee178_JWT-Login.zip.178\\JWT-Login\\JWT-Login\\Enum\\UserRole.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\183e7d93-28d2-4d26-8c2d-c6e1890ee178_JWT-Login.zip.178\\JWT-Login\\JWT-Login\\Enum\\UserRole.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:33:49.112Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\5d7deaf2-3d25-474a-80dd-4c81c546f50b_JWT-Login.zip.50b\\JWT-Login\\JWT-Login\\Model\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\5d7deaf2-3d25-474a-80dd-4c81c546f50b_JWT-Login.zip.50b\\JWT-Login\\JWT-Login\\Model\\UserDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\5d7deaf2-3d25-474a-80dd-4c81c546f50b_JWT-Login.zip.50b\\JWT-Login\\JWT-Login\\Model\\UserDto.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\5d7deaf2-3d25-474a-80dd-4c81c546f50b_JWT-Login.zip.50b\\JWT-Login\\JWT-Login\\Model\\UserDto.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:27:37.868Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\23804e74-2c6b-4fde-9565-d93cd1abfa18_JWT-Login.zip.a18\\JWT-Login\\JWT-Login\\Model\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\23804e74-2c6b-4fde-9565-d93cd1abfa18_JWT-Login.zip.a18\\JWT-Login\\JWT-Login\\Model\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\23804e74-2c6b-4fde-9565-d93cd1abfa18_JWT-Login.zip.a18\\JWT-Login\\JWT-Login\\Model\\UserDbContext.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\23804e74-2c6b-4fde-9565-d93cd1abfa18_JWT-Login.zip.a18\\JWT-Login\\JWT-Login\\Model\\UserDbContext.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:24:52.8Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\d574a55b-8d32-4bde-99b9-ac024ba38a19_JWT-Login.zip.a19\\JWT-Login\\JWT-Login\\Model\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\d574a55b-8d32-4bde-99b9-ac024ba38a19_JWT-Login.zip.a19\\JWT-Login\\JWT-Login\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\d574a55b-8d32-4bde-99b9-ac024ba38a19_JWT-Login.zip.a19\\JWT-Login\\JWT-Login\\Model\\User.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\d574a55b-8d32-4bde-99b9-ac024ba38a19_JWT-Login.zip.a19\\JWT-Login\\JWT-Login\\Model\\User.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:23:40.918Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\0b8bc03f-da6b-4868-8d64-9bf6e416ae22_JWT-Login.zip.e22\\JWT-Login\\JWT-Login\\Model\\LoginDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\0b8bc03f-da6b-4868-8d64-9bf6e416ae22_JWT-Login.zip.e22\\JWT-Login\\JWT-Login\\Model\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\0b8bc03f-da6b-4868-8d64-9bf6e416ae22_JWT-Login.zip.e22\\JWT-Login\\JWT-Login\\Model\\LoginDto.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\0b8bc03f-da6b-4868-8d64-9bf6e416ae22_JWT-Login.zip.e22\\JWT-Login\\JWT-Login\\Model\\LoginDto.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:22:03.784Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\63561d31-cd63-4dc3-8cde-e10c5bf74c30_JWT-Login.zip.c30\\JWT-Login\\JWT-Login\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\63561d31-cd63-4dc3-8cde-e10c5bf74c30_JWT-Login.zip.c30\\JWT-Login\\JWT-Login\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\63561d31-cd63-4dc3-8cde-e10c5bf74c30_JWT-Login.zip.c30\\JWT-Login\\JWT-Login\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\63561d31-cd63-4dc3-8cde-e10c5bf74c30_JWT-Login.zip.c30\\JWT-Login\\JWT-Login\\Program.cs [Read Only]",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:21:01.917Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\f9c64338-9de9-4385-980a-28b56725d805_JWT-Login.zip.805\\JWT-Login\\JWT-Login\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\f9c64338-9de9-4385-980a-28b56725d805_JWT-Login.zip.805\\JWT-Login\\JWT-Login\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\f9c64338-9de9-4385-980a-28b56725d805_JWT-Login.zip.805\\JWT-Login\\JWT-Login\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\f9c64338-9de9-4385-980a-28b56725d805_JWT-Login.zip.805\\JWT-Login\\JWT-Login\\Program.cs [Read Only]",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:20:30.541Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\69fffb93-91f2-4513-9089-164eeaccdbe7_JWT-Login.zip.be7\\JWT-Login\\JWT-Login\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\69fffb93-91f2-4513-9089-164eeaccdbe7_JWT-Login.zip.be7\\JWT-Login\\JWT-Login\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\69fffb93-91f2-4513-9089-164eeaccdbe7_JWT-Login.zip.be7\\JWT-Login\\JWT-Login\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\69fffb93-91f2-4513-9089-164eeaccdbe7_JWT-Login.zip.be7\\JWT-Login\\JWT-Login\\Program.cs [Read Only]",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:18:49.541Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\2e034944-1ec4-4f66-8cf1-6a8b912ba557_JWT-Login.zip.557\\JWT-Login\\JWT-Login\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\2e034944-1ec4-4f66-8cf1-6a8b912ba557_JWT-Login.zip.557\\JWT-Login\\JWT-Login\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\2e034944-1ec4-4f66-8cf1-6a8b912ba557_JWT-Login.zip.557\\JWT-Login\\JWT-Login\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\2e034944-1ec4-4f66-8cf1-6a8b912ba557_JWT-Login.zip.557\\JWT-Login\\JWT-Login\\Program.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:15:55.906Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

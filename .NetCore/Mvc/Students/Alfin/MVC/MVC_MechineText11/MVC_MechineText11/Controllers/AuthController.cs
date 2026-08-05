@@ -1,0 +1,87 @@
+﻿using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Mvc;
+using MVC_MechineText11.Dto;
+using MVC_MechineText11.Interface;
+using System.Security.Claims;
+
+namespace MVC_MechineText11.Controllers
+{
+    public class AuthController : Controller
+    {
+        private readonly IAuthService _authService;
+        public AuthController(IAuthService authService) { _authService = authService; }
+
+        [HttpGet]
+        public IActionResult Register()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Register(RegisterDto model, string password)
+        {
+            if (!ModelState.IsValid) return View(model);
+
+            var (success, error) = await _authService.RegisterAsync(model, password);
+            if (!success)
+            {
+                ModelState.AddModelError("", error);
+                return View(model);
+            }
+
+            return RedirectToAction(nameof(Login));
+        }
+
+        [HttpGet]
+        public IActionResult Login(string returnUrl = null)
+        {
+            ViewData["ReturnUrl"] = returnUrl;
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Login(string Email, string password, string returnUrl = null)
+        {
+            var (success, user, error) = await _authService.ValidateUserAsync(Email, password);
+            if (!success)
+            {
+                ModelState.AddModelError("", error);
+                return View();
+            }
+
+            var claims = new List<Claim>
+            {
+               new Claim("UserId", user.Id.ToString()),
+
+               new Claim(ClaimTypes.Email, user.Email ?? string.Empty),
+              new Claim("Password", user.Password)
+            };
+
+
+            var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+            var principal = new ClaimsPrincipal(identity);
+
+            await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal,
+                new AuthenticationProperties { IsPersistent = true, ExpiresUtc = DateTimeOffset.UtcNow.AddHours(8) });
+
+            if (!string.IsNullOrEmpty(returnUrl) && Url.IsLocalUrl(returnUrl))
+                return Redirect(returnUrl);
+
+
+            return RedirectToAction("Index", "TourPackage");
+        }
+        [HttpGet]
+        public async Task<IActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+
+            HttpContext.Session.Clear();
+
+            return RedirectToAction("Login", "Auth");
+        }
+    }
+}
+

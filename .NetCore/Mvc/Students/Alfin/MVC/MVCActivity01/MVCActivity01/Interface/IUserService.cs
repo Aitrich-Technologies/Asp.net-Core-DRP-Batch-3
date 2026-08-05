@@ -1,0 +1,10 @@
+﻿using MVCActivity01.Dto;
+
+namespace MVCActivity01.Interface
+{
+    public interface IUserService
+    {
+        Task<bool> RegisterUserAsync(RegisterDto registerDto);
+        Task<UserDto> LoginAsync(LoginDto loginDto);
+    }
+}

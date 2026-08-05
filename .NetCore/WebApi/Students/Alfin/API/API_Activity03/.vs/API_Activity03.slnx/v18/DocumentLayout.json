@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\b055f66e-1550-493a-8a5a-d72526650b2b_Login_Activity - Copy.zip.b2b\\Login_Activity - Copy\\Login_Activity\\Model\\EmailSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\migrations\\20260719174832_newcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\migrations\\20260719174832_newcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\migrations\\20260719174408_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\migrations\\20260719174408_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\model\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\model\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\model\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\model\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\api\\api_activity03\\api_activity03\\api_activity03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2493F78-39BF-5A4E-BFE6-228A933F2BAF}|API_Activity03\\API_Activity03.csproj|solutionrelative:api_activity03\\api_activity03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\appsettings.json",
+              "RelativeDocumentMoniker": "API_Activity03\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\appsettings.json",
+              "RelativeToolTip": "API_Activity03\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-19T17:39:18.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\service\\IEmailService.cs",
+              "RelativeDocumentMoniker": "API_Activity03\\service\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\service\\IEmailService.cs",
+              "RelativeToolTip": "API_Activity03\\service\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T17:51:51.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260719174832_newcreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Migrations\\20260719174832_newcreate.cs",
+              "RelativeDocumentMoniker": "API_Activity03\\Migrations\\20260719174832_newcreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Migrations\\20260719174832_newcreate.cs",
+              "RelativeToolTip": "API_Activity03\\Migrations\\20260719174832_newcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T17:48:32.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Model\\User.cs",
+              "RelativeDocumentMoniker": "API_Activity03\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Model\\User.cs",
+              "RelativeToolTip": "API_Activity03\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T16:53:27.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Model\\LoginDto.cs",
+              "RelativeDocumentMoniker": "API_Activity03\\Model\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Model\\LoginDto.cs",
+              "RelativeToolTip": "API_Activity03\\Model\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T16:52:18.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API_Activity03\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API_Activity03\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T18:00:05.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\service\\EmailService.cs",
+              "RelativeDocumentMoniker": "API_Activity03\\service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\service\\EmailService.cs",
+              "RelativeToolTip": "API_Activity03\\service\\EmailService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T17:52:36.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Program.cs",
+              "RelativeDocumentMoniker": "API_Activity03\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Program.cs",
+              "RelativeToolTip": "API_Activity03\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwE8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T16:58:38.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260719174408_create.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Migrations\\20260719174408_create.cs",
+              "RelativeDocumentMoniker": "API_Activity03\\Migrations\\20260719174408_create.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Migrations\\20260719174408_create.cs",
+              "RelativeToolTip": "API_Activity03\\Migrations\\20260719174408_create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T17:44:09.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Model\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "API_Activity03\\Model\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Model\\UserDbContext.cs",
+              "RelativeToolTip": "API_Activity03\\Model\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T16:54:30.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Model\\UserDto.cs",
+              "RelativeDocumentMoniker": "API_Activity03\\Model\\UserDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Model\\UserDto.cs",
+              "RelativeToolTip": "API_Activity03\\Model\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T16:55:47.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Model\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "API_Activity03\\Model\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Model\\EmailSettings.cs",
+              "RelativeToolTip": "API_Activity03\\Model\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T16:50:11.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_Activity03\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_Activity03\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-19T17:40:59.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "API_Activity03\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\Enum\\UserRole.cs",
+              "RelativeToolTip": "API_Activity03\\Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T16:56:31.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "API_Activity03.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\API_Activity03.csproj",
+              "RelativeDocumentMoniker": "API_Activity03\\API_Activity03.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\API\\API_Activity03\\API_Activity03\\API_Activity03.csproj",
+              "RelativeToolTip": "API_Activity03\\API_Activity03.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-19T16:48:31.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\b055f66e-1550-493a-8a5a-d72526650b2b_Login_Activity - Copy.zip.b2b\\Login_Activity - Copy\\Login_Activity\\Model\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\b055f66e-1550-493a-8a5a-d72526650b2b_Login_Activity - Copy.zip.b2b\\Login_Activity - Copy\\Login_Activity\\Model\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\b055f66e-1550-493a-8a5a-d72526650b2b_Login_Activity - Copy.zip.b2b\\Login_Activity - Copy\\Login_Activity\\Model\\EmailSettings.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\b055f66e-1550-493a-8a5a-d72526650b2b_Login_Activity - Copy.zip.b2b\\Login_Activity - Copy\\Login_Activity\\Model\\EmailSettings.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T16:47:44.232Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

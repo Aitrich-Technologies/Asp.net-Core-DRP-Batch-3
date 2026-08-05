@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|c:\\users\\asus\\source\\repos\\mvcactivity02\\mvcactivity02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|solutionrelative:mvcactivity02\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|c:\\users\\asus\\source\\repos\\mvcactivity02\\mvcactivity02\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|solutionrelative:mvcactivity02\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|c:\\users\\asus\\source\\repos\\mvcactivity02\\mvcactivity02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|solutionrelative:mvcactivity02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|c:\\users\\asus\\source\\repos\\mvcactivity02\\mvcactivity02\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|solutionrelative:mvcactivity02\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|c:\\users\\asus\\source\\repos\\mvcactivity02\\mvcactivity02\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|solutionrelative:mvcactivity02\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|c:\\users\\asus\\source\\repos\\mvcactivity02\\mvcactivity02\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|solutionrelative:mvcactivity02\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|c:\\users\\asus\\source\\repos\\mvcactivity02\\mvcactivity02\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|solutionrelative:mvcactivity02\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|c:\\users\\asus\\source\\repos\\mvcactivity02\\mvcactivity02\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|solutionrelative:mvcactivity02\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|c:\\users\\asus\\source\\repos\\mvcactivity02\\mvcactivity02\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|solutionrelative:mvcactivity02\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|c:\\users\\asus\\source\\repos\\mvcactivity02\\mvcactivity02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|solutionrelative:mvcactivity02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|c:\\users\\asus\\source\\repos\\mvcactivity02\\mvcactivity02\\migrations\\20260705145838_newcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|solutionrelative:mvcactivity02\\migrations\\20260705145838_newcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|c:\\users\\asus\\source\\repos\\mvcactivity02\\mvcactivity02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|solutionrelative:mvcactivity02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|c:\\users\\asus\\source\\repos\\mvcactivity02\\mvcactivity02\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4DAB80-9D0F-57C7-4754-C065CBDD78D8}|MVCActivity02\\MVCActivity02.csproj|solutionrelative:mvcactivity02\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "MVCActivity02\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "MVCActivity02\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-06T03:51:28.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCActivity02\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "MVCActivity02\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T16:06:40.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVCActivity02\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVCActivity02\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T15:30:44.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVCActivity02\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "MVCActivity02\\Views\\Student\\Add.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T16:06:22.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCActivity02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCActivity02\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T16:57:47.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Views\\Student\\List.cshtml",
+              "RelativeDocumentMoniker": "MVCActivity02\\Views\\Student\\List.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Views\\Student\\List.cshtml",
+              "RelativeToolTip": "MVCActivity02\\Views\\Student\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-05T16:07:00.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "MVCActivity02\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "MVCActivity02\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T14:11:47.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVCActivity02\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "MVCActivity02\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T14:21:01.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "MVCActivity02\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "MVCActivity02\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T14:39:02.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Program.cs",
+              "RelativeDocumentMoniker": "MVCActivity02\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Program.cs",
+              "RelativeToolTip": "MVCActivity02\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T14:47:36.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260705145838_NewCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Migrations\\20260705145838_NewCreate.cs",
+              "RelativeDocumentMoniker": "MVCActivity02\\Migrations\\20260705145838_NewCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Migrations\\20260705145838_NewCreate.cs",
+              "RelativeToolTip": "MVCActivity02\\Migrations\\20260705145838_NewCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T14:58:39.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCActivity02\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\appsettings.json",
+              "RelativeToolTip": "MVCActivity02\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-05T14:53:50.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVCActivity02\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MVCActivity02\\MVCActivity02\\Models\\Student.cs",
+              "RelativeToolTip": "MVCActivity02\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T14:14:17.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
