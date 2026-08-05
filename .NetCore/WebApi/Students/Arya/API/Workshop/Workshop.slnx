@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Domain/Domain.csproj" Id="c8e3eccd-d4fb-42af-9230-0f1ff92097e2" />
+  <Project Path="Workshop/Workshop.csproj" />
+</Solution>
