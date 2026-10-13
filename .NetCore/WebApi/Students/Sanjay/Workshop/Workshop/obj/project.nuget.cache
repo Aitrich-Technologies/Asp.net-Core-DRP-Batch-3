@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KKz0rnYWWXg=",
+  "dgSpecHash": "fIvpUamveeU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\Workshop.csproj",
+  "projectFilePath": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\Workshop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PRIME\\.nuget\\packages\\automapper\\16.2.0\\automapper.16.2.0.nupkg.sha512",
     "C:\\Users\\PRIME\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
