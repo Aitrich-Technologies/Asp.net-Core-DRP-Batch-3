@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\migrations\\20260721160143_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\migrations\\20260721160143_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\emailactivity.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\emailactivity.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\migrations\\20260721094915_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\migrations\\20260721094915_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\emailactivity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\emailactivity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|c:\\users\\lenovo\\onedrive\\desktop\\api\\emailactivity\\emailactivity\\migrations\\20260721153601_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E37FD-2244-C6D6-7890-B4506E987A08}|EmailActivity\\EmailActivity.csproj|solutionrelative:emailactivity\\migrations\\20260721153601_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260721160143_intialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Migrations\\20260721160143_intialcreate.cs",
+              "RelativeDocumentMoniker": "EmailActivity\\Migrations\\20260721160143_intialcreate.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Migrations\\20260721160143_intialcreate.cs",
+              "RelativeToolTip": "EmailActivity\\Migrations\\20260721160143_intialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T16:01:43.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EmailActivity\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EmailActivity\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T15:39:07.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "EmailActivity\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Services\\EmailService.cs",
+              "RelativeToolTip": "EmailActivity\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T09:51:02.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "EmailActivity\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Services\\IEmailService.cs",
+              "RelativeToolTip": "EmailActivity\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T09:50:36.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "EmailActivity\\Models\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "EmailActivity\\Models\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T09:46:24.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Program.cs",
+              "RelativeDocumentMoniker": "EmailActivity\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Program.cs",
+              "RelativeToolTip": "EmailActivity\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T09:42:52.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\appsettings.json",
+              "RelativeDocumentMoniker": "EmailActivity\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\appsettings.json",
+              "RelativeToolTip": "EmailActivity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-21T09:33:32.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "EmailActivity\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "EmailActivity\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T15:49:43.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EmailActivity\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Models\\User.cs",
+              "RelativeToolTip": "EmailActivity\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T09:45:48.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "EmailActivity\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "EmailActivity\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T15:49:21.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260721153601_added.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Migrations\\20260721153601_added.cs",
+              "RelativeDocumentMoniker": "EmailActivity\\Migrations\\20260721153601_added.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Migrations\\20260721153601_added.cs",
+              "RelativeToolTip": "EmailActivity\\Migrations\\20260721153601_added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T15:36:01.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmailActivity\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "EmailActivity\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T09:46:56.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailActivity.http",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\EmailActivity.http",
+              "RelativeDocumentMoniker": "EmailActivity\\EmailActivity.http",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\EmailActivity.http",
+              "RelativeToolTip": "EmailActivity\\EmailActivity.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-07-21T10:23:44.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260721094915_create.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Migrations\\20260721094915_create.cs",
+              "RelativeDocumentMoniker": "EmailActivity\\Migrations\\20260721094915_create.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Migrations\\20260721094915_create.cs",
+              "RelativeToolTip": "EmailActivity\\Migrations\\20260721094915_create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T09:49:16.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmailActivity\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmailActivity\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-21T09:41:58.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmailActivity.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\EmailActivity.csproj",
+              "RelativeDocumentMoniker": "EmailActivity\\EmailActivity.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\API\\EmailActivity\\EmailActivity\\EmailActivity.csproj",
+              "RelativeToolTip": "EmailActivity\\EmailActivity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-21T09:28:50.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -16,11 +16,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\Workshop.csproj",
       "projectName": "Workshop",
       "projectPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\Workshop.csproj",
       "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\Workshop.csproj",
+      "projectName": "Workshop",
+      "projectPath": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\Workshop.csproj",
+      "packagesPath": "C:\\Users\\PRIME\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\obj\\",
+>>>>>>> a039903d68fbc0f743fd283d382418a411e2b5f5
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -41,8 +49,13 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Domain.csproj": {
               "projectPath": "C:\\Users\\razal\\Desktop\\GIT CORE\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Domain.csproj"
+=======
+            "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\PRIME\\Desktop\\AitrichMainFile\\Asp.net-Core-DRP-Batch-3\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Domain.csproj"
+>>>>>>> a039903d68fbc0f743fd283d382418a411e2b5f5
             }
           }
         }

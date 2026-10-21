@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:controllers\\tourbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\helper\\appprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:helper\\appprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\views\\tourbooking\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:views\\tourbooking\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|c:\\users\\asus\\onedrive\\desktop\\main file\\asp.net-core-drp-batch-3\\.netcore\\mvc\\workshop\\tourbookingmvcapplication\\helper\\appprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D26E2147-F8EA-47EC-AAD9-8826409E6DE9}|TourBookingMVCApplication.csproj|solutionrelative:helper\\appprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,14 +56,14 @@
               "RelativeDocumentMoniker": "Controllers\\TourBookingController.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Controllers\\TourBookingController.cs",
               "RelativeToolTip": "Controllers\\TourBookingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwGcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T09:27:35.715Z",
+              "WhenOpened": "2026-07-28T14:58:34.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Auth\\Register.cshtml",
@@ -71,11 +71,11 @@
               "RelativeToolTip": "Views\\Auth\\Register.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-06T09:29:31.886Z"
+              "WhenOpened": "2026-07-28T14:58:34.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -83,11 +83,11 @@
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAowDQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T09:26:36.471Z"
+              "WhenOpened": "2026-07-28T14:58:34.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Views\\TourBooking\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\TourBooking\\Index.cshtml",
@@ -95,11 +95,11 @@
               "RelativeToolTip": "Views\\TourBooking\\Index.cshtml",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAE4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-06T09:30:06.804Z"
+              "WhenOpened": "2026-07-28T14:58:34.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Views\\TourBooking\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\TourBooking\\Details.cshtml",
@@ -107,11 +107,11 @@
               "RelativeToolTip": "Views\\TourBooking\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-06T09:30:02.624Z"
+              "WhenOpened": "2026-07-28T14:58:34.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Views\\TourBooking\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\TourBooking\\Create.cshtml",
@@ -119,11 +119,24 @@
               "RelativeToolTip": "Views\\TourBooking\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-06T09:30:00.132Z"
+              "WhenOpened": "2026-07-28T14:58:34.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "AppProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Helper\\AppProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AppProfile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Helper\\AppProfile.cs",
+              "RelativeToolTip": "Helper\\AppProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:58:34.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AccessDenied.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Views\\TourBooking\\AccessDenied.cshtml",
               "RelativeDocumentMoniker": "Views\\TourBooking\\AccessDenied.cshtml",
@@ -131,11 +144,11 @@
               "RelativeToolTip": "Views\\TourBooking\\AccessDenied.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-06T09:29:41.555Z"
+              "WhenOpened": "2026-07-28T14:58:34.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
@@ -143,19 +156,7 @@
               "RelativeToolTip": "Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-06T09:29:24.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Helper\\AppProfile.cs",
-              "RelativeDocumentMoniker": "Helper\\AppProfile.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\main file\\Asp.net-Core-DRP-Batch-3\\.NetCore\\Mvc\\Workshop\\TourBookingMVCApplication\\Helper\\AppProfile.cs",
-              "RelativeToolTip": "Helper\\AppProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T11:46:57.407Z"
+              "WhenOpened": "2026-07-28T14:58:34.676Z"
             }
           ]
         }

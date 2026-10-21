@@ -25,7 +25,7 @@ namespace TourBooking.API.User.Helper
 
             CreateMap<PatchUserRequest, PatchUserDto>().ReverseMap();
 
-            CreateMap<ForgotPasswordDto,ForgotPasswordRequest>().ReverseMap();
+            CreateMap<ForgotUserDto,ForgotPasswordRequest>().ReverseMap();
             CreateMap<VerifyCodeDto, VerifyCodeRequest>().ReverseMap();
 
             CreateMap<ResetPasswordRequest, ResetPasswordDto>().ReverseMap();

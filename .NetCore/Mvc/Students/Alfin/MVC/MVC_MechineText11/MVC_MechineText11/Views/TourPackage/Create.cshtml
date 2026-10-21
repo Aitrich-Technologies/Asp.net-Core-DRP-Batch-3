@@ -1,0 +1,55 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model MVC_MechineText11.Dto.TourPackageDto
+
+<h2>Add Tour Package</h2>
+
+<hr />
+
+<form asp-action="Create" method="post" autocomplete="off">
+
+    <div class="mb-3">
+        <label asp-for="PackageName" class="form-label"></label>
+        <input asp-for="PackageName" class="form-control" autocomplete="off" />
+        <span asp-validation-for="PackageName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Destination" class="form-label"></label>
+        <input asp-for="Destination" class="form-control" autocomplete="off" />
+        <span asp-validation-for="Destination" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Price" class="form-label"></label>
+        <input asp-for="Price" type="number" class="form-control" autocomplete="off" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Duration" class="form-label"></label>
+        <input asp-for="Duration" class="form-control" autocomplete="off" />
+        <span asp-validation-for="Duration" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <textarea asp-for="Description" class="form-control" autocomplete="off"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">
+        Save
+    </button>
+
+    <a asp-action="Index" class="btn btn-secondary">
+        Back
+    </a>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

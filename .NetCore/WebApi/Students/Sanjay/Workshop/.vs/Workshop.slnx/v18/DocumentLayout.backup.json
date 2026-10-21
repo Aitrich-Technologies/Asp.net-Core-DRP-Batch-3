@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\dto\\destinationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\dto\\destinationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\destinations\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\destinations\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,22 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\dto\\destinationpatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\dto\\destinationpatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\dto\\destinationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\dto\\destinationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -77,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\extension\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\extension\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\destinations\\requestobjects\\createdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -234,7 +234,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -242,43 +242,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DestinationResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
-              "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T05:35:54.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DestinationPatchDto.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
-              "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T05:35:12.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DestinationUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationUpdateDto.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationUpdateDto.cs",
               "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationUpdateDto.cs",
               "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T14:50:46.32Z"
+              "WhenOpened": "2026-07-23T14:50:46.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "DestinationController.cs",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\Destinations\\DestinationController.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\Destinations\\DestinationController.cs",
@@ -291,31 +268,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "DestinationService.cs",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DestinationService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DestinationService.cs",
               "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DestinationService.cs",
               "RelativeToolTip": "Domain\\Services\\Destinations\\DestinationService.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAswEIAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAA5wEIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T05:32:42.118Z"
+              "WhenOpened": "2026-07-23T05:32:42.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "IDestinationService.cs",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
               "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
               "RelativeToolTip": "Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T05:33:10.197Z"
+              "WhenOpened": "2026-07-23T05:33:10.197Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "DestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DestinationRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DestinationRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DestinationRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\DestinationRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T05:32:07.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T05:33:34.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DestinationPatchDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T05:35:12.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DestinationResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
+              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T05:35:54.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\Program.cs",
               "RelativeDocumentMoniker": "Workshop\\Program.cs",
@@ -327,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ForgotPasswordRequest.cs",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\ForgotPasswordRequest.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\User\\RequestObjects\\ForgotPasswordRequest.cs",
@@ -336,18 +365,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-22T14:01:20.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DestinationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DestinationRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DestinationRepository.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DestinationRepository.cs",
-              "RelativeToolTip": "Domain\\Services\\Destinations\\DestinationRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T05:32:07.375Z"
             },
             {
               "$type": "Document",
@@ -363,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Workshop.csproj",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\Workshop.csproj",
               "RelativeDocumentMoniker": "Workshop\\Workshop.csproj",
@@ -375,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\appsettings.json",
               "RelativeDocumentMoniker": "Workshop\\appsettings.json",
@@ -387,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
@@ -399,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Helper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Domain\\Helper\\MappingProfile.cs",
@@ -411,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\UserService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\User\\UserService.cs",
@@ -423,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\UserRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\User\\UserRepository.cs",
@@ -435,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\UserController.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\User\\UserController.cs",
@@ -447,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\Helper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\User\\Helper\\MappingProfile.cs",
@@ -459,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "TourBookingDbContext.cs",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\TourBookingDbContext.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\TourBookingDbContext.cs",
@@ -471,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ApplicationServiceExtensions.cs",
               "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Extension\\ApplicationServiceExtensions.cs",
               "RelativeDocumentMoniker": "Domain\\Extension\\ApplicationServiceExtensions.cs",
@@ -480,18 +497,6 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAjwBgAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-21T16:07:33.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IDestinationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
-              "RelativeToolTip": "Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T05:33:34.38Z"
             },
             {
               "$type": "Document",
