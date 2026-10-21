@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB13AD7-2A86-4F56-AE52-8B388433689B}|HireMeNow_WebApi\\HireMeNow_WebApi.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\ttd\\jobworkshop\\workshop 1\\workshop 1\\hiremenow_webapi_\\hiremenow_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFB13AD7-2A86-4F56-AE52-8B388433689B}|HireMeNow_WebApi\\HireMeNow_WebApi.csproj|solutionrelative:hiremenow_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB13AD7-2A86-4F56-AE52-8B388433689B}|HireMeNow_WebApi\\HireMeNow_WebApi.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\ttd\\jobworkshop\\workshop 1\\workshop 1\\hiremenow_webapi_\\hiremenow_webapi\\extensions\\httpextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB13AD7-2A86-4F56-AE52-8B388433689B}|HireMeNow_WebApi\\HireMeNow_WebApi.csproj|solutionrelative:hiremenow_webapi\\extensions\\httpextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB13AD7-2A86-4F56-AE52-8B388433689B}|HireMeNow_WebApi\\HireMeNow_WebApi.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\ttd\\jobworkshop\\workshop 1\\workshop 1\\hiremenow_webapi_\\hiremenow_webapi\\extensions\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB13AD7-2A86-4F56-AE52-8B388433689B}|HireMeNow_WebApi\\HireMeNow_WebApi.csproj|solutionrelative:hiremenow_webapi\\extensions\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB13AD7-2A86-4F56-AE52-8B388433689B}|HireMeNow_WebApi\\HireMeNow_WebApi.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\ttd\\jobworkshop\\workshop 1\\workshop 1\\hiremenow_webapi_\\hiremenow_webapi\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB13AD7-2A86-4F56-AE52-8B388433689B}|HireMeNow_WebApi\\HireMeNow_WebApi.csproj|solutionrelative:hiremenow_webapi\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F342C715-BA9F-455A-9A63-D96729D472D4}|HireMeNowWebApiTest\\HireMeNowWebApiTest.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\ttd\\jobworkshop\\workshop 1\\workshop 1\\hiremenow_webapi_\\hiremenowwebapitest\\controller\\admincontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F342C715-BA9F-455A-9A63-D96729D472D4}|HireMeNowWebApiTest\\HireMeNowWebApiTest.csproj|solutionrelative:hiremenowwebapitest\\controller\\admincontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F342C715-BA9F-455A-9A63-D96729D472D4}|HireMeNowWebApiTest\\HireMeNowWebApiTest.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\ttd\\jobworkshop\\workshop 1\\workshop 1\\hiremenow_webapi_\\hiremenowwebapitest\\fixtures\\apiwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F342C715-BA9F-455A-9A63-D96729D472D4}|HireMeNowWebApiTest\\HireMeNowWebApiTest.csproj|solutionrelative:hiremenowwebapitest\\fixtures\\apiwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB13AD7-2A86-4F56-AE52-8B388433689B}|HireMeNow_WebApi\\HireMeNow_WebApi.csproj|c:\\users\\lenovo\\documents\\training\\asp.net.core\\api\\ttd\\jobworkshop\\workshop 1\\workshop 1\\hiremenow_webapi_\\hiremenow_webapi\\api\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB13AD7-2A86-4F56-AE52-8B388433689B}|HireMeNow_WebApi\\HireMeNow_WebApi.csproj|solutionrelative:hiremenow_webapi\\api\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNow_WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "HireMeNow_WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNow_WebApi\\appsettings.json",
+              "RelativeToolTip": "HireMeNow_WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-02T09:05:43.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HttpExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNow_WebApi\\Extensions\\HttpExtensions.cs",
+              "RelativeDocumentMoniker": "HireMeNow_WebApi\\Extensions\\HttpExtensions.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNow_WebApi\\Extensions\\HttpExtensions.cs",
+              "RelativeToolTip": "HireMeNow_WebApi\\Extensions\\HttpExtensions.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T08:54:56.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNow_WebApi\\Extensions\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "HireMeNow_WebApi\\Extensions\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNow_WebApi\\Extensions\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "HireMeNow_WebApi\\Extensions\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T08:54:25.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNow_WebApi\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "HireMeNow_WebApi\\Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNow_WebApi\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "HireMeNow_WebApi\\Extensions\\ApplicationServiceExtensions.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T08:54:08.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNowWebApiTest\\Fixtures\\ApiWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "HireMeNowWebApiTest\\Fixtures\\ApiWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNowWebApiTest\\Fixtures\\ApiWebApplicationFactory.cs",
+              "RelativeToolTip": "HireMeNowWebApiTest\\Fixtures\\ApiWebApplicationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T04:40:23.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNowWebApiTest\\Controller\\AdminControllerTests.cs",
+              "RelativeDocumentMoniker": "HireMeNowWebApiTest\\Controller\\AdminControllerTests.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNowWebApiTest\\Controller\\AdminControllerTests.cs",
+              "RelativeToolTip": "HireMeNowWebApiTest\\Controller\\AdminControllerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T04:39:02.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNow_WebApi\\API\\Admin\\AdminController.cs",
+              "RelativeDocumentMoniker": "HireMeNow_WebApi\\API\\Admin\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Training\\ASP.NET.Core\\API\\TTD\\JobWorkshop\\Workshop 1\\Workshop 1\\HireMeNow_WebApi_\\HireMeNow_WebApi\\API\\Admin\\AdminController.cs",
+              "RelativeToolTip": "HireMeNow_WebApi\\API\\Admin\\AdminController.cs",
+              "ViewState": "AgIAABABAAAAAAAAAADwvywBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T04:33:41.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

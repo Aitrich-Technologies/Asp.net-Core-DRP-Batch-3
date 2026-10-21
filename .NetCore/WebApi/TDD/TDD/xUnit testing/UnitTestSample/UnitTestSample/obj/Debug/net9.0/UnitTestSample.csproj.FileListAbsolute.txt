@@ -1,0 +1,15 @@
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.exe
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.deps.json
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.runtimeconfig.json
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.dll
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\bin\Debug\net9.0\UnitTestSample.pdb
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.AssemblyInfoInputs.cache
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.AssemblyInfo.cs
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.csproj.CoreCompileInputs.cache
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.sourcelink.json
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.dll
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\refint\UnitTestSample.dll
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.pdb
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\UnitTestSample.genruntimeconfig.cache
+C:\Users\razal\Desktop\GIT CORE\Asp.net-Core-DRP-Batch-3\.NetCore\WebApi\TDD\TDD\xUnit testing\UnitTestSample\UnitTestSample\obj\Debug\net9.0\ref\UnitTestSample.dll
