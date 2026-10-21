@@ -1,229 +1,229 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\",
+  "WorkspaceRootPath": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\dto\\destinationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\dto\\destinationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\destinations\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\destinations\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\interface\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\destinations\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\interface\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\destinations\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\destinations\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\destinations\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\dto\\destinationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\dto\\destinationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\dto\\destinationpatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\dto\\destinationpatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\workshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\workshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\user\\requestobjects\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\requestobjects\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\user\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\models\\tourbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\tourbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\extension\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\extension\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\destinations\\requestobjects\\createdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\destinations\\requestobjects\\createdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\destinations\\requestobjects\\patchdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\destinations\\requestobjects\\patchdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\destinations\\requestobjects\\updatedestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\destinations\\requestobjects\\updatedestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\destinations\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\destinations\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\user\\dto\\verifycodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\verifycodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\destinations\\dto\\destinationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\dto\\destinationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\user\\requestobjects\\verifycoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\requestobjects\\verifycoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\destinations\\dto\\destinationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\dto\\destinationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\user\\requestobjects\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\requestobjects\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\destinations\\dto\\destinationpatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\destinations\\dto\\destinationpatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\user\\dto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\user\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\user\\requestobjects\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\requestobjects\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\user\\requestobjects\\patchuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\requestobjects\\patchuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\user\\dto\\patchuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\patchuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\user\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\user\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\user\\requestobjects\\adduserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\requestobjects\\adduserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\user\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\user\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\user\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\services\\user\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\user\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\api\\user\\requestobjects\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\requestobjects\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\user\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\models\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\user\\dto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\enums\\notestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\notestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\models\\tourss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\tourss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\models\\participantinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\participantinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\models\\termsandcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\termsandcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\models\\tourbookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\tourbookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\enums\\tourstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\tourstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\enums\\participanttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\participanttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\prime\\desktop\\api\\workshop\\workshop\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\api\\destinations\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\destinations\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\workshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\workshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\api\\user\\requestobjects\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\requestobjects\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\api\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\api\\user\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\models\\tourbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\tourbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\extension\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\extension\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\api\\destinations\\requestobjects\\createdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\destinations\\requestobjects\\createdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\api\\destinations\\requestobjects\\patchdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\destinations\\requestobjects\\patchdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\api\\destinations\\requestobjects\\updatedestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\destinations\\requestobjects\\updatedestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\user\\dto\\verifycodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\verifycodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\api\\user\\requestobjects\\verifycoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\requestobjects\\verifycoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\api\\user\\requestobjects\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\requestobjects\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\user\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\api\\user\\requestobjects\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\requestobjects\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\api\\user\\requestobjects\\patchuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\requestobjects\\patchuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\user\\dto\\patchuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\patchuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\user\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\api\\user\\requestobjects\\adduserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\requestobjects\\adduserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\services\\user\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\user\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\api\\user\\requestobjects\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\api\\user\\requestobjects\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\models\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\enums\\notestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\notestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\models\\tourss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\tourss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\models\\participantinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\participantinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\models\\termsandcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\termsandcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\models\\tourbookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\tourbookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\enums\\tourstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\tourstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\enums\\participanttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\participanttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\workshop\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45BDAAA6-B25E-FE19-1CE4-B13E35DE754D}|Workshop\\Workshop.csproj|solutionrelative:workshop\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\migrations\\20260722075149_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\migrations\\20260722075149_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20260722075149_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\prime\\desktop\\api\\workshop\\domain\\migrations\\20260723082047_destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\arya\\desktop\\asp.net core\\arya\\.netcore\\webapi\\students\\sanjay\\workshop\\domain\\migrations\\20260723082047_destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20260723082047_destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -234,71 +234,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DestinationUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationUpdateDto.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationUpdateDto.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationUpdateDto.cs",
-              "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T14:50:46.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DestinationController.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\Destinations\\DestinationController.cs",
-              "RelativeDocumentMoniker": "Workshop\\API\\Destinations\\DestinationController.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\Destinations\\DestinationController.cs",
-              "RelativeToolTip": "Workshop\\API\\Destinations\\DestinationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T05:51:21.098Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DestinationService.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DestinationService.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DestinationService.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DestinationService.cs",
-              "RelativeToolTip": "Domain\\Services\\Destinations\\DestinationService.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAA5wEIAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T05:32:42.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IDestinationService.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
-              "RelativeToolTip": "Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T05:33:10.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "DestinationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\DestinationRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DestinationRepository.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DestinationRepository.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\DestinationRepository.cs",
               "RelativeToolTip": "Domain\\Services\\Destinations\\DestinationRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -309,9 +253,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IDestinationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
               "RelativeToolTip": "Domain\\Services\\Destinations\\Interface\\IDestinationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -320,35 +264,192 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DestinationPatchDto.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
-              "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IDestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\Interface\\IDestinationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T05:35:12.204Z"
+              "WhenOpened": "2026-07-23T05:33:10.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\DestinationService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DestinationService.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\DestinationService.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\DestinationService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwvx0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T05:32:42.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestinationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationDto.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationDto.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T05:34:46.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DestinationUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationUpdateDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationUpdateDto.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T14:50:46.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "DestinationResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
               "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T05:35:54.001Z"
+              "WhenOpened": "2026-07-23T05:35:54.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DestinationPatchDto.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
+              "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationPatchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T05:35:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\UserService.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\UserService.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\UserService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T10:13:35.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\UserRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T10:13:26.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T08:01:02.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T08:00:41.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\DTO\\AddUserDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\AddUserDto.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\DTO\\AddUserDto.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\DTO\\AddUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T08:03:37.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\DTO\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\UserResponseDto.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\DTO\\UserResponseDto.cs",
+              "RelativeToolTip": "Domain\\Services\\User\\DTO\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T09:43:55.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\AuthUser.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\AuthUser.cs",
+              "RelativeToolTip": "Domain\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T16:08:01.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DestinationController.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\Destinations\\DestinationController.cs",
+              "RelativeDocumentMoniker": "Workshop\\API\\Destinations\\DestinationController.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\Destinations\\DestinationController.cs",
+              "RelativeToolTip": "Workshop\\API\\Destinations\\DestinationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T05:51:21.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\Program.cs",
               "RelativeDocumentMoniker": "Workshop\\Program.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\Program.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\Program.cs",
               "RelativeToolTip": "Workshop\\Program.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAE0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -356,11 +457,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "ForgotPasswordRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\ForgotPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\RequestObjects\\ForgotPasswordRequest.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\User\\RequestObjects\\ForgotPasswordRequest.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\ForgotPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\RequestObjects\\ForgotPasswordRequest.cs",
               "RelativeToolTip": "Workshop\\API\\User\\RequestObjects\\ForgotPasswordRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -370,9 +471,9 @@
               "$type": "Document",
               "DocumentIndex": 55,
               "Title": "20260723082047_Destination.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Migrations\\20260723082047_Destination.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Migrations\\20260723082047_Destination.cs",
               "RelativeDocumentMoniker": "Domain\\Migrations\\20260723082047_Destination.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Migrations\\20260723082047_Destination.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Migrations\\20260723082047_Destination.cs",
               "RelativeToolTip": "Domain\\Migrations\\20260723082047_Destination.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -380,11 +481,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Workshop.csproj",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\Workshop.csproj",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\Workshop.csproj",
               "RelativeDocumentMoniker": "Workshop\\Workshop.csproj",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\Workshop.csproj",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\Workshop.csproj",
               "RelativeToolTip": "Workshop\\Workshop.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -392,11 +493,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\appsettings.json",
               "RelativeDocumentMoniker": "Workshop\\appsettings.json",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\appsettings.json",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\appsettings.json",
               "RelativeToolTip": "Workshop\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -404,11 +505,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Domain.csproj",
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -416,11 +517,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Helper\\MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Helper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Domain\\Helper\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Helper\\MappingProfile.cs",
               "RelativeToolTip": "Domain\\Helper\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -428,35 +529,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\UserService.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\User\\UserService.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\UserService.cs",
-              "RelativeToolTip": "Domain\\Services\\User\\UserService.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAkwMMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T10:13:35.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\User\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\UserRepository.cs",
-              "RelativeToolTip": "Domain\\Services\\User\\UserRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T10:13:26.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\UserController.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\User\\UserController.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\UserController.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\UserController.cs",
               "RelativeToolTip": "Workshop\\API\\User\\UserController.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAIwGYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -464,11 +541,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\Helper\\MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\Helper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\User\\Helper\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\Helper\\MappingProfile.cs",
               "RelativeToolTip": "Workshop\\API\\User\\Helper\\MappingProfile.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAiwA8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -476,11 +553,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "TourBookingDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\TourBookingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\TourBookingDbContext.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\TourBookingDbContext.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\TourBookingDbContext.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\TourBookingDbContext.cs",
               "RelativeToolTip": "Domain\\Models\\TourBookingDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -488,11 +565,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "ApplicationServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Extension\\ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Extension\\ApplicationServiceExtensions.cs",
               "RelativeDocumentMoniker": "Domain\\Extension\\ApplicationServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Extension\\ApplicationServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Extension\\ApplicationServiceExtensions.cs",
               "RelativeToolTip": "Domain\\Extension\\ApplicationServiceExtensions.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAjwBgAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -500,11 +577,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "CreateDestinationRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\Destinations\\RequestObjects\\CreateDestinationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\Destinations\\RequestObjects\\CreateDestinationRequest.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\Destinations\\RequestObjects\\CreateDestinationRequest.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\Destinations\\RequestObjects\\CreateDestinationRequest.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\Destinations\\RequestObjects\\CreateDestinationRequest.cs",
               "RelativeToolTip": "Workshop\\API\\Destinations\\RequestObjects\\CreateDestinationRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -512,11 +589,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "PatchDestinationRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\Destinations\\RequestObjects\\PatchDestinationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\Destinations\\RequestObjects\\PatchDestinationRequest.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\Destinations\\RequestObjects\\PatchDestinationRequest.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\Destinations\\RequestObjects\\PatchDestinationRequest.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\Destinations\\RequestObjects\\PatchDestinationRequest.cs",
               "RelativeToolTip": "Workshop\\API\\Destinations\\RequestObjects\\PatchDestinationRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -524,11 +601,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "UpdateDestinationRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\Destinations\\RequestObjects\\UpdateDestinationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\Destinations\\RequestObjects\\UpdateDestinationRequest.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\Destinations\\RequestObjects\\UpdateDestinationRequest.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\Destinations\\RequestObjects\\UpdateDestinationRequest.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\Destinations\\RequestObjects\\UpdateDestinationRequest.cs",
               "RelativeToolTip": "Workshop\\API\\Destinations\\RequestObjects\\UpdateDestinationRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -536,11 +613,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Workshop\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\Properties\\launchSettings.json",
               "RelativeToolTip": "Workshop\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -548,35 +625,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "DestinationDto.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationDto.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\Destinations\\DTO\\DestinationDto.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\Destinations\\DTO\\DestinationDto.cs",
-              "RelativeToolTip": "Domain\\Services\\Destinations\\DTO\\DestinationDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T05:34:46.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UserResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\DTO\\UserResponseDto.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\UserResponseDto.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\DTO\\UserResponseDto.cs",
-              "RelativeToolTip": "Domain\\Services\\User\\DTO\\UserResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T09:43:55.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "UserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\RequestObjects\\UserResponse.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\User\\RequestObjects\\UserResponse.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\RequestObjects\\UserResponse.cs",
               "RelativeToolTip": "Workshop\\API\\User\\RequestObjects\\UserResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -584,11 +637,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "VerifyCodeRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\VerifyCodeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\RequestObjects\\VerifyCodeRequest.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\User\\RequestObjects\\VerifyCodeRequest.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\VerifyCodeRequest.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\RequestObjects\\VerifyCodeRequest.cs",
               "RelativeToolTip": "Workshop\\API\\User\\RequestObjects\\VerifyCodeRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -596,11 +649,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "VerifyCodeDto.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\DTO\\VerifyCodeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\DTO\\VerifyCodeDto.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\VerifyCodeDto.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\DTO\\VerifyCodeDto.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\DTO\\VerifyCodeDto.cs",
               "RelativeToolTip": "Domain\\Services\\User\\DTO\\VerifyCodeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -608,11 +661,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "ResetPasswordDto.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\DTO\\ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\DTO\\ResetPasswordDto.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\ResetPasswordDto.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\DTO\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\DTO\\ResetPasswordDto.cs",
               "RelativeToolTip": "Domain\\Services\\User\\DTO\\ResetPasswordDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -620,11 +673,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "ResetPasswordRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\ResetPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\RequestObjects\\ResetPasswordRequest.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\User\\RequestObjects\\ResetPasswordRequest.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\ResetPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\RequestObjects\\ResetPasswordRequest.cs",
               "RelativeToolTip": "Workshop\\API\\User\\RequestObjects\\ResetPasswordRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -632,11 +685,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "PatchUserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\PatchUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\RequestObjects\\PatchUserRequest.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\User\\RequestObjects\\PatchUserRequest.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\PatchUserRequest.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\RequestObjects\\PatchUserRequest.cs",
               "RelativeToolTip": "Workshop\\API\\User\\RequestObjects\\PatchUserRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -644,11 +697,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "PatchUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\DTO\\PatchUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\DTO\\PatchUserDto.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\PatchUserDto.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\DTO\\PatchUserDto.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\DTO\\PatchUserDto.cs",
               "RelativeToolTip": "Domain\\Services\\User\\DTO\\PatchUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -656,11 +709,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "ForgotPasswordDto.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\DTO\\ForgotPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\DTO\\ForgotPasswordDto.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\ForgotPasswordDto.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\DTO\\ForgotPasswordDto.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\DTO\\ForgotPasswordDto.cs",
               "RelativeToolTip": "Domain\\Services\\User\\DTO\\ForgotPasswordDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -668,23 +721,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "AddUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\DTO\\AddUserDto.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\AddUserDto.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\DTO\\AddUserDto.cs",
-              "RelativeToolTip": "Domain\\Services\\User\\DTO\\AddUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T08:03:37.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "AddUserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\AddUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\RequestObjects\\AddUserRequest.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\User\\RequestObjects\\AddUserRequest.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\AddUserRequest.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\RequestObjects\\AddUserRequest.cs",
               "RelativeToolTip": "Workshop\\API\\User\\RequestObjects\\AddUserRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -692,11 +733,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "BaseApiController.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\Controllers\\BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\Controllers\\BaseApiController.cs",
               "RelativeDocumentMoniker": "Workshop\\Controllers\\BaseApiController.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\Controllers\\BaseApiController.cs",
               "RelativeToolTip": "Workshop\\Controllers\\BaseApiController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -704,35 +745,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\Interface\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\User\\Interface\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\Interface\\IUserRepository.cs",
-              "RelativeToolTip": "Domain\\Services\\User\\Interface\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T08:00:41.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\Interface\\IUserService.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\User\\Interface\\IUserService.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\Interface\\IUserService.cs",
-              "RelativeToolTip": "Domain\\Services\\User\\Interface\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T08:01:02.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\DTO\\LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\DTO\\LoginDto.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\User\\DTO\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Services\\User\\DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Services\\User\\DTO\\LoginDto.cs",
               "RelativeToolTip": "Domain\\Services\\User\\DTO\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -740,11 +757,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\RequestObjects\\LoginRequest.cs",
               "RelativeDocumentMoniker": "Workshop\\API\\User\\RequestObjects\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\API\\User\\RequestObjects\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\API\\User\\RequestObjects\\LoginRequest.cs",
               "RelativeToolTip": "Workshop\\API\\User\\RequestObjects\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -754,9 +771,9 @@
               "$type": "Document",
               "DocumentIndex": 54,
               "Title": "20260722075149_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Migrations\\20260722075149_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Migrations\\20260722075149_InitialCreate.cs",
               "RelativeDocumentMoniker": "Domain\\Migrations\\20260722075149_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Migrations\\20260722075149_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Migrations\\20260722075149_InitialCreate.cs",
               "RelativeToolTip": "Domain\\Migrations\\20260722075149_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -764,11 +781,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "NoteStatus.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Enums\\NoteStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Enums\\NoteStatus.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\NoteStatus.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Enums\\NoteStatus.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Enums\\NoteStatus.cs",
               "RelativeToolTip": "Domain\\Enums\\NoteStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -776,11 +793,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "Notes.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\Notes.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\Notes.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Notes.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\Notes.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\Notes.cs",
               "RelativeToolTip": "Domain\\Models\\Notes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -788,11 +805,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "ParticipantInformation.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\ParticipantInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\ParticipantInformation.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\ParticipantInformation.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\ParticipantInformation.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\ParticipantInformation.cs",
               "RelativeToolTip": "Domain\\Models\\ParticipantInformation.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwB8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -800,11 +817,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "Tourss.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\Tourss.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\Tourss.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Tourss.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\Tourss.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\Tourss.cs",
               "RelativeToolTip": "Domain\\Models\\Tourss.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAgwCEAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -812,11 +829,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "TermsAndCondition.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\TermsAndCondition.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\TermsAndCondition.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\TermsAndCondition.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\TermsAndCondition.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\TermsAndCondition.cs",
               "RelativeToolTip": "Domain\\Models\\TermsAndCondition.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -824,11 +841,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "Destination.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\Destination.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\Destination.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Destination.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\Destination.cs",
               "RelativeToolTip": "Domain\\Models\\Destination.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -836,11 +853,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "TourBookingForm.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\TourBookingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\TourBookingForm.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\TourBookingForm.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\TourBookingForm.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Models\\TourBookingForm.cs",
               "RelativeToolTip": "Domain\\Models\\TourBookingForm.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -848,11 +865,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "TourStatus.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Enums\\TourStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Enums\\TourStatus.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\TourStatus.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Enums\\TourStatus.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Enums\\TourStatus.cs",
               "RelativeToolTip": "Domain\\Enums\\TourStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -860,11 +877,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Enums\\UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Enums\\UserRole.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\UserRole.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Enums\\UserRole.cs",
               "RelativeToolTip": "Domain\\Enums\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -872,11 +889,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "ParticipantType.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Enums\\ParticipantType.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Enums\\ParticipantType.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\ParticipantType.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Enums\\ParticipantType.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Enums\\ParticipantType.cs",
               "RelativeToolTip": "Domain\\Enums\\ParticipantType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -884,23 +901,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "AuthUser.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\AuthUser.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\AuthUser.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Models\\AuthUser.cs",
-              "RelativeToolTip": "Domain\\Models\\AuthUser.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T16:08:01.089Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 52,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Workshop\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Workshop\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Workshop\\WeatherForecast.cs",
               "RelativeToolTip": "Workshop\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -910,9 +915,9 @@
               "$type": "Document",
               "DocumentIndex": 53,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Program.cs",
               "RelativeDocumentMoniker": "Domain\\Program.cs",
-              "ToolTip": "C:\\Users\\PRIME\\Desktop\\API\\Workshop\\Domain\\Program.cs",
+              "ToolTip": "C:\\Users\\Arya\\Desktop\\Asp.Net Core\\Arya\\.NetCore\\WebApi\\Students\\Sanjay\\Workshop\\Domain\\Program.cs",
               "RelativeToolTip": "Domain\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
