@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="Domain/Domain.csproj" />
-  <Project Path="Workshop/Workshop.csproj" />
-</Solution>
