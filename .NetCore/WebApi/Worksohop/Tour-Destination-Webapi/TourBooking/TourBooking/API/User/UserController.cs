@@ -83,8 +83,9 @@ namespace TourBooking.API.User
 
             return Ok(new { Token = jwtToken });
         }
-        [Authorize(Roles = "AGENCY,CUSTOMER,CONSULTANT")]
+        [AllowAnonymous]
         [HttpPost("ResetPassword")]
+       
         public async Task<IActionResult> ResetPassword([FromBody] ResetPasswordRequest request)
         {
             var dto = _mapper.Map<ResetPasswordDto>(request);

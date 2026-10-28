@@ -82,9 +82,11 @@ if (app.Environment.IsDevelopment())
 app.UseSwagger();
 app.UseSwaggerUI();
 app.UseStaticFiles();
+app.UseCors("AllowAll");
+
 app.UseAuthentication();
 app.UseAuthorization();
-app.UseCors("AllowAll");
+
 app.MapControllers();
 
 app.Run();
