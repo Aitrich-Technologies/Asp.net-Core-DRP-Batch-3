@@ -1,0 +1,11 @@
+
+# Visual Studio
+.vs/
+
+# .NET build files
+**/bin/
+**/obj/
+
+# User-specific files
+*.suo
+*.user
