@@ -1,0 +1,63 @@
+.container {
+  margin-top: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 10px;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.title h1 {
+  font-size: 30px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.destination {
+  display: inline-block;
+  margin: 20px 12px;
+  padding: 8px 15px;
+  background: #e8f2ff;
+  color: #0d6efd;
+  border-radius: 6px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.row {
+  margin-top: 10px;
+}
+
+@media (max-width: 992px) {
+  .title h1 {
+    font-size: 26px;
+  }
+
+  .destination {
+    font-size: 17px;
+  }
+}
+
+@media (max-width: 576px) {
+  .title {
+    justify-content: center;
+    text-align: center;
+  }
+
+  .title h1 {
+    font-size: 24px;
+  }
+
+  .destination {
+    display: block;
+    text-align: center;
+    margin: 15px auto;
+    width: fit-content;
+    font-size: 16px;
+  }
+}

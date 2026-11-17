@@ -1,0 +1,18 @@
+<div class="card">
+  <img [src]="destination.image" />
+
+  <div class="card-body">
+    <h3>{{ destination.name }}</h3>
+
+    <p>
+      Country :
+      {{ destination.country }}
+    </p>
+
+    <p>Starting Price : ₹ {{ destination.price }}</p>
+
+    <p>Rating : ⭐ {{ destination.rating }}</p>
+
+    <button (click)="viewDetails()">View Details</button>
+  </div>
+</div>

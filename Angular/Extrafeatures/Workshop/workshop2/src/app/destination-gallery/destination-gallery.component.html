@@ -1,0 +1,23 @@
+<div class="container">
+  <div class="title">
+    <h1>Destination Gallery</h1>
+  </div>
+
+  <span class="destination">
+    Current Destination :
+    {{ currentDestination }}
+  </span>
+
+  <div class="row g-4 px-2">
+    <div
+      class="col-lg-3 col-md-6 col-sm-12"
+      *ngFor="let destination of destinations"
+    >
+      <app-destination-card
+        [destination]="destination"
+        (viewDestination)="showDetails($event)"
+      >
+      </app-destination-card>
+    </div>
+  </div>
+</div>
