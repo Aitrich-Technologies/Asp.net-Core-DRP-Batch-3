@@ -1,0 +1,31 @@
+<div class="container tour-details mt-5" *ngIf="tour">
+  <div class="card shadow">
+    <div class="row g-0 align-items-center">
+      <!-- Image -->
+      <div class="col-lg-6">
+        <img
+          [src]="tour.image"
+          class="img-fluid tour-image"
+          [alt]="tour.name"
+        />
+      </div>
+
+      <!-- Details -->
+      <div class="col-lg-6">
+        <div class="card-body">
+          <h2>{{ tour.name }}</h2>
+
+          <p class="country">🌍 {{ tour.country }}</p>
+
+          <p>
+            {{ tour.description }}
+          </p>
+
+          <h4 class="price">₹ {{ tour.price }}</h4>
+
+          <button class="btn btn-primary mt-3">Book Now</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

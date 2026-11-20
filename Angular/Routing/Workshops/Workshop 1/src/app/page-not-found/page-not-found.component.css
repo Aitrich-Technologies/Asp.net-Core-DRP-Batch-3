@@ -1,0 +1,50 @@
+.error-page {
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.error-code {
+  font-size: 120px;
+  font-weight: 800;
+  color: #0d6efd;
+  margin: 0;
+}
+
+.error-page h3 {
+  font-size: 32px;
+  color: #12263f;
+  margin-top: 10px;
+}
+
+.error-page p {
+  color: #65758b;
+  font-size: 18px;
+}
+
+.error-page .btn {
+  border-radius: 30px;
+  padding: 12px 30px;
+  font-size: 18px;
+}
+
+
+
+@media (max-width: 576px) {
+
+  .error-code {
+    font-size: 80px;
+  }
+
+  .error-page h3 {
+    font-size: 24px;
+  }
+
+  .error-page p {
+    font-size: 16px;
+  }
+
+}
