@@ -1,0 +1,12 @@
+.footer {
+    margin-top: 50px;
+    box-shadow: 1px 1px 5px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+}
+.footer p {
+    font-size: larger;
+}

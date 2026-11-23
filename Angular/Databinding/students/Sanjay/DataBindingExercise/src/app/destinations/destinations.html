@@ -1,0 +1,166 @@
+
+<div class="container mt-4">
+
+  <h2 class="text-primary mb-4">
+    {{ dashboardHeading }}
+  </h2>
+
+  <input
+    type="text"
+    class="form-control mb-4"
+    placeholder="Search Destination..."
+    [(ngModel)]="search"
+  >
+
+  @if (searchDestinations.length === 0) {
+    <h6 class="text-danger">No Destination Found</h6>
+  }
+
+  <div class="row g-3">
+
+    @for (item of searchDestinations; track item.Id) {
+
+      <div class="col-md-4 col-sm-6">
+
+        <div
+          class="card h-100"
+          [ngClass]="{
+            'selected-card': selectedDestinationId === item.Id
+          }"
+          [ngStyle]="getPriceStyle(item.startingPrice)"
+          (click)="selectDestination(item.Id)"
+        >
+
+          <img
+            [src]="item.image"
+            class="card-img-top"
+            alt="Destination"
+            style="height: 200px; object-fit: cover;"
+          >
+
+          <div class="card-body">
+
+            <h4 class="card-title">
+              {{ item.destinationName }}
+            </h4>
+
+            <p class="card-text">
+              {{ item.description }}
+            </p>
+
+            <p class="card-text fw-bold">
+              ₹{{ item.startingPrice }}
+            </p>
+
+            @switch (item.Status) {
+
+              @case ('Popular') {
+                <span class="badge bg-success">Popular</span>
+              }
+
+              @case ('Trending') {
+                <span class="badge bg-primary">Trending</span>
+              }
+
+              @case ('New') {
+                <span class="badge bg-warning text-dark">New</span>
+              }
+
+              @default {
+                <span class="badge bg-danger">Unknown</span>
+              }
+
+            }
+
+            <div class="mt-3">
+
+              <button
+                class="btn btn-primary"
+                (click)="viewDetails(item); $event.stopPropagation()"
+              >
+                View Details
+              </button>
+
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+    }
+
+  </div>
+
+  @if (selectedDestination) {
+
+    <div class="mt-5 mb-4">
+
+      <h3 class="text-primary">
+        Selected Destination Details
+      </h3>
+
+      <div class="card p-3 mt-3">
+
+        <h4>{{ selectedDestination.destinationName }}</h4>
+
+        <img
+          [src]="selectedDestination.image"
+          alt="Selected Destination"
+          width="300"
+          height="200"
+          style="object-fit: cover;"
+        >
+
+        <p class="mt-3">
+          Description: {{ selectedDestination.description }}
+        </p>
+
+        <p>
+          Starting Price: ₹{{ selectedDestination.startingPrice }}
+        </p>
+
+        <p>
+          Status: {{ selectedDestination.Status }}
+        </p>
+
+      </div>
+
+    </div>
+
+  }
+
+  <div class="mt-5 mb-5">
+
+    <h2 class="text-center text-primary mb-4">
+      Tours and Attractions
+    </h2>
+
+    <div class="row g-3">
+
+      <div class="col-md-4">
+        <div class="card p-3 h-100">
+          <h4>Hill Station Tours</h4>
+          <p>Explore beautiful mountains, valleys and waterfalls.</p>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card p-3 h-100">
+          <h4>Adventure Tours</h4>
+          <p>Enjoy trekking, camping and adventure activities.</p>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card p-3 h-100">
+          <h4>Historical Places</h4>
+          <p>Discover historical monuments and cultural attractions.</p>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
