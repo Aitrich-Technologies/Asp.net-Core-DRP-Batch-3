@@ -1,0 +1,17 @@
+.card {
+  max-width: 500px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+h2 {
+  color: blue;
+}
+
+label {
+  font-weight: bold;
+}
+
+button {
+  margin-top: 10px;
+}
