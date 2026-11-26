@@ -1,0 +1,18 @@
+<h3>Tour Price {{Tour_Price}}</h3>
+
+<h5>Select no.of persons</h5>
+<input type="number" [(ngModel)] = "noOfpersons" (ngModelChange) = "calculateTotal()" min="1">
+
+<h5>{{Total}}</h5>
+
+<br><br>
+
+<h2>Tour Details</h2>
+
+<p>Tour Name: Kerala Tour</p>
+
+<p>Tour Price: ₹5000</p>
+
+<h3>Status: {{ bookingStatus }}</h3>
+
+<button (click)="bookNow()" [disabled]="isBooked">{{ buttonText }}</button>

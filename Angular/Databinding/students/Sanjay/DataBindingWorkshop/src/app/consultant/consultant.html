@@ -1,0 +1,147 @@
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+
+        <h2>Consultant Management</h2>
+
+        <button class="btn btn-primary rounded-pill">
+            + Add Consultant
+        </button>
+
+    </div>
+
+
+    <input
+        type="text"
+        class="form-control mb-3"
+        placeholder="Search Consultant"
+        [(ngModel)]="searchText">
+
+
+    @if (filteredConsultants.length == 0) {
+
+        <div class="alert alert-danger">
+            No Consultant Found
+        </div>
+
+    }
+
+    <span class="badge bg-info mb-2">
+        {{ filteredConsultants.length }} Consultants Found
+    </span>
+
+    <table class="table table-bordered table-hover shadow">
+
+        <thead class="table-primary">
+
+            <tr>
+                <th>#</th>
+                <th>Photo</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Experience</th>
+                <th>Assigned Tour</th>
+                <th>Status</th>
+                <th>Action</th>
+            </tr>
+
+        </thead>
+
+        <tbody>
+
+
+            @for (item of filteredConsultants; track item.id) {
+
+                <tr>
+
+                    <td>{{ item.id }}</td>
+
+                    <td>
+                        <img
+                            [src]="item.photo"
+                            class="photo">
+                    </td>
+
+                    <td>{{ item.name }}</td>
+
+                    <td>{{ item.email }}</td>
+
+                    <td>{{ item.phone }}</td>
+
+                    <td>
+
+                        <span
+                            [ngStyle]="{
+                                color: item.experience >= 5 ? 'green' : 'orange',
+                                'font-weight': 'bold'
+                            }">
+
+                            {{ item.experience }} Years
+
+                        </span>
+
+                    </td>
+
+                    <td>{{ item.assignedTour }}</td>
+
+                    <td>
+
+                        @switch (item.status) {
+
+                            @case ('Available') {
+
+                                <span class="badge bg-success">
+                                    Available
+                                </span>
+
+                            }
+
+                            @case ('Busy') {
+
+                                <span class="badge bg-warning text-dark">
+                                    Busy
+                                </span>
+
+                            }
+
+                            @case ('Inactive') {
+
+                                <span class="badge bg-danger">
+                                    Inactive
+                                </span>
+
+                            }
+
+                            @default {
+
+                                <span class="badge bg-secondary">
+                                    Unknown
+                                </span>
+
+                            }
+
+                        }
+
+                    </td>
+
+                    <td>
+
+                        <button
+                            class="btn btn-info btn-sm"
+                            (click)="viewProfile(item.name)">
+
+                            View Profile
+
+                        </button>
+
+                    </td>
+
+                </tr>
+            }
+            
+        </tbody>
+
+    </table>
+
+</div>
